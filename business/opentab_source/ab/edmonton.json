@@ -1,0 +1,15 @@
+{
+    "localfile": "ab-edmonton.csv",
+    "url": "https://data.edmonton.ca/api/views/qhi4-bdpu/rows.csv?accessType=DOWNLOAD",
+    "format": "csv",
+    "database_type": "business",
+    "info": {
+        "trade_name": "Trade Name",
+	"bus_type": "Category",
+        "full_addr": "Address",
+	"lic_no": "Licence Number",
+	"latitude": "Latitude",
+	"longitude": "Longitude",
+	"comdist": "Neighbourhood"
+    }
+}

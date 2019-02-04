@@ -1,0 +1,15 @@
+{
+    "localfile": "OPEN_DATA_3.xml",
+    "format": "xml",
+    "database_type": "business",
+    "pre": "./scripts/business/misc/CFRC-fixProvCountry",
+    "url": "http://www.ic.gc.ca/app/scr/cc/CorporationsCanada/download/OPEN_DATA_SPLIT.zip",
+    "localarchive": "open_data_cfrc.zip",
+    "compression": "zip",
+    "header": "corporation",
+    "info": {
+	"bus_name": "name",
+	"bus_no": "businessNumber",
+	"full_addr": ["addressLine", "city", "province", "country", "postalCode"]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "localfile": "on-guelph.csv",
+    "url": "http://data.open.guelph.ca/datafiles/BusinessLicence.csv",
+    "format": "csv",
+    "database_type": "business",
+    "info": {
+	"bus_name": "Operating Name",
+	"lic_no": "Business Licence Number",
+	"bus_type": "Type of Business",
+	"full_addr": "Location of Business"
+    }
+}

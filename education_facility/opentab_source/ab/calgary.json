@@ -1,0 +1,19 @@
+{
+    "localfile": "edu-ab-calgary.csv",
+    "url": "https://data.calgary.ca/api/views/fd9t-tdn2/rows.csv?accessType=DOWNLOAD",
+    "post": "./scripts/edu_facility/ab/post-calgary.py",
+    "format": "csv",
+    "database_type": "education",
+    "info": {
+	"ins_name": "NAME_AB",
+	"board_name": "BOARD",
+	"ins_type": "TYPE",
+	"range": "GRADES",
+	"elementary": "ELEM",
+	"secondary": ["JUNIOR_H", "SENIOR_H"],
+	"postsecondary": "POSTSECOND",
+	"full_addr": ["ADDRESS_AB", "CITY", "PROVINCE", "force:canada", "POSTAL_COD"],
+	"longitude": "longitude",
+	"latitude": "latitude"
+    }
+}

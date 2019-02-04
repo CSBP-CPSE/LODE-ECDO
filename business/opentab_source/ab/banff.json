@@ -1,0 +1,24 @@
+{
+    "localfile": "ab-banff.csv:BusinessLicense.csv",
+    "format": "csv",
+    "database_type": "business",
+    "url": "http://banffmaps.ca/opendata/csv/BanffOpenData_CSVs.zip",
+    "localarchive": "ab-banff.zip",
+    "compression": "zip",
+    "info": {
+	"bus_name": "BUSINESS_NAME",
+	"active": "ACTIVE",
+	"bus_no": "ROLL_NUMBER",
+	"bus_start_date": "START_DATE",
+	"bus_cease_date": "CEASED_DATE",
+	"bus_type": "PROPOSED_BUSINESS",
+	"address": {
+	    "street_no": "STREET_NUMBER",
+	    "street_name": "STREET_NAME",
+	    "unit": "UNIT"
+	},
+	"phone": "BUSINESS_NUMBER",
+	"home_bus": "HOME_OCCUPATION",
+        "munic_bus": "RESIDENT"
+    }
+}

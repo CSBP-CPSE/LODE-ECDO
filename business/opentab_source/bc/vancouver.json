@@ -1,0 +1,27 @@
+{
+    "localfile": "bc-vancouver.csv:business_licences.csv",
+    "format": "csv",
+    "database_type": "business",
+    "url": "ftp://webftp.vancouver.ca/OpenData/csv/business_licences_csv.zip",
+    "localarchive": "bc-vancouver.zip",
+    "compression": "zip",
+    "info": {
+	"bus_name": "BusinessName",
+	"bus_type": "BusinessType",
+        "trade_name": "BusinessTradeName",
+	"lic_no": "LicenceNumber",
+	"no_employed": "NumberOfEmployees",
+	"address": {
+	    "street_no": "House",
+	    "street_name": "Street",
+	    "unit": "Unit",
+	    "city": "City",
+	    "prov/terr": "Province",
+	    "country": "Country",
+	    "postcode": "PostalCode"
+	},
+	"latitude": "Latitude",
+	"longitude": "Longitude",
+	"comdist": "LocalArea"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "localfile": "edu-bc.csv",
+    "url": "http://www.bced.gov.bc.ca/reporting/odefiles/SchoolLocations_Hist.txt",
+    "format": "csv",
+    "database_type": "education",
+    "pre": "./scripts/edu_facility/bc/edu-bc-pre.sh",
+    "post": "./scripts/edu_facility/bc/edu-bc-post.py",
+    "info": {
+	"ins_name": "SCHOOL_NAME",
+	"ins_type": "PUBLIC_OR_INDEPENDENT",
+	"ins_code": "SCHOOL_NUMBER",
+	"board_name": "DISTRICT_LONG_NAME_THIS_ENROL",
+	"board_code": "DISTRICT_NUMBER",
+	"edu_level": "ORGANIZATION_EDUCATION_LEVEL",
+	"school_yr": "SCHOOL_YEAR",
+	"range": "GRADE_STRING",
+	"full_addr": ["SCHOOL_PHYSICAL_ADDRESS", "force:canada", "SCHOOL_POSTAL_CODE"],
+	"phone": "SCHOOL_PHONE_NUMBER",
+	"fax": "SCHOOL_FAX_NUMBER",
+	"longitude": "SCHOOL_LONGITUDE",
+	"latitude": "SCHOOL_LATITUDE"
+    }
+}

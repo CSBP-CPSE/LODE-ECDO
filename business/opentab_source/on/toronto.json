@@ -1,0 +1,18 @@
+{
+    "localfile": "on-toronto.csv",
+    "url": "http://opendata.toronto.ca/mls/business.licences/business.licences.csv",
+    "format": "csv",
+    "database_type": "business",
+    "info": {
+	"bus_name": "Client Name",
+	"bus_type": "Category",
+	"trade_name": "Operating Name",
+	"lic_no": "Licence No.",
+	"full_addr": [
+	    "Licence Address Line 1",
+	    "Licence Address Line 2",
+	    "Licence Address Line 3"
+	],
+	"phone": "Business Phone"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "localfile": "bc-city_of_port_moody.csv",
+    "url": "https://data.portmoody.ca/api/views/xfrv-yr4p/rows.csv?accessType=DOWNLOAD",
+    "format": "csv",
+    "database_type": "business",
+    "info": {
+	"bus_name": "Business Name",
+	"bus_type": "Business Category",
+	"bus_desc": "Business Description",
+	"home_bus": "Trade Home Based",
+	"munic_bus": "Trade Intermunicipal",
+	"nonres_bus": "Trade Non-Resident",
+	"lic_no": "Licence Number",
+	"lic_type": "Licence Type",
+	"bus_start_date": "Original Application Date",
+	"phone": "Phone",
+	"website": "Website"
+    }
+}

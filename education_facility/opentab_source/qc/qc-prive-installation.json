@@ -1,0 +1,15 @@
+{
+    "localfile": "edu-qc-PPS_Prive_Installation.csv",
+    "format": "csv",
+    "database_type": "education",
+    "info": {
+	"ins_code": "Code d'organisme",
+	"ins_type": "force:private",
+	"ins_name": "Nom",
+	"range": "Ordre d'enseignement",
+	"full_addr": ["Adresse", "Municipalité", "force:qc", "force:canada", "Code postal"],
+	"website": "Site Web",
+	"longitude": "Longitude",
+	"latitude": "Latitude"
+    }
+}

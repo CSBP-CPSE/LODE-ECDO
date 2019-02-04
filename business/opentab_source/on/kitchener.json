@@ -1,0 +1,20 @@
+{
+    "localfile": "on-kitchener.csv",
+    "url": "https://opendata.arcgis.com/datasets/9b9c871eafce491da8a3d926a8a44ef2_0.csv",
+    "format": "csv",
+    "database_type": "business",
+    "info": {
+	"bus_name": "COMPANY_NAME",
+	"bus_no": "ID",
+	"bus_desc": "PROFILE",
+	"address" : {
+	    "street_no": "STREET_NUMBER",
+	    "street_name": "STREET_NAME",
+	    "unit": "UNIT",
+	    "postcode": "POSTAL_CODE"
+	},
+	"latitude": "Y",
+	"longitude": "X",
+	"no_employed": "TOTAL_EMPLOYEES"
+    }
+}

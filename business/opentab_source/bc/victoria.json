@@ -1,0 +1,18 @@
+{
+    "localfile": "bc-victoria.csv",
+    "url": "https://opendata.arcgis.com/datasets/9254a2078c1444cda31dc3d0682b1682_1.csv",
+    "format": "csv",
+    "database_type": "business",
+    "info": {
+        "trade_name": "TRADE_NAME",
+	"bus_desc": "trade_description",
+	"lic_no": "LICENCE_NUMBER",
+        "lic_issued": "ISSUED_DATE",
+	"lic_expd": "expires",
+	"full_addr": "CIVIC_ADDRESS",
+	"latitude": "Y",
+	"longitude": "X",
+	"comdist": "Neighbourhood",
+	"naics_desc": "naics_description"
+    }
+}

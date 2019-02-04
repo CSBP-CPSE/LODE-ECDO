@@ -1,0 +1,12 @@
+{
+    "localfile": "bc-kelowna.csv",
+    "url": "https://opendata.arcgis.com/datasets/f2c521d63ecc46e3a704f38ad79fbbbc_8.csv",
+    "format": "csv",
+    "database_type": "business",
+    "info": {
+	"bus_name": "NAME",
+	"bus_no": "BUSINESS_NUMBER",
+	"bus_desc": "BUSINESS_DESC",
+	"full_addr": "BUSINESS_ADDRESS"
+    }
+}
