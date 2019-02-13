@@ -1,0 +1,14 @@
+{
+    "localfile": "QC_QC_Hospitals.csv",
+    "format": "csv",
+    "database_type": "hospital",
+    "info": {
+	"hospital_name": "NOM_TOPOGRAPHIE",
+	"hospital_type":"DESCRIPTION",
+	"full_addr": ["NO_CIVIQUE", "RUE", "force:quebec city", "force:qc", "force:canada"],
+	"longitude": "LONGITUDE",
+	"latitude": "LATITUDE"
+    }
+}
+
+

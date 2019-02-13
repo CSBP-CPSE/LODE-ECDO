@@ -1,0 +1,12 @@
+{
+    "localfile": "Gatineau_QC_Hospitals.csv",
+    "format": "csv",
+    "database_type": "hospital",
+    "info": {
+	"hospital_name": "NOM_TOPOGR",
+	"full_addr": ["ADR_COMPLE", "force:gatineau", "force:qc", "force:canada"],
+	"longitude": "LONGITUDE",
+	"latitude": "LATITUDE"
+    }
+}
+
