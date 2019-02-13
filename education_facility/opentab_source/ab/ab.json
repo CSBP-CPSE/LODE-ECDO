@@ -1,0 +1,21 @@
+{
+    "localfile": "edu-ab.csv",
+    "format": "csv",
+    "database_type": "education",
+    "info": {
+	"ins_name": "School Name",
+	"ins_code": "School Code",
+	"board_name": "Authority Name",
+	"board_code": "Authority Code",
+	"ins_type": "Authority Type",
+	"full_addr": ["School Address1", "School Address2", "School City", "School Province", "force:canada", "School Postal Code"]
+	"phone": "School Phone",
+	"fax": "School Fax",
+	"email": "School EMail",
+	"website": "School Website",
+	"ecs": "ECSTaught",
+	"elementary": "Elementary Taught",
+	"middle": "Junior High Taught",
+	"secondary": "Senior High Taught"
+    }
+}
