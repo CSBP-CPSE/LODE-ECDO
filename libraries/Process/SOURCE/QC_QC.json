@@ -1,0 +1,12 @@
+{
+    "localfile": "QC_QC_Libraries.csv",
+    "format": "csv",
+    "database_type": "library",
+    "info": {
+	"library_name": "NOM_TOPOGRAPHIE",
+	"full_addr": ["NO_CIVIQUE","RUE","force:ville de quebec", "force:qc", "force:ca"],
+	"longitude": "LONGITUDE",
+	"latitude": "LATITUDE"
+    }
+}
+

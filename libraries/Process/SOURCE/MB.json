@@ -1,0 +1,13 @@
+{
+    "localfile": "MB_Libraries.csv",
+    "format": "csv",
+    "database_type": "library",
+    "info": {
+	"library_name": "Name",
+	"full_addr": ["Address", "City", "force:mb", "force:ca","Postal"],
+	"longitude": "Longitude",
+	"latitude": "Latitude"
+    }
+}
+
+

@@ -1,0 +1,14 @@
+{
+    "localfile": "AB_Edmonton_Libraries.csv",
+    "format": "csv",
+    "database_type": "library",
+    "info": {
+	"library_name": "BRANCH",
+	"full_addr": ["ADDRESS", "force:edmonton", "force:ab", "force:ca","POSTAL_CODE"],
+	"longitude": "LONGITUDE",
+	"latitude": "LATITUDE",
+	"phone": "PHONE_NUMBER"
+    }
+}
+
+

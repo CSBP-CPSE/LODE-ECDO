@@ -1,0 +1,13 @@
+{
+    "localfile": "ON_Kitchener_Libraries.csv",
+    "format": "csv",
+    "database_type": "library",
+    "info": {
+	"library_name": "LANDMARK",
+	"full_addr": ["CIVIC_NO", "STREET","force:kitchener", "force:on", "force:ca"],
+	"Longitude": "X",
+	"Latitude": "Y",
+	"website": "HYPERLINK"
+
+    }
+}

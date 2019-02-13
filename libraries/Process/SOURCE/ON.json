@@ -1,0 +1,13 @@
+{
+    "localfile": "ON_Libraries.csv",
+    "format": "csv",
+    "database_type": "library",
+    "info": {
+	"library_name": "Library Full Name",
+	"full_addr": ["A1.9 Street Address","A1.10 City/Town", "A1.11 Province", "force:ca","A1.12 Postal Code"],
+	"website": "A1.13 Web Site Address"
+
+    }
+}
+
+

@@ -1,0 +1,10 @@
+{
+    "localfile": "ON_Cambridge_Libraries.csv",
+    "format": "csv",
+    "database_type": "library",
+    "info": {
+	"library_name": "ADDRESS_POINT_NAME",
+	"full_addr": ["HOUSE_NUMBER", "STREET_NAME","force:cambridge", "force:on", "force:ca"]
+    }
+}
+

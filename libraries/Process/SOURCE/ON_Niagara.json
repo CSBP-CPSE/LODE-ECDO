@@ -1,0 +1,15 @@
+{
+    "localfile": "ON_Niagara_Libraries.csv",
+    "format": "csv",
+    "database_type": "library",
+    "info": {
+	"library_name": "Name",
+	"full_addr": ["FullAddress","Municipality", "force:on", "force:ca"],
+	"website": "URL",
+	"phone": "Phone",
+	"longitude": "LONGITUDE",
+	"latitude": "LATITUDE",
+	"email": "Email"
+
+    }
+}

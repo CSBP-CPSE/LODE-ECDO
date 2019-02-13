@@ -1,0 +1,14 @@
+{
+    "localfile": "NS_Libraries.csv",
+    "format": "csv",	
+    "database_type": "library",
+    "info": {
+	"library_name": "Name",
+	"full_addr": ["Address1", "Address2","City", "Prov", "force:ca","Postal"],
+	"longitude": "LONGITUDE",
+	"latitude": "LATITUDE",
+	"phone": "Phone",
+	"website": "Link"
+    }
+}
+

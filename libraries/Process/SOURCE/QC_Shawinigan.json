@@ -1,0 +1,15 @@
+{
+    "localfile": "QC_Shawinigan_Libraries.csv",
+    "format": "csv",
+    "database_type": "library",
+    "info": {
+	"library_name": "NOM",
+	"full_addr": ["Adresse","force:shawinigan", "force:qc", "force:ca"],
+	"website": "URL",
+	"longitude": "X",
+	"latitude": "Y",
+	"phone": "Phone"
+
+    }
+}
+

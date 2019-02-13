@@ -1,0 +1,13 @@
+{
+    "localfile": "ON_Windsor_Libraries.csv",
+    "format": "csv",
+    "database_type": "library",
+    "info": {
+	"library_name": "Library",
+	"full_addr": ["Address","force:windsor", "force:on", "force:ca"],
+	"website": "URL",
+	"Longitude": "X",
+	"Latitude": "Y"
+
+    }
+}

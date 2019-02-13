@@ -1,0 +1,13 @@
+{
+    "localfile": "NL_Libraries.csv",
+    "format": "csv",	
+    "database_type": "library",
+    "info": {
+	"library_name": "Name",
+	"full_addr": ["Address", "City", "force:nl", "force:ca","Postal Code"],
+	"longitude": "Longitude",
+	"latitude": "Latitude"
+    }
+}
+
+

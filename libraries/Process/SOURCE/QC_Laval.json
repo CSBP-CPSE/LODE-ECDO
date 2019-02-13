@@ -1,0 +1,13 @@
+{
+    "localfile": "QC_Laval_Libraries.csv",
+    "format": "csv",
+    "database_type": "library",
+    "info": {
+	"library_name": "nom-commun",
+	"full_addr": ["no-civique", "voie","force:laval", "force:qc", "force:ca","code-postal"],
+	"longitude": "longitude",
+	"latitude": "latitude"
+    }
+}
+
+

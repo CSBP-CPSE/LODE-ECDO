@@ -1,0 +1,12 @@
+{
+    "localfile": "QC_Gatineau_Libraries.csv",
+    "format": "csv",
+    "database_type": "library",
+    "info": {
+	"library_name": "NOM_TOPOGR",
+	"full_addr": ["ADR_COMPLE","force:gatineau", "force:qc", "force:ca"],
+	"longitude": "LONGITUDE",
+	"latitude": "LATITUDE"
+    }
+}
+
