@@ -6,7 +6,7 @@
 	"ins_code": "Code d'organisme",
 	"ins_type": "force:private",
 	"ins_name": "Nom",
-	"range": "Ordre d'enseignement",
+	"edu_level": "Ordre d'enseignement",
 	"full_addr": ["Adresse", "Municipalité", "force:qc", "force:canada", "Code postal"],
 	"website": "Site Web",
 	"longitude": "Longitude",
