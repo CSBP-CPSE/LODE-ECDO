@@ -1,6 +1,6 @@
-## LODE - Terms and Conditions of Use
+## Linkable Open Data Environment (LODE) - Terms and Conditions of Use
 
-Unless otherwise noted, the files listed in LODE (Linkable Open Data Environment) 
+Unless otherwise noted, the files listed in Linkable Open Data Environment (LODE) 
 is covered under Crown Copyright, Government of Canada, and is distributed under 
 the MIT License.
 
@@ -38,24 +38,13 @@ DEALINGS IN THE SOFTWARE.
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-##  "Dépôt d’entreprises ouvert (DEO)" — Conditions d’utilisation
+##  "Environnement de couplage de données ouvertes (ECDO)" — Conditions d’utilisation
 
-Sauf indication contraire, le code source du programme informatique de "Dépôt 
-d’entreprises ouvert (DEO)" est protégé par le droit d’auteur de la Couronne du 
-gouvernement du Canada et distribué sous la licence MIT.
+Sauf indication contraire, le code source du programme informatique de "Environnement de couplage de données ouvertes (ECDO" est protégé par le droit d’auteur de la Couronne du gouvernement du Canada et distribué sous la licence MIT.
 
-Le mot-symbole «
-Canada » et les éléments graphiques connexes liés à cette distribution sont
-protégés en vertu des lois portant sur les marques de commerce et le droit
-d’auteur. Aucune autorisation n’est accordée pour leur utilisation à
-l’extérieur des paramètres du programme de coordination de l’image de marque du
-gouvernement du Canada. Pour obtenir davantage de renseignements à ce sujet,
-veuillez aller à la page http://www.tbs-sct.gc.ca/fip-pcim/index-fra.asp.
+Le mot-symbole «Canada » et les éléments graphiques connexes liés à cette distribution sont protégés en vertu des lois portant sur les marques de commerce et le droit d’auteur. Aucune autorisation n’est accordée pour leur utilisation à l’extérieur des paramètres du programme de coordination de l’image de marque du gouvernement du Canada. Pour obtenir davantage de renseignements à ce sujet, veuillez aller à la page http://www.tbs-sct.gc.ca/fip-pcim/index-fra.asp.
 
-La propriété du droit d’auteur de tout logiciel tiers distribué avec DEO est conservée par
-les détenteurs du droit d’auteur mentionnés dans ces fichiers. Nous demandons
-aux utilisateurs de lire les licences des tiers indiqués à titre de référence
-dans ces logiciels.
+La propriété du droit d’auteur de tout logiciel tiers distribué avec DEO est conservée par les détenteurs du droit d’auteur mentionnés dans ces fichiers. Nous demandons aux utilisateurs de lire les licences des tiers indiqués à titre de référence dans ces logiciels.
 
 ## LICENCE MIT
 
