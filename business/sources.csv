@@ -1,62 +1,27 @@
-Dataset name,Last updated,Open data,City/Region,Province/Territory,Source,License or Terms of Use,Attribution statement,Comments,JSON path
-Money services,,Y,,,https://open.canada.ca/data/en/dataset/8beacccf-3b54-4d12-9cf7-24e2ada90a83,https://open.canada.ca/en/open-government-licence-canada,,,misc/msbregistry.json
-Federal corporations,,Y,,,https://open.canada.ca/data/dataset/0032ce54-c5dd-4b66-99a0-320a7b5e99f2,https://open.canada.ca/en/open-government-licence-canada,,,misc/open_data_cfrc{1..40}.json
-2016 list of charities,,Y, , ,https://open.canada.ca/data/en/dataset/7ef067c4-07a8-4882-ade3-643d00fd6c49,https://open.canada.ca/en/open-government-licence-canada,,,misc/2016charities.json
-BC indigenous businesses,,Y,,BC,https://catalogue.data.gov.bc.ca/dataset/bc-indigenous-business-listings,https://www2.gov.bc.ca/gov/content/data/open-data/open-government-license-bc,,,misc/bcindigenous.json
-Quebéc enterprises,,Y,,QC,https://www.donneesquebec.ca/recherche/fr/dataset/registre-des-entreprises,https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr,,,qc/prov_of_quebec.json
-,,Y,Sherbrooke,QC,https://www.donneesquebec.ca/recherche/fr/dataset/repertoire-des-commerces,https://creativecommons.org/licenses/by/4.0/deed.fr,,,qc/sherbrooke.json
-,,Y,Yellowknife,NT,http://opendata.yellowknife.ca/home/details/0ead7112-bafe-4c0d-b0ca-b2220cc6d2a9,https://www.yellowknife.ca/en/discovering-yellowknife/resources/geomatic_services/City_of_Yellowknife_Open_Data_LIcence__Terms_of_Use.pdf,,,nt/yellowknife.json
-,,Y,Brampton,ON,http://geohub.brampton.ca/datasets/brampton-business-directory,http://www.brampton.ca/EN/City-Hall/OpenGov/Open-Data-Catalogue/Pages/Terms-of-Use.aspx,,,on/brampton.json
-,,Y,Mississauga,ON,http://data.mississauga.ca/datasets/0b353768119042e8866b6fece7317493_0,http://www5.mississauga.ca/research_catalogue/CityofMississauga_TermsofUse.pdf,,,on/mississauga.json
-,,Y,Greater Sudbury,ON,http://opendata.greatersudbury.ca/datasets/business-licenses-csv,https://www.greatersudbury.ca/city-hall/open-government/open-data/licence/,,,on/greater_sudbury.json
-,,Y,Toronto,ON,https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#fcc40488-98eb-953b-7fa1-a35dab2f818c,https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-licence/,,,on/toronto.json
-,,Y,Guelph,ON,http://data.open.guelph.ca/dataset/business-licence,http://data.open.guelph.ca/pages/open-government-licence,,,on/guelph.json
-,,Y,Kitchener,ON,https://open-kitchenergis.opendata.arcgis.com/datasets/business-directory,https://www.kitchener.ca/en/city-services/open-data.aspx#ODLicence,,,on/kitchener.json
-,,Y,Durham,ON,http://opendata.durham.ca/datasets/business-directory,https://www.durham.ca/en/regional-government/resources/Documents/OpenDataLicenceAgreement.pdf,,,on/durham_region.json
-,,Y,Banff,AB,http://banffmaps.ca/opendata/,http://banffmaps.ca/opendata/,,,ab/banff.json
-,,Y,Edmonton,AB,https://data.edmonton.ca/Sustainable-Development/City-of-Edmonton-Business-Licenses/qhi4-bdpu,https://data.edmonton.ca/stories/s/City-of-Edmonton-Open-Data-Terms-of-Use/msh8-if28/,,,ab/edmonton.json
-,,Y,Calgary,AB,https://data.calgary.ca/Business-and-Economic-Activity/Calgary-Business-Licenses-Data-Lens/6zmz-cx7g,https://data.calgary.ca/stories/s/Open-Calgary-Terms-of-Use/u45n-7awa,,,ab/calgary.json
-,,Y,Kelowna,BC,http://opendata.kelowna.ca/datasets/business-license,http://apps.kelowna.ca/images/opendata/OpenGovernmentLicence.pdf,,,bc/kelowna.json
-,,Y,Langley,BC,https://data-tol.opendata.arcgis.com/datasets/business-licenses,https://www.tol.ca/connect/talk-to-us/freedom-of-information/open-data-license/,,,bc/city_of_langley.json
-,,Y,Maple Ridge,BC,http://opengov.mapleridge.ca/datasets/business-licences,http://opengov.mapleridge.ca/pages/open-government-licence,,,
-,,Y,Nanaimo,BC,https://www.nanaimo.ca/open-data-catalogue/DataBrowser/nanaimo/BusinessLicences#param=NOFILTER--DataView--Results,https://www.nanaimo.ca/your-government/maps-data/open-data-catalogue/open-data-catalogue-licence,,,bc/nanaimo.json
-,,Y,Surrey,BC,https://data.surrey.ca/dataset/business-licences,http://data.surrey.ca/pages/open-government-licence-surrey,,,bc/city_of_surrey.json
-,,Y,New Westminster,BC,http://opendata.newwestcity.ca/datasets,http://opendata.newwestcity.ca/licence,,,bc/city_of_new_westminster.json
-,,Y,Port Moody,BC,https://data.portmoody.ca/Building-Bylaw-and-Licensing/Business-Licence-Applications/xfrv-yr4p,http://www.portmoody.ca/index.aspx?page=1354,,,bc/city_of_port_moody.json
-,,Y,Vancouver,BC,https://data.vancouver.ca/datacatalogue/businessLicence.htm,https://vancouver.ca/your-government/open-data-catalogue.aspx,,,bc/vancouver.json
-,,Y,Victoria,BC,http://opendata.victoria.ca/datasets/business-licences-current-year,http://opendata.victoria.ca/pages/open-data-licence,,,bc/victoria.json
-,,,,,,,,,
-,,,Halifax,NS,,,,,
-,,,Fredericton,NB,,,,,
-,,,Saint John,NB,,,,,
-,,,Gatineau,QC,,,,,
-,,,Montréal,QC,,,,,
-,,,Québec City,QC,,,,,
-,,,Laval,QC,,,,,
-,,,Repentigny,QC,,,,,
-,,,Shawinigan,QC,,,,,
-,,,Rimouski,QC,,,,,
-,,,Blainville,QC,,,,,
-,,,Burlington,ON,,,,,
-,,,Hamilton,ON,,,,,
-,,,London,ON,,,,,
-,,,Niagara Falls,ON,,,,,
-,,,Ottawa,ON,,,,,
-,,,Waterloo,ON,,,,,
-,,,Welland,ON,,,,,
-,,,Windsor,ON,,,,,
-,,,Haldimand County,ON,,,,,
-,,,Grey County,ON,,,,,
-,,,Brandon,MB,,,,,
-,,,Winnipeg,MB,,,,,
-,,,Regina,SK,,,,,
-,,,Saskatoon,SK,,,,,
-,,,Medicine Hat,AB,,,,,
-,,,Red Deer,AB,,,,,
-,,,Strathcona County,AB,,,,,
-,,,Grande Prairie,AB,,,,,
-,,,Chilliwack,BC,,,,,
-,,,Prince George,BC,,,,,
-,,,Saanich,BC,,,,,
-,,,North Vancouver,BC,,,,,
-,,,Whitehorse,YT,,,,,
+Dataset name,Open data,City/Region,Province/Territory,Source,License or Terms of Use,Attribution statement,Comments,OpenTabulate source file
+Money services business registry,Y,,,https://open.canada.ca/data/en/dataset/8beacccf-3b54-4d12-9cf7-24e2ada90a83,https://open.canada.ca/en/open-government-licence-canada,Contains information licensed under the Open Government Licence – Canada,Entity list of those engaged in: foreign exchange dealing; remitting or transmitting funds by any means; issuing or redeeming money orders. ,misc/msbregistry.json
+Federal corporations,Y,,,https://open.canada.ca/data/dataset/0032ce54-c5dd-4b66-99a0-320a7b5e99f2,https://open.canada.ca/en/open-government-licence-canada,Contains information licensed under the Open Government Licence – Canada,Corporation list business corporations created under CBCA; not-for-profit corporation under CCA II or NFP; cooperatives created under COOP; board of trades created under BOTA; other corporations regulaed by Corporations Canada.,misc/open_data_cfrc{1..40}.json
+2016 list of charities,Y, , ,https://open.canada.ca/data/en/dataset/7ef067c4-07a8-4882-ade3-643d00fd6c49,https://open.canada.ca/en/open-government-licence-canada,Contains information licensed under the Open Government Licence – Canada,Canadian charities that aare registered under Income Tax Act and eligible to issue official donation receipts.,misc/2016charities.json
+BC indigenous business listing,Y,,BC,https://catalogue.data.gov.bc.ca/dataset/bc-indigenous-business-listings,https://www2.gov.bc.ca/gov/content/data/open-data/open-government-license-bc,Contains information licensed under the Open Government Licence – British Columbia,Listing provided by the BC Indigenous Business and Investment Council.,misc/bcindigenous.json
+Registre des entreprises,Y,,QC,https://www.donneesquebec.ca/recherche/fr/dataset/registre-des-entreprises,https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr,"Vous devez créditer l'Œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées à l'Oeuvre. ",,qc/prov_of_quebec.json
+Répertoire des commerces,Y,Sherbrooke,QC,https://www.donneesquebec.ca/recherche/fr/dataset/repertoire-des-commerces,https://creativecommons.org/licenses/by/4.0/deed.fr,"Vous devez créditer l'Œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées à l'Oeuvre. ",Business list including small home businesses and supermarkets.,qc/sherbrooke.json
+Yellowknife business directory,Y,Yellowknife,NT,http://opendata.yellowknife.ca/home/details/0ead7112-bafe-4c0d-b0ca-b2220cc6d2a9,https://www.yellowknife.ca/en/discovering-yellowknife/resources/geomatic_services/City_of_Yellowknife_Open_Data_LIcence__Terms_of_Use.pdf,Contains public sector datasets made available under the City of Yellowknife’s Open Data License v.1,Listing of businesses registered,nt/yellowknife.json
+Brampton business directory,Y,Brampton,ON,http://geohub.brampton.ca/datasets/brampton-business-directory,http://www.brampton.ca/EN/City-Hall/OpenGov/Open-Data-Catalogue/Pages/Terms-of-Use.aspx,"Copyright © 2012, the City of Brampton (All rights reserved.). All intellectual property and other rights in and to the Dataset belong to the City of Brampton.",Employer census of all brick and mortar businesses operating within,on/brampton.json
+Mississauga business directory,Y,Mississauga,ON,http://data.mississauga.ca/datasets/0b353768119042e8866b6fece7317493_0,http://www5.mississauga.ca/research_catalogue/CityofMississauga_TermsofUse.pdf,,Geographic locations of businesses,on/mississauga.json
+Licensed businesses,Y,Greater Sudbury,ON,http://opendata.greatersudbury.ca/datasets/business-licenses,https://www.greatersudbury.ca/city-hall/open-government/open-data/licence/,Contains information licensed under the Open Government Licence – City of Greater Sudbury,List of licensed businesses,on/greater_sudbury.json
+Municipal licensing and standards – business licences and permits,Y,Toronto,ON,https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#fcc40488-98eb-953b-7fa1-a35dab2f818c,https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-licence/,Contains information licensed under the Open Government Licence – Toronto,List of licensed businesses including mobile businesses,on/toronto.json
+Business licenses,Y,Guelph,ON,http://data.open.guelph.ca/dataset/business-licence,http://data.open.guelph.ca/pages/open-government-licence,Contains information provided by the City of Guelph under an open government license,List of licensed businesses,on/guelph.json
+Business directory,Y,Kitchener,ON,https://open-kitchenergis.opendata.arcgis.com/datasets/business-directory,https://www.kitchener.ca/en/city-services/open-data.aspx#ODLicence,Contains information licensed under the Open Government Licence – The Corporation of the City of Kitchener,List of businesses currently operating,on/kitchener.json
+Business directory,Y,Durham,ON,http://opendata.durham.ca/datasets/business-directory,https://www.durham.ca/en/regional-government/resources/Documents/OpenDataLicenceAgreement.pdf,Contains public sector information made available under The Regional Municipality of Durham’s Open Data Licence,"A survey conducted by the Regional Municipality of Durham, Planning and Economic Development Department and its municipal partners. Contains detailed information such as employee counts, type and nature of the business, floor space, and so on. ",on/durham_region.json
+,Y,Banff,AB,http://banffmaps.ca/opendata/,http://banffmaps.ca/opendata/,Contains information licensed under the Open Government Licence – Banff,,ab/banff.json
+City of Edmonton – business licenses,Y,Edmonton,AB,https://data.edmonton.ca/Sustainable-Development/City-of-Edmonton-Business-Licenses/qhi4-bdpu,https://data.edmonton.ca/stories/s/City-of-Edmonton-Open-Data-Terms-of-Use/msh8-if28/,,List of establishments that have a valid business license to operate,ab/edmonton.json
+Calgary business licences,Y,Calgary,AB,https://data.calgary.ca/Business-and-Economic-Activity/Calgary-Business-Licenses-Data-Lens/6zmz-cx7g,https://data.calgary.ca/stories/s/Open-Calgary-Terms-of-Use/u45n-7awa,Contains information licensed under the Open Government Licence – Calgary,List of licensed businesses,ab/calgary.json
+Business licenses,Y,Kelowna,BC,http://opendata.kelowna.ca/datasets/business-license,http://apps.kelowna.ca/images/opendata/OpenGovernmentLicence.pdf,Contains information licensed under the Open Government Licence – City of Kelowna,,bc/kelowna.json
+Business licenses,Y,Langley,BC,https://data-tol.opendata.arcgis.com/datasets/business-licenses,https://www.tol.ca/connect/talk-to-us/freedom-of-information/open-data-license/,Contains information licensed under the Open Government Licence – Township of Langley,List of active business licenses,bc/city_of_langley.json
+Business licenses,Y,Maple Ridge,BC,http://opengov.mapleridge.ca/datasets/business-licences,http://opengov.mapleridge.ca/pages/open-government-licence,Contains information licensed under the Open Government Licence – Maple Ridge,List of actively licensed businesses,
+Business licenses,Y,Nanaimo,BC,https://www.nanaimo.ca/open-data-catalogue/DataBrowser/nanaimo/BusinessLicences#param=NOFILTER--DataView--Results,https://www.nanaimo.ca/your-government/maps-data/open-data-catalogue/open-data-catalogue-licence,Contains information licensed under the Open Government Licence – Nanaimo,,bc/nanaimo.json
+Business licenses,Y,Surrey,BC,https://data.surrey.ca/dataset/business-licences,http://data.surrey.ca/pages/open-government-licence-surrey,Contains information licensed under the Open Government Licence – City of Surrey,List of business licenses for active commercial and industrial businesses,bc/city_of_surrey.json
+Business licenses,Y,New Westminster,BC,http://opendata.newwestcity.ca/datasets/business-licenses-all,http://opendata.newwestcity.ca/licence,Contains information licensed under the Open Government Licence – City of New Westminster,List of business licenses (including liquor establishments and municipal decals),bc/city_of_new_westminster.json
+Business directory,Y,Port Moody,BC,https://data.portmoody.ca/Building-Bylaw-and-Licensing/Business-Licence-Applications/y7uj-icda,http://www.portmoody.ca/index.aspx?page=1354,Contains information licensed under the Open Government Licence – Port Moody,List of participating businesses.,bc/city_of_port_moody.json
+Business licenses,Y,Vancouver,BC,https://data.vancouver.ca/datacatalogue/businessLicence.htm,https://vancouver.ca/your-government/open-data-catalogue.aspx,Contains information licensed under the Open Government Licence – Vancouver,List of valid business licenses under By-Law 4450 in Vancouver.,bc/vancouver.json
+Business licenses,Y,Victoria,BC,http://opendata.victoria.ca/datasets/business-licences-current-year,http://opendata.victoria.ca/pages/open-data-licence,Contains information licensed under the Open Government Licence – City of Victoria,List of business licenses,bc/victoria.json
