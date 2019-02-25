@@ -13,9 +13,9 @@
 	"fax": "School Fax",
 	"email": "School EMail",
 	"website": "School Website",
-	"ecs": "ECSTaught",
-	"elementary": "Elementary Taught",
-	"middle": "Junior High Taught",
-	"secondary": "Senior High Taught"
+	"isced010": "ECSTaught",
+	"isced1": "Elementary Taught",
+	"isced2": "Junior High Taught",
+	"isced3": "Senior High Taught"
     }
 }
