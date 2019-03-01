@@ -3,7 +3,7 @@
     "url": "https://files.ontario.ca/opendata/private_schools_contact_information_jan_2019_en.xlsx",
     "format": "csv",
     "database_type": "education",
-    "pre": "./scripts/edu_facility/on/edu-private-on.sh",
+    "pre": "scripts/education_facility/on/pre-on-private.sh",
     "info": {
 	"ins_name": "School Name",
 	"ins_code": "School Number",

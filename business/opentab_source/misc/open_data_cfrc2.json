@@ -2,7 +2,7 @@
     "localfile": "OPEN_DATA_2.xml",
     "format": "xml",
     "database_type": "business",
-    "pre": "./scripts/business/misc/CFRC-fixProvCountry",
+    "pre": "scripts/business/misc/pre-CFRC-fixProvCountry.sh",
     "url": "http://www.ic.gc.ca/app/scr/cc/CorporationsCanada/download/OPEN_DATA_SPLIT.zip",
     "localarchive": "open_data_cfrc.zip",
     "compression": "zip",

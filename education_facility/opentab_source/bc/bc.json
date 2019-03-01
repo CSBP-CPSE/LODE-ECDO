@@ -3,8 +3,8 @@
     "url": "http://www.bced.gov.bc.ca/reporting/odefiles/SchoolLocations_Hist.txt",
     "format": "csv",
     "database_type": "education",
-    "pre": "./scripts/edu_facility/bc/edu-bc-pre.sh",
-    "post": "./scripts/edu_facility/bc/edu-bc-post.py",
+    "pre": "scripts/education_facility/bc/pre-bc.sh",
+    "post": "scripts/education_facility/bc/post-bc.py",
     "info": {
 	"ins_name": "SCHOOL_NAME",
 	"ins_type": "PUBLIC_OR_INDEPENDENT",

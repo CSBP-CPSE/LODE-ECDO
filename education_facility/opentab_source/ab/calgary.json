@@ -9,7 +9,7 @@
 	"ins_type": "TYPE",
 	"range": "GRADES",
 	"isced1": "ELEM",
-	"isced2": "JUNIOR_H"
+	"isced2": "JUNIOR_H",
 	"isced3": "SENIOR_H",
 	"isced4+": "POSTSECOND",
 	"full_addr": ["ADDRESS_AB", "CITY", "PROVINCE", "force:canada", "POSTAL_COD"],

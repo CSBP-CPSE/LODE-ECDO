@@ -3,7 +3,7 @@
     "url": "https://files.ontario.ca/opendata/public_schools_contact_january2019_en.txt",
     "format": "csv",
     "database_type": "education",
-    "pre": "./scripts/edu_facility/on/edu-public-on.sh",
+    "pre": "scripts/education_facility/on/pre-on-public.sh",
     "info": {
 	"ins_name": "School Name",
 	"ins_type": "School Type",

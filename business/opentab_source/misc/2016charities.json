@@ -3,7 +3,7 @@
     "url": "http://cra-arc.gc.ca/gncy/stts/opendata/charity/2016/ident.csv",
     "format": "csv",
     "database_type": "business",
-    "pre": "./scripts/business/misc/2016charities.py",
+    "pre": "scripts/business/misc/pre-2016charities.py",
     "info": {
 	"bus_name": "Legal Name",
 	"bus_no": "BN",
