@@ -4,7 +4,7 @@ import os
 
 # remove null bytes from file
 
-with open(sys.argv[1], 'rb') as fbr, open(sys.argv[1] + ".tmp", 'wb') as fbw:
+with open(sys.argv[1], 'rb') as fbr, open(sys.argv[2], 'wb') as fbw:
     while True:
         b = fbr.read(1)
         if b == b'':
@@ -13,5 +13,3 @@ with open(sys.argv[1], 'rb') as fbr, open(sys.argv[1] + ".tmp", 'wb') as fbw:
             continue
         else:
             fbw.write(b)
-
-os.rename(sys.argv[1] + ".tmp", sys.argv[1])
