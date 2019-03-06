@@ -1,0 +1,12 @@
+{
+    "localfile": "fire_st-bc-vancouver.csv",
+    "format": "csv",
+    "database_type": "fire_station",
+    "url": "ftp://webftp.vancouver.ca/OpenData/csv/fireHalls.csv",
+    "info": {
+	"fire_stn_name": "FIRE HALL NAME",
+	"full_addr": ["ADDRESS", "force:Vancouver, BC, CA"],
+	"latitude": "LATITUDE",
+	"longitude":  "LONGITUDE"
+    }
+}

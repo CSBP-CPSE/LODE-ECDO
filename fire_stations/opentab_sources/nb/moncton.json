@@ -1,0 +1,13 @@
+{
+    "localfile": "fire_st-nb-moncton.csv",
+    "format": "csv",
+    "database_type": "fire_station",
+    "url": "https://opendata.arcgis.com/datasets/f13ec4ddadde46f6b0875047b13ec333_0.csv?outSR=%7B%22wkid%22%3A2036%2C%22latestWkid%22%3A2953%7D",
+    "filter": {
+	"SUBCATEGORY": ["FIRE STATION"]
+    },
+    "info": {
+	"fire_stn_name": "NAME",
+	"full_addr": ["ADDRESS", "force:Moncton, New Brunswick, CA", "POSTCODE"]
+    }
+}

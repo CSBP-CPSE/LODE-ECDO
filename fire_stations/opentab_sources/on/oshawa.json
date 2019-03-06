@@ -1,0 +1,11 @@
+{
+    "localfile": "fire_st-on-oshawa.csv",
+    "format": "csv",
+    "database_type": "fire_station",
+    "url": "https://opendata.arcgis.com/datasets/ecb7e8e78256447191f27b8216279822_16.csv"
+    "info" : {
+	"fire_stn_name": "FULLNAME",
+	"longitude": "X",
+	"latitude": "Y"
+    }
+}

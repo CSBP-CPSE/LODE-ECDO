@@ -1,0 +1,15 @@
+{
+    "localfile": "fire_st-qc-repentigny.csv",
+    "format": "csv",
+    "database_type": "fire_station",
+    "url": "https://www.donneesquebec.ca/recherche/dataset/1122db0f-97f1-4ed1-9d17-ba7a1895e593/resource/cdc6b54d-2415-4b88-b843-d3ae7c5e3c7f/download/stations-de-police-et-casernes-de-pompiers.csv",
+    "filter": {
+	"NOM": "Caserne"
+    },
+    "info": {
+	"fire_stn_name": "NOM",
+	"full_addr": ["ADRESSE", "force:QC, CA"],
+	"longitude": "LONGITUDE",
+	"latitude": "LATITUDE"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "localfile": "fire_st-ab-edmonton.csv",
+    "format": "csv",
+    "database_type": "fire_station",
+    "url": "https://data.edmonton.ca/api/views/b4y7-zhnz/rows.csv?accessType=DOWNLOAD",
+    "pre": "scripts/fire_stations/ab/pre-edmonton.sh",
+    "info": {
+	"fire_stn_name": "STATION_NAME",
+	"full_addr": ["ADDRESS", "force:Edmonton, Alberta, CA"],
+	"latitude": "LATITUDE",
+	"longitude":  "LONGITUDE"
+    }
+}

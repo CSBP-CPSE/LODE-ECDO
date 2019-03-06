@@ -1,0 +1,18 @@
+{
+    "localfile": "fire_st-bc-city_of_new_westminster.csv",
+    "format": "csv",
+    "url": "http://opendata.newwestcity.ca/downloads/significant-buildings-fire/SIGNIFICANT_BLDG_FIRE.csv",
+    "database_type": "fire_station",
+    "info": {
+	"fire_stn_name": "BLDGNAM",
+	"address": {
+	    "street_no": "STRNUM",
+	    "street_name": "STRNAM",
+	    "city": "force:New Westminster",
+	    "prov/terr": "force:BC",
+	    "country": "force:CA"
+	},
+	"latitude": "Y",
+	"longitude": "X"
+    }
+}

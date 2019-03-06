@@ -9,7 +9,6 @@ MB,Winnipeg,https://data.winnipeg.ca/Fire-and-Rescue-Response/Fire-Paramedic-Sta
 NB,Moncton,https://catalogue-moncton.opendata.arcgis.com/datasets/points-of-interest,Y,,,Public buildings including fire stations
 ON,Peel Region,http://geohub.brampton.ca/datasets/2c53a937c0494c2786f01b75d4339f0c_6,Y,,,Public buildings including fire stations (shouldbe contained in Peel region as well)
 ON,Cambridge,https://rowopendata-rmw.opendata.arcgis.com/datasets/cityofcambridge::emergency-services,Y,,,Public buildings including fire stations
-ON,Peel Region,http://opendata.peelregion.ca/data-categories/facilities-and-structures/landmarks.aspx,Y,,,Public buildings including fire stations
 ON,Guelph,http://data.open.guelph.ca/organization/city-of-guelph?q=fire&sort=score+desc%2C+metadata_modified+desc,Y,,,Fire stations
 ON,Oshawa,http://opendata.durham.ca/datasets/oshawa::oshawa-fire-station-locations,Y,,,Fire stations
 ON,Hamilton,http://open.hamilton.ca/datasets/dbb028cd6bcc4b218c607952b760fd04_5,Y,,,Fire Stations
@@ -20,7 +19,6 @@ ON,York Region,http://insights-york.opendata.arcgis.com/datasets/02532059bb684e4
 ON,Mississauga,http://data.mississauga.ca/datasets/e84a2af2c2c6489cbd42086769df9b5e_0,Y,,,
 ON,Niagara Falls,https://niagaraopendata.ca/dataset/city-of-niagara-falls-fire-services,Y,,,
 ON,Norfolk County,http://opendata.norfolkcounty.ca/datasets/fire-halls,Y,,,
-ON,Toronto,https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#8b80c323-f37b-d861-28cc-66103b4e1619,Y,,,
 QC,Gatineau,https://www.donneesquebec.ca/recherche/fr/dataset/vgat_1267315911,Y,,,Public buildings including fire stations
 QC,Montreal,https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-casernes-pompiers,Y,,,
 QC,Longueuil,https://www.donneesquebec.ca/recherche/fr/dataset/casernes-d-incendie,Y,,,Coordinates only

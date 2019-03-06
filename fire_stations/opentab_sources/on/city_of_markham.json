@@ -1,0 +1,12 @@
+{
+    "localfile": "fire_st-on-city_of_markham.csv",
+    "format": "csv",
+    "database_type": "fire_station",
+    "url": "https://opendata.arcgis.com/datasets/02532059bb684e40baa15313b8ab3bb3_0.csv"
+    "info": {
+	"fire_stn_name": "NAME",
+	"full_addr": ["ADDRESS", "force:Markham, Ontario, CA"],
+	"longitude": "X",
+	"latitude": "Y"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "localfile": "fire_st-bc-chilliwack.csv:FireHalls.csv",
+    "format": "csv",
+    "localarchive": "fire_st-bc-chilliwack.zip",
+    "compression": "zip",
+    "database_type": "fire_station",
+    "info": {
+	"fire_stn_name": "PROPNAME",
+	"full_addr": ["ADDRESS", "force:Chilliwack BC CA"]
+    }
+}
