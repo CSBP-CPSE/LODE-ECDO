@@ -1,5 +1,5 @@
 {
-    "localfile": "pl_of_int-bc-city_of_surrey.csv",
+    "localfile": "fire_st-bc-city_of_surrey.csv",
     "format": "csv",
     "database_type": "fire_station",
     "url": "http://data.surrey.ca/dataset/3cd9a93e-0132-4082-ab54-0b0dbf6fcad2/resource/94900a32-8613-4b16-89c4-f1c65375e4b7/download/placesofinterest.csv",

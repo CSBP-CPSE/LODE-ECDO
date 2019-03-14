@@ -5,7 +5,7 @@
     "url": "https://opendata.arcgis.com/datasets/49562195f8c14a26ae9908bc764bb324_0.csv",
     "filter": {
 	"Type": ["Fire"]
-    }
+    },
     "info": {
 	"fire_stn_name": "Name",
 	"full_addr": ["Address", "force:Lethbridge, AB, Canada"],

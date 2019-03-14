@@ -1,0 +1,13 @@
+{
+    "localfile": "fire_st-on-guelph.kml",
+    "format": "csv",
+    "database_type": "fire_station",
+    "pre": "scripts/fire_stations/on/guelph.py",
+    "url": "http://data.open.guelph.ca/datafiles/gis/FireStations.kml",
+    "info" : {
+	"fire_stn_name": "STATION",
+	"full_addr": ["ADDRESS", "force:Guelph, Ontario, CA"],
+	"longitude": "Longitude",
+	"latitude": "Latitude"
+    }
+}

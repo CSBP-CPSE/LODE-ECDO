@@ -1,0 +1,11 @@
+{
+    "localfile": "edu-inac_list_of_schools.csv",
+    "format": "csv",
+    "database_type": "education",
+    "info": {
+	"ins_name": "School Name",
+	"ins_code": "School Number",
+	"range": ["School Start Grade", "force:-", "School End Grade"],
+	"full_addr": ["School Address", "School City", "School Province", "force:Canada", "School Postal Code"]
+    }
+}

@@ -2,10 +2,10 @@
     "localfile": "fire_st-on-huron_county.csv",
     "format": "csv",
     "database_type": "fire_station",
-    "url": "https://opendata.arcgis.com/datasets/66f26e1623c844b49cdfe6e92e79bcad_0.csv?outSR=%7B%22wkid%22%3A26917%2C%22latestWkid%22%3A26917%7D"
+    "url": "https://opendata.arcgis.com/datasets/66f26e1623c844b49cdfe6e92e79bcad_0.csv?outSR=%7B%22wkid%22%3A26917%2C%22latestWkid%22%3A26917%7D",
     "filter": {
 	"Type": ["Fire Department"]
-    }
+    },
     "info": {
 	"fire_stn_name": "POI_Name",
 	"full_addr": "Full_Address"

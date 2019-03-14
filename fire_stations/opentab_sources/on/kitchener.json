@@ -2,17 +2,17 @@
     "localfile": "fire_st-on-kitchener.csv",
     "format": "csv",
     "database_type": "fire_station",
-    "url": "https://opendata.arcgis.com/datasets/a091375d375c44b4b30a1deae3bc17c6_0.csv"
+    "url": "https://opendata.arcgis.com/datasets/a091375d375c44b4b30a1deae3bc17c6_0.csv",
     "filter": {
 	"CATEGORY": ["FIRE STATION"]
-    }
+    },
     "info": {
 	"fire_stn_name": "LANDMARK",
 	"address": {
-	    "street_number": "CIVIC_NO",
+	    "street_no": "CIVIC_NO",
 	    "street_name": "STREET",
 	    "city": "SUBCATEGORY",
-	    "province": "force:ON",
+	    "prov/terr": "force:ON",
 	    "country": "force:CA"
 	},
 	"longitude": "X",

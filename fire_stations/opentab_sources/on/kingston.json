@@ -1,0 +1,11 @@
+{
+    "localfile": "fire_st-on-kingston.csv",
+    "format": "csv",
+    "database_type": "fire_station",
+    "info": {
+	"fire_stn_name": "Name",
+	"full_addr": ["Address", "force:Kingston, Ontario, CA"],
+	"longitude": "longitude",
+	"latitude": "latitude"
+    }
+}
