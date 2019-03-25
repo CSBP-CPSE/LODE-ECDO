@@ -17,11 +17,9 @@ ON,Kingston,https://opendatakingston.cityofkingston.ca/explore/dataset/point-of-
 ON,Kitchener,http://open-kitchenergis.opendata.arcgis.com/datasets/emergency-services,Y,,,Public buildings including fire stations
 ON,York Region,http://insights-york.opendata.arcgis.com/datasets/02532059bb684e40baa15313b8ab3bb3_0,Y,,,
 ON,Mississauga,http://data.mississauga.ca/datasets/e84a2af2c2c6489cbd42086769df9b5e_0,Y,,,
-ON,Niagara Falls,https://niagaraopendata.ca/dataset/city-of-niagara-falls-fire-services,Y,,,
 ON,Norfolk County,http://opendata.norfolkcounty.ca/datasets/fire-halls,Y,,,
 QC,Gatineau,https://www.donneesquebec.ca/recherche/fr/dataset/vgat_1267315911,Y,,,Public buildings including fire stations
 QC,Montreal,https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-casernes-pompiers,Y,,,
-QC,Longueuil,https://www.donneesquebec.ca/recherche/fr/dataset/casernes-d-incendie,Y,,,Coordinates only
 QC,Laval,https://www.donneesquebec.ca/recherche/fr/dataset/lieux-et-edifices-municipaux,Y,,,Public buildings including fire stations
 QC,Quebec City,https://www.donneesquebec.ca/recherche/fr/dataset/vque_14,Y,,,Public buildings including fire stations
 QC,Repentigny,https://www.donneesquebec.ca/recherche/fr/dataset/postes-de-police-et-casernes-de-pompiers,Y,,,Police and fire stations
