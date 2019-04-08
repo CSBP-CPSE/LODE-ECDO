@@ -1,5 +1,5 @@
 {
-    "localfile": "ab-banff.csv:BusinessLicense.csv",
+    "localfile": "bus-ab-banff.csv:BusinessLicense.csv",
     "format": "csv",
     "database_type": "business",
     "url": "http://banffmaps.ca/opendata/csv/BanffOpenData_CSVs.zip",

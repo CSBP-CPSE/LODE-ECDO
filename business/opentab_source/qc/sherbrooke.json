@@ -1,9 +1,7 @@
 {
-    "localfile": "qc-sherbrooke.csv",
-    "url": "https://www.donneesquebec.ca/recherche/dataset/fdeeca0d-2991-4c1c-a557-c336be03a6e4/resource/f266faec-81d5-460b-b080-ddf33e65a111/download/repertoire-commerces-mai-2017.csv",
+    "localfile": "bus-qc-sherbrooke.csv",
     "format": "csv",
     "database_type": "business",
-    "pre": "scripts/business/qc/pre-qc-sherbrooke.sh",
     "info": {
 	"bus_name": "NomLocat",
 	"bus_desc": "NomMix",

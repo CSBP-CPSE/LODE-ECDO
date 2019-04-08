@@ -1,5 +1,5 @@
 {
-    "localfile": "bcindigenousbusinesslistings.csv",
+    "localfile": "bus-bcindigenousbusinesslistings.csv",
     "url": "https://catalogue.data.gov.bc.ca/dataset/bdc81d33-1ab5-4882-9764-8701e8971bb7/resource/1b9d73d0-62a7-485f-a177-55e46701073a/download/bcindigenousbusinesslistings.csv",
     "format": "csv",
     "database_type": "business",
@@ -10,7 +10,6 @@
 	"full_addr": ["Address", "City", "Postal Code"],
 	"region": "Region",
 	"emp_range": "Number of Employees",
-	"naics_2": "Industry Sector",
 	"email": "Email",
 	"phone": "Phone",
 	"fax": "Fax",

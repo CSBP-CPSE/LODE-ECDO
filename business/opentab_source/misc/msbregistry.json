@@ -1,5 +1,5 @@
 {
-    "localfile": "MsbRegistryPublicDataFile.xml",
+    "localfile": "bus-MsbRegistryPublicDataFile.xml",
     "format": "xml",
     "database_type": "business",
     "url": "http://www10.fintrac-canafe.gc.ca/msb-esm/public/msb-search/zipdownload-eng/",
@@ -13,7 +13,6 @@
 	"bus_desc": "ActivityDescriptionEnglish",
 	"trade_name": "MsbOperateName",
 	"full_addr": ["StreetAddress", "CityName", "AlphaProvinceCode", "AlphaCountryCode", "PostalZipCode"],
-	"lic_no": "MsbRegistrationNumber",
 	"phone": "PhoneNumber",
 	"website": "MsbWebSiteAddress"
     }

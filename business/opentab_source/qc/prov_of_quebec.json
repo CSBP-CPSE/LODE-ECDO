@@ -1,13 +1,17 @@
 {
-    "localfile": "qc-prov_of_quebec.csv",
+    "localfile": "bus-qc-prov_of_quebec.csv",
     "format": "csv",
     "database_type": "business",
     "info": {
 	"bus_no": "NEQ",
-	"full_addr": ["LIGN1_ADR", "LIGN2_ADR", "LIGN3_ADR", "LIGN4_ADR"],
-	"qc_cae_1": "COD_ACT_ECON",
-	"qc_cae_desc_1": "DESC_ACT_ECON_ETAB",
-	"qc_cae_2": "COD_ACT_ECON2",
-	"qc_cae_desc_2": "DESC_ACT_ECON_ETAB2"
+	"no_employed": "COD_INTVAL_EMPLO_QUE",
+	"full_addr": ["ADR_DOMCL_LIGN1_ADR",
+		      "ADR_DOMCL_LIGN2_ADR",
+		      "ADR_DOMCL_LIGN3_ADR",
+		      "ADR_DOMCL_LIGN4_ADR"],
+	"qc_cae_1": "COD_ACT_ECON_CAE",
+	"qc_cae_desc_1": "DESC_ACT_ECON_ASSUJ",
+	"qc_cae_2": "COD_ACT_ECON_CAE2",
+	"qc_cae_desc_2": "DESC_ACT_ECON_ASSUJ2"
     }
 }

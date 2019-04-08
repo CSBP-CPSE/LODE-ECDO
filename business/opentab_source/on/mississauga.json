@@ -1,20 +1,18 @@
 {
-    "localfile": "on-mississauga.csv",
-    "url": "http://data.mississauga.ca/datasets/0b353768119042e8866b6fece7317493_0.csv",
+    "localfile": "bus-on-mississauga.csv",
+    "url": "http://data.mississauga.ca/datasets/1475270a07744940b1a641c99f503571_0.csv",
     "format": "csv",
     "database_type": "business",
     "info": {
 	"bus_name": "Name",
-	"bus_no": "BID",
 	"address" : {
 	    "street_no": "StreetNo",
 	    "street_name": "StreetName",
 	    "unit": "UnitNo",
 	    "postcode": "PostalCode"
 	},
-	"comdist": "Location",
 	"naics_6": "NAICSCode",
-	"naics_desc": ["NAICSSecto", "NAICSTitle"],
+	"naics_desc": "NAICSTitle",
 	"emp_range": "EmplRange",
 	"phone": "Phone",
 	"fax": "Fax",

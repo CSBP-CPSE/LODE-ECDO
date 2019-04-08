@@ -1,0 +1,18 @@
+{
+    "localfile": "bus-bc-city_of_maple_ridge.csv",
+    "database_type": "business",
+    "format": "csv",
+    "url": "https://opendata.arcgis.com/datasets/cf1043e267d04cabbead7970832e4f9a_2.csv",
+    "info": {
+	"bus_name": "BusinessName",
+	"bus_type": "BusinessType",
+	"lic_type": "LicenceCategory",
+	"address": {
+	    "unit": "Unit",
+	    "street_no": "House",
+	    "street_name": "Street"
+	},
+	"phone": "Phone1",
+	"website": "WebsiteAddress"
+    }
+}

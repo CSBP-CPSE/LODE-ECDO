@@ -1,5 +1,5 @@
 {
-    "localfile": "bc-kelowna.csv",
+    "localfile": "bus-bc-kelowna.csv",
     "url": "https://opendata.arcgis.com/datasets/f2c521d63ecc46e3a704f38ad79fbbbc_8.csv",
     "format": "csv",
     "database_type": "business",

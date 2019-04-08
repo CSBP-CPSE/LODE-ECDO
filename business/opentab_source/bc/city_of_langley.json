@@ -1,5 +1,5 @@
 {
-    "localfile": "bc-city_of_langley.csv",
+    "localfile": "bus-bc-city_of_langley.csv",
     "url": "https://opendata.arcgis.com/datasets/c80ce8a03364426aa301ca888f149272_0.csv",
     "pre": "scripts/business/bc/pre-city_of_langley.sh",
     "format": "csv",
@@ -14,6 +14,9 @@
 	},
 	"naics_6": "NAICS_Primary",
 	"naics_desc": "NAICS_Primary_Desc",
+	"no_seasonal_emp": "Seasonal_Employees",
+	"no_part_emp": "PartTime_Employees",
+	"no_full_emp": "FullTime_Employees",
 	"latitude": "Latitude",
 	"longitude": "Longitude",
 	"comdist": "CommunityName",

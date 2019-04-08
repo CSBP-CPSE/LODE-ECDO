@@ -1,5 +1,5 @@
 {
-    "localfile": "on-durham_region.csv",
+    "localfile": "bus-on-durham_region.csv",
     "url": "https://opendata.arcgis.com/datasets/97819bd83c6147bcbcc54c03d8787fc5_11.csv",
     "format": "csv",
     "database_type": "business",

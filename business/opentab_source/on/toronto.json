@@ -1,5 +1,5 @@
 {
-    "localfile": "on-toronto.csv",
+    "localfile": "bus-on-toronto.csv",
     "url": "http://opendata.toronto.ca/mls/business.licences/business.licences.csv",
     "format": "csv",
     "database_type": "business",

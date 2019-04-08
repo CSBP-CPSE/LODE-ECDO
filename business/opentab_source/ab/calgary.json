@@ -1,6 +1,6 @@
 {
-    "localfile": "ab-calgary.csv",
-    "url": "https://data.calgary.ca/api/views/agnq-4jj6/rows.csv?accessType=DOWNLOAD&bom=true&query=select+*",
+    "localfile": "bus-ab-calgary.csv",
+    "url": "https://data.calgary.ca/api/views/vdjc-pybd/rows.csv?accessType=DOWNLOAD",
     "format": "csv",
     "database_type": "business",
     "info": {

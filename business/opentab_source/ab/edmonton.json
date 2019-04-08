@@ -1,5 +1,5 @@
 {
-    "localfile": "ab-edmonton.csv",
+    "localfile": "bus-ab-edmonton.csv",
     "url": "https://data.edmonton.ca/api/views/qhi4-bdpu/rows.csv?accessType=DOWNLOAD",
     "format": "csv",
     "database_type": "business",

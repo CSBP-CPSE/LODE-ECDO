@@ -1,5 +1,5 @@
 {
-    "localfile": "bc-city_of_new_westminster.csv",
+    "localfile": "bus-bc-city_of_new_westminster.csv",
     "url": "http://opendata.newwestcity.ca/downloads/business-licenses-all/BL_ALL.csv",
     "pre": "scripts/business/bc/pre-city_of_new_westminster.sh",
     "format": "csv",
