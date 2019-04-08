@@ -1,5 +1,5 @@
 {
-    "localfile": "bus-OPEN_DATA_40.xml",
+    "localfile": "bus-OPEN_DATA_40.xml:OPEN_DATA_40.xml"
     "format": "xml",
     "database_type": "business",
     "pre": "scripts/business/misc/pre-CFRC-fixProvCountry.sh",
