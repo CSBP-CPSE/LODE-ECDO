@@ -1,12 +1,11 @@
 {
-    "localfile": "bc-victoria.csv",
+    "localfile": "bus-bc-victoria.csv",
     "url": "http://vicmap.victoria.ca/_BusData/AllBusinessLicences_LatLong.csv",
     "format": "csv",
     "database_type": "business",
     "info": {
         "trade_name": "TRADE_NAME",
 	"bus_type": "Category",
-	"bus_desc": "trade_description",
 	"lic_no": "LICENCE_NUMBER",
 	"address": {
 	    "unit": "CIVIC_UNIT",

@@ -3,7 +3,7 @@
     "format": "csv",
     "database_type": "business",
     "url": "ftp://webftp.vancouver.ca/OpenData/csv/business_licences_csv.zip",
-    "localarchive": "bc-vancouver.zip",
+    "localarchive": "bus-bc-vancouver.zip",
     "compression": "zip",
     "info": {
 	"bus_name": "BusinessName",

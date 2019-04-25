@@ -1,6 +1,5 @@
 {
     "localfile": "bus-bc-nanaimo.csv",
-    "url": "https://www.nanaimo.ca/open-data-catalogue/Download/Index?container=nanaimo&entitySetName=BusinessLicences&downloadID=127",
     "format": "csv",
     "database_type": "business",
     "info": {

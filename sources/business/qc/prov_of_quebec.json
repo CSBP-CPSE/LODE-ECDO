@@ -8,6 +8,7 @@
 	"full_addr": ["ADR_DOMCL_LIGN1_ADR",
 		      "ADR_DOMCL_LIGN2_ADR",
 		      "ADR_DOMCL_LIGN3_ADR",
+		      "force:Canada",
 		      "ADR_DOMCL_LIGN4_ADR"],
 	"qc_cae_1": "COD_ACT_ECON_CAE",
 	"qc_cae_desc_1": "DESC_ACT_ECON_ASSUJ",

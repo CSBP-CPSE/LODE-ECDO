@@ -18,7 +18,7 @@
 	"naics_desc": "PRIMARY_NAICS_DESCRIPTION",
 	"no_employed": "TOTAL_EMPLOYEES",
 	"phone": "PHONE",
-	"tollfree": "TOLL_FREE"
+	"tollfree": "TOLL_FREE",
 	"email": "EMAIL",
 	"website": "WEBSITE"
     }
