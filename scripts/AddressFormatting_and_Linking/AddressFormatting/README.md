@@ -9,7 +9,7 @@ The formatting functions apply three main processes to the input addresses. Thes
 
 While removing punctuation is done universally (i.e., all punctuation is removed), there are additional rules that determine how street directions and names are processed.
 * in english, directions are shortened only if they are the first or last words of a string, while in french only if they are the last word (this may change)
-* in english, street types are shortened only if they are the last word of the string, or, the 2nd last word if the last word is a direction. In french, street types are shortened only if they are the first word of the string.
+* in english, street types are shortened only if they are the last word of the string, or, the 2nd last word if the last word is a direction. In french, street types are shortened only if they are the first word of the string. This is because in French the street type is typically before the street name, though this is not true for numbered streets (e.g., 4e av), and so an additional rule will be implemented for those cases in the future.
 
 An example of how english and french rules are applied to some street names (in 'example.csv' and 'example_formatted.csv') is shown below:
 
