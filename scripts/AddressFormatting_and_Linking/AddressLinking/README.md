@@ -2,7 +2,7 @@
 The scripts in this directory use fuzzy string matching (via the [fuzzy wuzzy](https://github.com/seatgeek/fuzzywuzzy) library) to match addresses across databases. The primary purpose in this instance is to perform a limited sort of geocoding, where addresses in an open database of addresses that are not geocoded can be matched up against addresses in an OpenAddress (or other) list of geocoded addresses.
 
 The general approach is to read in two csv files to be matched against each other (in this case, the first is a list of addresses to be geocoded, and the second is a list of addresses with geocoordinates). 
-The general approach is, for every address in the first database, to look for matches by first restricting the other database to only matching street numbers, and then performing fuzzy string matching on the street names.
+For every address in the first database we look for matches by first restricting the other database to only matching street numbers, and then performing fuzzy string matching on the street names.
 
 Fuzzy string matching is in some ways a dangerous way to perform address matching. This is because, for example, '98 st e' and '99 st e' are only one character apart and would therefore be considered a close match, as would 'main st e' and 'main st w'. There are therefore several rules applied to make this fuzzy matching slightly less naive:
 * directions need to match exactly. if one string ends with a direction and the other ends in a different (or no) direction, then it is explicitly not a match.
