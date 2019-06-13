@@ -1,0 +1,35 @@
+Province,City/Region,Source,Available,Open Data,License of Terms of Use,Attribution Statement,Special Note ,Date Modified By Source ,Update Frequency,Geo-coordinates?,Downloaded from source
+AB,Whole Province,https://open.alberta.ca/opendata/building-permits-by-municipality,Y,Y,,,,September 20 2017,Annually ,,June 10 2019
+AB,Banff,http://banffmaps.ca/opendata/,Y,Y,,,"Downloaded as part of a zip bundle, ""BanffOpenData_CSVs"". Application dates from 1990-2017",,,,June 7 2019
+AB,Calgary,https://data.calgary.ca/dataset/Building-Regulations-Single-Construction-Permits/uyhv-3wsg,Y,Y,,,Single construction permits starting in 2008,,Daily,Yes,June 6 2019
+,,https://data.calgary.ca/Business-and-Economic-Activity/Building-Permits/c2es-76ed/data,Y,Y,,,Building permit applications starting in 1999,,Daily,Yes,
+AB,Edmonton,https://data.edmonton.ca/Sustainable-Development/General-Building-Permits/24uj-dj8v/data,Y,Y,,,Building permits starting January 2009,,Daily,Yes,June 10 2019
+AB,Lethbridge,https://www.lethbridge.ca/OpenDataSets/CityDevelopments.xml,Y,Y,,,XML file with 'city developments'. Includes some information regarding new neighbourhoods and larger construction projects. Also shows start and end dates of the projects. Start dates spanning from 06/2016 to 06/2017,May 1 2019,,,June 6 2019
+AB,Red Deer,http://data.reddeer.ca/buildingpermits,Y,Y,,,,,Daily,,June 6 2019
+AB,Strathcona County,https://data.strathcona.ca/Housing-Buildings/Building-Permits/y99k-mxv7/data,Y,Y,,,Building permits from January 1997 to present,May 29 2019,,Yes,June 10 2019
+BC,Vancouver,https://data.vancouver.ca/datacatalogue/issuedBuildingPermits.htm,Y,Y,,,Data sets for 2017-2019 ,,Monthly,,June 6 2019
+BC,Victoria,http://opendata.victoria.ca/datasets/building-permits-all-completed-and-active-permits/data?geometry=-123.59%2C48.388%2C-123.189%2C48.467,Y,Y,,,,,Daily,Yes,June 10 2019
+BC,Nanaimo,https://www.nanaimo.ca/open-data-catalogue/DataBrowser/nanaimo/BuildingPermitApplications#,Y,Y,,,Building Permit Applications,February 12 2013,,Yes,June 6 2019
+,,https://www.nanaimo.ca/open-data-catalogue/DataBrowser/nanaimo/DevelopmentApplications#,Y,Y,,,Development Applications ,February 12 2013,,Yes,June 10 2019
+BC,New Westminster,http://opendata.newwestcity.ca/datasets/projects-on-the-go,Y,Y,,,"""Projects on the Go"": current applications for rezoning, development permits and heritage revitalization agreements",June 6 2019,Semi-annual ,,June 10 2019
+BC,Prince George,https://data-cityofpg.opendata.arcgis.com/datasets/building-permit-applications/data,Y,Y,,,,January 1 2012 ,Daily,,June 7 2019
+MB,Winnipeg,https://data.winnipeg.ca/Development-Approvals-Building-Permits-Inspections/Detailed-Building-Permit-Data/it4w-cpf4/data,Y,Y,,,,May 2 2019,,Yes,June 7 2019
+NB,Saint John,http://catalogue-saintjohn.opendata.arcgis.com/datasets/accessory-building/data,Y,Y,,,,May 22 2019,,,June 10 2019
+NB,Fredericton,http://data-fredericton.opendata.arcgis.com/datasets/building-permits-issued-by-ward-permis-de-construire-d%C3%A9livr%C3%A9s-par-quartier/data,Y,Y,,,Building permits issued by municipal ward from October 8 2012 to October 30 2017,February 27 2018,,,June 7 2019
+NS,Cape Breton,https://www.thedatazone.ca/Planning-Development/Statistics-Canada-Building-Permit-Survey-Data-Sect/ccb7-58dr/data,Y,Y,,,"""Building Permit Survey Data - Section A"": residential permits > $50 000 and non-residential projects > 250 000. From June 1 2017 - May 1 2019",May 1 2019,,,June 7 2019
+,,https://www.thedatazone.ca/Planning-Development/Statistics-Canada-Building-Permit-Survey-Data-Sect/cd73-9dph/data,Y,Y,,,"Section B: minor residential additions and renovations, <$50 000.  From June 1 2017 - May 1 2019",May 1 2019,,,June 7 2019
+,,https://www.thedatazone.ca/Planning-Development/Statistics-Canada-Building-Permit-Survey-Data-Sect/uqah-83mx/data,Y,Y,,,"Section C: Minor non-residential renovations and additions, <$250 000.  From June 1 2017 - May 1 2019",May 1 2019,,,June 7 2019
+,,https://www.thedatazone.ca/Planning-Development/Statistics-Canada-Building-Permit-Survey-Data-Sect/k4b5-sybw/data,Y,Y,,,Section D: Residential Demolitions ,May 1 2019,,,June 7 2019
+NS,Halifax,https://catalogue-hrm.opendata.arcgis.com/datasets/1ae0b449678241b3b6d17f1b832ab7a8_0/data,Y,Y,,,Building Permits from  March 28 2003 to March 22 2019, June 2 2019,,,June 10 2019
+ON,Brampton,http://geohub.brampton.ca/datasets/building-permits/data,Y,Y,,,Building Permits starting in 1998,January 29 2019,,Yes,June 10 2019
+ON,Burlington,https://navburl-burlington.opendata.arcgis.com/datasets/building-permits/data,Y,Y,,,"Permits issued or finalized in the last five years, starting May 31 2015",March 29 2019,,Yes,June 7 2019
+ON,Cambridge,http://geohub.cambridge.ca/datasets/building-permits/data,Y,Y,,,Building Permits starting in 1981,March 8 2019,,,June 10 2019
+ON,Greater Sudbury,http://opendata.greatersudbury.ca/datasets/active-building-permits,Y,Y,,,Active Building Permits starting in 1980,February 8 2019,,,June 10 2019
+ON,Hamilton,http://open.hamilton.ca/datasets/5f8dee05638a48279fc88a041eede652_6/data,Y,Y,,,,November 13 2018,,,June 10 2019
+,,http://open.hamilton.ca/datasets/631aa5fe527e42a28edfa8f04054ea99_5,Y,Y,,,Building and Demolition Permits for 2016,November 13 2018,,,June 10 2019
+ON,Kitchener,https://open-kitchenergis.opendata.arcgis.com/datasets/83374b008e58493491eda5e728a51a91_0/data,Y,Y,,,Building Permits starting in 1999,May 30 2019,,Yes,June 10 2019
+ON,Oakville,https://portal-exploreoakville.opendata.arcgis.com/datasets/active-building-permits/data,Y,Y,,,Active Building Permits starting in 2000,August 30 2018,,,June 10 2019
+ON,Ottawa,http://data.ottawa.ca/dataset/construction-demolition-pool-enclosure-permits-monthly,Y,Y,,,"Permits for construction, demolition and pool enclosures, organized monthly and starting in July 2011",,Monthly,,June 7 2019
+ON,Toronto,https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#c9117f72-4eaf-5e45-f3a6-b8b465074217,Y,Y,,,Active Building Permits starting in 1981,,Weekly,Yes,
+ON,Welland,https://www.welland.ca/open/OpendataResp.asp?utitle=Building%20Permits,Y,Y,,,Building Permits since 2004,,Weekly,Yes,June 10 2019
+QC,Laval,https://www.donneesquebec.ca/recherche/fr/dataset/permis-de-construction,Y,Y,,,Building permits starting in 1991,,Daily,,June 10 2019
