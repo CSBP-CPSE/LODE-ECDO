@@ -1,0 +1,16 @@
+{
+    "localfile": "QC_Sherbrooke_Libraries.csv",
+    "format": "csv",
+    "database_type": "library",
+    "info": {
+	"library_name": "LOC",
+	"full_addr": ["AD_NO","AD_GEN","AD_LIEN","AD_SPECI","AD_DIREC","force:sherbrooke", "force:qc", "force:ca"],
+	"website": "URL",
+	"longitude": "LONGITUDE",
+	"latitude": "LATITUDE",
+	"phone": "TEL1"
+
+    }
+}
+
+

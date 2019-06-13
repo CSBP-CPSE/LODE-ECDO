@@ -1,0 +1,304 @@
+<?xml version="1.0"?>
+<CityProjects>
+	<CityProject>
+		<Title>Garry Station</Title>
+		<Description>Garry Station is located in the northwestern portion of the fast developing sector of West Lethbridge.</Description>
+		<Category>New Neighbourhoods</Category>
+		<Link>http://www.lethbridge.ca/Doing-Business/Planning-Development/Planning/Pages/Outline%20Plans.aspx</Link>
+		<StartDate />
+		<EndDate />
+		<Schedule />
+		<Status>Active</Status>
+		<Lat>49.6858129436909</Lat>
+		<Long>-112.912317179989</Long>
+	</CityProject>
+	<CityProject>
+		<Title>BlackWolf</Title>
+		<Description>BlackWolf is located north of the existing Uplands residential community and is owned by Avonlea Land Corporation.</Description>
+		<Category>New Neighbourhoods</Category>
+		<Link>http://www.lethbridge.ca/Doing-Business/Planning-Development/Planning/Pages/Outline%20Plans.aspx</Link>
+		<StartDate />
+		<EndDate />
+		<Schedule />
+		<Status>Active</Status>
+		<Lat>49.740057290877</Lat>
+		<Long>-112.810304181116</Long>
+	</CityProject>
+	<CityProject>
+		<Title>Country Meadows</Title>
+		<Description>Country Meadows is located in the northwestern portion of the fast developing sector of West Lethbridge.</Description>
+		<Category>New Neighbourhoods</Category>
+		<Link>http://www.lethbridge.ca/Doing-Business/Planning-Development/Planning/Pages/Outline%20Plans.aspx</Link>
+		<StartDate />
+		<EndDate />
+		<Schedule />
+		<Status>Active</Status>
+		<Lat>49.6928684389212</Lat>
+		<Long>-112.917277429808</Long>
+	</CityProject>
+	<CityProject>
+		<Title>The Canyons</Title>
+		<Description>Phase 2</Description>
+		<Category>New Neighbourhoods</Category>
+		<Link>http://www.lethbridge.ca/Doing-Business/Planning-Development/Planning/Pages/Outline%20Plans.aspx</Link>
+		<StartDate />
+		<EndDate />
+		<Schedule />
+		<Status>Active</Status>
+		<Lat>49.6514459240341</Lat>
+		<Long>-112.848256074289</Long>
+	</CityProject>
+	<CityProject>
+		<Title>Legacy Ridge</Title>
+		<Description>Phase 3</Description>
+		<Category>New Neighbourhoods</Category>
+		<Link>http://www.lethbridge.ca/Doing-Business/Planning-Development/Planning/Pages/Outline%20Plans.aspx</Link>
+		<StartDate />
+		<EndDate />
+		<Schedule />
+		<Status>Active</Status>
+		<Lat>49.7363163999673</Lat>
+		<Long>-112.831299406003</Long>
+	</CityProject>
+	<CityProject>
+		<Title>Copperwood</Title>
+		<Description>Phase 17</Description>
+		<Category>New Neighbourhoods</Category>
+		<Link>http://www.lethbridge.ca/Doing-Business/Planning-Development/Planning/Pages/Outline%20Plans.aspx</Link>
+		<StartDate />
+		<EndDate />
+		<Schedule />
+		<Status>Active</Status>
+		<Lat>49.6657046477203</Lat>
+		<Long>-112.897783395086</Long>
+	</CityProject>
+	<CityProject>
+		<Title>RiverStone</Title>
+		<Description>Phase 22</Description>
+		<Category>New Neighbourhoods</Category>
+		<Link>http://www.lethbridge.ca/Doing-Business/Planning-Development/Planning/Pages/Outline%20Plans.aspx</Link>
+		<StartDate />
+		<EndDate />
+		<Schedule />
+		<Status>Active</Status>
+		<Lat>49.6555102875982</Lat>
+		<Long>-112.863004466414</Long>
+	</CityProject>
+	<CityProject>
+		<Title>Crossings</Title>
+		<Description>Phase 3</Description>
+		<Category>New Neighbourhoods</Category>
+		<Link />
+		<StartDate />
+		<EndDate />
+		<Schedule>Later this year</Schedule>
+		<Status>Active</Status>
+		<Lat>49.6748911081823</Lat>
+		<Long>-112.905938285417</Long>
+	</CityProject>
+	<CityProject>
+		<Title>University of Lethbridge - Destination Project</Title>
+		<Description>A new science and academic building at the University of Lethbridge.
+Phase 2</Description>
+		<Category>Commercial Buildings</Category>
+		<Link>http://www.destinationproject.ca/</Link>
+		<StartDate />
+		<EndDate />
+		<Schedule />
+		<Status>Active</Status>
+		<Lat>49.6802453854841</Lat>
+		<Long>-112.860448970169</Long>
+	</CityProject>
+	<CityProject>
+		<Title>Heritage Heights - 2 Storey Office Building</Title>
+		<Description>Two storey office building</Description>
+		<Category>Commercial Buildings</Category>
+		<Link />
+		<StartDate>05/18/2016 00:00:00</StartDate>
+		<EndDate />
+		<Schedule />
+		<Status>Active</Status>
+		<Lat>49.698735180403</Lat>
+		<Long>-112.892405545719</Long>
+	</CityProject>
+	<CityProject>
+		<Title>Chinese Restaurant</Title>
+		<Description>New Chinese Restaurant. Base building complete, addition to building for patio area being developed.</Description>
+		<Category>Commercial Buildings</Category>
+		<Link />
+		<StartDate>04/08/2016 00:00:00</StartDate>
+		<EndDate />
+		<Schedule />
+		<Status>Active</Status>
+		<Lat>49.6948312746194</Lat>
+		<Long>-112.78331470222</Long>
+	</CityProject>
+	<CityProject>
+		<Title>Appartment Building - The Grand</Title>
+		<Description>38 Unit appartment building</Description>
+		<Category>Commercial Buildings</Category>
+		<Link />
+		<StartDate>03/16/2016 00:00:00</StartDate>
+		<EndDate />
+		<Schedule />
+		<Status>Active</Status>
+		<Lat>49.668294012808</Lat>
+		<Long>-112.783752850164</Long>
+	</CityProject>
+	<CityProject>
+		<Title>8 Bay Commercial Building</Title>
+		<Description>Construction of an 8 bay commercial structure</Description>
+		<Category>Commercial Buildings</Category>
+		<Link />
+		<StartDate>07/20/2016 00:00:00</StartDate>
+		<EndDate />
+		<Schedule />
+		<Status>Active</Status>
+		<Lat>5511015.06920043</Lat>
+		<Long>87041.9032777969</Long>
+	</CityProject>
+	<CityProject>
+		<Title>Tim Hortons</Title>
+		<Description>New Tim Hortorns with Drive Thru and Patio Area</Description>
+		<Category>Commercial Buildings</Category>
+		<Link />
+		<StartDate />
+		<EndDate />
+		<Schedule>Spring 2017</Schedule>
+		<Status>Scheduled</Status>
+		<Lat>5503990.17273632</Lat>
+		<Long>87451.2632815572</Long>
+	</CityProject>
+	<CityProject>
+		<Title>New Building for Immanual Christian School</Title>
+		<Description>New Building for Immanual Christian School</Description>
+		<Category>Commercial Buildings</Category>
+		<Link />
+		<StartDate>11/18/2016 00:00:00</StartDate>
+		<EndDate />
+		<Schedule />
+		<Status>Active</Status>
+		<Lat>5508415.41931931</Lat>
+		<Long>84037.9798655752</Long>
+	</CityProject>
+	<CityProject>
+		<Title>Richardson Oilseed Ltd.</Title>
+		<Description>New 'Probe House' &amp; 'Cold Storage'</Description>
+		<Category>Commercial Buildings</Category>
+		<Link />
+		<StartDate>11/03/2016 00:00:00</StartDate>
+		<EndDate />
+		<Schedule />
+		<Status>Active</Status>
+		<Lat>49.7018459994185</Lat>
+		<Long>-112.802695897333</Long>
+	</CityProject>
+	<CityProject>
+		<Title>Apostolic Church</Title>
+		<Description>New Church</Description>
+		<Category>Commercial Buildings</Category>
+		<Link />
+		<StartDate>11/09/2016 00:00:00</StartDate>
+		<EndDate />
+		<Schedule />
+		<Status>Active</Status>
+		<Lat>5503163.10880491</Lat>
+		<Long>81012.4611765099</Long>
+	</CityProject>
+	<CityProject>
+		<Title>Richardson Oilseed - Cooker Building</Title>
+		<Description>Footing and foundation for new cooker building.</Description>
+		<Category>Commercial Buildings</Category>
+		<Link />
+		<StartDate>01/10/2017 00:00:00</StartDate>
+		<EndDate />
+		<Schedule />
+		<Status>Active</Status>
+		<Lat>49.7018944433347</Lat>
+		<Long>-112.802109410452</Long>
+	</CityProject>
+	<CityProject>
+		<Title>New Church</Title>
+		<Description>New church on vacant land</Description>
+		<Category>Commercial Buildings</Category>
+		<Link />
+		<StartDate>05/09/2017 00:00:00</StartDate>
+		<EndDate />
+		<Schedule>Spring 2017</Schedule>
+		<Status>Active</Status>
+		<Lat>49.693462620292</Lat>
+		<Long>-112.783875720858</Long>
+	</CityProject>
+	<CityProject>
+		<Title>Hot Topic</Title>
+		<Description>Hot Topic in Park Place Mall</Description>
+		<Category>Commercial Buildings</Category>
+		<Link />
+		<StartDate>06/27/2017 00:00:00</StartDate>
+		<EndDate />
+		<Schedule />
+		<Status />
+		<Lat>49.697981680504</Lat>
+		<Long>-112.840525727783</Long>
+	</CityProject>
+	<CityProject>
+		<Title>Commercial Retail Units</Title>
+		<Description>Commercial Retail Units 6870 sq ft</Description>
+		<Category>Commercial Buildings</Category>
+		<Link />
+		<StartDate>06/23/2017 00:00:00</StartDate>
+		<EndDate />
+		<Schedule />
+		<Status>Active</Status>
+		<Lat>5507096.40950399</Lat>
+		<Long>87705.404724699</Long>
+	</CityProject>
+	<CityProject>
+		<Title>Richardson Oilseeds - Interior Renovation</Title>
+		<Description>Interior Reno within the existing office area to develop Q&amp;A Testing Facility.</Description>
+		<Category>Commercial Buildings</Category>
+		<Link />
+		<StartDate>06/22/2017 00:00:00</StartDate>
+		<EndDate />
+		<Schedule />
+		<Status>Active</Status>
+		<Lat>5507784.36460677</Lat>
+		<Long>86433.5576058751</Long>
+	</CityProject>
+	<CityProject>
+		<Title>Legacy Regional Park</Title>
+		<Description>Maintenance Building</Description>
+		<Category>Commercial Buildings</Category>
+		<Link />
+		<StartDate>06/19/2017 00:00:00</StartDate>
+		<EndDate />
+		<Schedule />
+		<Status>Active</Status>
+		<Lat>49.7377379173553</Lat>
+		<Long>-112.818332382864</Long>
+	</CityProject>
+	<CityProject>
+		<Title>Pannizza Restaurant</Title>
+		<Description>Tenant fitout in Park Place Mall</Description>
+		<Category>Commercial Buildings</Category>
+		<Link />
+		<StartDate>05/29/2017 00:00:00</StartDate>
+		<EndDate />
+		<Schedule />
+		<Status>Active</Status>
+		<Lat>5507356.0660734</Lat>
+		<Long>83754.6350753484</Long>
+	</CityProject>
+	<CityProject>
+		<Title>ATB Leisure Centre - Phase 2</Title>
+		<Description>NEW CONSTRUCTION OF PHASE 2 - LEISURE CENTRE </Description>
+		<Category>Commercial Buildings</Category>
+		<Link>https://www.lethbridge.ca/Things-To-Do/Arenas-Ice-Centres/Pages/ATBCentreArenas.aspx</Link>
+		<StartDate>08/23/2016 00:00:00</StartDate>
+		<EndDate />
+		<Schedule />
+		<Status>Active</Status>
+		<Lat>49.6722385374971</Lat>
+		<Long>-112.909998020178</Long>
+	</CityProject>
+</CityProjects>

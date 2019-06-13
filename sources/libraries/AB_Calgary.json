@@ -1,0 +1,13 @@
+{
+    "localfile": "AB_Calgary_Libraries.csv",
+    "format": "csv",
+    "database_type": "library",
+    "info": {
+	"library_name": "Library",
+	"full_addr": ["Address", "force:calgary", "force:ab", "force:ca","Postal_Code"],
+	"longitude": "LONGITUDE",
+	"latitude": "LATITUDE",
+	"phone": "Phone_Number"
+    }
+}
+

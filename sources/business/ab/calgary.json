@@ -1,0 +1,15 @@
+{
+    "localfile": "bus-ab-calgary.csv",
+    "url": "https://data.calgary.ca/api/views/vdjc-pybd/rows.csv?accessType=DOWNLOAD",
+    "format": "csv",
+    "database_type": "business",
+    "info": {
+        "trade_name": "TRADENAME",
+	"lic_type": "LICENCETYPES",
+	"full_addr": "ADDRESS",
+	"bus_start_date": "JOBCREATED",
+	"latitude": "latitude",
+	"longitude": "longitude",
+	"comdist": "COMDISTNM"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "localfile": "bus-bc-victoria.csv",
+    "url": "http://vicmap.victoria.ca/_BusData/AllBusinessLicences_LatLong.csv",
+    "format": "csv",
+    "database_type": "business",
+    "info": {
+        "trade_name": "TRADE_NAME",
+	"bus_type": "Category",
+	"lic_no": "LICENCE_NUMBER",
+	"address": {
+	    "unit": "CIVIC_UNIT",
+	    "street_no": "CIVIC_HOUSE",
+	    "street_name": "CIVIC_STREET"
+	},
+	"latitude": "Latitude",
+	"longitude": "Longitude",
+	"comdist": "Neighbourhood",
+	"naics_desc": "naics_description"
+    }
+}

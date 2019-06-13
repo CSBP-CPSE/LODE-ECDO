@@ -1,0 +1,19 @@
+{
+    "localfile": "fire_st-qc-montreal.csv",
+    "format": "csv",
+    "database_type": "fire_station",
+    "url": "http://donnees.ville.montreal.qc.ca/dataset/c69e78c6-e454-4bd9-9778-e4b0eaf8105b/resource/f6542ad1-31f5-458e-b33d-1a028fab3e98/download/casernes.csv",
+    "info": {
+	"fire_stn_name": "CASERNE",
+	"address": {
+	    "street_no": "NO_CIVIQUE",
+	    "street_name": "RUE",
+	    "city": "force:Montreal",
+	    "prov/terr": "force:QC",
+	    "country": "force:CA"
+	},
+	"longitude": "LONGITUDE",
+	"latitude": "LATITUDE",
+	"comdist": "ARRONDISSEMENT"
+    }
+}

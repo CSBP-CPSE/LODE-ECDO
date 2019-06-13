@@ -1,0 +1,15 @@
+{
+    "localfile": "ON_Waterloo_Libraries.csv",
+    "format": "csv",
+    "database_type": "library",
+    "info": {
+	"library_name": "Name",
+	"library_board":"Organization",
+	"full_addr": ["Address","Municipality", "force:on", "force:ca"],
+	"website": "Website",
+	"phone": "Phone",
+	"Longitude": "X",
+	"Latitude": "Y"
+
+    }
+}

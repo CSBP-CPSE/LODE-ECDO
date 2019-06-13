@@ -1,0 +1,14 @@
+{
+    "localfile": "ON_Ottawa_Libraries.xml",
+    "format": "xml",
+	"header":"BranchInfo",
+    "database_type": "library",
+    "info": {
+	"library_name": "Name",
+	"full_addr": ["Address","force:ottawa", "force:on", "force:ca","ZipCode"],
+	"Longitude": "Longitude",
+	"Latitude": "Latitude",
+	"email": "Email"
+
+    }
+}

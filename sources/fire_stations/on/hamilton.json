@@ -1,0 +1,12 @@
+{
+    "localfile": "fire_st-on-hamilton.csv",
+    "format": "csv",
+    "database_type": "fire_station",
+    "url": "https://opendata.arcgis.com/datasets/dbb028cd6bcc4b218c607952b760fd04_5.csv?outSR=%7B%22wkid%22%3A26917%2C%22latestWkid%22%3A26917%7D",
+    "info": {
+	"fire_stn_name": "NAME",
+	"full_addr": ["ADDRESS", "force:Hamilton, Ontario, CA"],
+	"longitude": "LONGITUDE",
+	"latitude": "LATITUDE"
+    }
+}

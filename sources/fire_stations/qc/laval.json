@@ -1,0 +1,14 @@
+{
+    "localfile": "fire_st-qc-laval.csv",
+    "format": "csv",
+    "database_type": "fire_station",
+    "filter":{"type-commun":["Caserne de pompiers"]},
+    "info": {
+	"fire_stn_name": "nom-commun",
+	"full_addr": ["no-civique", "voie","force:laval", "force:qc", "force:canada","code-postal"],
+	"longitude": "longitude",
+	"latitude": "latitude"
+    }
+}
+
+

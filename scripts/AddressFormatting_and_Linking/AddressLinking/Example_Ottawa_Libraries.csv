@@ -1,0 +1,34 @@
+library_name,street_no,street_name,matches_r,ratio,x,y,
+alta vista,2516,alta vista,alta vista dr,87,-75.6618188,45.3781725,TP
+beaverbrook,2500,campeau,campeau dr,82,-75.89668185,45.3204415,TP
+blackburn hamlet,199,glen pk,glen park dr,74,-75.5645246,45.4308867,TP
+carlingwood,281,woodroffe,woodroffe ave,82,-75.7718187,45.3732158,TP
+carp,3911,carp,carp rd,73,-76.0521546,45.3518637,TP
+centennial,3870,old richmond rd,old richmond rd,100,-75.8255927,45.321021,TP
+constance bay,262,len purcell,len purcell dr,88,-76.0879323,45.4970178,TP
+cumberland,1599,tenth line,tenth line rd,87,-75.4921273,45.4717052,TP
+elmvale acres,1910,st-laurent,"st-laurent, blvd",77,-75.6240663,45.3988862,TP
+emerald plaza,1547,merivale,merivale rd,84,-75.7332793,45.3545586,TP
+fitzroy harbour,100,clifford campbell,clifford campbell st,92,-76.2067976,45.4700229,TP
+greely,1448,meadow dr,meadow dr,100,-75.5572041,45.2608138,TP
+greenboro,363,lorry greenberg dr,lorry greenberg dr,100,-75.6353238333,45.3633253667,TP
+hazeldean,50,castlefrank,castlefrank rd,88,-75.8860741,45.2955037,TP
+main,120,metcalfe,metcalfe st,84,-75.6957768667,45.4203096,TP
+manotick,5499,south river,south river dr,88,-75.679795125,45.2305093,TP
+metcalfe,2782,8th line,8th line rd,84,-75.4697823,45.2295893,TP
+munster,7749,bleeks,bleeks rd,80,-75.93912,45.1652793,TP
+nepean centrepointe,101,centrepointe,centrepointe dr,89,-75.76128546,45.34449722,TP
+north gloucester,2036,ogilvie,ogilvie rd,82,-75.6006177,45.4368362,TP
+north gower,6579,fourth line,fourth line rd,88,-75.7174918,45.1329446,TP
+orléans,1705,orléans,"orleans, boulevard d'",52,,,FN
+osgoode,5630,osgoode main,osgoode main st,89,-75.6030625,45.1473892,TP
+richmond,6240,perth av,perth st,75,-75.8437984,45.1907036,TP
+rideau,377,rideau,rideau st,80,-75.6831972,45.4301019,TP
+rockcliffe park,380,springfield,springfield rd,88,-75.6784688,45.4507598,TP
+rosemount,18,rosemount,rosemount ave,82,-75.7263278,45.401641,TP
+ruth e. dickinson,100,malvern,malvern dr,82,-75.7616053,45.2805145,TP
+st-laurent,515,côté,alcor terr,57,,,TN
+stittsville,1637,stittsville main,stittsville main st,91,-75.9150765,45.2543298,TP
+sunnyside,1049,bank,bank st,73,-75.6837913,45.3955385,TP
+vanier,310,pères blancs,des peres blancs ave,75,-75.6610753,45.4440402,TP
+vernon,8682,bank,bank st,73,-75.4637606,45.1632219,TP

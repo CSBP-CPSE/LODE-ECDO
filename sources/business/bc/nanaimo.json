@@ -1,0 +1,21 @@
+{
+    "localfile": "bus-bc-nanaimo.csv",
+    "format": "csv",
+    "database_type": "business",
+    "info": {
+        "trade_name": "TradeName",
+	"lic_no": "Licence",
+	"bus_desc": "BusinessDescription",
+	"bus_start_date": "approval_type_date",
+	"address": {
+	    "street_no": "CivicAddressHouse",
+	    "street_name": "CivicAddressStreet",
+	    "unit": "CivicAddressUnit",
+	    "city": "CivicAddressCity",
+	    "prov/terr": "CivicAddressProvince"
+	},
+	"naics_4": "NAICSDetail",
+	"latitude": "Latitude",
+	"longitude": "Longitude"
+    }
+}

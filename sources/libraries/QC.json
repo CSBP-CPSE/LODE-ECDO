@@ -1,0 +1,15 @@
+{
+    "localfile": "QC_Libraries.csv",
+    "format": "csv",
+    "database_type": "library",
+    "info": {
+	"library_name": "Nom",
+	"full_addr": ["Adresse","Municipalité", "force:qc", "force:ca", "Code postal"],
+	"website": "Site",
+	"Longitude": "LONGITUDE",
+	"Latitude": "LATITUDE",
+	"phone": "Téléphone"
+
+    }
+}
+

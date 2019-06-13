@@ -1,0 +1,15 @@
+{
+    "localfile": "BC_Libraries.csv",
+    "format": "csv",
+    "database_type": "library",
+    "info": {
+	"library_name": "LIBRARY",
+	"full_addr": ["ADDRESS", "CITY", "force:bc", "force:canada","POSTAL"],
+	"phone": "PHONE",
+	"email": "EMAIL",
+	"website": "WEBSITE"
+    }
+}
+
+
+

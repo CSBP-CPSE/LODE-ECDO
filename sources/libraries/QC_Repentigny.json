@@ -1,0 +1,15 @@
+{
+    "localfile": "QC_Repentigny_Libraries.csv",
+    "format": "csv",
+    "database_type": "library",
+    "info": {
+	"library_name": "NOM",
+	"full_addr": ["ADRESSE","force:repentigny", "force:qc", "force:ca"],
+	"website": "SITEWEB",
+	"longitude": "LONGITUDE",
+	"latitude": "LATITUDE",
+	"phone": "TELEPHONE",
+	"email": "EMAIL"
+
+    }
+}

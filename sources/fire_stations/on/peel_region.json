@@ -1,0 +1,15 @@
+{
+    "localfile": "fire_st-on-peel_region.csv",
+    "format": "csv",
+    "database_type": "fire_station",
+    "url": "https://opendata.arcgis.com/datasets/2c53a937c0494c2786f01b75d4339f0c_6.csv?outSR=%7B%22wkid%22%3A102100%2C%22latestWkid%22%3A3857%7D",
+    "filter": {
+	"LM_TYPE": ["Fire"]
+    },
+    "info": {
+	"fire_stn_name": "LM_NAME",
+	"full_addr": ["STR_ADDR", "MUN", "PR", "force:Canada", "POSTAL"],
+	"longitude": "LONG_WGS",
+	"latitude": "LAT_WGS"
+    }
+}

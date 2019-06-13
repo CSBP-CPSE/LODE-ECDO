@@ -1,0 +1,16 @@
+{
+    "localfile": "fire_st-mb-winnipeg.csv",
+    "format": "csv",
+    "database_type": "fire_station",
+    "pre": "scripts/fire_stations/mb/winnipeg.sh",
+    "url": "https://data.winnipeg.ca/api/views/s9qh-5s77/rows.csv?accessType=DOWNLOAD",
+    "filter": {
+	"Station Type": ["Fire"]
+    },
+    "info": {
+	"fire_stn_name": "Station Number",
+	"full_addr": ["Address", "force:Winnipeg, Manitoba, CA"],
+	"longitude": "X",
+	"latitude": "Y"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "localfile": "fire_st-qc-gatineau.csv",
+    "format": "csv",
+    "database_type": "fire_station",
+    "info": {
+	"fire_stn_name": "NOM_TOPOGR",
+	"full_addr": ["ADR_COMPLE", "force:gatineau", "force:qc", "force:canada"],
+	"longitude": "LONGITUDE",
+	"latitude": "LATITUDE"
+    }
+}
+
+

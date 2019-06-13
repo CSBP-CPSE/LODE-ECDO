@@ -1,0 +1,15 @@
+{
+    "localfile": "BC_Hospitals.csv",
+    "format": "csv",
+    "database_type": "hospital",
+    "info": {
+	"hospital_name": "SV_NAME",
+	"health_authority": "RG_NAME",
+	"full_addr": ["STREET_NUMBER", "CITY", "PROVINCE", "force:canada", "POSTAL_CODE"],
+	"longitude": "LONGITUDE",
+	"latitude": "LATITUDE",
+	"phone": "PHONE_NUMBER",
+	"website": "WEBSITE"
+    }
+}
+

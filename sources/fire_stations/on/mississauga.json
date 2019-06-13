@@ -1,0 +1,18 @@
+{
+    "localfile": "fire_st-on-mississauga.csv",
+    "format": "csv",
+    "database_type": "fire_station",
+    "url": "http://data.mississauga.ca/datasets/e84a2af2c2c6489cbd42086769df9b5e_0.csv",
+    "info": {
+	"fire_stn_name": "LANDMARKNA",
+	"address": {
+	    "street_no": "STNO",
+	    "street_name": ["STNAME", "SUFFIX", "POSTDIR"],
+	    "city": "CITY",
+	    "prov/terr": "force:ON",
+	    "country": "force:CA"
+	},
+	"longitude": "X",
+	"latitude": "Y"
+    }
+}

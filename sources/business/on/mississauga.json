@@ -1,0 +1,23 @@
+{
+    "localfile": "bus-on-mississauga.csv",
+    "url": "http://data.mississauga.ca/datasets/1475270a07744940b1a641c99f503571_0.csv",
+    "format": "csv",
+    "database_type": "business",
+    "info": {
+	"bus_name": "Name",
+	"address" : {
+	    "street_no": "StreetNo",
+	    "street_name": "StreetName",
+	    "unit": "Unit_No",
+	    "postcode": "PostalCode"
+	},
+	"naics_6": "NAICSCode",
+	"naics_desc": "NAICSTitle",
+	"emp_range": "EmplRange",
+	"phone": "Phone",
+	"fax": "Fax",
+	"tollfree": "TollFree",
+	"email": "EMail",
+	"website": "WebAddress"
+    }
+}

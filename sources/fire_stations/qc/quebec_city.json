@@ -1,0 +1,12 @@
+{
+    "localfile": "fire_st-qc-quebec_city.csv",
+    "format": "csv",
+    "database_type": "fire_station",
+    "info": {
+	"fire_stn_name": "NOM_TOPOGRAPHIE",
+	"full_addr": ["NO_CIVIQUE","RUE","force:ville de quebec", "force:qc", "force:ca"],
+	"longitude": "LONGITUDE",
+	"latitude": "LATITUDE"
+    }
+}
+

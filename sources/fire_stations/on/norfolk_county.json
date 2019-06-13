@@ -1,0 +1,12 @@
+{
+    "localfile": "fire_st-on-norfolk_county.csv",
+    "format": "csv",
+    "database_type": "fire_station",
+    "url": "https://opendata.arcgis.com/datasets/fc0850d639fa44e7bc1fff2e416aa143_0.csv?outSR=%7B%22wkid%22%3A102100%2C%22latestWkid%22%3A3857%7D",
+    "info" : {
+	"fire_stn_name": "Station",
+	"full_addr": ["Address", "force: Norfolk County, ON, CA,", "PostalCode"],
+	"longitude": "X",
+	"latitude": "Y"
+    }
+}

@@ -1,0 +1,77 @@
+FACILITYID,LEGACYID,SURFACE_COVER,CONSTRUCTION_TYPE,ROAD,STRUCTURE_LENGTH,STRUCTURE_WIDTH,NO_LANE,SIDEWALKS1_MATERIAL,SIDEWALKS1_WIDTH,SIDEWALKS2_MATERIAL,SIDEWALKS2_WIDTH,TIRE_RAILS1_MATERIAL,TIRE_RAILS1_LOCATION,TIRE_RAILS2_MATERIAL,TIRE_RAILS2_LOCATION,ROTATION,STATUS,PROJECT_NO,YR,OWNER,LOCATION,COMMENTS,GIS_ENTRY_STAGE,WARRANTYDATE,CONDITION,CONDITIONDATE,YTD_COST,LIFECYCLE_COST,CRE_DATE,MOD_DATE,Latitude,Longitude
+1001826497,,Concrete,Concrete,Tannery Rd @ SFPR,,,6,Concrete,2,,,,,,,220,In Service,SFPR Seg. 6,2014,Provincial,,,Final AB,,,,,,20150602,20160324,49.196185,-122.893097
+1001826552,,Concrete,Steel,Tannery Rd X-ing BNSF & CN,,,4,Concrete,,,,,,,,220,In Service,SFPR Seg. 6,2014,Provincial,,,Final AB,,,,,,20150602,20160329,49.196687,-122.894055
+1001818682,,Asphalt,Concrete,192 St,124000,22800,4,Asphalt,3,,,,,,,90,In Service,1709-3130-00,2014,Surrey,,,Final AB,,,,,,20150416,20150416,49.097221,-122.691085
+1001849970,,,Concrete,148 St,15500,16510,2,Concrete,2700,Concrete,2700,,,,,90,In Service,4809-5010-00,2014,Surrey,148 St & Hyland Creek,,Final AB,,,,,,20151209,20151209,49.120639,-122.812181
+1001434414,,Unknown,Concrete,,12,4,,,,,,,,,,,In Service,Bridge,2000,Surrey,,,Final AB,,,,,,20120921,20120921,49.166168,-122.749736
+1001558123,,Asphalt,Concrete,196 St,,,4,Concrete,2,,,,,,,90,In Service,1709-3140-00,2014,Surrey,196 St @ Hwy 10 (Bypass),RBRC,Final AB,,,,,,20121026,20150317,49.108873,-122.680024
+1001356697,,Asphalt,Concrete,,,,4,Concrete,2,Concrete,2,,,,,90,In Service,1708-3080-00,2015,Surrey,152 St & BC Railway,,Initial AB,,,,,,20120118,20150923,49.098533,-122.801119
+1001946128,,Concrete,,King George Blvd,,,,,,,,,,,,57,In Service,,,Surrey,,Bailey Bridge,,,,,,,20170901,20180110,49.069187,-122.822745
+1001946129,1001946128,,,King George Blvd,,,,,,,,,,,,57,In Service,,,Surrey,,Timber Bridge,,,,,0,0,20170901,20180110,49.069245,-122.822582
+1001946130,,Asphalt,Steel,Hwy 99A,,,,,,,,,,,,28,In Service,,,Surrey,Pattullo Bridge,,,,,,,,20170901,20180110,49.207702,-122.894502
+1001568137,,Concrete,Concrete,09600,27800,24780,4,Concrete,3,Concrete,3,,,,,,In Service,1709-3090-00,2012,Surrey,Serpentine River @ 96 Ave,,Final AB,,,,,,20130220,20130220,49.177014,-122.763188
+1000962296,,Asphalt,Steel,03400,24,13,2,Concrete,2,Concrete,2,,0,,0,0,In Service,1711-8070-00,2012,Surrey,"34 Ave, east of 150 St ",Barbara Crk Bridge,Final AB,,,,,,,20140905,49.063573,-122.805473
+1000962306,,Asphalt,Concrete,19200,,,2,,,,0,,,,,90,In Service,1703-3070-00,2005,Surrey,192 St @ Nicomekl River,,Final AB,,,,,,,20121102,49.095330,-122.691116
+1001557944,,Asphalt,Concrete,54 Ave,94,15,2,Concrete,3,,,,,,,-135,In Service,1709-7090-00,2014,Surrey,54 Ave & CP Railway,RBRC,Final AB,,,,,,20150327,20150327,49.100636,-122.686214
+1001882675,,Concrete,Concrete,Barnston Drive East,35000,16820,2,Concrete,2,Concrete,2,,,,,,In Service,MOTH BRIDGE 5928,2014,Provincial,Barnston Dr & 176 St - Underpass,,Final AB,,,,,,20160704,20161214,49.185529,-122.734319
+1001899945,,Asphalt,Concrete,,,,5,Concrete,,,,,,,,90,In Service,MOTH BRIDGE 1651,2014,Provincial,Hwy 1 & 176 St,,Final AB,,,,,,20161214,20161214,49.181555,-122.734843
+1001881716,,Concrete,Concrete,192 St,,,2,Concrete,,,,,,,,314,In Service,,,Provincial,192 St Overpass,,Final AB,,,,,,20160624,20161214,49.170319,-122.692241
+1001899098,,Asphalt,Concrete,16 Ave,50,31,4,Concrete,,Concrete,,,,,,,In Service,MOTH 12449-2013,2013,Provincial,16 Ave & Hwy 99,,Final AB,,,,,,20161205,20161205,49.031092,-122.769327
+1001149452,,Wooden,Wooden,16000,,,0,,,,,,,,,90,In Service,,1985,Surrey,160 St Pathway Bridge at Campbell River,"Access to Semiahmoo Reserve, 160 St & 8 Ave",,,,,,,20100212,20110715,49.016140,-122.779404
+1001217760,,Asphalt,Concrete,,,,4,Concrete,2,Concrete,2,,,,,,In Service,,,Surrey,24 Ave over Hwy 99,,,,,,,,20111101,20111101,49.045568,-122.785380
+1001149417,,Concrete,Concrete,00101,,,4,,,,,,,,,215,In Service,,1952,Surrey,Fraser Hwy & Serpentine River,Year built changed from 2010 to 1952 as per Associated Engineering (BC) Ltd.,,,,,,,20100211,20161020,49.139554,-122.738113
+1001899992,,Asphalt,Concrete,,68935,26820,4,Concrete,2,Concrete,2,,,,,105,In Service,MOTH BRIDGE 1652,2014,Surrey,160 St & Hwy 1,,Final AB,,,,,,20161215,20161215,49.192187,-122.777785
+1001184243,,Concrete,Concrete,13601,63,10,2,,,,,,,,,105,In Service,1708-3130-00,2010,Surrey,King George Blvd @ Serpentine Bridge East,Original year built was 1939 as per Associated Engineering (BC) Ltd.,Final AB,,,,,,20101208,20110729,49.086736,-122.818542
+1001149418,,Concrete,Concrete,13601,63,10,2,,,,,,,,,105,In Service,1708-3130-00,2010,Surrey,King George Blvd @ Serpentine Bridge West,Original year built was 1939 as per Associated Engineering (BC) Ltd.,Final AB,,,,,,20101208,20110729,49.086764,-122.818682
+1000962295,,Asphalt,Wooden,01200,,,2,Wooden,1,Asphalt,1,Wooden,1,Wooden,2,0,In Service,,1976,Surrey,12 Ave @ Campbell River,,,,,,,,,20110729,49.023913,-122.719418
+1001149420,,Asphalt,Unknown,13601,,,4,,,,,,,,,88,In Service,,1958,Surrey,"KGB @ Bear Creek, south of 88 Ave",Can't locate as-built,,,,,,,20100212,20110729,49.160813,-122.845790
+1000962302,,Asphalt,Concrete,15200,,,2,Concrete,2,Unknown,0,Steel,3,Steel,4,90,In Service,,1982,Surrey,152 St @ Nicomekl River,,,,,,,,,20110729,49.070169,-122.801244
+1001900056,,Concrete,Concrete,,73334,23446,4,Concrete,2,,,,,,,110,In Service,MOTH BRIDGE 1653,2014,Provincial,152 St & Hwy 1,,Final AB,,,,,,20161215,20161215,49.201348,-122.797925
+1000962311,,Asphalt,Concrete,08800,,,4,Concrete,1,Concrete,1,,0,,0,0,In Service,,1969,Surrey,Quibble Crk: 88 Ave east of KGB,METAL RAILING ON S SIDE SLIGHTLY BENT/NOT A HAZARD,,,,,,,,20110729,49.162761,-122.844724
+1001149422,,Asphalt,Concrete,06400,,,2,,,,,,,,,0,In Service,,1996,Surrey,64 Ave @ Serpentine Canal,Year built changed to 1996 as per Associated Engineering (BC) Ltd.,Final AB,,,,,,20100212,20110729,49.118916,-122.773558
+1001149423,,Asphalt,Concrete,06400,,,2,,,,,,,,,0,In Service,,1996,Surrey,64 Ave Serpentine River,15800 block by Hyland Creek,,,,,,,20100212,20110729,49.118924,-122.784953
+1001149424,,Asphalt,Unknown,13601,,,2,,,,,,,,,0,In Service,,1988,Surrey,King George Eastbound Off-Ramp ,At Scott Rd,,,,,,,20100212,20110729,49.205939,-122.874932
+1000962309,,Concrete,Concrete,08000,,,2,Concrete,2,Unknown,0,,0,,0,0,In Service,,1980,Surrey,80 Ave @Serpentine River,,,,,,,,,20110729,49.147978,-122.730457
+1000962305,,Concrete,Concrete,14400,,,2,Concrete,2,Concrete,2,,0,,0,90,In Service,,1980,Surrey,Bear Crk: 144 St south of 79 Ave,,,,,,,,,20110729,49.145677,-122.823421
+1000962304,,Concrete,Wooden,14000,,,2,Concrete,1,Concrete,1,,0,,0,90,In Service,,1975,Surrey,Bear Crk: 140 St north of 80B Ave,,,,,,,,,20110729,49.149759,-122.834569
+1000962294,,Concrete,Concrete,16800,,,2,Unknown,0,Unknown,0,Wooden,3,Wooden,4,90,In Service,,1975,Surrey,168 St @ Serpentine River,6 HWY NO POSTS ON SW SIDE ARE TO KEEP VEHICLES OUT,,,,,,,,20110729,49.132195,-122.756474
+1001153566,,Concrete,Concrete,Hwy 15,,,2,Concrete,,,,Steel,,,,70,In Service,MOTH 71101-2004,2006,Provincial,Roger Pierlet Bridge,,Final AB,,,,,,20100324,20100602,49.100443,-122.737136
+1001162872,,Concrete,,Hwy 15,,,2,,,,,,,,,70,In Service,,1974,Provincial,Cloverdale Bypass S of Hwy 10,,Final AB,,,,,,20100602,20100602,49.100450,-122.736863
+1001147786,,,,,,,,,,,,,,,,19,In Service,,2009,Translink,,,,,,,,,20100127,20160624,49.176308,-122.715653
+1001147785,,,,,,,,,,,,,,,,19,In Service,,2009,Translink,,,,,,,,,20100127,20160624,49.176591,-122.715293
+1001933459,,Concrete,Concrete,,,,4,Concrete,2,Concrete,2,,,,,-129,In Service,1714-3080-00,2016,Surrey,Anderson Creek @ King George Blvd.,,Initial AB,,,,,,20170601,20170601,49.063370,-122.815592
+1001168238,,Asphalt,Concrete,8 Ave,,,3,,,,,,,,,-10,In Service,MOTH 11257,2006,Provincial,8 Ave @ Hwy 99 Overpass,,Final AB,,,,,,20100722,20100722,49.016741,-122.759624
+1001192164,,Asphalt,Concrete,,,,4,,,,,,,,,,In Service,,2009,Provincial,Serpentine River & Hwy 10,,Final AB,,,,,,20110318,20110318,49.104445,-122.769387
+1000962299,,Wooden,Wooden,16800,43,10,2,Asphalt,1,,0,Wooden,3,Wooden,4,90,In Service,3942,1975,Surrey,168 St @ Nicomekl River,,Final AB,,,,,,,20110707,49.090443,-122.756690
+1001900059,,Concrete,Concrete,,55440,11738,2,,,,,,,,,-30,In Service,MOTH BRIDGE 2005,2013,Provincial,160 St WB Off Ramp & Hwy 1,,Final AB,,,,,,20161215,20161215,49.190769,-122.772141
+1001147790,,,,,,,,,,,,,,,,150,In Service,,2009,Translink,,,Final AB,,,,,,20100127,20100127,49.180250,-122.711388
+1001202864,1001130146,Asphalt,Concrete,15600,,,2,Concrete,,,,,,,,34,In Service,1705-3240-00,2009,Provincial,Hwy 1 Eastbound @ 156 St Underpass,Provincial Bridge 3263,Final AB,,,,,,20110628,20161215,49.195159,-122.789768
+1001154609,,Asphalt,Concrete,Hwy 15,,,4,,,,,,,,,90,In Service,MOTH 71101-2007,2008,Provincial,176 St & Serpentine River (8600blk),,Final AB,,,,,,20100406,20100615,49.158934,-122.734778
+1001153576,,Asphalt,Concrete,176 St,,,4,,,,,,,,,90,In Service,MOTH 71101-2007,2008,Provincial,Nicomekl River @ 4600blk,,Final AB,,,,,,20100324,20100615,49.085882,-122.735288
+1001154543,,Asphalt,Concrete,Hwy 15,,,4,,,,,,,,,90,In Service,MOTH 71101-2007,2008,Provincial,176 St & Serpentine River (7650blk),,Final AB,,,,,,20100401,20100615,49.142217,-122.734769
+1001149087,,Asphalt,Concrete,Golden Ears Way,,,4,,,,,,,,,170,In Service,,2007,Translink,,,Final AB,,,,,,20100204,20100204,49.181789,-122.679514
+1000962303,,Asphalt,Steel,04000,,,2,Unknown,0,Unknown,0,Steel,1,Steel,2,0,In Service,,,Surrey,40 Ave @ Nicomekl River,NO WORK REQ'D. .6/20/08 EMP.#33739,,,,,,,,20110627,49.074638,-122.793067
+1000962312,,Asphalt,Concrete,14325,,,1,Concrete,2,Concrete,2,,0,,0,110,In Service,,,Surrey,Elgin Rd @ Nicomekl River,,,,,,,,,20110627,49.069496,-122.825128
+1000962300,,Asphalt,Wooden,18400,,,2,Wooden,1,Unknown,0,Wooden,3,Wooden,4,0,In Service,,,Surrey,184 St @ Nicomekl River,,,,,,,,,20110627,49.085077,-122.713244
+1000962308,,Asphalt,Concrete,01600,,,2,Asphalt,12,Asphalt,12,,0,,0,0,In Service,,,Surrey,16 Ave @ Campbell River,NO WORK REQ'D MAY 31/05,,,,,,,,20110627,49.031097,-122.687341
+1000962298,,Asphalt,Wooden,80303,,,2,Unknown,0,Unknown,0,Wooden,1,Wooden,2,348,In Service,,,Surrey,Colebrook Rd @ Anderson Crk,,,,,,,,,20110627,49.092391,-122.684444
+1000962310,,Wooden,Wooden,14000,,,1,Unknown,0,Unknown,0,Wooden,3,Wooden,4,90,In Service,,,Surrey,Hyland Crk: 140 St south of 66 Ave,,,,,,,,,20110627,49.122214,-122.834351
+1000962307,,Asphalt,Concrete,09200,,,2,Concrete,2,Concrete,2,,0,,0,0,In Service,,,Surrey,Quibble Crk: 92 Ave east of 136B St,BRIDGE DEC/RAILINGS IN GOOD SHAPE/NO WORK REQ'D,,,,,,,,20110627,49.170068,-122.842714
+1001129757,,Concrete,Concrete,08800,69,13,2,Concrete,2,,,,,,,0,In Service,1704-3010-00,2005,Surrey,88 Ave @ Serpentine Bridge,,Final AB,,,,,,20090731,20110628,49.162899,-122.747676
+1001130146,,Asphalt,Concrete,15600,,,2,Concrete,,,,,,,,34,In Service,1705-3240-00,2009,Provincial,Hwy 1 Westbound @ 156 St Underpass,Provincial Bridge 3263,Final AB,,,,,,20090812,20161215,49.195603,-122.789767
+1000962301,,Concrete,Concrete,16005,,,2,Concrete,2,,0,,0,,0,85,In Service,7892-0106-05,1995,Surrey,Morgan Crk Way @ Canterbury Dr ,Titman Creek Bridge,,,,,,,,20110628,49.061513,-122.779198
+1001906163,,Concrete,Concrete,,,,2,,,,,,,,,155,In Service,Treo Building,2013,Provincial,,,Final AB,,,,,,20170214,20170214,49.191023,-122.771270
+1001149421,,Concrete,Concrete,15200,22,25,4,Concrete,2,Concrete,2,,,,,90,In Service,1709-2280-00,2012,Surrey,152 St @ Bear Creek,,Final AB,,,,,,20120822,20120914,49.144809,-122.801143
+1001214333,,Concrete,Concrete,00101,,,4,,,,,,,,,215,In Service,1704-3310-00,,Surrey,Fraser Hwy & Serpentine River,,EC,,,,,,20110926,20170512,49.139614,-122.738023
+1001133882,,Concrete,Concrete,09600,45,16,2,Concrete,2,,,,,,,0,In Service,1S02,2009,Surrey,Golden Ears Way Underpass @ 96 Ave,TRANS LINK  GOLDEN EARS BRIDGE PROJECT,Final AB,,,,,,20091009,20110628,49.176991,-122.714946
+1001149416,,Asphalt,Concrete,13601,,,4,,,,,,,,,85,In Service,,,Surrey,KGB @ Colebrook Rd & BC Railway,,,,,,,,20100211,20110628,49.097270,-122.818230
+1001149462,,Unknown,Unknown,15050,,,0,,,,,,,,,0,In Service,,,Surrey,Barbara Crk Pedestrian Crossing,"Between 152 St & 150 A St, 36 Ave",,,,,,,20100212,20110628,49.067338,-122.803842
+1001149463,,Unknown,Unknown,03855,,,0,,,,,,,,,333,In Service,,,Surrey,Pedestrian Crossing to Dkyke at 14230 Rio Pl,On north side of Nicomekl River across from Nico Wynd Golf Course ,,,,,,,20100212,20110628,49.071767,-122.828830
+1001149456,,Unknown,Unknown,03600,,,0,,,,,,,,,0,In Service,,1996,Surrey,Sanitary Truck Main Crossing,Can't find as-built drawings,,,,,,,20100212,20110628,49.139411,-122.799802
+1001149433,,Asphalt,Concrete,09600,5,22,5,Asphalt,1,Asphalt,1,,,,,0,In Service,R-583,1977,Surrey,96 Ave @ Quibble Creek near 139 St,Timber & Concrete deck? See as-built,Final AB,,,,,,20100212,20110629,49.177005,-122.838171
+1001149449,,Asphalt,Concrete,12002,12,24,4,Asphalt,0,Asphalt,0,,,,,90,In Service,1797-3160-00,2004,Surrey,Scott Rd Overpass: 120 St & 102 Ave,For Bike Route Underpass; emergency access,Final AB,,,,,,20100212,20130111,49.188045,-122.890372
+1001900261,,Concrete,Concrete,,27932,9135,1,,,,,,,,,-15,In Service,MOTH BRIDGE 5927,2013,Provincial,,,Final AB,,,,,,20161219,20161219,49.190182,-122.774093
+1001857942,,Asphalt,Concrete,South Fraser Perimeter Road,473890,10980,2,,,,,,,,,219,In Service,MOTH BRIDGE 5929,2013,Provincial,Fraser Heights Bridge,,Final AB,,,,,,20160208,20161220,49.203423,-122.757867
+1001857943,,Asphalt,Concrete,South Fraser Perimeter Road,473890,10980,2,,,,,,,,,219,In Service,MOTH BRIDGE 5929,2013,Provincial,Fraser Heights Bridge,,Final AB,,,,,,20160208,20161220,49.203329,-122.757995
+1000962297,,Asphalt,Concrete,15200,,,2,Concrete,2,Concrete,2,,0,,0,273,In Service,,1990,Surrey,152 St @ Serpentine River,NO WORK REQ'D  JUNE 01/05,,,,,,,,20150914,49.094348,-122.801172
+1001826422,,,,,,,,,,,,,,,,127,In Service,SFPR Seg. 6,2013,Provincial,,Colliers Creek Bridge,Final AB,,,,,,20150601,20160330,49.186768,-122.903240
