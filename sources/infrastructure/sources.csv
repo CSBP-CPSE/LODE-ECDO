@@ -1,0 +1,15 @@
+Province,City/Region,Source,Available,Open Data,License of Terms of Use,Attribution Statement,Special Note,Date Modified by Source ,Update Frequency,Geo-coordinates,Downloaded from source
+AB,Calgary,https://data.calgary.ca/Transportation-Transit/Bridges/vchq-db2i/data,Y,Y,,,"dataset of traffic, pedestrian and LRT bridges, as well as tunnels and subways ",June 6 2019,Monthly,Y,June 10 2019
+AB,Grand Prairie,https://data.cityofgp.com/Map-Data/Bridges/46wn-9yhu,Y,Y,,,"Bridges (culvert, pedestrian, driving, utility)",March 23 2017,,Y,June 10 2019
+BC,Victoria,http://opendata.victoria.ca/datasets/bridges,Y,Y,,,Bridges,April 10 2019,,,June 10 2019
+BC,Prince George,https://data-cityofpg.opendata.arcgis.com/datasets/bridges/data,Y,Y,,,Bridges,June 11 2019,,,June 12 2019
+BC,Surrey,https://data.surrey.ca/dataset/vehicular-bridges,Y,Y,,,Vehicular Bridges,Created April 2 2014,Monthly,Y,June 12 2019
+MB,Winnipeg,https://data.winnipeg.ca/City-Planning/Road-Network/2eba-wm4h,Y,Y,,,Road network that includes bridges,June 8 2019,Weekly,,June 10 2019
+ON,Province,https://www.ontario.ca/data/bridge-conditions,Y,Y,,,List of provincial bridges within the highway network ,July 3 2018,Annually,Y,June 10 2019
+ON,Brampton,http://geohub.brampton.ca/datasets/bridges/data,Y,Y,,,Line segments that show the city's bridges' boundaries ,February 12 2019,,,June 10 2019
+ON,Burlington,https://navburl-burlington.opendata.arcgis.com/datasets/bridges/data,Y,Y,,,Bridges,September 25 2017,,Y,June 10 2019
+ON,Hamilton,http://open.hamilton.ca/datasets/f4667a6389314f0ba90ee7cd3568d1be_4,Y,Y,,,Bridges and culverts >= 3metres in span ,October 3 2018,,Y,June 10 2019
+ON,Haldimand County,http://opendata.haldimandcounty.on.ca/datasets/structures-bridges/data,Y,Y,,,Bridges,October 25 2018,,Y,June 12 2019
+ON,Kitchener,https://open-kitchenergis.opendata.arcgis.com/datasets/86aff44f9aae4a19b85a5131607c500a_0/data,Y,Y,,,Bridges,April 7 2019,,Y,June 10 2019
+ON,Toronto,https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#b7f4c0a3-3500-0ee5-9564-1c5e28fb16d3,Y,Y,,,"Bridges, Elevated Roadways and Culverts ",,Annually,Y,June 10 2019
+ON,Waterloo (city),http://geohub.cambridge.ca/datasets/City-of-Waterloo::bridges/data?geometry=-80.715%2C43.424%2C-80.515%2C43.468,Y,Y,,,Bridges,March 7 2018,,,June 10 2019
