@@ -7,11 +7,11 @@ import pandas as pd
 pr='61' #province id
 #read shapefile with geopandas into geodataframe - ODB
 print('reading in ODB...')
-odb=gpd.read_file('/home/csis/OpenData/Buildings/ODB/ODB_NorthwestTerritories/odb_northwestterritories.shp')
+odb=gpd.read_file('odb_northwestterritories.shp')
 
 #read geojson from microsoft
 print('reading in Bing Buildings...')
-ms=gpd.read_file('/home/csis/OpenData/Buildings/Microsoft/NorthwestTerritories.geojson')
+ms=gpd.read_file('Buildings/Microsoft/NorthwestTerritories.geojson')
 #convert ms data to statcan projection
 print('change projection...')
 crs={'init':'epsg:3347'}
