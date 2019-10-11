@@ -1,0 +1,12 @@
+Province,City or Region,Source,Provider,License or Terms of Use,Special Note,Update Frequency,Open Data,Direct Link,Speed Limits,Address Ranges
+AB,All,https://open.alberta.ca/opendata/alberta-municipal-data-sharing-partnership-online-mapping-and-quality-control-system,Government of Alberta,http://open.alberta.ca/licence,Varying update frequency depending on municipality,Uknown,Y,N,Y,Y
+BC,All,https://catalogue.data.gov.bc.ca/dataset/digital-road-atlas-dra-master-partially-attributed-roads,Government of British Columbia,https://www2.gov.bc.ca/gov/content/home/copyright,Access only license – requires written consent,Monthly,N,N,N,N
+MB,All,https://mli2.gov.mb.ca/app/register/app/index.php,Government of Manitoba,https://mli2.gov.mb.ca/app/register/app/index.php,Municipal roads may not be best for NRN due to scale,Annually,Y,N,N,Y
+NB,All,http://geonb.snb.ca/downloads/nbrn/geonb_nbrn-rrnb_fgdb.zip,Government of New Brunswick,http://geonb.snb.ca/documents/license/geonb-odl_en.pdf,,Monthly,Y,Y,Y,Y
+NS,All,https://data.novascotia.ca/api/geospatial/484g-adjn?method=export&format=Shapefile,Government of Nova Scotia,https://novascotia.ca/opendata/licence.asp,,Annually,Y,Y,N,Y
+ON,All,https://www.javacoeapp.lrc.gov.on.ca/geonetwork/srv/en/main.home?uuid=290bfd40-0c8b-46d0-9a6c-0c648d096515,Government of Ontario,https://www.ontario.ca/page/open-government-licence-ontario,Does not include address ranges,Weekly,Y,N,Y,N
+ON,All,https://www.javacoeapp.lrc.gov.on.ca/geonetwork/srv/en/main.home?uuid=c7c7202d-942d-47dc-bb15-259eb71f2551,Government of Ontario,https://www.ontario.ca/page/open-government-licence-ontario,Includes address ranges,Weekly,Y,N,N,Y
+PE,All,http://www.gov.pe.ca/photos/original/civic_roads.SHP.zip,Government of Prince Edward Island,https://www.princeedwardisland.ca/en/information/finance/open-government-licence-prince-edward-island,,Unknown,Y,Y,N,N
+QC,All,http://ws.mapserver.transports.gouv.qc.ca/donnees/geomatique/aq_camion.zip,Transport Québec,https://www.donneesquebec.ca/fr/licence/#cc-by,,Monthly,Y,Y,N,Y
+QC,All,https://ws.mapserver.transports.gouv.qc.ca/swtq?service=wfs&version=2.0.0&request=getfeature&typename=ms:bgr_v_sous_route_res_sup_act&outputformat=shp&srsname=EPSG:4326,Transport Québec,https://www.donneesquebec.ca/fr/licence/#cc-by,Major roads and highways,Bi-annually,Y,Y,N,N
+YT,All,https://open.yukon.ca/data/dataset/yukon-transportation-information,Government of Yukon,https://open.yukon.ca/data/open-government-licence-yukon,,Irregularly,Y,N,N,N

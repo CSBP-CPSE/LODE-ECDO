@@ -1,0 +1,46 @@
+Province,Organization,Type,Community Centres ,URL 1,URL 2,Date modified,Update Frequency ,Date Downloaded from Source
+AB,Canmore,Municipal,Yes,http://opendata-canmore.opendata.arcgis.com/datasets/9d1e98d0706941839a02fe3e878d3c7d_0/data,,Jan 24 2018,,
+AB,Chestermere,Municipal,Yes (Points of Interest),https://www.arcgis.com/home/item.html?id=c07578701ecd4f8794890fe19f17766a#data,,April 14 2017,,
+AB,Calgary,Municipal,Yes (Community Services) ,https://data.calgary.ca/Services-and-Amenities/Community-Services/x34e-bcjz/data,,,,June 12 2019
+AB,Cochrane,Municipal,Yes (Points of Interest),http://data-cochranegis.opendata.arcgis.com/datasets/cochrane-points-of-interest/data,,June 3 2019,,June 12 2019
+AB,Edmonton,Municipal,Yes (Community League),https://data.edmonton.ca/Community-Centres/Community-League-Halls/kaps-rk7z/data,,,,June 12 2019
+AB,Grand Prairie,Municipal,Yes (Points of Interest),https://data.cityofgp.com/Map-Data/Points-of-Interest/imrh-2fbx,,,,June 12 2019
+AB,Red Deer,Municipal,Yes (Points of Interest),http://data.reddeer.ca/pointsofinterest,,June 5 2019,,
+AB,Strathcona County,Municipal,Yes (Community Halls),https://data.strathcona.ca/Community/Community-Halls-and-Senior-Centres/cbig-zdxi,,November 16 2018,,June 12 2019
+BC,Campbell River,Municipal,Yes (Points of Interest),https://data-crcc.opendata.arcgis.com/datasets/847147a51b5a4dc297cd5d21f9fd3c23_0/data,,May 3 2018,,June 12 2019
+BC,Nanaimo,Municipal,Yes (Facilities),https://www.nanaimo.ca/open-data-catalogue/DataBrowser/nanaimo/Facilities#,,May 28 2015,,June 12 2019
+BC,New Westminster,Municipal,Yes (Community Service Assets),http://opendata.newwestcity.ca/datasets/community-service-assets,,,Daily,June 12 2019
+BC,Saanich,Municipal,Yes (facilities),https://www.saanich.ca/EN/main/local-government/data-catalogue-1.html,,Published october 27 2011,,June 12 2019
+BC,Surrey,Municipal,Yes (Places of Interest),https://data.surrey.ca/dataset/places-of-interest,,,Monthly,June 12 2019
+BC,Township of Langley,Municipal,Yes,https://data-tol.opendata.arcgis.com/datasets/facilities/data,,June 9 2019,,June 12 2019
+BC,Vancouver,Municipal,Yes,https://data.vancouver.ca/datacatalogue/communityCentres.htm,,,weekly,June 12 2019
+BC,Victoria,Municipal,Yes (City and Neighbourhood Facilities'),http://opendata.victoria.ca/datasets/city-and-neighbourhood-facilities/data,,,April 5 2019,June 12 2019
+MB,Winnipeg,Municipal,Yes,https://data.winnipeg.ca/Recreation/Community-Centre/m6ra-xm9i,,,June 1 2019,June 12 2019
+NB,Moncton,Municipal,Yes (Points of Interest),http://open.moncton.ca/datasets/points-of-interest/data,,november 28 2018,,june 12 2019
+NB,Saint John,Municipal,Yes,http://catalogue-saintjohn.opendata.arcgis.com/datasets/community-centres/data,,october 10 2019,,june 12 2019
+ON,Barrie,Municipal,Yes (facilities),http://public-barrie.opendata.arcgis.com/datasets/facility-site/data,,April 16 2019,,June 12 2019
+ON,Brampton,Municipal,Yes (Recreation Centres),http://geohub.brampton.ca/datasets/recreation-centres-1/data,,May 31 2019,,June 12 2019
+ON,Brantford,Municipal,Yes (Parks),http://data-brantford.opendata.arcgis.com/datasets/888b5d206b28423f8344109c9fdbc961_0/data,,December 14 2019,June 12 2019,
+ON,Burlington,Municipal,Yes (Facilities),https://navburl-burlington.opendata.arcgis.com/datasets/facilities/data,,March 7 2018,,June 12 2019
+ON,Cambridge,Municipal,Yes (Neighbourhood Associations),http://geohub.cambridge.ca/datasets/neighbourhood-associations/data,,March 8 2019,,June 12 2019
+ON,Region of Durham,Municipal,Yes (Community Services) ,http://opendata.durham.ca/datasets/community-services/data,,September 13 2017,,June 12 2019
+ON,Greater Sudbury,Municipal,Yes (Recreation),http://opendata.greatersudbury.ca/datasets/recreation-layer/data,,April 16 2019,,June 12 2019
+ON,Hamilton,Municipal,Yes,http://open.hamilton.ca/datasets/272667665de646768db14e9fa1676405_11/data,,October 16 2018,,June 12 2019
+ON,Kitchener,Municipal,Yes,https://open-kitchenergis.opendata.arcgis.com/datasets/daeb44b4880140f88561840efe3ccfbe_0/data,http://apps.london.ca/OpenData/Excel_Files_LatLong/CommunityCentres.xlsx,May 31 2019,,June 12 2019
+ON,London,Municipal,Yes,http://www.london.ca/city-hall/open-data/Pages/Open-Data-Data-Catalogue.aspx,,June 29 2018,,June 12 2019
+ON,Markham,Municipal,Yes (City owned facilities),http://data-markham.opendata.arcgis.com/datasets/city-owned-facilities/data,,December 14 2019,,June 12 2019
+ON,Milton,Municipal,Yes (facilities),https://www.milton.ca/en/townhall/opendata.asp,https://www.milton.ca/en/resources/Facilities_18062018.zip,Published June 18 2018,,June 12 2019
+ON,Mississauga,Municipal,Yes,http://data.mississauga.ca/datasets/city-community-centres/data,,february 22 2017,,June 12 2019
+ON,Norfolk County,Municipal,Yes,http://opendata.norfolkcounty.ca/datasets/community-centres/data,,,,June 12 2019
+ON,Caledon (peel region),Municipal,Yes (Active Recreation),http://opendata.peelregion.ca/data-categories/facilities-and-structures/active-recreation.aspx,,,,June 12 2019
+ON,Waterloo Region,Municipal,Yes,https://rowopendata-rmw.opendata.arcgis.com/datasets/daeb44b4880140f88561840efe3ccfbe_0/data,,,may 31 2019,June 12 2019
+ON,Welland,Municipal,Yes (City Facilities),https://www.welland.ca/open/OpendataResp.asp?utitle=Municipal%20Facilities,,june 5 2019,updated monthly,June 12 2019
+ON,York Region,Municipal,Yes (Parks),https://insights-york.opendata.arcgis.com/datasets/markham::parks/data,,december 14 2018,,June 12 2019
+QC,Blainville,Municipal,Yes,https://www.donneesquebec.ca/recherche/fr/dataset/batiments-municipaux-hackqc2018,,March 6 2019,,June 12 2019
+QC,Gatineau,Municipal,Yes (Lieux publics),https://www.donneesquebec.ca/recherche/fr/dataset/vgat_1267315911,,november 24 2011,,June 12 2019
+QC,Laval,Municipal,Yes (Lieux et édifices municipaux),https://www.donneesquebec.ca/recherche/fr/dataset/lieux-et-edifices-municipaux,,,updated monthly,June 12 2019
+QC,Montreal,Municipal,Yes (Lieux culturels municipaux) ,https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-lieux-culturels,,june 11 2019,,June 12 2019
+QC,Quebec City,Municipal,Yes (Lieux publics),https://www.donneesquebec.ca/recherche/fr/dataset/vque_14,,,updated daily,June 12 2019
+QC,Repentigny,Municipal,Yes (Batiments municipaux),https://www.donneesquebec.ca/recherche/fr/dataset/batiment-municipal,,january 14 2019,,june 12 2019
+QC,Rimouski,Municipal,Yes (Lieux Publics),https://www.donneesquebec.ca/recherche/fr/dataset/lieux-publics,,March 6 2019,,june 12 2019
+QC,Sherbrooke,Municipal,Yes (Sites d'intéret),https://www.donneesquebec.ca/recherche/fr/dataset/3eabdc868e6941eb859ffc717a4190d2_0,,june 11 2019,,June 12 2019
