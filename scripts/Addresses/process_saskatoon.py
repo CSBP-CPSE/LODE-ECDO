@@ -39,7 +39,7 @@ for point in points:
 STREET=ADDRESS.copy()
 
 for i in range(len(STREET)):
-    #STREET[i]=STREET[i].strip(NUMBER[i]+' ')
+    STREET[i]=STREET[i].strip(NUMBER[i]).strip()
     STREET[i]=STREET[i].rstrip(', Saskatoon, SK CA')
 
 dict={'NUMBER':NUMBER, 'STREET':STREET,'ADDRESS':ADDRESS,'LON':LON,'LAT':LAT}
