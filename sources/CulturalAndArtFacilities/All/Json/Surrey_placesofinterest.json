@@ -1,0 +1,15 @@
+{ 
+    "localfile": "Surrey_placesofinterest.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "library_type": "FACILITY_TYPE",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "file_type": "force:Mixed"    },
+    "filter": {
+         "NAME": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall|Ballet|Cultural Centres|Centres d'art|Musée|Galerie"  
+    }
+}

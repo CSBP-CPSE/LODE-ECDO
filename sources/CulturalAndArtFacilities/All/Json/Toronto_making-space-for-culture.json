@@ -1,0 +1,21 @@
+{ 
+    "localfile": "Toronto_making-space-for-culture.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "FAC_NAM",
+        "address_full": "ADDRESS",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "file_type": "force:Mixed",
+         "address": {
+            "street_no": "ADD_NUM",
+            "street_name": "LF_NAME",
+            "postcode": "POSTAL_CD",
+            "city": "CITY"        }
+    },
+    "filter": {
+         "FACILITY NAME": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall|Ballet|Cultural Centres|Centres d'art|Musée|Galerie"  
+    }
+}

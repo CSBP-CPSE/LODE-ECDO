@@ -1,0 +1,19 @@
+{ 
+    "localfile": "Vancouver_cultural-spaces.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "CULTURAL_SPACE_NAME",
+        "library_type": "TYPE",
+        "address_full": "ADDRESS",
+        "longitude": "long",
+        "latitude": "lat",
+        "file_type": "force:Mixed",
+         "address": {
+            "city": "LOCAL_AREA"        }
+    },
+    "filter": {
+         "TYPE": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall|Ballet|Cultural Centres|Centres d'art|Musée|Galerie"  
+    }
+}

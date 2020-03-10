@@ -1,0 +1,15 @@
+{ 
+    "localfile": "StrathconaCounty_Owned_Buildings.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Building Name",
+        "library_type": "Description",
+        "longitude": "long",
+        "latitude": "lat",
+        "file_type": "force:Mixed"    },
+    "filter": {
+         "Building Name": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall|Ballet|Cultural Centres|Centres d'art|Musée|Galerie"  
+    }
+}

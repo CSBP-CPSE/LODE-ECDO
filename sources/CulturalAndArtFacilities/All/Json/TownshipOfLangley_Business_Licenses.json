@@ -1,0 +1,20 @@
+{ 
+    "localfile": "TownshipOfLangley_Business_Licenses.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Business_Name",
+        "library_type": "Licence_Desc",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Mixed",
+         "address": {
+            "unit": "Civic_Unit",
+            "street_no": "Civic_House",
+            "street_name": "Civic_Street"        }
+    },
+    "filter": {
+         "Business_Name": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall|Ballet|Cultural Centres|Centres d'art|Musée|Galerie"  
+    }
+}

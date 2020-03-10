@@ -1,0 +1,19 @@
+{ 
+    "localfile": "Rimouski_lieupublic.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NOM",
+        "library_type": "TYPE_SITE",
+        "address_full": "ADRESSE",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed",
+         "address": {
+            "city": "MUNICIPALITE"        }
+    },
+    "filter": {
+         "NOM": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall|Ballet|Cultural Centres|Centres d'art|Musée|Galerie"  
+    }
+}

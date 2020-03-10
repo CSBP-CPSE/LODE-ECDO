@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Repentigny_places-interet.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NOM",
+        "library_type": "CONTACT",
+        "address_full": "ADRESSE",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "file_type": "force:Mixed"    }}

@@ -1,0 +1,10 @@
+{ 
+    "localfile": "StJohn_Theatres.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Label_En",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Theatres"    }}

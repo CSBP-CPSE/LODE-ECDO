@@ -1,0 +1,16 @@
+{ 
+    "localfile": "Toronto_cultural-hotspot.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "PNT_OF_INT",
+        "library_type": "CATEGORY",
+        "address_full": "LOCATION",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "file_type": "force:Mixed"    },
+    "filter": {
+         "CATEGORY": "Creative"  
+    }
+}
