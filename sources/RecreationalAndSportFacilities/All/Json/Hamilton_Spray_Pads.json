@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Hamilton_Spray_Pads.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "address_full": "ADDRESS",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "file_type": "force:Splash Pads",
+        "data_city": "force:Hamilton"    }}

@@ -1,0 +1,11 @@
+{ 
+    "localfile": "Ontario_Trail_Network_OTN_Trail_Segment.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:Ontario"    }}

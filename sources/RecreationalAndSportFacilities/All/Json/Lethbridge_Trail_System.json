@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Lethbridge_Trail_System.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Grnspc_ID",
+        "address_full": "Location",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:Lethbridge"    }}

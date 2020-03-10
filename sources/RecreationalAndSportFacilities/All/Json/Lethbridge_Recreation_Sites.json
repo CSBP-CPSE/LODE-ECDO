@@ -1,0 +1,13 @@
+{ 
+    "localfile": "Lethbridge_Recreation_Sites.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "Type",
+        "address_full": "Address",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Mixed",
+        "data_city": "force:Lethbridge"    }}

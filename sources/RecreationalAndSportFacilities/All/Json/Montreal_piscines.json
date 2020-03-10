@@ -1,0 +1,13 @@
+{ 
+    "localfile": "Montreal_piscines.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NOM",
+        "library_type": "TYPE",
+        "address_full": "ADRESSE",
+        "longitude": "LONG",
+        "latitude": "LAT",
+        "file_type": "force:Pools",
+        "data_city": "force:Montreal"    }}

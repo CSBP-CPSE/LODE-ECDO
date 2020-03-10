@@ -1,0 +1,17 @@
+{ 
+    "localfile": "Kitchener_Golf_Course.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "GOLF_COURSE",
+        "library_type": "CATEGORY",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Golf",
+        "data_city": "force:Kitchener",
+         "address": {
+            "street_no": "CIVIC_NO",
+            "street_name": "STREET",
+            "city": "MUNICIPALITY"        }
+    }}

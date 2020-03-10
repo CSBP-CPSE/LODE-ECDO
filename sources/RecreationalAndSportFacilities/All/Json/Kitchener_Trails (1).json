@@ -1,0 +1,15 @@
+{ 
+    "localfile": "Kitchener_Trails (1).csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "TrailName",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:Kitchener",
+         "address": {
+            "street_name": "Streetname",
+            "city": "Municipality"        }
+    }}

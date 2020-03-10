@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Ottawa_Ball_Diamonds_School.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "FIELD_NAME",
+        "address_full": "ADDRESS",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Baseball",
+        "data_city": "force:Ottawa"    }}

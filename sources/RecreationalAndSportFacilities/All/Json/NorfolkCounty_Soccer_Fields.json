@@ -1,0 +1,13 @@
+{ 
+    "localfile": "NorfolkCounty_Soccer_Fields.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "Type",
+        "address_full": "Address",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Soccer",
+        "data_city": "force:NorfolkCounty"    }}

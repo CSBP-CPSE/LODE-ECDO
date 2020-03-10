@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Ottawa_Beaches.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "address_full": "ADDRESS",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Beach",
+        "data_city": "force:Ottawa"    }}

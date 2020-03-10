@@ -1,0 +1,13 @@
+{ 
+    "localfile": "Lethbridge_Aquatic_Centers.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "FDesc",
+        "address_full": "Address",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Mixed",
+        "data_city": "force:Lethbridge"    }}

@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Moncton_Splash_Pads.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "UNITDESC",
+        "address_full": "ADDRQUAL",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Splash Pads",
+        "data_city": "force:Moncton"    }}

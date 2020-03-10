@@ -1,0 +1,15 @@
+{ 
+    "localfile": "NiagaraRegion_arenas.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "address_full": "FullAddress",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "file_type": "force:Arenas",
+        "data_city": "force:NiagaraRegion",
+         "address": {
+            "city": "Municipality"        }
+    }}

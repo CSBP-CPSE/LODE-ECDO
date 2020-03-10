@@ -1,0 +1,12 @@
+{ 
+    "localfile": "NorfolkCounty_Trails.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "TRAIL_NAME",
+        "library_type": "USES_ALLOW",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:NorfolkCounty"    }}

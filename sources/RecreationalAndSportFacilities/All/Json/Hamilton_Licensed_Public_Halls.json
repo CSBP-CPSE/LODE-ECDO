@@ -1,0 +1,11 @@
+{ 
+    "localfile": "Hamilton_Licensed_Public_Halls.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "BUSINESS_NAME",
+        "library_type": "LICENSE_TYPE",
+        "address_full": "BUSINESS_ADDRESS",
+        "file_type": "force:Public Halls",
+        "data_city": "force:Hamilton"    }}

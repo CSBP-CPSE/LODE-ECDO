@@ -1,0 +1,13 @@
+{ 
+    "localfile": "Ottawa_Basketball_Courts.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "library_type": "COURT_TYPE",
+        "address_full": "PARKADDRESS",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Basketball",
+        "data_city": "force:Ottawa"    }}

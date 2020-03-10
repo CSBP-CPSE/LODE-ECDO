@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Hamilton_Campgrounds.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "address_full": "ADDRESS",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "file_type": "force:Camps",
+        "data_city": "force:Hamilton"    }}

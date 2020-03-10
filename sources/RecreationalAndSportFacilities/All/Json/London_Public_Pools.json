@@ -1,0 +1,11 @@
+{ 
+    "localfile": "London_Public_Pools.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Layer",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Pools",
+        "data_city": "force:London"    }}

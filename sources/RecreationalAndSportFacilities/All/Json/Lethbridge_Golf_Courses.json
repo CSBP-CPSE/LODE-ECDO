@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Lethbridge_Golf_Courses.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "address_full": "Address",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Golf",
+        "data_city": "force:Lethbridge"    }}

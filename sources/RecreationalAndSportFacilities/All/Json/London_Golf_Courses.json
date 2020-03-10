@@ -1,0 +1,10 @@
+{ 
+    "localfile": "London_Golf_Courses.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "GIS_FeatureKey",
+        "address_full": "Address",
+        "file_type": "force:Golf",
+        "data_city": "force:London"    }}

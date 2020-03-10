@@ -1,0 +1,17 @@
+{ 
+    "localfile": "Mississauga_City_Bocce_Courts.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "LANDMARKNA",
+        "library_type": "TYPEDESC",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Bocce",
+        "data_city": "force:Mississauga",
+         "address": {
+            "street_no": "STNO",
+            "street_name": "STNAME",
+            "city": "CITY"        }
+    }}

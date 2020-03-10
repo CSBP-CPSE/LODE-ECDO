@@ -1,0 +1,13 @@
+{ 
+    "localfile": "NorfolkCounty_Tennis_Courts.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "Type",
+        "address_full": "Address",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Tennis",
+        "data_city": "force:NorfolkCounty"    }}

@@ -1,0 +1,11 @@
+{ 
+    "localfile": "NewWestminster_OFFLEASH_DOG_AREAS.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Dog Parks",
+        "data_city": "force:NewWestminster"    }}

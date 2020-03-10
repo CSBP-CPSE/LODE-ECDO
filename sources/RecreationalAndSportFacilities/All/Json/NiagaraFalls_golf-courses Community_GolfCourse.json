@@ -1,0 +1,10 @@
+{ 
+    "localfile": "NiagaraFalls_golf-courses Community_GolfCourse.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Golf",
+        "data_city": "force:NiagaraFalls"    }}

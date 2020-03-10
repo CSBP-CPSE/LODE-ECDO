@@ -1,0 +1,12 @@
+{ 
+    "localfile": "NewWestminster_SPORTS_FIELDS.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "PARK",
+        "library_type": "TYPE",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Mixed",
+        "data_city": "force:NewWestminster"    }}

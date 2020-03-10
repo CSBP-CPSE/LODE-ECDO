@@ -1,0 +1,11 @@
+{ 
+    "localfile": "Hamilton_Recreation_and_Community_Centres.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "file_type": "force:Rec Centres",
+        "data_city": "force:Hamilton"    }}

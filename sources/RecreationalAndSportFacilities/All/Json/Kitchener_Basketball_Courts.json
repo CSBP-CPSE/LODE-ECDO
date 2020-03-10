@@ -1,0 +1,16 @@
+{ 
+    "localfile": "Kitchener_Basketball_Courts.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "LANDMARK",
+        "library_type": "CATEGORY",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Basketball",
+        "data_city": "force:Kitchener",
+         "address": {
+            "street_no": "CIVIC_NO",
+            "street_name": "STREET"        }
+    }}

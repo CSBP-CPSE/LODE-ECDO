@@ -1,0 +1,17 @@
+{ 
+    "localfile": "Mississauga_City_Soccer_Fields.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "LANDMARKNA",
+        "library_type": "TYPEDESC",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Soccer",
+        "data_city": "force:Mississauga",
+         "address": {
+            "street_no": "STNO",
+            "street_name": "STNAME",
+            "city": "CITY"        }
+    }}

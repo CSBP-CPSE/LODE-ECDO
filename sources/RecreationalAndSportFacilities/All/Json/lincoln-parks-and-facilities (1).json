@@ -1,0 +1,13 @@
+{ 
+    "localfile": "lincoln-parks-and-facilities (1).csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "AMENITIES",
+        "address_full": "FullAddress",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "file_type": "force:Mixed",
+        "data_city": "force:lincoln-parks-and-facilities (1).csv"    }}

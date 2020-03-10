@@ -1,0 +1,16 @@
+{ 
+    "localfile": "HuronCounty_Recreation.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "POI_Name",
+        "library_type": "Type",
+        "address_full": "Full_Address",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed",
+        "data_city": "force:HuronCounty",
+         "address": {
+            "city": "Municipality"        }
+    }}
