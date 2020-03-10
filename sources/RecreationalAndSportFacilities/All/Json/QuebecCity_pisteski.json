@@ -1,0 +1,10 @@
+{ 
+    "localfile": "QuebecCity_pisteski.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NOM",
+        "address_full": "ADRESSE",
+        "file_type": "force:Mixed",
+        "data_city": "force:QuebecCity"    }}

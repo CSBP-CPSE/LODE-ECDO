@@ -1,0 +1,11 @@
+{ 
+    "localfile": "Shawinigan_Sentiers_de_raquette.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Localisation",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Snowshoe",
+        "data_city": "force:Shawinigan"    }}

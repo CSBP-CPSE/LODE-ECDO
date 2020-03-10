@@ -1,0 +1,13 @@
+{ 
+    "localfile": "Ottawa_Outdoor_Rinks.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "library_type": "RINK_TYPE",
+        "address_full": "ADDRESS",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Outdoor Rink",
+        "data_city": "force:Ottawa"    }}

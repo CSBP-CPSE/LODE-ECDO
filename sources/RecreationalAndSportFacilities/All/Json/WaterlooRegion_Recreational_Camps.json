@@ -1,0 +1,14 @@
+{ 
+    "localfile": "WaterlooRegion_Recreational_Camps.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "FacilityName",
+        "library_type": "Category",
+        "address_full": "SiteStreet",
+        "file_type": "force:Camps",
+        "data_city": "force:WaterlooRegion",
+         "address": {
+            "city": "SiteCity"        }
+    }}

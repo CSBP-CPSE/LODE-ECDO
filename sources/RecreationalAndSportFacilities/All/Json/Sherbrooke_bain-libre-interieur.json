@@ -1,0 +1,18 @@
+{ 
+    "localfile": "Sherbrooke_bain-libre-interieur.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "LOC",
+        "library_type": "CONTACT",
+        "address_full": "AD_LIEN",
+        "longitude": "long",
+        "latitude": "lat",
+        "file_type": "force:Pools",
+        "data_city": "force:Sherbrooke",
+         "address": {
+            "street_no": "AD_NO",
+            "street_name": "AD_SPECI",
+            "city": "AD_MUNID"        }
+    }}

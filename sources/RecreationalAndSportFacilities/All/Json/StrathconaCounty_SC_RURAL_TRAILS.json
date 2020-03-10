@@ -1,0 +1,11 @@
+{ 
+    "localfile": "StrathconaCounty_SC_RURAL_TRAILS.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Class",
+        "longitude": "Start_X",
+        "latitude": "Start_Y",
+        "file_type": "force:Trails",
+        "data_city": "force:StrathconaCounty"    }}

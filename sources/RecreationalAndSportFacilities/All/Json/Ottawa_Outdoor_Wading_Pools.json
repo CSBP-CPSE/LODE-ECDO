@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Ottawa_Outdoor_Wading_Pools.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "address_full": "ADDRESS",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Wading Pool",
+        "data_city": "force:Ottawa"    }}

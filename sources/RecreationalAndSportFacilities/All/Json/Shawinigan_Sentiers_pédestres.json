@@ -1,0 +1,11 @@
+{ 
+    "localfile": "Shawinigan_Sentiers_pédestres.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Localisation",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:Shawinigan"    }}

@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Ottawa_Sports_Fields.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "PARKNAME",
+        "library_type": "POST_TYPE",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Sports Fields",
+        "data_city": "force:Ottawa"    }}

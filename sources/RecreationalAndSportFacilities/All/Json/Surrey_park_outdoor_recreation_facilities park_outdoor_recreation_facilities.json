@@ -1,0 +1,11 @@
+{ 
+    "localfile": "Surrey_park_outdoor_recreation_facilities park_outdoor_recreation_facilities.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "description",
+        "library_type": "PARK_FACILITY_TYPE",
+        "address_full": "OPERATING_LOCATION",
+        "file_type": "force:Mixed",
+        "data_city": "force:Surrey"    }}

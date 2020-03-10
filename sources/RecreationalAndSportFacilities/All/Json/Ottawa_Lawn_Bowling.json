@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Ottawa_Lawn_Bowling.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "address_full": "PARKADDRESS",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Lawn Bowling",
+        "data_city": "force:Ottawa"    }}

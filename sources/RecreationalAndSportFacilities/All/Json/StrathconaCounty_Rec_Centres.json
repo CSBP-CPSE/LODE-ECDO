@@ -1,0 +1,12 @@
+{ 
+    "localfile": "StrathconaCounty_Rec_Centres.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "Desc",
+        "longitude": "Long",
+        "latitude": "Lat",
+        "file_type": "force:Rec Centres",
+        "data_city": "force:StrathconaCounty"    }}

@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Surrey_Park_Playgrounds park_playgrounds.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "description",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Playgrounds",
+        "data_city": "force:Surrey"    }}

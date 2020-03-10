@@ -1,0 +1,10 @@
+{ 
+    "localfile": "Sherbrooke_camps-jour.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NOM_CAMP",
+        "library_type": "CONTACT",
+        "file_type": "force:Camps",
+        "data_city": "force:Sherbrooke"    }}

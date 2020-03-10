@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Ottawa_Tennis_Courts.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "CLUB",
+        "address_full": "ADDRESS",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Tennis",
+        "data_city": "force:Ottawa"    }}

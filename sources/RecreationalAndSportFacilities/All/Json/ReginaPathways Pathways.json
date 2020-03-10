@@ -1,0 +1,11 @@
+{ 
+    "localfile": "ReginaPathways Pathways.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "ASSET_TYPE",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:ReginaPathways Pathways.csv"    }}

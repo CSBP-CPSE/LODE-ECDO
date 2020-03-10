@@ -1,0 +1,11 @@
+{ 
+    "localfile": "PortMoody_Pathways.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "location",
+        "library_type": "class",
+        "address_full": "location",
+        "file_type": "force:Trails",
+        "data_city": "force:PortMoody"    }}

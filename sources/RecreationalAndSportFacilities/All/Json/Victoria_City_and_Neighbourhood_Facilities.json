@@ -1,0 +1,11 @@
+{ 
+    "localfile": "Victoria_City_and_Neighbourhood_Facilities.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "FacilityName",
+        "library_type": "Type",
+        "address_full": "Address",
+        "file_type": "force:Mixed",
+        "data_city": "force:Victoria"    }}

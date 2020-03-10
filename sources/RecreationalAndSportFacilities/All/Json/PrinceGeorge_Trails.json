@@ -1,0 +1,12 @@
+{ 
+    "localfile": "PrinceGeorge_Trails.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "TrailName",
+        "library_type": "SubType_TEXT",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:PrinceGeorge"    }}

@@ -1,0 +1,13 @@
+{ 
+    "localfile": "Ottawa_Outdoor_Pools.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "library_type": "POOL_TYPE",
+        "address_full": "PARKADDRESS",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Pools",
+        "data_city": "force:Ottawa"    }}

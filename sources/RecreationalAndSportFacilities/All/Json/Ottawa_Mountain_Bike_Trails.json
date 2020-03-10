@@ -1,0 +1,11 @@
+{ 
+    "localfile": "Ottawa_Mountain_Bike_Trails.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "TRAILNAME_EN",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:Ottawa"    }}

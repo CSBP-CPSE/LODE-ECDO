@@ -1,0 +1,13 @@
+{ 
+    "localfile": "Ottawa_Skateboard_Parks.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "library_type": "FACILITY_TYPE",
+        "address_full": "ADDRESS",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Skateboard",
+        "data_city": "force:Ottawa"    }}

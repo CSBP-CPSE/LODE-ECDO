@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Toronto_tennis-courts-facilities-data.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "address_full": "ADDRESS",
+        "longitude": "long",
+        "latitude": "lat",
+        "file_type": "force:Tennis",
+        "data_city": "force:Toronto"    }}

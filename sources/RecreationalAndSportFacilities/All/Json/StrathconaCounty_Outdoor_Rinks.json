@@ -1,0 +1,12 @@
+{ 
+    "localfile": "StrathconaCounty_Outdoor_Rinks.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "ParkName",
+        "library_type": "RinkType",
+        "longitude": "long",
+        "latitude": "lat",
+        "file_type": "force:Rinks",
+        "data_city": "force:StrathconaCounty"    }}

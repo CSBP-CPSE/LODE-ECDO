@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Surrey_Park_Sports_Fields park_sports_fields.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "description",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Sports Fields",
+        "data_city": "force:Surrey"    }}

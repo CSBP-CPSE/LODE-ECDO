@@ -1,0 +1,13 @@
+{ 
+    "localfile": "Ottawa_Sports_Fields_on_School_Property.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "SCHOOL_NAME",
+        "library_type": "REGULAR_USE_TYPE",
+        "address_full": "ADDRESS",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Sports Fields",
+        "data_city": "force:Ottawa"    }}

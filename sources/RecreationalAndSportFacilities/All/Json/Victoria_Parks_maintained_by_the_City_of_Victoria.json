@@ -1,0 +1,11 @@
+{ 
+    "localfile": "Victoria_Parks_maintained_by_the_City_of_Victoria.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Alias_Name",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Parks",
+        "data_city": "force:Victoria"    }}

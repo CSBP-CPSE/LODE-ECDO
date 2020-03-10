@@ -1,0 +1,12 @@
+{ 
+    "localfile": "StrathconaCounty_Urban_Trails.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "location",
+        "library_type": "class",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:StrathconaCounty"    }}

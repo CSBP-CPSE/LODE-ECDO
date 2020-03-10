@@ -1,0 +1,12 @@
+{ 
+    "localfile": "StrathconaCounty_Playing_Field.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Park Name",
+        "library_type": "Field Type",
+        "longitude": "longitude",
+        "latitude": "latitude",
+        "file_type": "force:Sports Fields",
+        "data_city": "force:StrathconaCounty"    }}

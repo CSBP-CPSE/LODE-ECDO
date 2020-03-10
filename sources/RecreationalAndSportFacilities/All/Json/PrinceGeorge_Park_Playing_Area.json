@@ -1,0 +1,12 @@
+{ 
+    "localfile": "PrinceGeorge_Park_Playing_Area.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Location",
+        "library_type": "SubType_TEXT",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Sports Fields",
+        "data_city": "force:PrinceGeorge"    }}

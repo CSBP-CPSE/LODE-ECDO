@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Victoria_Sport_Courts.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "LocationName",
+        "library_type": "SportCourtType",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Sports Fields",
+        "data_city": "force:Victoria"    }}

@@ -1,0 +1,10 @@
+{ 
+    "localfile": "Vancouver_dog-off-leash-parks.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "address_full": "ADDRESS",
+        "file_type": "force:Dog Parks",
+        "data_city": "force:Vancouver"    }}

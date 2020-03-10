@@ -1,0 +1,15 @@
+{ 
+    "localfile": "Toronto_bicyleTrail.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "TRAIL_NAME",
+        "library_type": "TYPE",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "file_type": "force:Trails",
+        "data_city": "force:Toronto",
+         "address": {
+            "street_name": "ST_NAME"        }
+    }}

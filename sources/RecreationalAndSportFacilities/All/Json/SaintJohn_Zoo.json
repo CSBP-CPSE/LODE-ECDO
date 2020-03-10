@@ -1,0 +1,11 @@
+{ 
+    "localfile": "SaintJohn_Zoo.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Label_En",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Zoo",
+        "data_city": "force:SaintJohn"    }}

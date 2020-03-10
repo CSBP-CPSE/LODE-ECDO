@@ -1,0 +1,13 @@
+{ 
+    "localfile": "Toronto_indoor-ice-rinks-data.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Asset Name",
+        "library_type": "Indoor Ice Pad Field Type",
+        "address_full": "ADDRESS",
+        "longitude": "X Coordinate",
+        "latitude": "Y Coordinate",
+        "file_type": "force:Rinks",
+        "data_city": "force:Toronto"    }}

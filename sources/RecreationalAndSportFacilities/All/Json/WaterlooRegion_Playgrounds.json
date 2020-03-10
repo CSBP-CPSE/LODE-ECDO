@@ -1,0 +1,11 @@
+{ 
+    "localfile": "WaterlooRegion_Playgrounds.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "PLAYGROUND_NAME",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Playgrounds",
+        "data_city": "force:WaterlooRegion"    }}

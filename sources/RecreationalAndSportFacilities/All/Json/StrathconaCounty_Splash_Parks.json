@@ -1,0 +1,12 @@
+{ 
+    "localfile": "StrathconaCounty_Splash_Parks.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "ParkName",
+        "library_type": "Location",
+        "longitude": "long",
+        "latitude": "lat",
+        "file_type": "force:Splash Pads",
+        "data_city": "force:StrathconaCounty"    }}

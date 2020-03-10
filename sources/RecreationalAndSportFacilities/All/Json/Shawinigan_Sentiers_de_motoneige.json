@@ -1,0 +1,11 @@
+{ 
+    "localfile": "Shawinigan_Sentiers_de_motoneige.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Snowmobile",
+        "data_city": "force:Shawinigan"    }}

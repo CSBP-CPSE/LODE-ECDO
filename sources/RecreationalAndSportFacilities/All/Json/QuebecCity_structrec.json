@@ -1,0 +1,11 @@
+{ 
+    "localfile": "QuebecCity_structrec.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "address_full": "LOCALISATN",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Rec Centres",
+        "data_city": "force:QuebecCity"    }}

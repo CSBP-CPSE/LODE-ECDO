@@ -1,0 +1,13 @@
+{ 
+    "localfile": "Shawinigan_Infrastructures_sportives.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Nom",
+        "library_type": "sport",
+        "address_full": "Adresse",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Mixed",
+        "data_city": "force:Shawinigan"    }}

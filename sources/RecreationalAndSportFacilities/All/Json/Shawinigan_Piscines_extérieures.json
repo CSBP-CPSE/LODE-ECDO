@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Shawinigan_Piscines_extérieures.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NOM",
+        "address_full": "Adresse",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Pools",
+        "data_city": "force:Shawinigan"    }}

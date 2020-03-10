@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Toronto_outdoor-artificial-ice-rinks-2016-2017.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Asset Name",
+        "address_full": "Address",
+        "longitude": "X Coordinate",
+        "latitude": "Y Coordinate",
+        "file_type": "force:Rinks",
+        "data_city": "force:Toronto"    }}

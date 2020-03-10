@@ -1,0 +1,10 @@
+{ 
+    "localfile": "Shawinigan_Sentiers_de_VTT.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:Shawinigan"    }}
