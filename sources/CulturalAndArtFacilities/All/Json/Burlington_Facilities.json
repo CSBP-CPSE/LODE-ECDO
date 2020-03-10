@@ -1,0 +1,16 @@
+{ 
+    "localfile": "Burlington_Facilities.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "ASSETNAME",
+        "library_type": "USE",
+        "address_full": "ADDRESS",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed"    },
+    "filter": {
+         "USE": "Theatre|Museum|Gallery|THEATRE|MUSEUM|GALLERY|Art Centre"  
+    }
+}

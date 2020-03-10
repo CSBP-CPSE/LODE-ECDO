@@ -1,0 +1,19 @@
+{ 
+    "localfile": "QuebecCity_vdq-lieupublic (1).csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NOM_TOPOGRAPHIE",
+        "library_type": "DESCRIPTION",
+        "longitude": "long",
+        "latitude": "lat",
+        "file_type": "force:Mixed",
+         "address": {
+            "street_no": "NO_CIVIQUE",
+            "street_name": "RUE"        }
+    },
+    "filter": {
+         "DESCRIPTION": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall|Ballet|Cultural Centres|Centres d'art|Musée|Galerie"  
+    }
+}

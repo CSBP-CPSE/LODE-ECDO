@@ -1,0 +1,20 @@
+{ 
+    "localfile": "Nanaimo_BusinessLicences.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "TradeName",
+        "library_type": "EDO_NAICS_Desc",
+        "longitude": "Longitude",
+        "latitude": "Latitude",
+        "file_type": "force:Mixed",
+         "address": {
+            "street_no": "CivicAddressHouse",
+            "street_name": "CivicAddressStreet",
+            "city": "CivicAddressCity"        }
+    },
+    "filter": {
+         "TradeName": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall"  
+    }
+}

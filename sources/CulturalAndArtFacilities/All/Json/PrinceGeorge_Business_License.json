@@ -1,0 +1,19 @@
+{ 
+    "localfile": "PrinceGeorge_Business_License.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "TradeName",
+        "library_type": "LicenceCategory",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed",
+         "address": {
+            "street_no": "Address",
+            "street_name": "StreeName"        }
+    },
+    "filter": {
+         "TradeName": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall|Ballet|Cultural Centres|Centres d'art"  
+    }
+}

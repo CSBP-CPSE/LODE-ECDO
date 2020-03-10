@@ -1,0 +1,15 @@
+{ 
+    "localfile": "Edmonton_Attractions.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "library_type": "TYPE",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "file_type": "force:Mixed"    },
+    "filter": {
+         "NAME": "Theatre|Museum|Gallery|THEATRE|MUSEUM|GALLERY|Art Centre"  
+    }
+}

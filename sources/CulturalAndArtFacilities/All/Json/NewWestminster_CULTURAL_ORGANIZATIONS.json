@@ -1,0 +1,15 @@
+{ 
+    "localfile": "NewWestminster_CULTURAL_ORGANIZATIONS.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "address_full": "Address",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Mixed"    },
+    "filter": {
+         "Name": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall|Ballet"  
+    }
+}

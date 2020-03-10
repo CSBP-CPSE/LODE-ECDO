@@ -1,0 +1,20 @@
+{ 
+    "localfile": "QuebecProv_Attraits.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "ETBL_NOM_EN",
+        "library_type": "ETBL_TYPE_EN",
+        "address_full": "ADR_CIVIQUE",
+        "longitude": "ADR_LONGITUDE",
+        "latitude": "ADR_LATITUDE",
+        "file_type": "force:Mixed",
+         "address": {
+            "postcode": "ADR_CODE_POSTAL",
+            "city": "ADR_MUNICIPALITE"        }
+    },
+    "filter": {
+         "ETBL_NOM_EN": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall|Ballet|Cultural Centres|Centres d'art|Musée|Galerie"  
+    }
+}

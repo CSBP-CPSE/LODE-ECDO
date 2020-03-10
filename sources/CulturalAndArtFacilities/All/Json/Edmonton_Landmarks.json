@@ -1,0 +1,15 @@
+{ 
+    "localfile": "Edmonton_Landmarks.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "LANDMARK_NAME",
+        "address_full": "ADDRESS",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "file_type": "force:Mixed"    },
+    "filter": {
+         "LANDMARK_NAME": "Theatre|Museum|Gallery|THEATRE|MUSEUM|GALLERY|Art Centre"  
+    }
+}

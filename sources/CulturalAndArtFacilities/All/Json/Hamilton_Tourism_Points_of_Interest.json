@@ -1,0 +1,15 @@
+{ 
+    "localfile": "Hamilton_Tourism_Points_of_Interest.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "TITLE",
+        "address_full": "ADDRESS",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "file_type": "force:Mixed"    },
+    "filter": {
+         "TITLE": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts"  
+    }
+}

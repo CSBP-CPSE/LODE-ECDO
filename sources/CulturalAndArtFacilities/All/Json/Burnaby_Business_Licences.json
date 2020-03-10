@@ -1,0 +1,20 @@
+{ 
+    "localfile": "Burnaby_Business_Licences.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME_LAST",
+        "library_type": "CASE_BUS_TYPE_DESC",
+        "address_full": "ADDRESS",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Mixed",
+         "address": {
+            "street_no": "ST_NMBR",
+            "street_name": "ST_NAME"        }
+    },
+    "filter": {
+         "CASE_BUS_TYPE_DESC": "Theatre|Museum|Gallery|THEATRE|MUSEUM|GALLERY"  
+    }
+}

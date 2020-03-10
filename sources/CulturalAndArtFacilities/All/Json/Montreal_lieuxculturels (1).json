@@ -1,0 +1,17 @@
+{ 
+    "localfile": "Montreal_lieuxculturels (1).csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Nom du lieu culturel municipal",
+        "library_type": "Nom",
+        "address_full": "Adresse",
+        "longitude": "Longitude",
+        "latitude": "Latitude",
+        "file_type": "force:Mixed",
+         "address": {
+            "postcode": "Code postal",
+            "city": "Ville",
+            "prov/terr": "Province"        }
+    }}

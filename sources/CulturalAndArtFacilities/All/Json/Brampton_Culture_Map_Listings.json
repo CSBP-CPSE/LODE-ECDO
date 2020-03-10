@@ -1,0 +1,21 @@
+{ 
+    "localfile": "Brampton_Culture_Map_Listings.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "library_type": "CATEGORY",
+        "address_full": "FULL_ADDRESS",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Mixed",
+         "address": {
+            "postcode": "POSTAL_CODE",
+            "city": "CITY",
+            "prov/terr": "PROVINCE"        }
+    },
+    "filter": {
+         "CATEGORY": "Culture and Heritage Facilities and Spaces|Festivals and Events|Arts Organziations"  
+    }
+}

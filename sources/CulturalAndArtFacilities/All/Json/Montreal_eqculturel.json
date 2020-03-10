@@ -1,0 +1,11 @@
+{ 
+    "localfile": "Montreal_eqculturel.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Nom",
+        "library_type": "Type",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed"    }}

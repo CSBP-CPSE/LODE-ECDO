@@ -1,0 +1,20 @@
+{ 
+    "localfile": "Moncton_Cultural_Assets.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "ASSETNAME",
+        "library_type": "SUBCAT",
+        "address_full": "ADDRESS",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed",
+         "address": {
+            "postcode": "POSTCODE",
+            "city": "CITY"        }
+    },
+    "filter": {
+         "SUBCAT": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall"  
+    }
+}

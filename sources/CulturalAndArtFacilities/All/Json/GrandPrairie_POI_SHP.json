@@ -1,0 +1,15 @@
+{ 
+    "localfile": "GrandPrairie_POI_SHP.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "POI_DESCRI",
+        "library_type": "POI_NAME",
+        "longitude": "long",
+        "latitude": "lat",
+        "file_type": "force:Mixed"    },
+    "filter": {
+         "POI_NAME": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts"  
+    }
+}

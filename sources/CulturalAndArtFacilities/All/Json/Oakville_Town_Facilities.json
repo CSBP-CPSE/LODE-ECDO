@@ -1,0 +1,16 @@
+{ 
+    "localfile": "Oakville_Town_Facilities.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "library_type": "DESCRIPTIO",
+        "address_full": "ADDRESS",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Mixed"    },
+    "filter": {
+         "DESCRIPTIO": "Art/culture|Museum"  
+    }
+}

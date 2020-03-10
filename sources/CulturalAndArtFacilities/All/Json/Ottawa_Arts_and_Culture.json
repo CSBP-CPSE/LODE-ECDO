@@ -1,0 +1,15 @@
+{ 
+    "localfile": "Ottawa_Arts_and_Culture.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "BUILDING_DESC",
+        "library_type": "BUILDING_TYPE",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Mixed"    },
+    "filter": {
+         "BUILDING_TYPE": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall|Ballet"  
+    }
+}

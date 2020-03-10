@@ -1,0 +1,21 @@
+{ 
+    "localfile": "QuebecProv_institutionsmusealesmccv1.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NOM_CLIENT_PARTENAIRE",
+        "library_type": "TYPE_CLIENT_PARTENAIRE",
+        "address_full": "NO_CIVIQUE ET RUE",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "file_type": "force:Mixed",
+         "address": {
+            "postcode": "CODE_POSTAL",
+            "city": "MUNICIPALITE",
+            "prov/terr": "PROVINCE"        }
+    },
+    "filter": {
+         "NOM_CLIENT_PARTENAIRE": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall|Ballet|Cultural Centres|Centres d'art|Musée|Galerie"  
+    }
+}

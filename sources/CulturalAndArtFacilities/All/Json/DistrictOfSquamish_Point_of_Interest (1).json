@@ -1,0 +1,15 @@
+{ 
+    "localfile": "DistrictOfSquamish_Point_of_Interest (1).csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "FACILITYCLASS",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed"    },
+    "filter": {
+         "FACILITYCLASS": "Cultural / Heritage"  
+    }
+}

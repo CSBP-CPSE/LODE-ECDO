@@ -1,0 +1,16 @@
+{ 
+    "localfile": "Brampton_Supplementary_City_Facilities.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "FACILITY_NAME",
+        "library_type": "TYPE",
+        "address_full": "ADDRESS",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Mixed"    },
+    "filter": {
+         "TYPE": "Theatre|Museum|Gallery|THEATRE|MUSEUM|GALLERY"  
+    }
+}

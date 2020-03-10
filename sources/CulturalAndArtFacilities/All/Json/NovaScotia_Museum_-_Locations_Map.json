@@ -1,0 +1,15 @@
+{ 
+    "localfile": "NovaScotia_Museum_-_Locations_Map.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Site",
+        "address_full": "Address",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed",
+         "address": {
+            "postcode": "Postal Code",
+            "city": "Town"        }
+    }}

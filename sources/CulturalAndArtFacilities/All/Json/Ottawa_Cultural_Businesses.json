@@ -1,0 +1,21 @@
+{ 
+    "localfile": "Ottawa_Cultural_Businesses.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "SUB",
+        "address_full": "ADDRESS",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed",
+         "address": {
+            "postcode": "PC",
+            "city": "CITY",
+            "prov/terr": "PROVINCE"        }
+    },
+    "filter": {
+         "SUB": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall|Ballet|Cultural Centres"  
+    }
+}

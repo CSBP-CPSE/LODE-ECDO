@@ -1,0 +1,16 @@
+{ 
+    "localfile": "NewWestminster_BL_RESIDENT.CSV",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "NAICS_DESCRIPTION",
+        "address_full": "TRADE_MAILING_ADDRESS",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed"    },
+    "filter": {
+         "Name": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall"  
+    }
+}

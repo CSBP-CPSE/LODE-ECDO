@@ -1,0 +1,14 @@
+{ 
+    "localfile": "Cambridge_Museums.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "ADDRESS_POINT_NAME",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Museums",
+         "address": {
+            "street_no": "HOUSE_NUMBER",
+            "street_name": "STREET_NAME"        }
+    }}

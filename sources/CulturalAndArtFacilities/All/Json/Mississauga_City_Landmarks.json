@@ -1,0 +1,20 @@
+{ 
+    "localfile": "Mississauga_City_Landmarks.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "LANDMARKNA",
+        "library_type": "TYPEDESC",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Mixed",
+         "address": {
+            "street_no": "STNO",
+            "street_name": "STNAME",
+            "city": "CITY"        }
+    },
+    "filter": {
+         "TYPEDESC": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall"  
+    }
+}

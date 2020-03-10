@@ -1,0 +1,20 @@
+{ 
+    "localfile": "Moncton_Points_of_Interest (2).csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "SUBCATEGORY",
+        "address_full": "ADDRESS",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed",
+         "address": {
+            "postcode": "POSTCODE",
+            "city": "JURISDICTION"        }
+    },
+    "filter": {
+         "SUBCATEGORY": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall"  
+    }
+}

@@ -1,0 +1,19 @@
+{ 
+    "localfile": "Markham_City_Owned_Facilities (1).csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "TYPE",
+        "address_full": "ADDRESS",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed",
+         "address": {
+            "city": "TOWNAREA"        }
+    },
+    "filter": {
+         "DEPTRESP": "Culture"  
+    }
+}

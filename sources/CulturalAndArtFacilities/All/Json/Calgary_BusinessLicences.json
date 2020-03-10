@@ -1,0 +1,15 @@
+{ 
+    "localfile": "Calgary_BusinessLicences.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "TRADENAME",
+        "address_full": "ADDRESS",
+        "longitude": "longitude",
+        "latitude": "latitude",
+        "file_type": "force:Mixed"    },
+    "filter": {
+         "TRADENAME": "Theatre|Museum|Gallery|THEATRE|MUSEUM|GALLERY|Art Centre"  
+    }
+}

@@ -1,0 +1,18 @@
+{ 
+    "localfile": "Ottawa_organizations.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "library_type": "SUB",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Mixed",
+         "address": {
+            "city": "CITY"        }
+    },
+    "filter": {
+         "SUB": "Arts"  
+    }
+}

@@ -1,0 +1,15 @@
+{ 
+    "localfile": "Kitchener_Points_of_Interest (2).csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "LANDMARK",
+        "library_type": "SUBCATEGORY",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Mixed"    },
+    "filter": {
+         "SUBCATEGORY": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts"  
+    }
+}

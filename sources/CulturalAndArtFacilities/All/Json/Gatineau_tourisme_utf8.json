@@ -1,0 +1,21 @@
+{ 
+    "localfile": "Gatineau_tourisme_utf8.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Titre (en-CA)",
+        "library_type": "Categorie (en-CA)",
+        "address_full": "Adresse (en-CA)",
+        "longitude": "Longitude",
+        "latitude": "Latitude",
+        "file_type": "force:Mixed",
+         "address": {
+            "postcode": "Code postal",
+            "city": "Ville",
+            "prov/terr": "Province (en-CA)"        }
+    },
+    "filter": {
+         "Categorie (en-CA)": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre"  
+    }
+}

@@ -1,0 +1,15 @@
+{ 
+    "localfile": "QuebecProv_smq-guide-des-musees-du-quebec-2019.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "nom_institution_en",
+        "address_full": "adresse_municipale_fr",
+        "longitude": "longitude",
+        "latitude": "latitude",
+        "file_type": "force:Mixed",
+         "address": {
+            "postcode": "codepostal",
+            "city": "ville_fr"        }
+    }}

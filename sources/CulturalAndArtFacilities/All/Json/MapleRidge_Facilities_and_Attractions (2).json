@@ -1,0 +1,19 @@
+{ 
+    "localfile": "MapleRidge_Facilities_and_Attractions (2).csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "Type",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed",
+         "address": {
+            "street_no": "House",
+            "street_name": "Street"        }
+    },
+    "filter": {
+         "Name": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall"  
+    }
+}

@@ -1,0 +1,21 @@
+{ 
+    "localfile": "GreyCounty_Tourism_Interest_Points.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "library_type": "TYPE",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Mixed",
+         "address": {
+            "street_no": "CIVIC",
+            "street_name": "STREET",
+            "postcode": "POSTAL_CODE",
+            "city": "MUNICIPALITY"        }
+    },
+    "filter": {
+         "TYPE": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts"  
+    }
+}

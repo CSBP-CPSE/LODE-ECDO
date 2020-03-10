@@ -1,0 +1,20 @@
+{ 
+    "localfile": "Pickering_Community_Services (3).csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "TYPE",
+        "address_full": "ADDRESS",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed",
+         "address": {
+            "postcode": "POSTAL_CODE",
+            "city": "TOWN"        }
+    },
+    "filter": {
+         "NAME": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall|Ballet|Cultural Centres"  
+    }
+}

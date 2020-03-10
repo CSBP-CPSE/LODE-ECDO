@@ -1,0 +1,15 @@
+{ 
+    "localfile": "Longueuil_organismes (1).csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "ORGANISME",
+        "address_full": "ADRESSE",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed"    },
+    "filter": {
+         "ORGANISME": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall"  
+    }
+}

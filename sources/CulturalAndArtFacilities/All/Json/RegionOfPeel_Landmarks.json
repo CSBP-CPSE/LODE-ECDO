@@ -1,0 +1,21 @@
+{ 
+    "localfile": "RegionOfPeel_Landmarks.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "LM_NAME",
+        "library_type": "LM_TYPE",
+        "address_full": "STR_ADDR",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Mixed",
+         "address": {
+            "postcode": "POSTAL",
+            "city": "MUN",
+            "prov/terr": "PR"        }
+    },
+    "filter": {
+         "LM_TYPE": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall|Ballet|Cultural Centres|Centres d'art|Musée|Galerie"  
+    }
+}

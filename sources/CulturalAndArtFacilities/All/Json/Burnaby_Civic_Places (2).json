@@ -1,0 +1,14 @@
+{ 
+    "localfile": "Burnaby_Civic_Places (2).csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "DESCRIPTION",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Mixed"    },
+    "filter": {
+         "DESCRIPTION": "Theatre|Museum|Gallery|THEATRE|MUSEUM|GALLERY|Art Centre"  
+    }
+}

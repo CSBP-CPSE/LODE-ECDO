@@ -1,0 +1,21 @@
+{ 
+    "localfile": "Ottawa_Cultural_Facilities (1).csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "library_type": "SUB",
+        "address_full": "ADDRESS",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Mixed",
+         "address": {
+            "postcode": "PC",
+            "city": "CITY",
+            "prov/terr": "PROVINCE"        }
+    },
+    "filter": {
+         "NAME": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall|Ballet|Cultural Centres"  
+    }
+}

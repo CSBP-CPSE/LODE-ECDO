@@ -1,0 +1,20 @@
+{ 
+    "localfile": "Laval_sites-de-loisirs.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "nom_site",
+        "library_type": "descr_type_site",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed",
+         "address": {
+            "street_no": "no_civique",
+            "street_name": "nom_rue",
+            "postcode": "code_postal"        }
+    },
+    "filter": {
+         "descr_type_site": "Salle de spectacle"  
+    }
+}

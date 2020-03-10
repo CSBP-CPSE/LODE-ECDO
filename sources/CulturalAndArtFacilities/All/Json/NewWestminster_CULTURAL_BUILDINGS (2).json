@@ -1,0 +1,19 @@
+{ 
+    "localfile": "NewWestminster_CULTURAL_BUILDINGS (2).csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "BLDGNAM",
+        "library_type": "CATEGORY",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Mixed",
+         "address": {
+            "street_no": "STRNUM",
+            "street_name": "STRNAM"        }
+    },
+    "filter": {
+         "BLDGNAM": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall|Ballet"  
+    }
+}

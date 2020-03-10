@@ -1,0 +1,15 @@
+{ 
+    "localfile": "Kitchener_Museums (1).csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "LANDMARK",
+        "library_type": "CATEGORY",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Museums",
+         "address": {
+            "street_no": "CIVIC_NO",
+            "street_name": "STREET"        }
+    }}

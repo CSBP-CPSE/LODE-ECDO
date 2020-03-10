@@ -1,0 +1,21 @@
+{ 
+    "localfile": "Chilliwack_ActiveBusLic.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "TRADE_NAME",
+        "library_type": "LICENCE_DESCRIPTION",
+        "address_full": "CIVIC_ADDRESS",
+        "longitude": "LONG",
+        "latitude": "LAT",
+        "file_type": "force:Mixed",
+         "address": {
+            "unit": "CIVIC_UNIT",
+            "street_name": "CIVIC_STREET",
+            "postcode": "CIVIC_POSTAL_CODE"        }
+    },
+    "filter": {
+         "TRADE_NAME": "Theatre|Museum|Gallery|THEATRE|MUSEUM|GALLERY|Art Centre"  
+    }
+}

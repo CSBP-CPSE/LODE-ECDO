@@ -1,0 +1,14 @@
+{ 
+    "localfile": "NiagaraRegion_museums.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "address_full": "ADDRESS",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "file_type": "force:Museums",
+         "address": {
+            "city": "MUNICIPALITY"        }
+    }}

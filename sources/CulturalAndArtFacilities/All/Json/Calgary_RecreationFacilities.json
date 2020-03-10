@@ -1,0 +1,16 @@
+{ 
+    "localfile": "Calgary_RecreationFacilities.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "COMPLEX_NAME",
+        "library_type": "FACILITY_TYPE",
+        "address_full": "ADDRESS",
+        "longitude": "longitude",
+        "latitude": "latitude",
+        "file_type": "force:Mixed"    },
+    "filter": {
+         "FACILITY_TYPE": "Art Centre"  
+    }
+}
