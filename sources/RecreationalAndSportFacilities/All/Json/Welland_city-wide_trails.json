@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Welland_city-wide_trails.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "description",
+        "library_type": "Name",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:Welland"    }}

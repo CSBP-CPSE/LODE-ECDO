@@ -1,0 +1,11 @@
+{ 
+    "localfile": "WaterlooRegion_Sports_Fields_and_Diamonds.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_type": "LAYER",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Sports Fields",
+        "data_city": "force:WaterlooRegion"    }}

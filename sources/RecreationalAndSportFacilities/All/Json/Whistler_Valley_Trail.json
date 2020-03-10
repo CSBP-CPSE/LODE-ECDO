@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Whistler_Valley_Trail.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "ASSETNAME",
+        "library_type": "CLASS",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:Whistler"    }}

@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Winnipeg_Recreation_Complex.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Complex Name",
+        "address_full": "Address",
+        "longitude": "long",
+        "latitude": "lat",
+        "file_type": "force:Rec Centres",
+        "data_city": "force:Winnipeg"    }}

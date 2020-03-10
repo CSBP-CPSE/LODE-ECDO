@@ -1,0 +1,11 @@
+{ 
+    "localfile": "YorkRegion_Trails.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "TRAIL_NAME",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:YorkRegion"    }}

@@ -1,0 +1,10 @@
+{ 
+    "localfile": "WhiteRock_Ls_Fclty Ls_Fclty.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Rec Centres",
+        "data_city": "force:WhiteRock"    }}

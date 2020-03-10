@@ -1,0 +1,10 @@
+{ 
+    "localfile": "Whitehorse_TRAIL_MOTOR_Winter_2012 DBO.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:Whitehorse"    }}

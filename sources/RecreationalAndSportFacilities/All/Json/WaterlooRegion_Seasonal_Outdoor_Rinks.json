@@ -1,0 +1,11 @@
+{ 
+    "localfile": "WaterlooRegion_Seasonal_Outdoor_Rinks.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "PARK_NAME",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Rinks",
+        "data_city": "force:WaterlooRegion"    }}

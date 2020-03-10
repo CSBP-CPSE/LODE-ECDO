@@ -1,0 +1,14 @@
+{ 
+    "localfile": "WaterlooRegion_Recreational_Water_Facilities.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "FacilityName",
+        "library_type": "Category",
+        "address_full": "SiteStreet",
+        "file_type": "force:Mixed",
+        "data_city": "force:WaterlooRegion",
+         "address": {
+            "city": "SiteCity"        }
+    }}

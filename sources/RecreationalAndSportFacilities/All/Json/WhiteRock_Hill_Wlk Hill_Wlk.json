@@ -1,0 +1,10 @@
+{ 
+    "localfile": "WhiteRock_Hill_Wlk Hill_Wlk.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:WhiteRock"    }}

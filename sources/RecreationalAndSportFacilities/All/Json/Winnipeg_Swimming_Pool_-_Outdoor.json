@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Winnipeg_Swimming_Pool_-_Outdoor.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "address_full": "Address",
+        "longitude": "long",
+        "latitude": "lat",
+        "file_type": "force:Pools",
+        "data_city": "force:Winnipeg"    }}

@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Winnipeg_Fitness_Leisure_Centre.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "address_full": "Address",
+        "longitude": "long",
+        "latitude": "lat",
+        "file_type": "force:Rec Centres",
+        "data_city": "force:Winnipeg"    }}

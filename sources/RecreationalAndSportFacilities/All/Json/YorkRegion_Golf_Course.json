@@ -1,0 +1,18 @@
+{ 
+    "localfile": "YorkRegion_Golf_Course.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "Type",
+        "address_full": "Address",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Golf",
+        "data_city": "force:YorkRegion",
+         "address": {
+            "postcode": "PostalCode",
+            "city": "Municipality",
+            "prov/terr": "Province"        }
+    }}

@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Winnipeg_Arena.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "address_full": "Address",
+        "longitude": "long",
+        "latitude": "lat",
+        "file_type": "force:Arenas",
+        "data_city": "force:Winnipeg"    }}

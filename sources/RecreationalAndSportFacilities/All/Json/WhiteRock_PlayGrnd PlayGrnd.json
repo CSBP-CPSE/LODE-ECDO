@@ -1,0 +1,10 @@
+{ 
+    "localfile": "WhiteRock_PlayGrnd PlayGrnd.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Playgrounds",
+        "data_city": "force:WhiteRock"    }}
