@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Chestermere_Golf_Course.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "description",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Golf",
+        "data_city": "force:Chestermere"    }}

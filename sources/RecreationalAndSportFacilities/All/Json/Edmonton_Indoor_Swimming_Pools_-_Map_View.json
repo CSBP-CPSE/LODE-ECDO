@@ -1,0 +1,10 @@
+{ 
+    "localfile": "Edmonton_Indoor_Swimming_Pools_-_Map_View.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "address_full": "LOCATION",
+        "file_type": "force:Pools",
+        "data_city": "force:Edmonton"    }}

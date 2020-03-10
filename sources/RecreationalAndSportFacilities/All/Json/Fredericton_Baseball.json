@@ -1,0 +1,11 @@
+{ 
+    "localfile": "Fredericton_Baseball.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Baseball",
+        "data_city": "force:Fredericton"    }}

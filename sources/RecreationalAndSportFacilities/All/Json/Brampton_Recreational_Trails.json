@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Brampton_Recreational_Trails.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "TRAIL_TYPE",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:Brampton"    }}

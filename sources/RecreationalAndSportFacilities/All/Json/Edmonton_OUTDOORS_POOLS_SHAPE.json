@@ -1,0 +1,13 @@
+{ 
+    "localfile": "Edmonton_OUTDOORS_POOLS_SHAPE.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "type",
+        "address_full": "address",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Pools",
+        "data_city": "force:Edmonton"    }}

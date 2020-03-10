@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Cambridge_Skating_Rinks.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "ARENA_NAME",
+        "library_type": "SKATING_RINK_TYPE",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Rinks",
+        "data_city": "force:Cambridge"    }}

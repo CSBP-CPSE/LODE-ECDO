@@ -1,0 +1,15 @@
+{ 
+    "localfile": "Cambridge_Golf_Courses.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Golf",
+        "data_city": "force:Cambridge",
+         "address": {
+            "street_no": "HOUSE_NUMBER",
+            "street_name": "STREET_NAME"        }
+    }}

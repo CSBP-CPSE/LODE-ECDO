@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Barrie_Trail.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "SUBTYPE",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:Barrie"    }}

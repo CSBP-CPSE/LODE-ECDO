@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Barrie_Baseball_Fields.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "PARKID",
+        "library_type": "SUBTYPE",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Baseball",
+        "data_city": "force:Barrie"    }}

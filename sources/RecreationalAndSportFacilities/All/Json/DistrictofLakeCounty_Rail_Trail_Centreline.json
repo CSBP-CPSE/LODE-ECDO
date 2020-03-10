@@ -1,0 +1,11 @@
+{ 
+    "localfile": "DistrictofLakeCounty_Rail_Trail_Centreline.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:DistrictofLakeCounty"    }}

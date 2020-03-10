@@ -1,0 +1,10 @@
+{ 
+    "localfile": "Gatineau_activites_recreatives_sportives_badminton_utf8 (1).csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Lieu",
+        "address_full": "Adresse",
+        "file_type": "force:Badminton",
+        "data_city": "force:Gatineau"    }}

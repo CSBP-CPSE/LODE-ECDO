@@ -1,0 +1,16 @@
+{ 
+    "localfile": "Cambridge_Sports_Fields.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "SPORTS_FACILITY_NAME",
+        "library_type": "SPORTS_FACILITY_TYPE",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Sports Fields",
+        "data_city": "force:Cambridge",
+         "address": {
+            "street_no": "STREET_NUMBER",
+            "street_name": "STREET_NAME"        }
+    }}

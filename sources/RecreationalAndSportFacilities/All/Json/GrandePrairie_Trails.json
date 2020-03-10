@@ -1,0 +1,10 @@
+{ 
+    "localfile": "GrandePrairie_Trails.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "longitude": "long",
+        "latitude": "lat",
+        "file_type": "force:Trails",
+        "data_city": "force:GrandePrairie"    }}

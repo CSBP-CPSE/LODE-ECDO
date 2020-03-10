@@ -1,0 +1,13 @@
+{ 
+    "localfile": "Fredericton_BallDiamonds.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Facility",
+        "library_type": "Translated",
+        "address_full": "Address",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Sports Fields",
+        "data_city": "force:Fredericton"    }}

@@ -1,0 +1,13 @@
+{ 
+    "localfile": "Fredericton_BallFields.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Facility",
+        "library_type": "Sub_Class",
+        "address_full": "Location",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Sports Fields",
+        "data_city": "force:Fredericton"    }}

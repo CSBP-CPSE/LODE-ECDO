@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Gatineau_activites_recreatives_sportives_patinage_glace_exterieure_utf8.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Lieu",
+        "address_full": "Adresse",
+        "longitude": "Longitude",
+        "latitude": "Latitude",
+        "file_type": "force:Indoor Rinks",
+        "data_city": "force:Gatineau"    }}

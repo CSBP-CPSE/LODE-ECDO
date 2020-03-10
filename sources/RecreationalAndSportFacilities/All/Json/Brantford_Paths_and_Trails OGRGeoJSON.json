@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Brantford_Paths_and_Trails OGRGeoJSON.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Location",
+        "library_type": "Category",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:Brantford"    }}

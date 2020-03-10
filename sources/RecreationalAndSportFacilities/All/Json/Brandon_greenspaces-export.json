@@ -1,0 +1,10 @@
+{ 
+    "localfile": "Brandon_greenspaces-export.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "address_full": "Address",
+        "file_type": "force:Greenspace",
+        "data_city": "force:Brandon"    }}

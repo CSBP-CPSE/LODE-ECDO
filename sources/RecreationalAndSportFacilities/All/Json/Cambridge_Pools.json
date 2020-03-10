@@ -1,0 +1,10 @@
+{ 
+    "localfile": "Cambridge_Pools.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "POOL_NAME",
+        "address_full": "ADDRESS",
+        "file_type": "force:Pools",
+        "data_city": "force:Cambridge"    }}

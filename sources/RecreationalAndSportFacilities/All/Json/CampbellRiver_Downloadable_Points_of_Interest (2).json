@@ -1,0 +1,16 @@
+{ 
+    "localfile": "CampbellRiver_Downloadable_Points_of_Interest (2).csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "PLACE",
+        "library_type": "Type",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed",
+        "data_city": "force:CampbellRiver"    },
+    "filter": {
+         "PLACE": "Aquatic Centre|Arena|Badminton|Ball Diamond|Baseball|Basketball|Beach|Bocce|Casino|Cricket Pitch|Curling|Day Camp|Dog Park|Golf Club|Golf Course|Gym|Hockey|Marina|Playground|Pool|Rec Centre|Recreation Centre|Rink|Skateboad|Snowmobile Trail|Snowshoe Trail|Soccer|Softball|Splash Pad|Splash Park|Sports Centre|Sports Court|Sports Court|Sports Field|Sports Field|Stadium|Stadium|Tennis|Tennis Club|Tennis Court|Trail|Volleyball|Wading Pool|Zoo|Aréna"  
+    }
+}

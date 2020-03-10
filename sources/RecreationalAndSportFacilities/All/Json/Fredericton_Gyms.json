@@ -1,0 +1,11 @@
+{ 
+    "localfile": "Fredericton_Gyms.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Gyms",
+        "data_city": "force:Fredericton"    }}

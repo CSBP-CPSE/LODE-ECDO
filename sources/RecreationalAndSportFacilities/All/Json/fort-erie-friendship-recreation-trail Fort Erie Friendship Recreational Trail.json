@@ -1,0 +1,11 @@
+{ 
+    "localfile": "fort-erie-friendship-recreation-trail Fort Erie Friendship Recreational Trail.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:fort-erie-friendship-recreation-trail Fort Erie Friendship Recreational Trail.csv"    }}

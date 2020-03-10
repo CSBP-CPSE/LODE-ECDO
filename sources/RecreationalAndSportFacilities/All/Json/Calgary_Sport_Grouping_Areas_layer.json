@@ -1,0 +1,11 @@
+{ 
+    "localfile": "Calgary_Sport_Grouping_Areas_layer.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "asset_type",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed",
+        "data_city": "force:Calgary"    }}

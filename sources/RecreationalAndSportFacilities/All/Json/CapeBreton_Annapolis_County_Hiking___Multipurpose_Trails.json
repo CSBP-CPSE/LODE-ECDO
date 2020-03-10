@@ -1,0 +1,10 @@
+{ 
+    "localfile": "CapeBreton_Annapolis_County_Hiking___Multipurpose_Trails.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Trail_Name",
+        "address_full": "Location",
+        "file_type": "force:Trails",
+        "data_city": "force:CapeBreton"    }}

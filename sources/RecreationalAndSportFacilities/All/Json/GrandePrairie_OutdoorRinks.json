@@ -1,0 +1,11 @@
+{ 
+    "localfile": "GrandePrairie_OutdoorRinks.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "BoardType",
+        "longitude": "long",
+        "latitude": "lat",
+        "file_type": "force:Rinks",
+        "data_city": "force:GrandePrairie"    }}

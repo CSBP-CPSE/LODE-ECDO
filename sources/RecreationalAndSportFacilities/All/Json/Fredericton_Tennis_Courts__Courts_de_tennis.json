@@ -1,0 +1,11 @@
+{ 
+    "localfile": "Fredericton_Tennis_Courts__Courts_de_tennis.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Tennis",
+        "data_city": "force:Fredericton"    }}

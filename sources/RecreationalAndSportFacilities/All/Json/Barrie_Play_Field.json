@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Barrie_Play_Field.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "PARKID",
+        "library_type": "TYPE",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed",
+        "data_city": "force:Barrie"    }}

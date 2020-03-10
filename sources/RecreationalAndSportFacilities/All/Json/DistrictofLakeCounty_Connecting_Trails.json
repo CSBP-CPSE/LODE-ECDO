@@ -1,0 +1,12 @@
+{ 
+    "localfile": "DistrictofLakeCounty_Connecting_Trails.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "Type",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:DistrictofLakeCounty"    }}

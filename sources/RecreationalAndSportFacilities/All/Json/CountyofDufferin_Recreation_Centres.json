@@ -1,0 +1,15 @@
+{ 
+    "localfile": "CountyofDufferin_Recreation_Centres.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "address_full": "ADDRESS",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Rec Centres",
+        "data_city": "force:CountyofDufferin",
+         "address": {
+            "city": "TOWN"        }
+    }}

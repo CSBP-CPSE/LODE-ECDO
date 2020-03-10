@@ -1,0 +1,10 @@
+{ 
+    "localfile": "Calgary_Trails_layer.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:Calgary"    }}

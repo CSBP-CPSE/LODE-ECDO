@@ -1,0 +1,12 @@
+{ 
+    "localfile": "GrandePrairie_RecreationAssets (1).csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "asset_name",
+        "library_type": "asset_type",
+        "longitude": "long",
+        "latitude": "lat",
+        "file_type": "force:Mixed",
+        "data_city": "force:GrandePrairie"    }}

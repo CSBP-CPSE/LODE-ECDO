@@ -1,0 +1,11 @@
+{ 
+    "localfile": "Burnaby_Trans_Canada_Trail.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "description",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:Burnaby"    }}

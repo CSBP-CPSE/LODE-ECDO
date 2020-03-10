@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Canmore_Trails.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME1",
+        "library_type": "CLASS1",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:Canmore"    }}

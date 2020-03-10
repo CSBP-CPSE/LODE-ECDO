@@ -1,0 +1,11 @@
+{ 
+    "localfile": "fort-erie-basketball-courts Basketball Courts.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Basketball",
+        "data_city": "force:fort-erie-basketball-courts Basketball Courts.csv"    }}

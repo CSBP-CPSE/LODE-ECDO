@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Burnaby_Urban_Paths__Trails.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "PATHNAME",
+        "library_type": "TRAILCLASS",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Trails",
+        "data_city": "force:Burnaby"    }}

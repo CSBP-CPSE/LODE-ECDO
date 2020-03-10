@@ -1,0 +1,10 @@
+{ 
+    "localfile": "Gatineau_activites_recreatives_sportives_soccer_utf8.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Lieu",
+        "address_full": "Adresse",
+        "file_type": "force:Soccer",
+        "data_city": "force:Gatineau"    }}

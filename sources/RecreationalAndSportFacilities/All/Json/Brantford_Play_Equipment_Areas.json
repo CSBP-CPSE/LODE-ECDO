@@ -1,0 +1,11 @@
+{ 
+    "localfile": "Brantford_Play_Equipment_Areas.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Location",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Playgrounds",
+        "data_city": "force:Brantford"    }}

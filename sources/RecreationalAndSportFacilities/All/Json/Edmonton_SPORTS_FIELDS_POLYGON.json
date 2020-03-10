@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Edmonton_SPORTS_FIELDS_POLYGON.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "library_type": "TYPE",
+        "longitude": "long",
+        "latitude": "lat",
+        "file_type": "force:Mixed",
+        "data_city": "force:Edmonton"    }}

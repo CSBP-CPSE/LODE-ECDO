@@ -1,0 +1,13 @@
+{ 
+    "localfile": "Fredericton_IceSurfaces.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Facility",
+        "library_type": "Type",
+        "address_full": "Address",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Rinks",
+        "data_city": "force:Fredericton"    }}
