@@ -8,6 +8,10 @@
         "longitude": "x",
         "latitude": "y",
         "file_type": "force:Museums",
+        "data_city": "force:Cambridge",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Cambridge",
+        "address_concat": "force: ",
          "address": {
             "street_no": "HOUSE_NUMBER",
             "street_name": "STREET_NAME"        }

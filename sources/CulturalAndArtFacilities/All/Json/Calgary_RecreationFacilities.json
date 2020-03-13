@@ -9,7 +9,11 @@
         "address_full": "ADDRESS",
         "longitude": "longitude",
         "latitude": "latitude",
-        "file_type": "force:Mixed"    },
+        "file_type": "force:Mixed",
+        "data_city": "force:Calgary",
+        "data_prov/terr": "force:AB",
+        "data_provider": "force:Calgary",
+        "address_concat": "force: "    },
     "filter": {
          "FACILITY_TYPE": "Art Centre"  
     }

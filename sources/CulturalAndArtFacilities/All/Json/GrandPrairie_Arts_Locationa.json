@@ -8,4 +8,8 @@
         "library_type": "asset_type",
         "longitude": "long",
         "latitude": "lat",
-        "file_type": "force:Mixed"    }}
+        "file_type": "force:Mixed",
+        "data_city": "force:Grand Prairie",
+        "data_prov/terr": "force:AB",
+        "data_provider": "force:Grand Prairie",
+        "address_concat": "force: "    }}

@@ -1,0 +1,22 @@
+{ 
+    "localfile": "AllLibraries.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "library_name",
+        "library_type": "library_type",
+        "address_full": "address_full",
+        "longitude": "longitude",
+        "latitude": "latitude",
+        "file_type": "force:Libraries",
+        "data_provider": "force:Libraries File",
+        "address_concat": "force: ",
+         "address": {
+            "unit": "unit",
+            "street_no": "street_no",
+            "street_name": "street_name",
+            "postcode": "postcode",
+            "city": "data_city",
+            "prov/terr": "data_prov/terr"        }
+    }}
