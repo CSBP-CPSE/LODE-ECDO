@@ -10,6 +10,10 @@
         "longitude": "X",
         "latitude": "Y",
         "file_type": "force:Museums",
+        "data_city": "force:Norfolk County",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Norfolk County",
+        "address_concat": "force: ",
          "address": {
             "postcode": "PostalCode"        }
     }}

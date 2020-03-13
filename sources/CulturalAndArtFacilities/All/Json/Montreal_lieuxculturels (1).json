@@ -10,6 +10,10 @@
         "longitude": "Longitude",
         "latitude": "Latitude",
         "file_type": "force:Mixed",
+        "data_city": "force:Montreal",
+        "data_prov/terr": "force:QC",
+        "data_provider": "force:Montreal",
+        "address_concat": "force: ",
          "address": {
             "postcode": "Code postal",
             "city": "Ville",

@@ -8,4 +8,8 @@
         "library_type": "Type",
         "longitude": "x",
         "latitude": "y",
-        "file_type": "force:Mixed"    }}
+        "file_type": "force:Mixed",
+        "data_city": "force:Montreal",
+        "data_prov/terr": "force:QC",
+        "data_provider": "force:Montreal",
+        "address_concat": "force: "    }}

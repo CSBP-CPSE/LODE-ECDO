@@ -9,6 +9,10 @@
         "longitude": "longitude",
         "latitude": "latitude",
         "file_type": "force:Mixed",
+        "data_city": "force:Province of Québec",
+        "data_prov/terr": "force:QC",
+        "data_provider": "force:Province of Québec",
+        "address_concat": "force: ",
          "address": {
             "postcode": "codepostal",
             "city": "ville_fr"        }

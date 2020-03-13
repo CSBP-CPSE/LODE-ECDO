@@ -8,6 +8,10 @@
         "longitude": "Longitude",
         "latitude": "Latitude",
         "file_type": "force:Mixed",
+        "data_city": "force:Sherbrooke",
+        "data_prov/terr": "force:QC",
+        "data_provider": "force:Sherbrooke",
+        "address_concat": "force: ",
          "address": {
             "street_no": "NumeroCivique",
             "street_name": "Rue",
@@ -15,6 +19,6 @@
             "city": "Ville"        }
     },
     "filter": {
-         "Nom": "Theatre|Museum|Gallery|Galleries|THEATRE|MUSEUM|GALLERY|GALLERIES|Art Centre|Arts|Performance Hall|Ballet|Cultural Centres|Centres d'art|Musée|Galerie"  
+         "Nom": "Theatre|Museum|Gallery|Galleries|Art Centre|Arts|Performance Hall|Ballet|Cultural Centres|Centres d'art|Musée|Galerie|Art and Culture|Arts et culture|Théâtre|Concert Hall|Salle de concert|Artists|Artistes|theatre|museum|gallery|galleries|art centre|arts|performance hall|ballet|cultural centres|centres d'art|musée|galerie|art and culture|arts et culture|théâtre|concert hall|salle de concert|artists|artistes|THEATRE|MUSEUM|GALLERY|GALLERIES|ART CENTRE|ARTS|PERFORMANCE HALL|BALLET|CULTURAL CENTRES|CENTRES D'ART|MUSÉE|GALERIE|ART AND CULTURE|ARTS ET CULTURE|THÉÂTRE|CONCERT HALL|SALLE DE CONCERT|ARTISTS|ARTISTES"  
     }
 }

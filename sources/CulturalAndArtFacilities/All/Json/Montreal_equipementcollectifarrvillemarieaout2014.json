@@ -8,8 +8,12 @@
         "library_type": "CATEG",
         "address_full": "EMPLACEMENT",
         "longitude": "Longitude",
-        "latitude": "Latitude",
+        "latitude": "Latitude ",
         "file_type": "force:Mixed",
+        "data_city": "force:Montreal",
+        "data_prov/terr": "force:QC",
+        "data_provider": "force:Montreal",
+        "address_concat": "force: ",
          "address": {
             "street_no": "NO_CIV",
             "street_name": "SPECIFIQUE",

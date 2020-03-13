@@ -9,6 +9,10 @@
         "longitude": "X",
         "latitude": "Y",
         "file_type": "force:Museums",
+        "data_city": "force:Mississauga",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Mississauga",
+        "address_concat": "force: ",
          "address": {
             "street_no": "STNO",
             "street_name": "STNAME",

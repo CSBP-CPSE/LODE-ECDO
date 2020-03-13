@@ -10,6 +10,10 @@
         "longitude": "LONGITUDE",
         "latitude": "LATITUDE",
         "file_type": "force:Mixed",
+        "data_city": "force:Peel Region",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Peel Region",
+        "address_concat": "force: ",
          "address": {
             "postcode": "POSTAL",
             "city": "MUN"        }

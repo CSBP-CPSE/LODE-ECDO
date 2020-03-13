@@ -9,6 +9,10 @@
         "longitude": "X",
         "latitude": "Y",
         "file_type": "force:Museums",
+        "data_city": "force:Kitchener",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Kitchener",
+        "address_concat": "force: ",
          "address": {
             "street_no": "CIVIC_NO",
             "street_name": "STREET"        }

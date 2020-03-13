@@ -9,4 +9,8 @@
         "address_full": "ADRESSE",
         "longitude": "LONGITUDE",
         "latitude": "LATITUDE",
-        "file_type": "force:Mixed"    }}
+        "file_type": "force:Mixed",
+        "data_city": "force:Repentigny",
+        "data_prov/terr": "force:QC",
+        "data_provider": "force:Repentigny",
+        "address_concat": "force: "    }}

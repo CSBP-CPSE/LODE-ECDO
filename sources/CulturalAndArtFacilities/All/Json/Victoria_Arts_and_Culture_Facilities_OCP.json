@@ -8,8 +8,12 @@
         "library_type": "Location",
         "longitude": "x",
         "latitude": "y",
-        "file_type": "force:Mixed"    },
+        "file_type": "force:Mixed",
+        "data_city": "force:Victoria",
+        "data_prov/terr": "force:BC",
+        "data_provider": "force:Victoria",
+        "address_concat": "force: "    },
     "filter": {
-         "TYPE": "Performance|Museum"  
+         "Location": "Performance|Museum"  
     }
 }

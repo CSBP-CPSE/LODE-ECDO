@@ -9,6 +9,10 @@
         "longitude": "LONGITUDE",
         "latitude": "LATITUDE",
         "file_type": "force:Museums",
+        "data_city": "force:Niagara Region",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Niagara Region",
+        "address_concat": "force: ",
          "address": {
             "city": "MUNICIPALITY"        }
     }}

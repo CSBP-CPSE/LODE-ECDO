@@ -1,21 +1,20 @@
 { 
-    "localfile": "QuebecCity_vdq-lieupublic (1).csv",
+    "localfile": "Ottawa_Landmarks_OC_Transpos_Travel_Planner.csv",
     "url":"",
     "format":"csv",
     "database_type": "library",
     "info": {
-        "library_name": "NOM_TOPOGRAPHIE",
+        "library_name": "DESCRIPTION_1",
         "library_type": "DESCRIPTION",
-        "longitude": "long",
-        "latitude": "lat",
+        "longitude": "X",
+        "latitude": "POINT_Y",
         "file_type": "force:Mixed",
-        "data_city": "force:Quebec City",
-        "data_prov/terr": "force:QC",
-        "data_provider": "force:Quebec City",
+        "data_city": "force:Ottawa",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Ottawa",
         "address_concat": "force: ",
          "address": {
-            "street_no": "NO_CIVIQUE",
-            "street_name": "RUE"        }
+            "city": "City"        }
     },
     "filter": {
          "DESCRIPTION": "Theatre|Museum|Gallery|Galleries|Art Centre|Arts|Performance Hall|Ballet|Cultural Centres|Centres d'art|Musée|Galerie|Art and Culture|Arts et culture|Théâtre|Concert Hall|Salle de concert|Artists|Artistes|theatre|museum|gallery|galleries|art centre|arts|performance hall|ballet|cultural centres|centres d'art|musée|galerie|art and culture|arts et culture|théâtre|concert hall|salle de concert|artists|artistes|THEATRE|MUSEUM|GALLERY|GALLERIES|ART CENTRE|ARTS|PERFORMANCE HALL|BALLET|CULTURAL CENTRES|CENTRES D'ART|MUSÉE|GALERIE|ART AND CULTURE|ARTS ET CULTURE|THÉÂTRE|CONCERT HALL|SALLE DE CONCERT|ARTISTS|ARTISTES"  

@@ -7,4 +7,8 @@
         "library_name": "Label_En",
         "longitude": "x",
         "latitude": "y",
-        "file_type": "force:Theatres"    }}
+        "file_type": "force:Theatres",
+        "data_city": "force:Saint John",
+        "data_prov/terr": "force:NB",
+        "data_provider": "force:Saint John",
+        "address_concat": "force: "    }}

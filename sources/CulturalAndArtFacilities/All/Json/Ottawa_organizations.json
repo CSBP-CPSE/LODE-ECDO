@@ -9,6 +9,10 @@
         "longitude": "X",
         "latitude": "Y",
         "file_type": "force:Mixed",
+        "data_city": "force:Ottawa",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Ottawa",
+        "address_concat": "force: ",
          "address": {
             "city": "CITY"        }
     },

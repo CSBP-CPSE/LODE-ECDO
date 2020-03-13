@@ -9,7 +9,11 @@
         "address_full": "LOCATION",
         "longitude": "LONGITUDE",
         "latitude": "LATITUDE",
-        "file_type": "force:Mixed"    },
+        "file_type": "force:Mixed",
+        "data_city": "force:Toronto",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Toronto",
+        "address_concat": "force: "    },
     "filter": {
          "CATEGORY": "Creative"  
     }

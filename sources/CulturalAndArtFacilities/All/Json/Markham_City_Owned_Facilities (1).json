@@ -10,6 +10,10 @@
         "longitude": "x",
         "latitude": "y",
         "file_type": "force:Mixed",
+        "data_city": "force:Markham",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Markham",
+        "address_concat": "force: ",
          "address": {
             "city": "TOWNAREA"        }
     },
