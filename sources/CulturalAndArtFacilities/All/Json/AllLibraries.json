@@ -9,14 +9,14 @@
         "address_full": "address_full",
         "longitude": "longitude",
         "latitude": "latitude",
-        "file_type": "force:Libraries",
-        "data_provider": "force:Libraries File",
+        "file_type": "file_type",
+        "data_city": "data_city",
+        "data_prov/terr": "data_prov/terr",
+        "data_provider": "data_provider",
         "address_concat": "force: ",
          "address": {
             "unit": "unit",
             "street_no": "street_no",
             "street_name": "street_name",
-            "postcode": "postcode",
-            "city": "data_city",
-            "prov/terr": "data_prov/terr"        }
+            "postcode": "postcode"        }
     }}
