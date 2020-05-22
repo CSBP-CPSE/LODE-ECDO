@@ -1,0 +1,38 @@
+Name,Provider,Coverage,URL,Open,Description,Lab,StandardFileFormat,Notes
+Beds Staffed and In Operation,CIHI,CA,https://www.cihi.ca/sites/default/files/document/beds-staffed-and-in-operation-2017-2018-en-web-revmay3.xlsx,No,"Hospitals with Bed Counts and Types, no addresses",No,Yes,
+Laboratory Services in BC,Ministry of Health -Health Link BC,BC,https://catalogue.data.gov.bc.ca/dataset/laboratory-services-in-bc  ,Yes,Programs that perform a laboratory analysis of body fluids and tissue to determine the presence of irregularities or to identify unknown substances submitted for analysis,Yes,Yes,
+Dynacare Laboratories,Dynacare,"MB, ON, QC",https://www.dynacare.ca/find-a-location.aspx,No,Search for lab locations by city,Yes,No,
+Stanton Laboratory,Northwest Territories Health and Social Services Authority,NT,https://www.nthssa.ca/en/contact-information/stanton-laboratory,No,Full address of Stanton Lab,Yes,No,
+Laboratory Services in NT,Northwest Territories Health and Social Services Authority,NT,https://www.nthssa.ca/en/services/laboratory-services,No,List of 4 labs at the bottom of the page,Yes,No,
+LifeLabs,LifeLabs,"BC, SK, ON",https://locations.lifelabs.com/locationfinder,No,Search for lab locations by city,Yes,No,
+Lower Mainland Laboratories,Lower Mainland Labs,"BC ""Lower Mainland""",http://lmlabs.phsa.ca/find-a-lab,No,Lower Mainland Laboratories is a service of the Provincial Health Services Authority (PHSA). They provide public laboratory services throughout BC’s Lower Mainland,Yes,No,
+Accredited Facilities,IQMH,"BC, ON, NB, NS, NL",https://iqmh.org/Services/Centre-For-Accreditation/Accredited-Facilities,No,Accredited facilities to ISO 15189,Yes,No,
+Find Healthcare,Alberta Health Services,AB,https://www.albertahealthservices.ca/findhealth/search.aspx?type=facility#icon_banner,No,Search for Hospital or Facility,Yes,No,Search by city only
+CALA Directory of Laboratories,CALA,CA,http://www.caladirectory.ca/welcome.php,No,,Yes,No,
+Roy Romanow Provincial Laboratory,SK Health Authority,SK,https://www.saskhealthauthority.ca/Services-Locations/RRPL/Pages/Contact-Us.aspx,No,Adress info for single the Roy Romanow Provincial Lab,Yes,No,Single lab
+Diagnostic Services > Locations,Shared Health Manitoba,MB,https://sharedhealthmb.ca/services/diagnostic/locations/,No,Locations of Diagnostic Services,Yes,No,
+EORLA Member Hospitals and Sites,Eastern Ontario Regional Laboratory Association,Eastern ON,https://www.eorla.ca/member-hospitals-and-sites/,No,Hospitals with EORLA associated Labs,No,No,
+Standards Council of Canada Labs,Standards Council of Canada,CA,https://www.scc.ca/en/search/laboratories/?f%5B0%5D=program_area%3ALaboratories&f%5B1%5D=sm_field_field_of_testing%3ABiological,No,List of biological labs,Yes,No,
+Yukon Hospitals > WGH > Laboratory Services,Yukon Hospitals,YK,https://yukonhospitals.ca/whitehorse-general-hospital/programs-and-services/laboratory-services,No,Presence of lab,Yes,No,"no address on page, just presence of lab in hospital"
+Yukon Hospitals > Watson Lake Community Hospital > Laboratory Services,Yukon Hospitals,YK,https://yukonhospitals.ca/watson-lake-community-hospital/programs-and-services/laboratory-services,No,Presence of lab,Yes,No,"no address on page, just presence of lab in hospital"
+Yukon Hospitals > Dawson City Hospital> Laboratory Services,Yukon Hospitals,YK,https://yukonhospitals.ca/dawson-city-hospital/programs-and-services/laboratory-services,No,Presence of lab,Yes,No,"no address on page, just presence of lab in hospital"
+Newfoundland & Labrador Public Health Laboratory,Newfoundland & Labrador Public Health Laboratory,NL,https://publichealthlab.ca/contact-us/,No,Single Lab,Yes,No,It's just the address for one lab
+Nunavut Research Institute Laboratories,Nunanvut Research Institute,NU,https://www.nri.nu.ca/nri-laboratories,No,Single lab - research,Yes,No,"I think this is a natural sciences research lab - soils, geology, etc."
+Laboratory Services in Labrador Grenfell,NL Labrador & Grenfell RHA,NL Labrador & Grenfell RHA,https://www.lghealth.ca/your-health/programs-and-services/laboratory-services/,No,"Hospitals, LTCS, Health Centres & Community Clinics with Labs",Yes,No,Health facilities with labs
+Central Health - Laboratory Services,NL Central RHA,NL Central,https://www.centralhealth.nl.ca/laboratory-services ,No,List of Health Facilities with labs,Yes,No,no adresses
+Eastern Health - Laboratory Services,NL Eastern RHA,NL Eastern,http://www.easternhealth.ca/OurServices.aspx?d=2&id=314&p=162,No,List of Health Facilities with labs,Yes,No,Other information suggests they collect more than just blood sample
+Western Health - Laboratory Serices,NL Western RHA,NL Western,http://www.westernhealth.nl.ca/home/health-topics-main/laboratory-services/locations-4/,No,List of Health Facilities with labs,Yes,No,
+Qikiqtani General Hospital Laboratory,Nunavut Government,NU,https://www.gov.nu.ca/laboratory-technologist,No,Job posting for position at Qikiqtani General Hospital Laboratory,Yes,No,
+Ontario Ministry of Health Service Provider Locations,Ontario,ON,https://geohub.lio.gov.on.ca/datasets/ministry-of-health-service-provider-locations,Yes,geospatial file containing comprehensive ON health data,Yes,Yes,"Already in ODHF, but ODHF doesn't contain many labs"
+Public Health Ontario Laboratory Locations,Public Health Ontario,ON,https://www.publichealthontario.ca/en/laboratory-services/laboratory-contact,No,Addresses of laboratory locations,Yes,No,
+Public Health Offices,INSPQ,QC,https://www.inspq.qc.ca/institut/nous-joindre/lieux-de-travail,No,,Unknown,No,
+CSSS and CIUSSS,Quebec,QC,https://www.quebec.ca/en/health/health-system-and-services/service-organization/cisss-and-ciusss/,No,,Unknown,No,These have been collected as part of the ODHF
+CDL Laboratories,CDL Laboratories,QC,https://www.cdllaboratories.com/en/contact/,No,List of facilities operated by CDL,Yes,No,
+Hema Laboratories,Hema Laboratories,QC,https://www.hema-quebec.qc.ca/contact/index.en.html,No,Labs operated by Hema in Montreal and QC,Yes,No,
+Blood Collection Locations,NS Health,NS,http://www.nshealth.ca/blood-collection,No,List of blood collection locations w/ addresses,Yes,No,Some locations might not offer actual lab capabilities if they ship testing to another facility
+Specimen Testing Locations,NS Health,NS,http://www.nshealth.ca/specimen-testing,No,List of specimen testing locations w/addresses,Yes,No,Most of the locations listed are
+Community-based labs (NS),NS Health,NS,https://www.cdha.nshealth.ca/pathology-laboratory-medicine/clinical-services/community-based-laboratories,No,list of 2 community-based labs,Yes,No,
+Diagnostics and Testing - Blood and Specimen Collection,Horizon Health Network,NB,https://en.horizonnb.ca/facilities-and-services/services/diagnostics-and-testing/blood-and-specimen-collection.aspx,No,List of Health Facilities with labs,Yes,No,Have to click each inidividual entry to see addresses
+Locations of health facilities in NS,NS Health,NS,http://www.nshealth.ca/locations?field_geofield_distance%255Bdistance%255D=10&field_geofield_distance%255Borigin%255D=Enter%2BStreet%2BAddress%2Bor%2BPostal%2BCode&field_location_type_tid%255B%255D=59,No,"List of health facilities in NS, may not contain lab-specific info",Unknown,No,
+Laboratory Services,Health PEI,PE,https://www.princeedwardisland.ca/en/information/health-pei/laboratory-services  ,No,List of Health Facilities with labs,Yes,No,"Scroll down to ""How do I contact Laboratory Services?"""
+,,,,,,,,
