@@ -1,0 +1,17 @@
+{
+    "localfile": "1-health-yt--20-01-hospitals.csv",
+    "database_type": "hospital",
+    "source": "https://yukonhospitals.ca/",
+    "licence": "https://yukonhospitals.ca/yukon-hospital-corporation/terms-use",
+    "provider": "Yukon",
+    "format": {
+	"type": "csv",
+	"delimiter": ",",
+	"quote": "\""
+    },
+    "schema": {
+	"hospital_name": "Name",
+	"address_str": ["Address", "City", "Province", "Postal Code"],
+	"address_str_parse": ["Address", "City", "Province", "Postal Code"]
+    }
+}

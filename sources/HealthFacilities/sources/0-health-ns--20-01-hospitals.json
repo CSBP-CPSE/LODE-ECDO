@@ -1,0 +1,21 @@
+{
+    "localfile": "0-health-ns--20-01-hospitals.csv",
+    "database_type": "hospital",
+    "source": "https://data.novascotia.ca/Health-and-Wellness/Hospitals/2kxr-ajui",
+    "licence": "https://novascotia.ca/opendata/licence.asp",
+    "provider": "Province of Nova Scotia",
+    "format": {
+	"type": "csv",
+	"delimiter": ",",
+	"quote": "\""
+    },
+    "schema": {
+	"hospital_name": "FACILITY",
+	"hospital_type": "TYPE",
+	"address_str_parse": ["Address", "TOWN", "force:ns", "force:canada"],
+	"longitude": "geo_lon",
+	"latitude": "geo_lat",
+	"phone": "Phone"
+    }
+}
+
