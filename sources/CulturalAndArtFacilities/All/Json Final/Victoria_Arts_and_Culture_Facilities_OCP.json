@@ -1,0 +1,19 @@
+{ 
+    "localfile": "Victoria_Arts_and_Culture_Facilities_OCP.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Village_Ty",
+        "library_type": "Location",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed",
+        "data_city": "force:Victoria",
+        "data_prov/terr": "force:BC",
+        "data_provider": "force:Victoria",
+        "address_concat": "force: "    },
+    "filter": {
+         "Location": "Performance|Museum"  
+    }
+}

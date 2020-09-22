@@ -1,0 +1,15 @@
+{ 
+    "localfile": "StAlbert_Cultural_Facilities.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "address_full": "Address",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed",
+        "data_city": "force:St. Albert",
+        "data_prov/terr": "force:AB",
+        "data_provider": "force:St. Albert",
+        "address_concat": "force: "    }}

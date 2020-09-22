@@ -1,0 +1,17 @@
+{ 
+    "localfile": "NovaScotia_Museum_-_Locations_Map.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Site",
+        "address_full": "Address",
+        "file_type": "force:Mixed",
+        "data_city": "force:Province of Nova Scotia",
+        "data_prov/terr": "force:NS",
+        "data_provider": "force:Province of Nova Scotia",
+        "address_concat": "force: ",
+         "address": {
+            "postcode": "Postal Code",
+            "city": "Town"        }
+    }}

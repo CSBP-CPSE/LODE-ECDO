@@ -1,0 +1,24 @@
+{ 
+    "localfile": "PeelRegion_landmarks_csv.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "LM_NAME",
+        "library_type": "LM_TYPE",
+        "address_full": "STR_ADDR",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "file_type": "force:Mixed",
+        "data_city": "force:Peel Region",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Peel Region",
+        "address_concat": "force: ",
+         "address": {
+            "postcode": "POSTAL",
+            "city": "MUN"        }
+    },
+    "filter": {
+         "CATEGORY": "Arts and Culture"  
+    }
+}

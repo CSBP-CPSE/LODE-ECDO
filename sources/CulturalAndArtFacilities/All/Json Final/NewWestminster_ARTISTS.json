@@ -1,0 +1,16 @@
+{ 
+    "localfile": "NewWestminster_ARTISTS.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "catname",
+        "address_full": "Address",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Artists",
+        "data_city": "force:New Westminster",
+        "data_prov/terr": "force:BC",
+        "data_provider": "force:New Westminster",
+        "address_concat": "force: "    }}
