@@ -17,6 +17,7 @@
          "address": {
             "street_no": "NO_CIV",
             "street_name": "SPECIFIQUE",
+            "street_suffix": "GENERIQUE",
             "postcode": "Code postal",
             "city": "Ville"        }
     },

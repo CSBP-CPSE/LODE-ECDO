@@ -16,6 +16,7 @@
          "address": {
             "street_no": "STNO",
             "street_name": "STNAME",
+            "street_suffix": "SUFFIX",
             "city": "CITY"        }
     },
     "filter": {
