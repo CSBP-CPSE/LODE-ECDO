@@ -1,0 +1,14 @@
+{ 
+    "localfile": "Newfoundland_Arts_and_Culture_Centres.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed",
+        "data_city": "force:Province of Newfoundland and Labrador",
+        "data_prov/terr": "force:NL",
+        "data_provider": "force:Province of Newfoundland and Labrador",
+        "address_concat": "force: "    }}

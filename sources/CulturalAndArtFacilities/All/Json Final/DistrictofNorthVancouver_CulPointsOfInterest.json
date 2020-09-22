@@ -1,0 +1,19 @@
+{ 
+    "localfile": "DistrictofNorthVancouver_CulPointsOfInterest.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "library_type": "PRIMARY_TY",
+        "longitude": "x",
+        "latitude": "y",
+        "file_type": "force:Mixed",
+        "data_city": "force:District of North Vancouver",
+        "data_prov/terr": "force:BC",
+        "data_provider": "force:District of North Vancouver",
+        "address_concat": "force: "    },
+    "filter": {
+         "PRIMARY_TY": "ARTS"  
+    }
+}

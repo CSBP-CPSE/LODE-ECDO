@@ -1,0 +1,14 @@
+{ 
+    "localfile": "Hamilton_Museums_and_Galleries.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "file_type": "force:Museums",
+        "data_city": "force:Hamilton",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Hamilton",
+        "address_concat": "force: "    }}

@@ -1,0 +1,20 @@
+{ 
+    "localfile": "Mississauga_Art_Galleries.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "LANDMARKNA",
+        "library_type": "TYPEDESC",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Galleries",
+        "data_city": "force:Mississauga",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Mississauga",
+        "address_concat": "force: ",
+         "address": {
+            "street_no": "STNO",
+            "street_name": "STNAME",
+            "city": "CITY"        }
+    }}

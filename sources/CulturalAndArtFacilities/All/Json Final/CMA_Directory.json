@@ -1,0 +1,11 @@
+{ 
+    "localfile": "CMA_Directory.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Title",
+        "library_type": "Category",
+        "address_full": "Address",
+        "data_provider": "force:Canadian Museum Association",
+        "address_concat": "force: "    }}

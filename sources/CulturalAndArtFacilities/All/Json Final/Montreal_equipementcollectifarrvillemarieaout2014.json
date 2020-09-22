@@ -1,0 +1,27 @@
+{ 
+    "localfile": "Montreal_equipementcollectifarrvillemarieaout2014.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NOM",
+        "library_type": "CATEG",
+        "address_full": "EMPLACEMENT",
+        "longitude": "Longitude",
+        "latitude": "Latitude ",
+        "file_type": "force:Mixed",
+        "data_city": "force:Montreal",
+        "data_prov/terr": "force:QC",
+        "data_provider": "force:Montreal",
+        "address_concat": "force: ",
+         "address": {
+            "street_no": "NO_CIV",
+            "street_name": "SPECIFIQUE",
+            "street_suffix": "GENERIQUE",
+            "postcode": "Code postal",
+            "city": "Ville"        }
+    },
+    "filter": {
+         "CATEG": "Arts et culture"  
+    }
+}

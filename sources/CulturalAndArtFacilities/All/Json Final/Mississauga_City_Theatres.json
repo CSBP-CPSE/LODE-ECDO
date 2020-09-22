@@ -1,0 +1,21 @@
+{ 
+    "localfile": "Mississauga_City_Theatres.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "LANDMARKNA",
+        "library_type": "TYPEDESC",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Theatres",
+        "data_city": "force:Mississauga",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Mississauga",
+        "address_concat": "force: ",
+         "address": {
+            "street_no": "STNO",
+            "street_name": "STNAME",
+            "street_suffix": "SUFFIX",
+            "city": "CITY"        }
+    }}

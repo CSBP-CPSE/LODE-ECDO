@@ -1,0 +1,26 @@
+{ 
+    "localfile": "Burnaby_Business_Licences.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME_LAST",
+        "library_type": "CASE_BUS_TYPE_DESC",
+        "address_full": "ADDRESS",
+        "longitude": "X",
+        "latitude": "Y",
+        "file_type": "force:Mixed",
+        "data_city": "force:Burnaby",
+        "data_prov/terr": "force:BC",
+        "data_provider": "force:Burnaby",
+        "address_concat": "force: ",
+         "address": {
+            "street_no": "ST_NMBR",
+            "street_name": "ST_NAME",
+            "street_suffix": "ST_TYPE",
+            "street_direction": "ST_SFX"        }
+    },
+    "filter": {
+         "CASE_BUS_TYPE_DESC": "Theatre|Museum|Gallery|Galleries|Art Centre|\bArts\b|Performance Hall|Ballet|Cultural Centre|Centres d'art|Musée|Galerie|Art and Culture|Arts et culture|Théâtre|Concert Hall|Salle de concert|Artist|Artistes|Festival|Concert|Centre d'exposition|Salle de Spectacle|Performance space|Historic|Heritage|theatre|museum|gallery|galleries|art centre|\barts\b|performance hall|ballet|cultural centre|centres d'art|musée|galerie|art and culture|arts et culture|théâtre|concert hall|salle de concert|artist|artistes|festival|concert|centre d'exposition|salle de spectacle|performance space|historic|heritage|THEATRE|MUSEUM|GALLERY|GALLERIES|ART CENTRE|\bARTS\b|PERFORMANCE HALL|BALLET|CULTURAL CENTRE|CENTRES D'ART|MUSÉE|GALERIE|ART AND CULTURE|ARTS ET CULTURE|THÉÂTRE|CONCERT HALL|SALLE DE CONCERT|ARTIST|ARTISTES|FESTIVAL|CONCERT|CENTRE D'EXPOSITION|SALLE DE SPECTACLE|PERFORMANCE SPACE|HISTORIC|HERITAGE"  
+    }
+}
