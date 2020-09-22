@@ -1,0 +1,17 @@
+{ 
+    "localfile": "DistrictOfSquamish_Point_of_Interest.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "library_type": "ALTNAME",
+        "longitude": "x",
+        "latitude": "y",
+        "data_prov/terr": "force:BC",
+        "data_provider": "force:District of Squamish",
+        "address_concat": "force: "    },
+    "filter": {
+         "NAME": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

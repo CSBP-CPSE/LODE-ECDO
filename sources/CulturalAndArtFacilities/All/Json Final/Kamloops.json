@@ -1,0 +1,17 @@
+{ 
+    "localfile": "Kamloops_Arts__Education.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "library_type": "CLASSIFICATION",
+        "address_full": "ADDRESS",
+        "data_city": "force:Kamloops",
+        "data_prov/terr": "force:BC",
+        "data_provider": "force:Kamloops",
+        "address_concat": "force: "    },
+    "filter": {
+         "NAME": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

@@ -1,0 +1,18 @@
+{ 
+    "localfile": "WhiteRock_City_Buildings.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "address_full": "Address",
+        "longitude": "x",
+        "latitude": "y",
+        "data_city": "force:White Rock",
+        "data_prov/terr": "force:BC",
+        "data_provider": "force:White Rock",
+        "address_concat": "force: "    },
+    "filter": {
+         "Name": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

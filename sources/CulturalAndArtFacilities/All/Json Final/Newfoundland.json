@@ -1,0 +1,12 @@
+{ 
+    "localfile": "Newfoundland_Libraries_Public.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "longitude": "x",
+        "latitude": "y",
+        "data_prov/terr": "force:NL",
+        "data_provider": "force:Government of Newfoundland and Labrador",
+        "address_concat": "force: "    }}

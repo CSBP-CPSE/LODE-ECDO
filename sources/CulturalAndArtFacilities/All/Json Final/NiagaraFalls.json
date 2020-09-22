@@ -1,0 +1,14 @@
+{ 
+    "localfile": "NiagaraFalls_Library.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "CP_Name",
+        "address_full": "ADDRESS",
+        "longitude": "LongitudeI",
+        "latitude": "LatitudeI",
+        "data_city": "force:Niagara Falls",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Niagara Falls",
+        "address_concat": "force: "    }}

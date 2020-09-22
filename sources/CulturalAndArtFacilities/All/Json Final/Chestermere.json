@@ -1,0 +1,22 @@
+{ 
+    "localfile": "Chestermere_Points_of_Interest.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "library_type": "CATEGORY",
+        "address_full": "ADDRESS",
+        "longitude": "X",
+        "latitude": "Y",
+        "data_city": "force:Chestermere",
+        "data_prov/terr": "force:AB",
+        "data_provider": "force:Chestermere",
+        "address_concat": "force: ",
+         "address": {
+            "city": "LOCALE"        }
+    },
+    "filter": {
+         "NAME": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

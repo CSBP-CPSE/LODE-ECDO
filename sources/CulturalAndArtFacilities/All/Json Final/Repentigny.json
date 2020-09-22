@@ -1,0 +1,14 @@
+{ 
+    "localfile": "Repentigny_bibliotheques.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NOM",
+        "address_full": "ADRESSE",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "data_city": "force:Repentigny",
+        "data_prov/terr": "force:QC",
+        "data_provider": "force:City of Repentigny",
+        "address_concat": "force: "    }}

@@ -1,0 +1,17 @@
+{ 
+    "localfile": "Burnaby_Civic_Places.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "DESCRIPTION",
+        "longitude": "X",
+        "latitude": "Y",
+        "data_city": "force:Burnaby",
+        "data_prov/terr": "force:BC",
+        "data_provider": "force:City of Burnaby",
+        "address_concat": "force: "    },
+    "filter": {
+         "DESCRIPTION": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

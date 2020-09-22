@@ -1,0 +1,24 @@
+{ 
+    "localfile": "PeelRegion_landmarks_csv.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "LM_NAME",
+        "library_type": "CATEGORY",
+        "address_full": "STR_ADDR",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "data_city": "force:Peel Region",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Peel Region",
+        "address_concat": "force: ",
+         "address": {
+            "postcode": "POSTAL",
+            "city": "MUN",
+            "prov/terr": "PR"        }
+    },
+    "filter": {
+         "LM_NAME": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

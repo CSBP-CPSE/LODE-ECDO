@@ -1,0 +1,18 @@
+{ 
+    "localfile": "Quebec_coordonneesbibliothequespubliques.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Nom",
+        "library_type": "Type",
+        "address_full": "Adresse",
+        "longitude": "x",
+        "latitude": "y",
+        "data_prov/terr": "force:QC",
+        "data_provider": "force:Bibliothèque et Archives nationales du Québec",
+        "address_concat": "force: ",
+         "address": {
+            "postcode": "Code postal",
+            "city": "Municipalite"        }
+    }}

@@ -1,0 +1,14 @@
+{ 
+    "localfile": "Longeueil_bibliotheque.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NOM",
+        "library_type": "Descript",
+        "longitude": "x",
+        "latitude": "y",
+        "data_city": "force:Longeueil",
+        "data_prov/terr": "force:QC",
+        "data_provider": "force:City of Longeueil",
+        "address_concat": "force: "    }}

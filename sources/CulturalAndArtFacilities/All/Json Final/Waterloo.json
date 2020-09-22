@@ -1,0 +1,17 @@
+{ 
+    "localfile": "Waterloo_Libraries.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "address_full": "Address",
+        "longitude": "X",
+        "latitude": "Y",
+        "data_city": "force:Waterloo",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Regional Municipality of Waterloo",
+        "address_concat": "force: ",
+         "address": {
+            "city": "Municipality"        }
+    }}

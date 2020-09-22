@@ -1,0 +1,14 @@
+{ 
+    "localfile": "Toronto_library-branch-locations.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "address_full": "Address",
+        "longitude": "x",
+        "latitude": "y",
+        "data_city": "force:Toronto",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:City of Toronto",
+        "address_concat": "force: "    }}

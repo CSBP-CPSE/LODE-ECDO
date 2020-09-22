@@ -1,0 +1,18 @@
+{ 
+    "localfile": "NewWestminster_CULTURAL_BUILDINGS.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "BLDGNAM",
+        "library_type": "CATEGORY",
+        "longitude": "X",
+        "latitude": "Y",
+        "data_city": "force:New Westminster",
+        "data_prov/terr": "force:BC",
+        "data_provider": "force:New Westminster",
+        "address_concat": "force: "    },
+    "filter": {
+         "BLDGNAM": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

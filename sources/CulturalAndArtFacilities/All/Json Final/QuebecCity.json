@@ -1,0 +1,22 @@
+{ 
+    "localfile": "QuebecCity_lieupublic.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NOM_TOPOGRAPHIE",
+        "library_type": "DESCRIPTION",
+        "longitude": "X",
+        "latitude": "Y",
+        "data_city": "force:Quebec City",
+        "data_prov/terr": "force:QC",
+        "data_provider": "force:Quebec City",
+        "address_concat": "force: ",
+         "address": {
+            "street_no": "NO_CIVIQUE",
+            "street_name": "RUE"        }
+    },
+    "filter": {
+         "NOM_TOPOGRAPHIE": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

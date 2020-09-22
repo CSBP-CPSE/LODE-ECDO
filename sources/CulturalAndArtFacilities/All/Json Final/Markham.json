@@ -1,0 +1,20 @@
+{ 
+    "localfile": "Markham_City_Owned_Facilities.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "library_type": "TYPE",
+        "address_full": "ADDRESS",
+        "data_city": "force:Markham",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:City of Markham",
+        "address_concat": "force: ",
+         "address": {
+            "city": "TOWNAREA"        }
+    },
+    "filter": {
+         "NAME": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

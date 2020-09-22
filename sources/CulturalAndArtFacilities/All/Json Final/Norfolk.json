@@ -1,0 +1,17 @@
+{ 
+    "localfile": "Norfolk_Libraries.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "Type",
+        "address_full": "Address",
+        "longitude": "X",
+        "latitude": "Y",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Norfolk County",
+        "address_concat": "force: ",
+         "address": {
+            "postcode": "PostalCode"        }
+    }}

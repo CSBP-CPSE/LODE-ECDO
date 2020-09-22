@@ -1,0 +1,20 @@
+{ 
+    "localfile": "Durham_Community_Services.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "library_type": "TYPE",
+        "address_full": "ADDRESS",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Reginoal Municipality of Durham",
+        "address_concat": "force: ",
+         "address": {
+            "postcode": "POSTAL_CODE",
+            "city": "MUNICIPALITY"        }
+    },
+    "filter": {
+         "NAME": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

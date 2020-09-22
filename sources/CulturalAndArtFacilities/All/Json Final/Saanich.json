@@ -1,0 +1,18 @@
+{ 
+    "localfile": "Saanich_Facilities.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "FACILITYNAME",
+        "library_type": "SUBTYPE",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "data_city": "force:Saanich",
+        "data_prov/terr": "force:BC",
+        "data_provider": "force:Saanich",
+        "address_concat": "force: "    },
+    "filter": {
+         "FACILITYNAME": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

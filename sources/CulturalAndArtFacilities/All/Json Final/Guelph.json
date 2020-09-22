@@ -1,0 +1,18 @@
+{ 
+    "localfile": "Guelph_CityFacilities.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "address_full": "ADDRESS",
+        "longitude": "x",
+        "latitude": "y",
+        "data_city": "force:Guelph",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Guelph",
+        "address_concat": "force: "    },
+    "filter": {
+         "NAME": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

@@ -1,0 +1,18 @@
+{ 
+    "localfile": "GrandPrairie_Arts_Locationa.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "asset_name",
+        "library_type": "asset_type",
+        "longitude": "X",
+        "latitude": "Y",
+        "data_city": "force:Grand Prairie",
+        "data_prov/terr": "force:AB",
+        "data_provider": "force:Grand Prairie",
+        "address_concat": "force: "    },
+    "filter": {
+         "asset_name": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

@@ -1,0 +1,17 @@
+{ 
+    "localfile": "Calgary_Public_Library_Locations_and_Hours (1).csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Library",
+        "address_full": "Address",
+        "longitude": "X",
+        "latitude": "Y",
+        "data_city": "force:Calgary",
+        "data_prov/terr": "force:AB",
+        "data_provider": "force:Calgary",
+        "address_concat": "force: ",
+         "address": {
+            "postcode": "Postal_Code"        }
+    }}

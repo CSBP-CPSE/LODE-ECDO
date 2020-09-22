@@ -1,0 +1,18 @@
+{ 
+    "localfile": "CampbellRiver_Downloadable_Points_of_Interest.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "PLACE",
+        "library_type": "Type",
+        "longitude": "x",
+        "latitude": "y",
+        "data_city": "force:Campbell River",
+        "data_prov/terr": "force:BC",
+        "data_provider": "force:Campbell River",
+        "address_concat": "force: "    },
+    "filter": {
+         "PLACE": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

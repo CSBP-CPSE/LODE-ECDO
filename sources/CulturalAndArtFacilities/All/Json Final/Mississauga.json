@@ -1,0 +1,19 @@
+{ 
+    "localfile": "Mississauga_City_Libraries.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "LANDMARKNA",
+        "library_type": "TYPEDESC",
+        "longitude": "X",
+        "latitude": "Y",
+        "data_city": "force:Mississauga",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:City of Mississauga",
+        "address_concat": "force: ",
+         "address": {
+            "street_no": "STNO",
+            "street_name": "STNAME",
+            "city": "CITY"        }
+    }}

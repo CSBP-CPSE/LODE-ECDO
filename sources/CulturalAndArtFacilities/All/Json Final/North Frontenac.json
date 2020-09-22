@@ -1,0 +1,18 @@
+{ 
+    "localfile": "North Frontenac_POIexact_Library.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "address_full": "Address",
+        "longitude": "X",
+        "latitude": "Y",
+        "data_city": "force:North Frontenac",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:North Frontenac",
+        "address_concat": "force: ",
+         "address": {
+            "postcode": "PostalCode",
+            "city": "City"        }
+    }}

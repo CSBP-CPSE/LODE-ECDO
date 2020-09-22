@@ -1,0 +1,18 @@
+{ 
+    "localfile": "MapleRidge_Facilities_and_Attractions.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "Type",
+        "longitude": "x",
+        "latitude": "y",
+        "data_city": "force:Maple Ridge",
+        "data_prov/terr": "force:BC",
+        "data_provider": "force:Maple Ridge",
+        "address_concat": "force: "    },
+    "filter": {
+         "Name": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

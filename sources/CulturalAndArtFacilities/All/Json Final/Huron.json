@@ -1,0 +1,16 @@
+{ 
+    "localfile": "Huron_County_Libraries.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "POI_Name",
+        "library_type": "Type",
+        "address_full": "Full_Address",
+        "data_city": "force:Huron County",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Huron County",
+        "address_concat": "force: ",
+         "address": {
+            "city": "Municipality"        }
+    }}

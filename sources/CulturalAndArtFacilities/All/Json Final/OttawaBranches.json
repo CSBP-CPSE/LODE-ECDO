@@ -1,0 +1,17 @@
+{ 
+    "localfile": "OttawaBranches.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "address_full": "Address",
+        "longitude": "Longitude",
+        "latitude": "Latitude",
+        "data_city": "force:Ottawa",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:City of Ottawa",
+        "address_concat": "force: ",
+         "address": {
+            "postcode": "ZipCode"        }
+    }}

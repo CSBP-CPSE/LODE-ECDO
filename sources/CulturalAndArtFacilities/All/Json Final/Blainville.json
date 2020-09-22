@@ -1,0 +1,16 @@
+{ 
+    "localfile": "Blainville_empreinte-batiments.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "address_full": "ADRESSE",
+        "data_city": "force:Blainville",
+        "data_prov/terr": "force:QC",
+        "data_provider": "force:Blainville",
+        "address_concat": "force: "    },
+    "filter": {
+         "NAME": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

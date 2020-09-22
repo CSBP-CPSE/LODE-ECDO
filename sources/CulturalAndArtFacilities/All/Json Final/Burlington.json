@@ -1,0 +1,14 @@
+{ 
+    "localfile": "Burlington_Libraries.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "address_full": "FULLADDR",
+        "longitude": "x",
+        "latitude": "y",
+        "data_city": "force:Burlington",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Burlington",
+        "address_concat": "force: "    }}

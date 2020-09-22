@@ -1,0 +1,11 @@
+{ 
+    "localfile": "NB_libraries.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "name",
+        "address_full": "address",
+        "data_prov/terr": "force:NB",
+        "data_provider": "force:Government of New Brunswick",
+        "address_concat": "force: "    }}

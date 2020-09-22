@@ -1,0 +1,17 @@
+{ 
+    "localfile": "Edmonton_Public_Libraries.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Branch",
+        "address_full": "Address",
+        "longitude": "Longitude",
+        "latitude": "Latitude",
+        "data_city": "force:Edmonton",
+        "data_prov/terr": "force:AB",
+        "data_provider": "force:Edmonton",
+        "address_concat": "force: ",
+         "address": {
+            "postcode": "Postal Code"        }
+    }}

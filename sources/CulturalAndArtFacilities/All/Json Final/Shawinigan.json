@@ -1,0 +1,14 @@
+{ 
+    "localfile": "Shawinigan_Bibliothèques.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NOM",
+        "address_full": "Adresse",
+        "longitude": "X",
+        "latitude": "Y",
+        "data_city": "force:Shawinigan",
+        "data_prov/terr": "force:QC",
+        "data_provider": "force:Ville de Shawinigan",
+        "address_concat": "force: "    }}

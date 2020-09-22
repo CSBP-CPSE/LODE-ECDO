@@ -1,0 +1,18 @@
+{ 
+    "localfile": "Langley_Facilities.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "FacilityName",
+        "library_type": "FacilityType",
+        "longitude": "x",
+        "latitude": "y",
+        "data_city": "force:Langley",
+        "data_prov/terr": "force:BC",
+        "data_provider": "force:Township of Langley",
+        "address_concat": "force: "    },
+    "filter": {
+         "FacilityName": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

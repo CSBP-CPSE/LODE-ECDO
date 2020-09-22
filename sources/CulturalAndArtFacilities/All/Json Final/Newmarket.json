@@ -1,0 +1,24 @@
+{ 
+    "localfile": "Newmarket_LANDMARKS.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "LANDMARK",
+        "library_type": "CAT",
+        "address_full": "ADDRESS",
+        "longitude": "x",
+        "latitude": "y",
+        "data_city": "force:Newmarket",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:City of Newmarket",
+        "address_concat": "force: ",
+         "address": {
+            "unit": "UNIT_NUM",
+            "street_no": "ST_NUM",
+            "street_name": "STREET"        }
+    },
+    "filter": {
+         "LANDMARK": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

@@ -1,0 +1,19 @@
+{ 
+    "localfile": "Kingston_point-of-interest.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "Description",
+        "address_full": "Address",
+        "longitude": "x",
+        "latitude": "y",
+        "data_city": "force:Kingston",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:City of Kingston",
+        "address_concat": "force: "    },
+    "filter": {
+         "Name": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

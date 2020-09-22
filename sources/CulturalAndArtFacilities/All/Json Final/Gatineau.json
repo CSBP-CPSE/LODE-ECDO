@@ -1,0 +1,22 @@
+{ 
+    "localfile": "Gatineau_LIEU_PUBLIC.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NOM_TOPOGR",
+        "library_type": "TYPE",
+        "address_full": "ADR_COMPLE",
+        "longitude": "X",
+        "latitude": "Y",
+        "data_city": "force:Gatineau",
+        "data_prov/terr": "force:QC",
+        "data_provider": "force:City of Gatineau",
+        "address_concat": "force: ",
+         "address": {
+            "street_no": "NO_CIVIQUE"        }
+    },
+    "filter": {
+         "NOM_TOPOGR": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

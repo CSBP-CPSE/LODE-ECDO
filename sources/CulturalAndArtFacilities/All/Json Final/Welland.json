@@ -1,0 +1,19 @@
+{ 
+    "localfile": "Welland_municipal_facilities.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "SubType",
+        "address_full": "Address",
+        "longitude": "Lon",
+        "latitude": "Lat",
+        "data_city": "force:Welland",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:City of Welland",
+        "address_concat": "force: "    },
+    "filter": {
+         "Name": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

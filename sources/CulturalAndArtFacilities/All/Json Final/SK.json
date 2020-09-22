@@ -1,0 +1,15 @@
+{ 
+    "localfile": "SK_libraries_scraped.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "name",
+        "address_full": "address",
+        "data_prov/terr": "force:SK",
+        "data_provider": "force:Saskatchewan",
+        "address_concat": "force: ",
+         "address": {
+            "postcode": "postalcode",
+            "city": "city"        }
+    }}

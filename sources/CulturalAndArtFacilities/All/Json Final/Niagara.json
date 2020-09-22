@@ -1,0 +1,16 @@
+{ 
+    "localfile": "Niagara_libraries.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "address_full": "FullAddress",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Niagara Region",
+        "address_concat": "force: ",
+         "address": {
+            "city": "Municipality"        }
+    }}

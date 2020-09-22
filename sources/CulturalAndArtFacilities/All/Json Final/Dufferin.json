@@ -1,0 +1,16 @@
+{ 
+    "localfile": "Dufferin_County_Public_Libraries.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "address_full": "ADDRESS",
+        "longitude": "X",
+        "latitude": "Y",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:County of Dufferin",
+        "address_concat": "force: ",
+         "address": {
+            "city": "TOWN"        }
+    }}

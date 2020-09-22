@@ -1,0 +1,18 @@
+{ 
+    "localfile": "Manitoba_members_14702.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "address_full": "Address",
+        "longitude": "Longitude",
+        "latitude": "Latitude",
+        "data_prov/terr": "force:MB",
+        "data_provider": "force:Government of Manitoba",
+        "address_concat": "force: ",
+         "address": {
+            "postcode": "Postal",
+            "city": "City",
+            "prov/terr": "PR"        }
+    }}

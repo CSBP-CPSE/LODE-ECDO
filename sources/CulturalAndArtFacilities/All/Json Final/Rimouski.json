@@ -1,0 +1,17 @@
+{ 
+    "localfile": "Rimouski_edificemunicipal.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NOM_BAT",
+        "longitude": "x",
+        "latitude": "y",
+        "data_city": "force:Rimouski",
+        "data_prov/terr": "force:QC",
+        "data_provider": "force:Rimouski",
+        "address_concat": "force: "    },
+    "filter": {
+         "NOM_BAT": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

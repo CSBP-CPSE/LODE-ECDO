@@ -1,0 +1,13 @@
+{ 
+    "localfile": "StJohn_Libraries.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Label_En",
+        "longitude": "x",
+        "latitude": "y",
+        "data_city": "force:St. John",
+        "data_prov/terr": "force:NB",
+        "data_provider": "force:City of St. John",
+        "address_concat": "force: "    }}

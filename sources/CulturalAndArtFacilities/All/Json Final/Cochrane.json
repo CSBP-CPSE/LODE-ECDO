@@ -1,0 +1,18 @@
+{ 
+    "localfile": "Cochrane_Points_of_Interest.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "Type",
+        "longitude": "X",
+        "latitude": "Y",
+        "data_city": "force:Cochrane",
+        "data_prov/terr": "force:AB",
+        "data_provider": "force:Cochrane",
+        "address_concat": "force: "    },
+    "filter": {
+         "Name": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

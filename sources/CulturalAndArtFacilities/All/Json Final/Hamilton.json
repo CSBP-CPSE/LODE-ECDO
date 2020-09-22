@@ -1,0 +1,13 @@
+{ 
+    "localfile": "Hamilton_Libraries.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "longitude": "LONGITUDE",
+        "latitude": "LATITUDE",
+        "data_city": "force:Hamilton",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:City of Hamilton",
+        "address_concat": "force: "    }}

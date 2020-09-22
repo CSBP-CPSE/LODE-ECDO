@@ -1,0 +1,20 @@
+{ 
+    "localfile": "York_City_Owned_Facilities.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "library_type": "TYPE",
+        "address_full": "ADDRESS",
+        "data_city": "force:York Region",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:York Region",
+        "address_concat": "force: ",
+         "address": {
+            "city": "TOWNAREA"        }
+    },
+    "filter": {
+         "NAME": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

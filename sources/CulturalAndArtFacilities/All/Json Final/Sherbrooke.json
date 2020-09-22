@@ -1,0 +1,20 @@
+{ 
+    "localfile": "Sherbrooke_bibliotheques-2016 (1).csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "LOC",
+        "library_type": "CATEG",
+        "address_full": "ADRESS",
+        "longitude": "X",
+        "latitude": "Y",
+        "data_city": "force:Sherbrooke",
+        "data_prov/terr": "force:QC",
+        "data_provider": "force:Ville de Sherbrooke",
+        "address_concat": "force: ",
+         "address": {
+            "street_no": "AD_NO",
+            "street_name": "AD_SPECI",
+            "city": "AD_MUN"        }
+    }}

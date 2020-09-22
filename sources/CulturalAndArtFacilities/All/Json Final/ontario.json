@@ -1,0 +1,16 @@
+{ 
+    "localfile": "ontario_public_library_statistics_open_data_2018.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Library Full Name",
+        "address_full": "A1.9 Street Address",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:Government of Ontario",
+        "address_concat": "force: ",
+         "address": {
+            "postcode": "A1.12 Postal Code",
+            "city": "A1.10 City/Town",
+            "prov/terr": "A1.11 Province"        }
+    }}

@@ -1,0 +1,15 @@
+{ 
+    "localfile": "bc_public_libraries_mailing_address_list (2).csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "LIBRARY",
+        "address_full": "ADDRESS",
+        "data_prov/terr": "force:BC",
+        "data_provider": "force:Government of British Columbia",
+        "address_concat": "force: ",
+         "address": {
+            "postcode": "POSTAL",
+            "city": "CITY"        }
+    }}

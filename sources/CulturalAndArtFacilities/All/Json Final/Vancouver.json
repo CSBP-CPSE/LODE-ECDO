@@ -1,0 +1,14 @@
+{ 
+    "localfile": "Vancouver_Libraries.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "address_full": "ADDRESS",
+        "longitude": "X",
+        "latitude": "Y",
+        "data_city": "force:Vancouver",
+        "data_prov/terr": "force:BC",
+        "data_provider": "force:Vancouver",
+        "address_concat": "force: "    }}

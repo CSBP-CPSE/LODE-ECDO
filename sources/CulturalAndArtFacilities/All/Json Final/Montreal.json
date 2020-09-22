@@ -1,0 +1,22 @@
+{ 
+    "localfile": "Montreal_lieuxculturels.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Nom du lieu culturel municipal",
+        "address_full": "Adresse",
+        "longitude": "Longitude",
+        "latitude": "Latitude",
+        "data_city": "force:Montreal",
+        "data_prov/terr": "force:QC",
+        "data_provider": "force:ville de Montreal",
+        "address_concat": "force: ",
+         "address": {
+            "postcode": "Code postal",
+            "prov/terr": "Province"        }
+    },
+    "filter": {
+         "Nom du lieu culturel municipal": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

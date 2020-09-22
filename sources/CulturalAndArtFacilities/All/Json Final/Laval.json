@@ -1,0 +1,22 @@
+{ 
+    "localfile": "Laval_lieux.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "nom-commun",
+        "library_type": "categorie-id",
+        "data_city": "force:Laval",
+        "data_prov/terr": "force:QC",
+        "data_provider": "force:City of Laval",
+        "address_concat": "force: ",
+         "address": {
+            "street_no": "no-civique",
+            "street_name": "voie",
+            "postcode": "code-postal",
+            "city": "ex-ville"        }
+    },
+    "filter": {
+         "nom-commun": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

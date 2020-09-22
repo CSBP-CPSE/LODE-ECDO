@@ -1,0 +1,20 @@
+{ 
+    "localfile": "Moncton_Points_of_Interest.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "library_type": "SUBCATEGORY",
+        "address_full": "ADDRESS",
+        "data_city": "force:Moncton",
+        "data_prov/terr": "force:NB",
+        "data_provider": "force:City of Moncton",
+        "address_concat": "force: ",
+         "address": {
+            "postcode": "POSTCODE"        }
+    },
+    "filter": {
+         "NAME": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

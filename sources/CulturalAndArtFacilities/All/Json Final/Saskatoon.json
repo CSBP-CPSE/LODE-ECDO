@@ -1,0 +1,16 @@
+{ 
+    "localfile": "Saskatoon_AEDLocations.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "name_of_city_facility",
+        "address_full": "address",
+        "data_city": "force:Saskatoon",
+        "data_prov/terr": "force:SK",
+        "data_provider": "force:City of Saskatoon",
+        "address_concat": "force: "    },
+    "filter": {
+         "name_of_city_facility": "library|Library|LIBRARY|biblio|Biblio|BIBLIO"
+    }
+}

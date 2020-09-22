@@ -1,0 +1,14 @@
+{ 
+    "localfile": "Windsor_Libraries.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "NAME",
+        "address_full": "ADDRESS",
+        "longitude": "XCoord",
+        "latitude": "YCoord",
+        "data_city": "force:Windsor",
+        "data_prov/terr": "force:ON",
+        "data_provider": "force:City of Windsor",
+        "address_concat": "force: "    }}

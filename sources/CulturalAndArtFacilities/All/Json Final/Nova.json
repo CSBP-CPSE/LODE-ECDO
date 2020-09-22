@@ -1,0 +1,18 @@
+{ 
+    "localfile": "Nova_Scotia_Public_Library_Branches_and_Contact_Information.csv",
+    "url":"",
+    "format":"csv",
+    "database_type": "library",
+    "info": {
+        "library_name": "Name",
+        "library_type": "Type",
+        "address_full": "Address1",
+        "longitude": "Longitude",
+        "latitude": "Latitude",
+        "data_prov/terr": "force:NS",
+        "data_provider": "force:Government of Nova Scotia",
+        "address_concat": "force: ",
+         "address": {
+            "postcode": "Postal",
+            "city": "City"        }
+    }}
