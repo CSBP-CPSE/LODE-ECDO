@@ -1,6 +1,6 @@
 {
   "localfile": "NB-childcare.csv",
-  "schema_groups": ["facility", "address", "geocoordinates", "childcare"],
+  "schema_groups": ["childcare", "address", "geocoordinates"],
   "source": "https://www.nbed.nb.ca/parentportal/en/search/elc",
   "licence": "https://www.nbed.nb.ca/parentportal/en/Home/Privacy/",
   "provider": "Province of New Brunswick",
@@ -11,20 +11,14 @@
       "quote": "\""
   },
   "schema": {
-      "facility" : {
+      "childcare" : {
           "name": "facility",
-          "source_facility_type": [
-              "type",
-              "age"
-          ]
+          "source_facility_type": "type",
+          "ages": "age",
+          "capacity": "num_spaces"
       },
       "address" : {
           "full_address": "address"
-      },
-
-      "childcare" : {
-          "capacity": "num_spaces",
-          "ages": "age"
       }
   }
 }

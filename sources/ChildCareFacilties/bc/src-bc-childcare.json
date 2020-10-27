@@ -1,6 +1,6 @@
 {
   "localfile": "BC-childcare_locations.csv",
-  "schema_groups": ["facility", "address", "geocoordinates", "childcare"],
+  "schema_groups": ["childcare", "address", "geocoordinates"],
   "source": "https://catalogue.data.gov.bc.ca/dataset/child-care-map-data#",
   "licence": "https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc",
   "provider": "Province of British Columbia",
@@ -11,7 +11,7 @@
       "quote": "\""
   },
   "schema": {
-      "facility" : {
+      "childcare" : {
           "name": "NAME",
           "source_id": "FAC_PARTY_ID"
       },
