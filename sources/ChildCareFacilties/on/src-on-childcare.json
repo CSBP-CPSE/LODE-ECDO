@@ -1,0 +1,29 @@
+{
+  "localfile": "ON-childcare.csv",
+  "schema_groups": ["facility", "address", "geocoordinates", "childcare"],
+  "source": "https://data.ontario.ca/dataset/licensed-child-care-facilities-in-ontario",
+  "licence": "https://www.ontario.ca/page/open-government-licence-ontario",
+  "provider": "Province of Ontario",
+  "encoding": "utf-8",
+  "format": {
+      "type": "csv",
+      "delimiter": ",",
+      "quote": "\""
+  },
+  "schema": {
+      "facility" : {
+          "name": "Child Care Center Name",
+          "source_facility_type": "Program Type Desc"
+      },
+      "address" : {
+          "street_number": "Street Number",
+          "street_name": [
+              "Street Name",
+              "Street Type"
+          ],
+          "city": "City",
+          "province": "Province",
+          "postal_code": "Postal Code"
+      }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "localfile": "NL-childcare.csv",
+  "schema_groups": ["facility", "address", "geocoordinates", "childcare"],
+  "source": "https://www.childcare.gov.nl.ca/public/ccr/childcare?apply_table_filters=1&keyword=",
+  "licence": "https://www.gov.nl.ca/disclaimer/",
+  "provider": "Province of Newfoundland and Labrador",
+  "encoding": "utf-8",
+  "format": {
+      "type": "csv",
+      "delimiter": ",",
+      "quote": "\""
+  },
+  "schema": {
+      "facility" : {
+          "name": "Name"
+      },
+      "address" : {
+          "city": "Community",
+          "full_address": "Street Address",
+          "postal_code": "postal_code"
+      }
+  }
+}

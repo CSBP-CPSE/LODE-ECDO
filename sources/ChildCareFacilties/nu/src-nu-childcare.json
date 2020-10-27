@@ -1,0 +1,21 @@
+{
+  "localfile": "NU-childcare.csv",
+  "schema_groups": ["facility", "address", "geocoordinates", "childcare"],
+  "source": "http://gov.nu.ca/education/information/contacts-0",
+  "provider": "Nunavut",
+  "encoding": "utf-8",
+  "format": {
+      "type": "csv",
+      "delimiter": ",",
+      "quote": "\""
+  },
+  "schema": {
+      "facility" : {
+          "name": "Facility/Program"
+      },
+      "address" : {
+          "full_address": "Address",
+          "postal_code": "Postal Code"
+      }
+  }
+}

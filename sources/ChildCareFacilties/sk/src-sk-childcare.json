@@ -1,0 +1,21 @@
+{
+  "localfile": "SK-childcare.csv",
+  "schema_groups": ["facility", "address", "geocoordinates", "childcare"],
+  "source": "https://www.saskatchewan.ca/residents/family-and-social-support/child-care/find-a-child-care-provider-in-my-community",
+  "licence": "https://www.saskatchewan.ca/copyright",
+  "provider": "Province of Saskatchewan",
+  "encoding": "utf-8",
+  "format": {
+      "type": "csv",
+      "delimiter": ",",
+      "quote": "\""
+  },
+  "schema": {
+      "facility" : {
+          "name": "facility_name"
+      },
+      "address" : {
+          "full_address": "full_address"
+      }
+  }
+}
