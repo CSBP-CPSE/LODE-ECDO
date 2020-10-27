@@ -1,6 +1,6 @@
 {
   "localfile": "BC-strongstarts20200828.csv",
-  "schema_groups": ["facility", "address", "geocoordinates", "childcare"],
+  "schema_groups": ["childcare", "address", "geocoordinates"],
   "source": "https://catalogue.data.gov.bc.ca/dataset/strongstart-bc-centre-locations#",
   "licence": "https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc",
   "provider": "Province of British Columbia",
@@ -11,7 +11,7 @@
       "quote": "\""
   },
   "schema": {
-      "facility" : {
+      "childcare" : {
           "name": "FACILITY_NAME",
           "source_facility_type": "PROGRAM_TYPE",
           "source_id": "PROGRAM_NUMBER"

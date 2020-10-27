@@ -1,6 +1,6 @@
 {
   "localfile": "NT-childcare.csv",
-  "schema_groups": ["facility", "address", "geocoordinates", "childcare"],
+  "schema_groups": ["childcare", "address", "geocoordinates"],
   "source": "https://www.ece.gov.nt.ca/en/childcare?page=4",
   "licence": "https://www.gov.nt.ca/terms",
   "provider": "Northwest Territories",
@@ -11,7 +11,7 @@
       "quote": "\""
   },
   "schema": {
-      "facility" : {
+      "childcare" : {
           "name": "facility_name"
       },
       "address" : {

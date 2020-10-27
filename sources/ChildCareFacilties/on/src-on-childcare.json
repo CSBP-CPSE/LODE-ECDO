@@ -1,6 +1,6 @@
 {
   "localfile": "ON-childcare.csv",
-  "schema_groups": ["facility", "address", "geocoordinates", "childcare"],
+  "schema_groups": ["childcare", "address", "geocoordinates"],
   "source": "https://data.ontario.ca/dataset/licensed-child-care-facilities-in-ontario",
   "licence": "https://www.ontario.ca/page/open-government-licence-ontario",
   "provider": "Province of Ontario",
@@ -11,7 +11,7 @@
       "quote": "\""
   },
   "schema": {
-      "facility" : {
+      "childcare" : {
           "name": "Child Care Center Name",
           "source_facility_type": "Program Type Desc"
       },

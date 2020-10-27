@@ -1,6 +1,6 @@
 {
   "localfile": "QC-CPE-GARD-MF.csv",
-  "schema_groups": ["facility", "address", "geocoordinates", "childcare"],
+  "schema_groups": ["childcare", "address", "geocoordinates"],
   "source": "https://www.mfa.gouv.qc.ca/fr/services-de-garde/parents/localisateur/Pages/liste.aspx",
   "provider": "Province of Quèbec",
   "encoding": "utf-8",
@@ -10,7 +10,7 @@
       "quote": "\""
   },
   "schema": {
-      "facility" : {
+      "childcare" : {
           "name": "Nom de l'installation",
           "source_facility_type": "Type de service de garde"
       },

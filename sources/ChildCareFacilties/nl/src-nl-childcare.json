@@ -1,6 +1,6 @@
 {
   "localfile": "NL-childcare.csv",
-  "schema_groups": ["facility", "address", "geocoordinates", "childcare"],
+  "schema_groups": ["childcare", "address", "geocoordinates"],
   "source": "https://www.childcare.gov.nl.ca/public/ccr/childcare?apply_table_filters=1&keyword=",
   "licence": "https://www.gov.nl.ca/disclaimer/",
   "provider": "Province of Newfoundland and Labrador",
@@ -11,7 +11,7 @@
       "quote": "\""
   },
   "schema": {
-      "facility" : {
+      "childcare" : {
           "name": "Name"
       },
       "address" : {

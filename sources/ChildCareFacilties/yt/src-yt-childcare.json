@@ -1,6 +1,6 @@
 {
   "localfile": "YT-childcare.csv",
-  "schema_groups": ["facility", "address", "geocoordinates", "childcare"],
+  "schema_groups": ["childcare", "address", "geocoordinates"],
   "source": "https://yukon.ca/en/child-care-information-yukoners",
   "licence": "https://yukon.ca/en/copyright",
   "provider": "Yukon Territories",
@@ -11,14 +11,12 @@
       "quote": "\""
   },
   "schema": {
-      "facility" : {
-          "name": "name"
+      "childcare" : {
+          "name": "name",
+          "ages": "age"
       },
       "address" : {
           "full_address": "address"
-      },
-      "childcare" : {
-          "ages": "age"
       }
   }
 }
