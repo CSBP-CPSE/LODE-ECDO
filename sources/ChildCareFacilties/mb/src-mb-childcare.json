@@ -1,0 +1,31 @@
+{
+  "localfile": "MB-childcare.csv",
+  "schema_groups": ["facility", "address", "geocoordinates", "childcare"],
+  "source": "https://direct3.gov.mb.ca/86256AF2006B7D4F/Map?OpenForm&AGE=Infant,PreSchool,Nursery,SchoolAge&FAC=Group,Center,Nursery&OPN=Weekdays,Weekends,Evenings,Overnight&VAC=No&MAP=Manitoba&LANG=1",
+  "licence": "https://www.gov.mb.ca/legal/copyright.html",
+  "provider": "Province of Manitoba",
+  "encoding": "utf-8",
+  "format": {
+      "type": "csv",
+      "delimiter": ",",
+      "quote": "\""
+  },
+  "schema": {
+      "facility" : {
+          "name": "Legal Name",
+          "source_facility_type": [
+              "Type of Facility",
+              "Age Type"],
+          "source_id": "Facility Number"
+      },
+      "address" : {
+          "full_address": "Address"
+      },
+
+      "childcare" : {
+          "ages": "Age Type",
+          "capacity": "Total Child Care Spaces"
+
+      }
+  }
+}

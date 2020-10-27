@@ -1,0 +1,29 @@
+{
+  "localfile": "NS-Child_Care_Directory.csv",
+  "schema_groups": ["facility", "address", "geocoordinates", "childcare"],
+  "source": "https://data.novascotia.ca/Education-Early-Childhood/Child-Care-Directory/6z87-7r7g",
+  "licence": "https://novascotia.ca/opendata/licence.asp",
+  "provider": "Province of Nova Scotia",
+  "encoding": "utf-8",
+  "format": {
+      "type": "csv",
+      "delimiter": ",",
+      "quote": "\""
+  },
+  "schema": {
+      "facility" : {
+          "name": "FACILITY_NAME",
+          "source_facility_type": "FACILITY_TYPE",
+          "source_id": "FACILITY_IDENTIFIER"
+      },
+      "address" : {
+          "city": "CITY",
+          "full_address": "ADDRESS"
+      },
+
+      "childcare" : {
+          "capacity": "TOTAL_LICENCE_CAPACITY",
+          "ages": "AGE_RANGE"
+      }
+  }
+}

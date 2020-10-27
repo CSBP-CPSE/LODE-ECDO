@@ -1,0 +1,29 @@
+{
+  "localfile": "AB-childcare.csv",
+  "schema_groups": ["facility", "address", "geocoordinates", "childcare"],
+  "source": "https://open.alberta.ca/opendata/childcareinformation",
+  "licence": "https://open.alberta.ca/licence",
+  "provider": "Province of Alberta",
+  "encoding": "utf-8",
+  "format": {
+      "type": "csv",
+      "delimiter": ",",
+      "quote": "\""
+  },
+  "schema": {
+      "facility" : {
+          "name": "Program Name",
+          "source_facility_type": "Type of program",
+          "source_id": "Pseudo ProgramID"
+      },
+      "address" : {
+          "city": "Program City",
+          "full_address": "Program Address",
+          "postal_code": "Postal Code"
+      },
+
+      "childcare" : {
+          "capacity": "Capacity"
+      }
+  }
+}
