@@ -1,1 +1,1 @@
-Processing scripts for address data that needs extra processing.
+Processing scripts for address data that needs extra processing, as well as downloads of address data that were not in a format to be handled by the openaddresses processing pipeline and that required further pre-processing.
