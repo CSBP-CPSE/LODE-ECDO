@@ -1,0 +1,32 @@
+{
+    "localfile": "sk/sk_ActiveListofSchoolDivisionSchools_isced.csv",
+    "schema_groups": ["edu", "address", "geocoordinates"],
+    "source": "https://publications.saskatchewan.ca/#/products/103514",
+    "provider": "Province of Saskatchewan",
+    "encoding": "cp1252",
+    "format": {
+      "type": "csv",
+      "delimiter": ",",
+      "quote": "\""
+  },
+  "schema": {
+      "edu" : {
+          "facility_name": "SCHOOL/PROGRAM NAME",
+         "ISCED020": "ISCED020",
+         "ISCED1": "ISCED1",
+         "ISCED2": "ISCED2",
+         "ISCED3": "ISCED3",
+          "grade_range": "GRADE RANGE",
+          "source_id": "DAN #",
+          "authority_name": "SCHOOL DIVISION NAME"
+      },
+
+      "address" : {
+          "address_str": ["ADDRESS","TOWN/CITY","force:sk","PC"],
+          "city": "TOWN/CITY",
+          "postal_code": "PC",
+          "province":"force:SK",
+          "telephone": "PHONE"
+          }
+  }
+}

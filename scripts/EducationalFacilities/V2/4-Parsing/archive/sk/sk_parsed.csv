@@ -1,0 +1,770 @@
+idx,facility_name,ISCED020,ISCED1,ISCED2,ISCED3,grade_range,address_str,city,postal_code,province,provider,address_str_clean,street_no,street_name
+0,Abbey Hutterite School,0,1,1,0,Gr. 2-9,BOX 37 ABBEY sk S0N 0A0,ABBEY,S0N 0A0,sk,Province of Saskatchewan,abbey sk s0n 0a0,,
+1,Bone Creek Hutterite,0,1,1,0,Gr. 1-9,BOX 93 GULL LAKE sk S0N 1A0,GULL LAKE,S0N 1A0,sk,Province of Saskatchewan,gull lake sk s0n 1a0,,
+2,Box Elder Hutterite School,1,1,1,1,Gr. K-10,BOX 841 MAPLE CREEK sk S0N 1N0,MAPLE CREEK,S0N 1N0,sk,Province of Saskatchewan,maple creek sk s0n 1n0,,
+3,Burstall School,1,1,1,0,Gr. K-8,BOX 9 BURSTALL sk S0N 0H0,BURSTALL,S0N 0H0,sk,Province of Saskatchewan,burstall sk s0n 0h0,,
+4,Butte Hutterite School,0,1,1,0,Gr. 1-9,BOX 120 BRACKEN sk S0N 0G0,BRACKEN,S0N 0G0,sk,Province of Saskatchewan,bracken sk s0n 0g0,,
+5,Cabri School,1,1,1,1,Gr. K-12,BOX 349 CABRI sk S0N 0J0,CABRI,S0N 0J0,sk,Province of Saskatchewan,cabri sk s0n 0j0,,
+6,Capeland Hutterite School,0,1,1,1,Gr. 1-10,PO BOX 1809 STN MAIN SWIFT CURRENT sk S9H 4J8,SWIFT CURRENT,S9H 4J8,sk,Province of Saskatchewan,stn main swift current sk s9h 4j8,,
+7,Carmichael Hutterite School,1,1,1,0,Gr. K-9,BOX 30 GULL LAKE sk S0N 1A0,GULL LAKE,S0N 1A0,sk,Province of Saskatchewan,gull lake sk s0n 1a0,,
+8,Central School,1,1,1,0,Gr. K-8,121 DUFFERIN STREET W SWIFT CURRENT sk S9H 0R2,SWIFT CURRENT,S9H 0R2,sk,Province of Saskatchewan,121 dufferin street w swift current sk s9h 0r2,121,dufferin street w
+9,Consul School,1,1,1,1,Gr. K-12,BOX 179 CONSUL sk S0N 0P0,CONSUL,S0N 0P0,sk,Province of Saskatchewan,consul sk s0n 0p0,,
+10,Creston Bench Hutterian School,1,1,1,1,Gr. K-10,BOX 33 SHAUNAVON sk S0N 2M0,SHAUNAVON,S0N 2M0,sk,Province of Saskatchewan,shaunavon sk s0n 2m0,,
+11,Cypress Hutterite School,1,1,1,1,Gr. K-12,BOX 716 MAPLE CREEK sk S0N 1N0,MAPLE CREEK,S0N 1N0,sk,Province of Saskatchewan,maple creek sk s0n 1n0,,
+12,Downie Lake Hutterite School,1,1,1,1,Gr. K-10,BOX 326 MAPLE CREEK sk S0N 1N0,MAPLE CREEK,S0N 1N0,sk,Province of Saskatchewan,maple creek sk s0n 1n0,,
+13,Earview Hutterian School,0,1,1,0,Gr. 1-9,PO BOX 1809 STN MAIN SWIFT CURRENT sk S9H 4J8,SWIFT CURRENT,S9H 4J8,sk,Province of Saskatchewan,stn main swift current sk s9h 4j8,,
+14,East Fairwell Hutterian School,0,1,1,1,Gr. 2-12,BOX 546 EASTEND sk S0N 0T0,EASTEND,S0N 0T0,sk,Province of Saskatchewan,eastend sk s0n 0t0,,
+15,Eastend School,1,1,1,1,Gr. K-12,BOX 69 EASTEND sk S0N 0T0,EASTEND,S0N 0T0,sk,Province of Saskatchewan,eastend sk s0n 0t0,,
+16,école Centennial School,1,1,1,0,Gr. K-8,2220 WOODROW LLOYD PLACE SWIFT CURRENT sk S9H 5R2,SWIFT CURRENT,S9H 5R2,sk,Province of Saskatchewan,2220 woodrow lloyd place swift current sk s9h 5r2,2220,woodrow lloyd place
+17,Estuary Hutterite School,0,1,1,1,Gr. 1-10,BOX 760 LEADER sk S0N 1H0,LEADER,S0N 1H0,sk,Province of Saskatchewan,leader sk s0n 1h0,,
+18,Fairview School,1,1,1,0,Gr. K-8,859 5TH AVENUE SW SWIFT CURRENT sk S9H 3H6,SWIFT CURRENT,S9H 3H6,sk,Province of Saskatchewan,859 5th avenue sw swift current sk s9h 3h6,859,5th avenue sw
+19,Fox Valley School,1,1,1,1,Gr. K-12,BOX 208 FOX VALLEY sk S0N 0V0,FOX VALLEY,S0N 0V0,sk,Province of Saskatchewan,fox valley sk s0n 0v0,,
+20,Friesen Hutterite School,1,0,0,0,Gr. K-K,PO BOX 216 WALDECK sk S0H 4J0,WALDECK,S0H 4J0,sk,Province of Saskatchewan,waldeck sk s0h 4j0,,
+21,Frontier School,1,1,1,1,Gr. K-12,BOX 126 FRONTIER sk S0N 0W0,FRONTIER,S0N 0W0,sk,Province of Saskatchewan,frontier sk s0n 0w0,,
+22,Garden Plane Colony School,1,1,1,1,Gr. K-10,PO BOX 150 FRONTIER sk S0N 0W0,FRONTIER,S0N 0W0,sk,Province of Saskatchewan,frontier sk s0n 0w0,,
+23,Grassy Hill Hutterite School,1,1,1,0,Gr. K-9,PO BOX 417 TOMPKINS sk S0N 2S0,TOMPKINS,S0N 2S0,sk,Province of Saskatchewan,tompkins sk s0n 2s0,,
+24,Gull Lake School,1,1,1,1,Gr. K-12,BOX 599 GULL LAKE sk S0N 1A0,GULL LAKE,S0N 1A0,sk,Province of Saskatchewan,gull lake sk s0n 1a0,,
+25,Haven Hutterite School,0,1,1,0,Gr. 1-9,PO BOX 668 LEADER sk S0N 1H0,LEADER,S0N 1H0,sk,Province of Saskatchewan,leader sk s0n 1h0,,
+26,Hazlet School,1,1,1,1,Gr. K-12,BOX 90 HAZLET sk S0N 1E0,HAZLET,S0N 1E0,sk,Province of Saskatchewan,hazlet sk s0n 1e0,,
+27,Herbert School,1,1,1,1,Gr. K-12,BOX 670 HERBERT sk S0H 2A0,HERBERT,S0H 2A0,sk,Province of Saskatchewan,herbert sk s0h 2a0,,
+28,Hodgeville School,1,1,1,1,Gr. K-12,BOX 160 HODGEVILLE sk S0H 2B0,HODGEVILLE,S0H 2B0,sk,Province of Saskatchewan,hodgeville sk s0h 2b0,,
+29,Home-based School,1,1,1,1,Gr. K-11,sk,,,sk,Province of Saskatchewan,sk,,
+30,Hulbert Hutterite School,1,1,1,0,Gr. K-9,BOX 37 PONTEIX sk S0N 1Z0,PONTEIX,S0N 1Z0,sk,Province of Saskatchewan,ponteix sk s0n 1z0,,
+31,Leader Composite School,1,1,1,1,Gr. K-12,BOX 610 LEADER sk S0N 1H0,LEADER,S0N 1H0,sk,Province of Saskatchewan,leader sk s0n 1h0,,
+32,Maple Creek Composite School,0,1,1,1,Gr. 6-12,PO BOX 369 MAPLE CREEK sk S0N 1N0,MAPLE CREEK,S0N 1N0,sk,Province of Saskatchewan,maple creek sk s0n 1n0,,
+33,Maverick School,0,0,0,1,Gr. 10-12,580 6TH AVE SE SWIFT CURRENT sk S9H 3P6,SWIFT CURRENT,S9H 3P6,sk,Province of Saskatchewan,580 6th ave se swift current sk s9h 3p6,580,6th ave se
+34,McMahon Colony School,0,1,1,0,Gr. 1-9,P.O. BOX 490 SWIFT CURRENT sk S9H 3V3,SWIFT CURRENT,S9H 3V3,sk,Province of Saskatchewan,swift current sk s9h 3v3,,
+35,Norfolk Hutterite School,1,1,1,1,Gr. K-10,BOX 357 HODGEVILLE sk S0H 2B0,HODGEVILLE,S0H 2B0,sk,Province of Saskatchewan,hodgeville sk s0h 2b0,,
+36,O.M. Irwin School,1,1,1,0,Gr. K-8,999 GEORGE STREET E SWIFT CURRENT sk S6H 1Z3,SWIFT CURRENT,S6H 1Z3,sk,Province of Saskatchewan,999 george street e swift current sk s6h 1z3,999,george street e
+37,Pelletier Hill Hutterite School,1,1,1,0,Gr. K-9,R.R. #1 ADMIRAL sk S0N 0B0,ADMIRAL,S0N 0B0,sk,Province of Saskatchewan,rr #1 admiral sk s0n 0b0,,rr #1
+38,Pennant Colony School,1,1,1,1,Gr. K-10,BOX 38 PENNANT sk S0N 1X0,PENNANT,S0N 1X0,sk,Province of Saskatchewan,pennant sk s0n 1x0,,
+39,Ponteix School,1,1,1,1,Gr. K-12,BOX 630 PONTEIX sk S0N 1Z0,PONTEIX,S0N 1Z0,sk,Province of Saskatchewan,ponteix sk s0n 1z0,,
+40,Ruskin Hutterian School,1,1,1,1,Gr. K-10,PO BOX 894 STN MAIN SWIFT CURRENT sk S9H 3W8,SWIFT CURRENT,S9H 3W8,sk,Province of Saskatchewan,stn main swift current sk s9h 3w8,,
+41,Sand Lake Hutterite Elementary,0,1,1,0,Gr. 1-8,BOX 278 VAL MARIE sk S0N 2T0,VAL MARIE,S0N 2T0,sk,Province of Saskatchewan,val marie sk s0n 2t0,,
+42,Shaunavon High School,0,0,1,1,Gr. 8-12,BOX 1148 SHAUNAVON sk S0N 2M0,SHAUNAVON,S0N 2M0,sk,Province of Saskatchewan,shaunavon sk s0n 2m0,,
+43,Shaunavon Public School,1,1,1,0,Gr. K-7,BOX 1628 SHAUNAVON sk S0N 2M0,SHAUNAVON,S0N 2M0,sk,Province of Saskatchewan,shaunavon sk s0n 2m0,,
+44,Sidney Street School,1,1,0,0,Gr. K-5,BOX 69 MAPLE CREEK sk S0N 1N0,MAPLE CREEK,S0N 1N0,sk,Province of Saskatchewan,maple creek sk s0n 1n0,,
+45,Sierra Hutterite School,1,1,1,0,Gr. K-9,BOX 33 SHAUNAVON sk S0N 2M0,SHAUNAVON,S0N 2M0,sk,Province of Saskatchewan,shaunavon sk s0n 2m0,,
+46,Southland Hutterite School,1,1,1,0,Gr. K-9,BOX 459 HERBERT sk S0H 2A0,HERBERT,S0H 2A0,sk,Province of Saskatchewan,herbert sk s0h 2a0,,
+47,Spring Creek Hutterite School,1,1,1,1,Gr. K-10,BOX 29 WALSH sk T0J 3L0,WALSH,T0J 3L0,sk,Province of Saskatchewan,walsh sk t0j 3l0,,
+48,Spring Lake Hutterite School,1,1,1,0,Gr. K-9,BOX 35 SWIFT CURRENT sk S9H 3V5,SWIFT CURRENT,S9H 3V5,sk,Province of Saskatchewan,swift current sk s9h 3v5,,
+49,Stewart Valley School,1,1,1,0,Gr. K-8,BOX 70 STEWART VALLEY sk S0N 2P0,STEWART VALLEY,S0N 2P0,sk,Province of Saskatchewan,stewart valley sk s0n 2p0,,
+50,Success School,1,1,1,0,Gr. K-9,BOX 10 SUCCESS sk S0N 2R0,SUCCESS,S0N 2R0,sk,Province of Saskatchewan,success sk s0n 2r0,,
+51,Sunset Hutterite School,1,1,1,0,Gr. K-9,BOX 67 ADMIRAL sk S0N 0B0,ADMIRAL,S0N 0B0,sk,Province of Saskatchewan,admiral sk s0n 0b0,,
+52,Swift Current Comprehensive High School,0,0,1,1,Gr. 9-12,1100 11TH AVENUE NE SWIFT CURRENT sk S9H 2V6,SWIFT CURRENT,S9H 2V6,sk,Province of Saskatchewan,1100 11th avenue ne swift current sk s9h 2v6,1100,11th avenue ne
+53,Tompkins Hutterite School,1,1,1,0,Gr. K-8,PO BOX 243 TOMPKINS sk S0N 2S0,TOMPKINS,S0N 2S0,sk,Province of Saskatchewan,tompkins sk s0n 2s0,,
+54,Tompkins School,1,1,0,0,Gr. K-5,BOX 339 TOMPKINS sk S0N 2S0,TOMPKINS,S0N 2S0,sk,Province of Saskatchewan,tompkins sk s0n 2s0,,
+55,Val Marie School,1,1,1,1,Gr. K-12,BOX 240 VAL MARIE sk S0N 2T0,VAL MARIE,S0N 2T0,sk,Province of Saskatchewan,val marie sk s0n 2t0,,
+56,Vanguard Community School,1,1,1,1,Gr. K-12,BOX 310 VANGUARD sk S0N 2V0,VANGUARD,S0N 2V0,sk,Province of Saskatchewan,vanguard sk s0n 2v0,,
+57,Waldeck Elementary and Junior High School,1,1,1,0,Gr. K-9,BOX 90 WALDECK sk S0H 4J0,WALDECK,S0H 4J0,sk,Province of Saskatchewan,waldeck sk s0h 4j0,,
+58,Webb Hutterite School,1,1,1,1,Gr. K-11,BOX 75 WEBB sk S0N 2X0,WEBB,S0N 2X0,sk,Province of Saskatchewan,webb sk s0n 2x0,,
+59,Wheatland Hutterite School,1,1,1,1,Gr. K-10,BOX 138 CABRI sk S0N 0J0,CABRI,S0N 0J0,sk,Province of Saskatchewan,cabri sk s0n 0j0,,
+60,Wymark Hutterite School,0,0,1,0,Gr. 7-9,PO BOX 386 STN MAIN SWIFT CURRENT sk S9H 3W8,SWIFT CURRENT,S9H 3W8,sk,Province of Saskatchewan,stn main swift current sk s9h 3w8,,
+61,Wymark School,1,1,1,0,Gr. K-9,BOX 30 WYMARK sk S0N 2Y0,WYMARK,S0N 2Y0,sk,Province of Saskatchewan,wymark sk s0n 2y0,,
+62,Dreambuilders High School,0,0,1,1,Gr. 9-12,345 BROADWAY ST W YORKTON sk S3N 0N8,YORKTON,S3N 0N8,sk,Province of Saskatchewan,345 broadway st w yorkton sk s3n 0n8,345,broadway st w
+63,Home-based School,1,1,1,1,Gr. K-12,sk,,,sk,Province of Saskatchewan,sk,,
+64,Sacred Heart High School,0,0,1,1,Gr. 9-12,280 GLADSTONE AVE. N. YORKTON sk S3N 2A8,YORKTON,S3N 2A8,sk,Province of Saskatchewan,280 gladstone ave n yorkton sk s3n 2a8,280,gladstone ave n
+65,St. Alphonsus School,1,1,1,0,Gr. K-8,81 HENDERSON STREET YORKTON sk S3N 0A8,YORKTON,S3N 0A8,sk,Province of Saskatchewan,81 henderson street yorkton sk s3n 0a8,81,henderson street
+66,St. Henry's Junior School,1,1,0,0,Gr. K-5,840 MAIN STREET MELVILLE sk S0A 2P0,MELVILLE,S0A 2P0,sk,Province of Saskatchewan,840 main street melville sk s0a 2p0,840,main street
+67,St. Henry's Senior School,0,1,1,0,Gr. 5-9,1255 PRINCE EDWARD STREET MELVILLE sk S0A 2P0,MELVILLE,S0A 2P0,sk,Province of Saskatchewan,1255 prince edward street melville sk s0a 2p0,1255,prince edward street
+68,St. Mary's School,1,1,1,0,Gr. K-8,212 INDEPENDENT STREET YORKTON sk S3N 0S8,YORKTON,S3N 0S8,sk,Province of Saskatchewan,212 independent street yorkton sk s3n 0s8,212,independent street
+69,St. Michael's School,1,1,1,0,Gr. K-8,407 DARLINGTON STREET EAST YORKTON sk S3N 3Y9,YORKTON,S3N 3Y9,sk,Province of Saskatchewan,407 darlington street east yorkton sk s3n 3y9,407,darlington street east
+70,St. Paul's School,1,1,1,0,Gr. K-8,487 PARKVIEW ROAD YORKTON sk S3N 2L8,YORKTON,S3N 2L8,sk,Province of Saskatchewan,487 parkview road yorkton sk s3n 2l8,487,parkview road
+71,St. Theodore School,1,1,1,0,Gr. K-8,BOX 430 THEODORE sk S0A 4C0,THEODORE,S0A 4C0,sk,Province of Saskatchewan,theodore sk s0a 4c0,,
+72,ECF pavillon Gustave Dubois,0,0,1,1,Gr. 7-12,2320 AVENUE LOUISE SASKATOON sk S7J 3M7,SASKATOON,S7J 3M7,sk,Province of Saskatchewan,2320 avenue louise saskatoon sk s7j 3m7,2320,avenue louise
+73,École Beau Soleil,1,1,1,0,Gr. K-7,C.P. 515 GRAVELBOURG sk S0H 1X0,GRAVELBOURG,S0H 1X0,sk,Province of Saskatchewan,gravelbourg sk s0h 1x0,,
+74,École Boréale,1,1,1,1,Gr. K-12,C.P. 576 PONTEIX sk S0N 1Z0,PONTEIX,S0N 1Z0,sk,Province of Saskatchewan,ponteix sk s0n 1z0,,
+75,École canadienne-française,1,1,0,0,Gr. K-6,ALBERT AVE SASKATOON sk S7H 5R8,SASKATOON,S7H 5R8,sk,Province of Saskatchewan,albert ave saskatoon sk s7h 5r8,,albert ave
+76,École de Bellegarde,1,1,1,1,Gr. K-12,C.P. 69 BELLEGARDE sk S0C 0J0,BELLEGARDE,S0C 0J0,sk,Province of Saskatchewan,bellegarde sk s0c 0j0,,
+77,École du Parc,1,1,0,0,Gr. K-6,601 DOUGLAS AVE E REGINA sk S4N 1H7,REGINA,S4N 1H7,sk,Province of Saskatchewan,601 douglas ave e regina sk s4n 1h7,601,douglas ave
+78,École Ducharme,1,1,1,1,Gr. K-10,340 OMINICA ST W MOOSE JAW sk S6H 1X5,MOOSE JAW,S6H 1X5,sk,Province of Saskatchewan,340 ominica st w moose jaw sk s6h 1x5,340,ominica st w
+79,École Mathieu de Gravelbourg,0,0,1,1,Gr. 8-11,C.P. 690 GRAVELBOURG sk S0H 1X0,GRAVELBOURG,S0H 1X0,sk,Province of Saskatchewan,gravelbourg sk s0h 1x0,,
+80,École MGR de Laval pavillon secondaire,0,0,1,1,Gr. 7-12,1440 9TH AVE N REGINA sk S4R 8B1,REGINA,S4R 8B1,sk,Province of Saskatchewan,1440 9th ave n regina sk s4r 8b1,1440,9th ave n
+81,École Monseigneur de Laval,1,1,0,0,Gr. K-6,1601 COWAN CRES REGINA sk S4S 4C4,REGINA,S4S 4C4,sk,Province of Saskatchewan,1601 cowan cres regina sk s4s 4c4,1601,cowan cres
+82,École Notre-Dame-des-Vertus,1,1,1,1,Gr. K-12,C.P. 248 ZENON PARK sk S0E 1W0,ZENON PARK,S0E 1W0,sk,Province of Saskatchewan,zenon park sk s0e 1w0,,
+83,École Père Mercure,1,1,1,1,Gr. K-12,1881 99E RUE NORTH BATTLEFORD sk S9A 0R9,NORTH BATTLEFORD,S9A 0R9,sk,Province of Saskatchewan,1881 99e rue north battleford sk s9a 0r9,1881,99e rue
+84,École Providence,1,1,1,1,Gr. K-12,C.P. 289 VONDA sk S0K 4N0,VONDA,S0K 4N0,sk,Province of Saskatchewan,vonda sk s0k 4n0,,
+85,École St-Isidore de Bellevue,1,1,1,1,Gr. K-12,GENERAL DELIVERY ST ISIDORE DE BELLEVUE sk S0K 3Y0,ST ISIDORE DE BELLEVUE,S0K 3Y0,sk,Province of Saskatchewan,general delivery st isidore de bellevue sk s0k 3y0,,general delivery
+86,École Valois,1,1,1,1,Gr. K-12,449 10E RUE EST PRINCE ALBERT sk S6V 0Z5,PRINCE ALBERT,S6V 0Z5,sk,Province of Saskatchewan,449 10e rue est prince albert sk s6v 0z5,449,10e rue est
+87,Home-based School,0,1,1,0,Gr. 1-7,sk,,,sk,Province of Saskatchewan,sk,,
+88,Creighton Community School,1,1,1,1,Gr. K-12,BOX 158 CREIGHTON sk S0P 0A0,CREIGHTON,S0P 0A0,sk,Province of Saskatchewan,creighton sk s0p 0a0,,
+89,Bear Stream School,1,1,1,1,Gr. K-11,BOX 1674 KAMSACK sk S0A 1S0,KAMSACK,S0A 1S0,sk,Province of Saskatchewan,kamsack sk s0a 1s0,,
+90,Canora Composite School,0,1,1,1,Gr. 5-12,BOX 986 CANORA sk S0A 0L0,CANORA,S0A 0L0,sk,Province of Saskatchewan,canora sk s0a 0l0,,
+91,Canora Junior Elementary School,1,1,0,0,Gr. K-4,BOX 1150 CANORA sk S0A 0L0,CANORA,S0A 0L0,sk,Province of Saskatchewan,canora sk s0a 0l0,,
+92,Churchbridge Public School,1,1,1,1,Gr. K-12,BOX 470 CHURCHBRIDGE sk S0A 0M0,CHURCHBRIDGE,S0A 0M0,sk,Province of Saskatchewan,churchbridge sk s0a 0m0,,
+93,Columbia School,1,1,1,0,Gr. K-8,119 BRADBROOKE DRIVE YORKTON sk S3N 2K3,YORKTON,S3N 2K3,sk,Province of Saskatchewan,119 bradbrooke drive yorkton sk s3n 2k3,119,bradbrooke drive
+94,Davison School,1,1,0,0,Gr. K-6,BOX 2888 MELVILLE sk S0A 2P0,MELVILLE,S0A 2P0,sk,Province of Saskatchewan,melville sk s0a 2p0,,
+95,Dr. Brass School,1,1,1,0,Gr. K-8,19 DARLINGTON STREET WEST YORKTON sk S3N 0E3,YORKTON,S3N 0E3,sk,Province of Saskatchewan,19 darlington street west yorkton sk s3n 0e3,19,darlington street west
+96,Esterhazy High School,0,1,1,1,Gr. 6-12,BOX 640 ESTERHAZY sk S0A 0X0,ESTERHAZY,S0A 0X0,sk,Province of Saskatchewan,esterhazy sk s0a 0x0,,
+97,Grayson School,1,1,1,0,Gr. K-8,BOX 10 GRAYSON sk S0A 1E0,GRAYSON,S0A 1E0,sk,Province of Saskatchewan,grayson sk s0a 1e0,,
+98,Home-based School,1,1,1,1,Gr. K-12,sk,,,sk,Province of Saskatchewan,sk,,
+99,Invermay School,1,1,1,1,Gr. K-12,BOX 219 INVERMAY sk S0A 1M0,INVERMAY,S0A 1M0,sk,Province of Saskatchewan,invermay sk s0a 1m0,,
+100,Kamsack Comprehensive Institute,0,1,1,1,Gr. 5-12,BOX 579 KAMSACK sk S0A 1S0,KAMSACK,S0A 1S0,sk,Province of Saskatchewan,kamsack sk s0a 1s0,,
+101,Langenburg Central School,1,1,1,1,Gr. K-12,BOX 10 LANGENBURG sk S0A 2A0,LANGENBURG,S0A 2A0,sk,Province of Saskatchewan,langenburg sk s0a 2a0,,
+102,M.C. Knoll School,1,1,1,0,Gr. K-8,387 DARLINGTON STREET EAST YORKTON sk S3N 3Y9,YORKTON,S3N 3Y9,sk,Province of Saskatchewan,387 darlington street east yorkton sk s3n 3y9,387,darlington street east
+103,MacDonald School,1,1,1,0,Gr. K-9,BOX 40 STOCKHOLM sk S0A 3Y0,STOCKHOLM,S0A 3Y0,sk,Province of Saskatchewan,stockholm sk s0a 3y0,,
+104,Melville Comprehensive School,0,0,1,1,Gr. 7-12,BOX 1570 MELVILLE sk S0A 2P0,MELVILLE,S0A 2P0,sk,Province of Saskatchewan,melville sk s0a 2p0,,
+105,Miller School,1,1,0,0,Gr. K-4,BOX 2800 MELVILLE sk S0A 2P0,MELVILLE,S0A 2P0,sk,Province of Saskatchewan,melville sk s0a 2p0,,
+106,Norquay School,1,1,1,1,Gr. K-12,BOX 430 NORQUAY sk S0A 2V0,NORQUAY,S0A 2V0,sk,Province of Saskatchewan,norquay sk s0a 2v0,,
+107,P.J. Gillen School,1,1,0,0,Gr. K-5,BOX 1420 ESTERHAZY sk S0A 0X0,ESTERHAZY,S0A 0X0,sk,Province of Saskatchewan,esterhazy sk s0a 0x0,,
+108,Preeceville School,1,1,1,1,Gr. K-12,BOX 679 PREECEVILLE sk S0A 3B0,PREECEVILLE,S0A 3B0,sk,Province of Saskatchewan,preeceville sk s0a 3b0,,
+109,Saltcoats School,1,1,1,0,Gr. K-8,BOX 187 SALTCOATS sk S0A 3R0,SALTCOATS,S0A 3R0,sk,Province of Saskatchewan,saltcoats sk s0a 3r0,,
+110,Silver Stream School,1,1,1,0,Gr. K-9,P O BOX 3640 MELVILLE sk S0A 2P0,MELVILLE,S0A 2P0,sk,Province of Saskatchewan,p o melville sk s0a 2p0,,
+111,Springside School,1,1,1,0,Gr. K-8,BOX 100 SPRINGSIDE sk S0A 3V0,SPRINGSIDE,S0A 3V0,sk,Province of Saskatchewan,springside sk s0a 3v0,,
+112,Sturgis Composite School,1,1,1,1,Gr. K-12,BOX 100 STURGIS sk S0A 4A0,STURGIS,S0A 4A0,sk,Province of Saskatchewan,sturgis sk s0a 4a0,,
+113,Victoria School,1,1,0,0,Gr. K-4,BOX 609 KAMSACK sk S0A 1S0,KAMSACK,S0A 1S0,sk,Province of Saskatchewan,kamsack sk s0a 1s0,,
+114,Yorkdale Central School,1,1,1,0,Gr. K-8,270 GLADSTONE AVE S YORKTON sk S3N 3C6,YORKTON,S3N 3C6,sk,Province of Saskatchewan,270 gladstone ave s yorkton sk s3n 3c6,270,gladstone ave s
+115,Yorkton Regional High School,0,0,1,1,Gr. 9-12,150 GLADSTONE AVENUE N YORKTON sk S3N 2A8,YORKTON,S3N 2A8,sk,Province of Saskatchewan,150 gladstone avenue n yorkton sk s3n 2a8,150,gladstone avenue n
+116,Home-based School,1,1,0,0,Gr. K-4,sk,,,sk,Province of Saskatchewan,sk,,
+117,Sacred Heart Elementary/École Sacre Coeur,1,1,1,0,Gr. K-8,1846 GIBBS ROAD ESTEVAN sk S4A 1Y2,ESTEVAN,S4A 1Y2,sk,Province of Saskatchewan,1846 gibbs road estevan sk s4a 1y2,1846,gibbs road
+118,St. Augustine School (Wilcox),1,1,1,0,Gr. K-8,PO BOX 10 WILCOX sk S0G 5E0,WILCOX,S0G 5E0,sk,Province of Saskatchewan,wilcox sk s0g 5e0,,
+119,St. Mary's School,1,1,1,0,Gr. K-8,615 ARTHUR AVENUE ESTEVAN sk S4A 1S9,ESTEVAN,S4A 1S9,sk,Province of Saskatchewan,615 arthur avenue estevan sk s4a 1s9,615,arthur avenue
+120,St. Michael School,1,1,1,0,Gr. K-9,426 13TH STREET NE WEYBURN sk S4H 1L3,WEYBURN,S4H 1L3,sk,Province of Saskatchewan,426 13th street ne weyburn sk s4h 1l3,426,13th street ne
+121,St. Olivier School,1,1,0,0,Gr. K-6,325 BECKWELL AVE RADVILLE sk S0C 2G0,RADVILLE,S0C 2G0,sk,Province of Saskatchewan,325 beckwell ave radville sk s0c 2g0,325,beckwell ave
+122,All Saints Catholic School,1,1,1,0,Gr. K-8,2180 WOODROW LLOYD PLACE SWIFT CURRENT sk S9H 5R2,SWIFT CURRENT,S9H 5R2,sk,Province of Saskatchewan,2180 woodrow lloyd place swift current sk s9h 5r2,2180,woodrow lloyd place
+123,Christ the King School,1,1,1,0,Gr. K-7,BOX 1330 SHAUNAVON sk S0N 2M0,SHAUNAVON,S0N 2M0,sk,Province of Saskatchewan,shaunavon sk s0n 2m0,,
+124,Home-based School,0,1,0,0,Gr. 2-2,sk,,,sk,Province of Saskatchewan,sk,,
+125,Phoenix Academy,0,0,0,1,Gr. 10-12,461 ATHABASCA ST E MOOSE JAW sk S6H 0L9,MOOSE JAW,S6H 0L9,sk,Province of Saskatchewan,461 athabasca st e moose jaw sk s6h 0l9,461,athabasca st e
+126,Sacred Heart School,1,1,1,0,Gr. K-8,1020 12TH AVENUE SW MOOSE JAW sk S6H 5X8,MOOSE JAW,S6H 5X8,sk,Province of Saskatchewan,1020 12th avenue sw moose jaw sk s6h 5x8,1020,12th avenue sw
+127,St. Agnes School,1,1,1,0,Gr. K-8,330 OXFORD STREET W MOOSE JAW sk S6H 2P2,MOOSE JAW,S6H 2P2,sk,Province of Saskatchewan,330 oxford street w moose jaw sk s6h 2p2,330,oxford street w
+128,St. Margaret School,1,1,1,0,Gr. K-8,495 5TH AVENUE NE MOOSE JAW sk S6H 0J9,MOOSE JAW,S6H 0J9,sk,Province of Saskatchewan,495 5th avenue ne moose jaw sk s6h 0j9,495,5th avenue ne
+129,St. Mary School,1,1,1,0,Gr. K-8,720 5TH AVE SW MOOSE JAW sk S6H 5W3,MOOSE JAW,S6H 5W3,sk,Province of Saskatchewan,720 5th ave sw moose jaw sk s6h 5w3,720,5th ave sw
+130,St. Michael School,1,1,1,0,Gr. K-8,1111 BROWN STREET MOOSE JAW sk S6H 4L2,MOOSE JAW,S6H 4L2,sk,Province of Saskatchewan,1111 brown street moose jaw sk s6h 4l2,1111,brown street
+131,Vanier Collegiate,0,0,1,1,Gr. 9-12,324 MACDONALD STREET W MOOSE JAW sk S6H 2V4,MOOSE JAW,S6H 2V4,sk,Province of Saskatchewan,324 macdonald street w moose jaw sk s6h 2v4,324,macdonald street w
+132,Annaheim School,1,1,1,1,Gr. K-12,BOX 160 ANNAHEIM sk S0K 0G0,ANNAHEIM,S0K 0G0,sk,Province of Saskatchewan,annaheim sk s0k 0g0,,
+133,Archerwill School,1,1,1,0,Gr. K-9,BOX 308 ARCHERWILL sk S0E 0B0,ARCHERWILL,S0E 0B0,sk,Province of Saskatchewan,archerwill sk s0e 0b0,,
+134,Bruno School,1,1,1,1,Gr. K-12,BOX 160 BRUNO sk S0K 0S0,BRUNO,S0K 0S0,sk,Province of Saskatchewan,bruno sk s0k 0s0,,
+135,Bulyea Elementary,1,1,0,0,Gr. K-6,BOX 70 BULYEA sk S0G 0L0,BULYEA,S0G 0L0,sk,Province of Saskatchewan,bulyea sk s0g 0l0,,
+136,Cudworth School,1,1,1,1,Gr. K-12,BOX 490 CUDWORTH sk S0K 1B0,CUDWORTH,S0K 1B0,sk,Province of Saskatchewan,cudworth sk s0k 1b0,,
+137,Drake School,1,1,1,0,Gr. K-8,BOX 23 DRAKE sk S0K 1H0,DRAKE,S0K 1H0,sk,Province of Saskatchewan,drake sk s0k 1h0,,
+138,Englefeld School,1,1,1,1,Gr. K-12,PO BOX 100 ENGLEFELD sk S0K 1N0,ENGLEFELD,S0K 1N0,sk,Province of Saskatchewan,englefeld sk s0k 1n0,,
+139,Foam Lake Composite High School,0,0,1,1,Gr. 7-12,BOX 790 FOAM LAKE sk S0A 1A0,FOAM LAKE,S0A 1A0,sk,Province of Saskatchewan,foam lake sk s0a 1a0,,
+140,Foam Lake Elementary,1,1,0,0,Gr. K-6,BOX 939 FOAM LAKE sk S0A 1A0,FOAM LAKE,S0A 1A0,sk,Province of Saskatchewan,foam lake sk s0a 1a0,,
+141,George Gordon Education Center,1,1,1,0,Gr. K-8,BOX 70 PUNNICHY sk S0A 3C0,PUNNICHY,S0A 3C0,sk,Province of Saskatchewan,punnichy sk s0a 3c0,,
+142,Home-based School,1,1,1,1,Gr. K-12,sk,,,sk,Province of Saskatchewan,sk,,
+143,Horizon Distance Learning Centre,0,0,0,1,Gr. 11-12,BOX 40 HUMBOLDT sk S0K 2A0,HUMBOLDT,S0K 2A0,sk,Province of Saskatchewan,humboldt sk s0k 2a0,,
+144,Humboldt Collegiate Institute,0,0,1,1,Gr. 9-12,BOX 1780 HUMBOLDT sk S0K 2A0,HUMBOLDT,S0K 2A0,sk,Province of Saskatchewan,humboldt sk s0k 2a0,,
+145,Humboldt Public School,1,1,1,0,Gr. K-8,BOX 848 HUMBOLDT sk S0K 2A0,HUMBOLDT,S0K 2A0,sk,Province of Saskatchewan,humboldt sk s0k 2a0,,
+146,Imperial School,1,1,1,1,Gr. K-12,BOX 240 IMPERIAL sk S0G 2J0,IMPERIAL,S0G 2J0,sk,Province of Saskatchewan,imperial sk s0g 2j0,,
+147,Ituna School,1,1,1,1,Gr. K-12,BOX 370 ITUNA sk S0A 1N0,ITUNA,S0A 1N0,sk,Province of Saskatchewan,ituna sk s0a 1n0,,
+148,Kelvington High School,0,1,1,1,Gr. 6-12,BOX 400 KELVINGTON sk S0A 1W0,KELVINGTON,S0A 1W0,sk,Province of Saskatchewan,kelvington sk s0a 1w0,,
+149,Lake Lenore School,1,1,1,1,Gr. K-12,BOX 40 LAKE LENORE sk S0K 2J0,LAKE LENORE,S0K 2J0,sk,Province of Saskatchewan,lake lenore sk s0k 2j0,,
+150,Lakeside Colony School,1,1,1,0,Gr. K-9,BOX 580 QUILL LAKE sk S0A 3E0,QUILL LAKE,S0A 3E0,sk,Province of Saskatchewan,quill lake sk s0a 3e0,,
+151,Lanigan Central High School,0,0,1,1,Gr. 9-12,BOX 639 LANIGAN sk S0K 2M0,LANIGAN,S0K 2M0,sk,Province of Saskatchewan,lanigan sk s0k 2m0,,
+152,Lanigan Elementary School,1,1,1,0,Gr. K-8,BOX 789 LANIGAN sk S0K 2M0,LANIGAN,S0K 2M0,sk,Province of Saskatchewan,lanigan sk s0k 2m0,,
+153,Leroy School,1,1,1,1,Gr. K-12,BOX 278 LEROY sk S0K 2P0,LEROY,S0K 2P0,sk,Province of Saskatchewan,leroy sk s0k 2p0,,
+154,Muenster School,1,1,1,1,Gr. K-12,BOX 160 MUENSTER sk S0K 2Y0,MUENSTER,S0K 2Y0,sk,Province of Saskatchewan,muenster sk s0k 2y0,,
+155,New Horizon Hutterian School,1,1,1,0,Gr. K-9,BOX 190 LESTOCK sk S0A 2G0,LESTOCK,S0A 2G0,sk,Province of Saskatchewan,lestock sk s0a 2g0,,
+156,Nokomis School,1,1,1,0,Gr. K-8,BOX 129 NOKOMIS sk S0G 3R0,NOKOMIS,S0G 3R0,sk,Province of Saskatchewan,nokomis sk s0g 3r0,,
+157,Punnichy Elementary,1,1,1,0,Gr. K-8,BOX 206 PUNNICHY sk S0A 3C0,PUNNICHY,S0A 3C0,sk,Province of Saskatchewan,punnichy sk s0a 3c0,,
+158,Punnichy High School,0,0,1,1,Gr. 9-12,BOX 460 PUNNICHY sk S0A 3C0,PUNNICHY,S0A 3C0,sk,Province of Saskatchewan,punnichy sk s0a 3c0,,
+159,Quill Lake School,1,1,1,1,Gr. K-12,BOX 250 QUILL LAKE sk S0A 3E0,QUILL LAKE,S0A 3E0,sk,Province of Saskatchewan,quill lake sk s0a 3e0,,
+160,Raymore School,1,1,1,1,Gr. K-12,BOX 520 RAYMORE sk S0A 3J0,RAYMORE,S0A 3J0,sk,Province of Saskatchewan,raymore sk s0a 3j0,,
+161,Robert Melrose Elementary,1,1,0,0,Gr. K-5,BOX 160 KELVINGTON sk S0A 1W0,KELVINGTON,S0A 1W0,sk,Province of Saskatchewan,kelvington sk s0a 1w0,,
+162,Rose Valley School,1,1,1,1,Gr. K-12,BOX 400 ROSE VALLEY sk S0E 1M0,ROSE VALLEY,S0E 1M0,sk,Province of Saskatchewan,rose valley sk s0e 1m0,,
+163,Sask Central Hutterian School,0,1,1,1,Gr. 2-12,BOX 24 SEMANS sk S0A 3S0,SEMANS,S0A 3S0,sk,Province of Saskatchewan,semans sk s0a 3s0,,
+164,Schell School,1,1,1,1,Gr. K-11,BOX 28 HOLDFAST sk S0G 2H0,HOLDFAST,S0G 2H0,sk,Province of Saskatchewan,holdfast sk s0g 2h0,,
+165,St. Brieux School,1,1,1,1,Gr. K-12,BOX 70 ST BRIEUX sk S0K 3V0,ST BRIEUX,S0K 3V0,sk,Province of Saskatchewan,st brieux sk s0k 3v0,,
+166,Three Lakes School,1,1,1,1,Gr. K-12,BOX 38 MIDDLE LAKE sk S0K 2X0,MIDDLE LAKE,S0K 2X0,sk,Province of Saskatchewan,middle lake sk s0k 2x0,,
+167,Viscount Central School,1,1,1,1,Gr. K-12,BOX 280 VISCOUNT sk S0K 4M0,VISCOUNT,S0K 4M0,sk,Province of Saskatchewan,viscount sk s0k 4m0,,
+168,Wadena Composite School,0,0,1,1,Gr. 7-12,BOX 970 WADENA sk S0A 4J0,WADENA,S0A 4J0,sk,Province of Saskatchewan,wadena sk s0a 4j0,,
+169,Wadena Elementary,1,1,0,0,Gr. K-6,BOX 1150 WADENA sk S0A 4J0,WADENA,S0A 4J0,sk,Province of Saskatchewan,wadena sk s0a 4j0,,
+170,Wakaw School,1,1,1,1,Gr. K-12,BOX 850 WAKAW sk S0K 4P0,WAKAW,S0K 4P0,sk,Province of Saskatchewan,wakaw sk s0k 4p0,,
+171,Watrous Elementary,1,1,1,0,Gr. K-7,BOX 789 WATROUS sk S0K 4T0,WATROUS,S0K 4T0,sk,Province of Saskatchewan,watrous sk s0k 4t0,,
+172,Watrous Winston High School,0,0,1,1,Gr. 8-12,BOX 1089 WATROUS sk S0K 4T0,WATROUS,S0K 4T0,sk,Province of Saskatchewan,watrous sk s0k 4t0,,
+173,Watson School,1,1,1,1,Gr. K-12,BOX 100 WATSON sk S0K 4V0,WATSON,S0K 4V0,sk,Province of Saskatchewan,watson sk s0k 4v0,,
+174,William Derby School,1,1,1,1,Gr. K-12,BOX 517 STRASBOURG sk S0G 4V0,STRASBOURG,S0G 4V0,sk,Province of Saskatchewan,strasbourg sk s0g 4v0,,
+175,Wynyard Composite High School,0,0,1,1,Gr. 7-12,BOX 880 WYNYARD sk S0A 4T0,WYNYARD,S0A 4T0,sk,Province of Saskatchewan,wynyard sk s0a 4t0,,
+176,Wynyard Elementary,1,1,0,0,Gr. K-6,BOX 789 WYNYARD sk S0A 4T0,WYNYARD,S0A 4T0,sk,Province of Saskatchewan,wynyard sk s0a 4t0,,
+177,Rossignol Elementary School,1,1,0,0,Gr. K-6,BOX 70 ILE-A-LA-CROSSE sk S0M 1C0,ILE-A-LA-CROSSE,S0M 1C0,sk,Province of Saskatchewan,ile a la crosse sk s0m 1c0,,
+178,Rossignol High School,0,0,1,1,Gr. 7-12,BOX 570 ILE-A-LA-CROSSE sk S0M 1C0,ILE-A-LA-CROSSE,S0M 1C0,sk,Province of Saskatchewan,ile a la crosse sk s0m 1c0,,
+179,École Monseigneur Blaise Morand,1,1,1,0,Gr. K-7,1651 96TH STREET NORTH BATTLEFORD sk S9A 0H7,NORTH BATTLEFORD,S9A 0H7,sk,Province of Saskatchewan,1651 96th street north battleford sk s9a 0h7,1651,96th street
+180,Holy Family School,1,1,1,0,Gr. K-7,9201 19TH AVENUE NORTH BATTLEFORD sk S9A 2W2,NORTH BATTLEFORD,S9A 2W2,sk,Province of Saskatchewan,9201 19th avenue north battleford sk s9a 2w2,9201,19th avenue
+181,Home-based School,1,1,1,1,Gr. K-12,sk,,,sk,Province of Saskatchewan,sk,,
+182,John Paul II Collegiate,0,0,1,1,Gr. 8-12,1491 97TH STREET NORTH BATTLEFORD sk S9A 0K1,NORTH BATTLEFORD,S9A 0K1,sk,Province of Saskatchewan,1491 97th street north battleford sk s9a 0k1,1491,97th street
+183,Notre Dame School,1,1,1,0,Gr. K-7,1241 105TH STREET NORTH BATTLEFORD sk S9A 1S8,NORTH BATTLEFORD,S9A 1S8,sk,Province of Saskatchewan,1241 105th street north battleford sk s9a 1s8,1241,105th street
+184,Rivier Elementary School,1,1,0,0,Gr. K-6,BOX 678 SPIRITWOOD sk S0J 2M0,SPIRITWOOD,S0J 2M0,sk,Province of Saskatchewan,spiritwood sk s0j 2m0,,
+185,St. Mary School,1,1,1,0,Gr. K-7,1352 110TH STREET NORTH BATTLEFORD sk S9A 2J1,NORTH BATTLEFORD,S9A 2J1,sk,Province of Saskatchewan,1352 110th street north battleford sk s9a 2j1,1352,110th street
+186,St. Peter's School,1,1,0,0,Gr. K-6,BOX 598 UNITY sk S0K 4L0,UNITY,S0K 4L0,sk,Province of Saskatchewan,unity sk s0k 4l0,,
+187,Battleford Central Elementary,1,1,0,0,Gr. K-6,BOX 400 BATTLEFORD sk S0M 0E0,BATTLEFORD,S0M 0E0,sk,Province of Saskatchewan,battleford sk s0m 0e0,,
+188,Bready Elementary,1,1,0,0,Gr. K-6,9001 17TH AVENUE NORTH BATTLEFORD sk S9A 2V1,NORTH BATTLEFORD,S9A 2V1,sk,Province of Saskatchewan,9001 17th avenue north battleford sk s9a 2v1,9001,17th avenue
+189,Cando Community School,1,1,1,1,Gr. K-12,BOX 250 CANDO sk S0K 0V0,CANDO,S0K 0V0,sk,Province of Saskatchewan,cando sk s0k 0v0,,
+190,Connaught Elementary School,1,1,0,0,Gr. K-6,902 107TH STREET NORTH BATTLEFORD sk S9A 1Y7,NORTH BATTLEFORD,S9A 1Y7,sk,Province of Saskatchewan,902 107th street north battleford sk s9a 1y7,902,107th street
+191,Cut Knife Community School,1,1,1,1,Gr. K-12,BOX 430 CUT KNIFE sk S0M 0N0,CUT KNIFE,S0M 0N0,sk,Province of Saskatchewan,cut knife sk s0m 0n0,,
+192,Hafford Central School,1,1,1,1,Gr. K-12,BOX 97 HAFFORD sk S0J 1A0,HAFFORD,S0J 1A0,sk,Province of Saskatchewan,hafford sk s0j 1a0,,
+193,Hartley Clark Elementary School,1,1,0,0,Gr. K-6,BOX 729 SPIRITWOOD sk S0J 2M0,SPIRITWOOD,S0J 2M0,sk,Province of Saskatchewan,spiritwood sk s0j 2m0,,
+194,Heritage Christian School,1,1,1,0,Gr. K-8,BOX 490 BATTLEFORD sk S0M 0E0,BATTLEFORD,S0M 0E0,sk,Province of Saskatchewan,battleford sk s0m 0e0,,
+195,Hillsvale Colony School,0,1,1,0,Gr. 1-8,BOX 368 CUT KNIFE sk S0M 0N0,CUT KNIFE,S0M 0N0,sk,Province of Saskatchewan,cut knife sk s0m 0n0,,
+196,Home-based School,1,1,1,1,Gr. K-12,sk,,,sk,Province of Saskatchewan,sk,,
+197,Kerrobert Composite School,1,1,1,1,Gr. K-12,BOX 258 KERROBERT sk S0L 1R0,KERROBERT,S0L 1R0,sk,Province of Saskatchewan,kerrobert sk s0l 1r0,,
+198,Lakeview Colony School,0,1,1,0,Gr. 1-8,BOX 366 UNITY sk S0K 4L0,UNITY,S0K 4L0,sk,Province of Saskatchewan,unity sk s0k 4l0,,
+199,Lawrence Elementary School,1,1,0,0,Gr. K-6,1942 102ND STREET NORTH BATTLEFORD sk S9A 1H7,NORTH BATTLEFORD,S9A 1H7,sk,Province of Saskatchewan,1942 102nd street north battleford sk s9a 1h7,1942,102nd street
+200,Leoville Central School,1,1,1,1,Gr. K-12,BOX 39 LEOVILLE sk S0J 1N0,LEOVILLE,S0J 1N0,sk,Province of Saskatchewan,leoville sk s0j 1n0,,
+201,Luseland School,1,1,1,1,Gr. K-12,BOX 399 LUSELAND sk S0L 2A0,LUSELAND,S0L 2A0,sk,Province of Saskatchewan,luseland sk s0l 2a0,,
+202,Macklin School,1,1,1,1,Gr. K-12,"BOX 518, MACKLIN sk S0L 2C0",MACKLIN,S0L 2C0,sk,Province of Saskatchewan,macklin sk s0l 2c0,,
+203,Maymont Central School,1,1,1,1,Gr. K-12,BOX 129 MAYMONT sk S0M 1T0,MAYMONT,S0M 1T0,sk,Province of Saskatchewan,maymont sk s0m 1t0,,
+204,McKitrick Community School,1,1,0,0,Gr. K-6,1500 101ST STREET NORTH BATTLEFORD sk S9A 1A4,NORTH BATTLEFORD,S9A 1A4,sk,Province of Saskatchewan,1500 101st street north battleford sk s9a 1a4,1500,101st street
+205,McLurg High School,0,0,1,1,Gr. 7-12,BOX 489 WILKIE sk S0K 4W0,WILKIE,S0K 4W0,sk,Province of Saskatchewan,wilkie sk s0k 4w0,,
+206,Meadow Lake Christian Academy,1,1,1,1,Gr. K-11,APT 208 - 9TH AVENUE EAST MEADOW LAKE sk S9X 1G3,MEADOW LAKE,S9X 1G3,sk,Province of Saskatchewan,apt 208 9th avenue east meadow lake sk s9x 1g3,,9th avenue east
+207,Medstead Central School,1,1,1,1,Gr. K-12,BOX 150 MEDSTEAD sk S0M 1W0,MEDSTEAD,S0M 1W0,sk,Province of Saskatchewan,medstead sk s0m 1w0,,
+208,Norman Carter Elementary School,1,1,0,0,Gr. K-6,BOX 879 WILKIE sk S0K 4W0,WILKIE,S0K 4W0,sk,Province of Saskatchewan,wilkie sk s0k 4w0,,
+209,North Battleford Comprehensive High School,0,0,1,1,Gr. 7-12,1791 110TH STREET NORTH BATTLEFORD sk S9A 2Y2,NORTH BATTLEFORD,S9A 2Y2,sk,Province of Saskatchewan,1791 110th street north battleford sk s9a 2y2,1791,110th street
+210,Scott Colony School,1,1,1,0,Gr. K-7,BOX 1510 UNITY sk S0K 4L0,UNITY,S0K 4L0,sk,Province of Saskatchewan,unity sk s0k 4l0,,
+211,Spiritwood High School,0,0,1,1,Gr. 7-12,BOX 280 SPIRITWOOD sk S0J 2M0,SPIRITWOOD,S0J 2M0,sk,Province of Saskatchewan,spiritwood sk s0j 2m0,,
+212,St. Vital Catholic School,1,1,1,0,Gr. K-7,BOX 358 BATTLEFORD sk S0M 0E0,BATTLEFORD,S0M 0E0,sk,Province of Saskatchewan,battleford sk s0m 0e0,,
+213,Unity Composite High School,0,0,1,1,Gr. 7-12,BOX 1000 UNITY sk S0K 4L0,UNITY,S0K 4L0,sk,Province of Saskatchewan,unity sk s0k 4l0,,
+214,Unity Public School,1,1,0,0,Gr. K-6,BOX 1150 UNITY sk S0K 4L0,UNITY,S0K 4L0,sk,Province of Saskatchewan,unity sk s0k 4l0,,
+215,École St. Thomas Elementary,1,1,1,0,Gr. K-7,6524 35TH ST LLOYDMINSTER sk T9V 3H1,LLOYDMINSTER,T9V 3H1,sk,Province of Saskatchewan,6524 35th st lloydminster sk t9v 3h1,6524,35th st
+216,Father Gorman Community School,1,1,1,0,Gr. K-7,3112 47TH AVENUE LLOYDMINSTER sk S9V 1G5,LLOYDMINSTER,S9V 1G5,sk,Province of Saskatchewan,3112 47th avenue lloydminster sk s9v 1g5,3112,47th avenue
+217,Holy Rosary High School,0,0,1,1,Gr. 8-12,6611A 39TH STREET LLOYDMINSTER sk T9V 2Z4,LLOYDMINSTER,T9V 2Z4,sk,Province of Saskatchewan,6611a 39th street lloydminster sk t9v 2z4,6611a,39th street
+218,Home-based School,0,1,1,1,Gr. 1-12,sk,,,sk,Province of Saskatchewan,sk,,
+219,Mother Teresa Early Childhood Education Center,1,1,0,0,Gr. K-2,5216 44TH ST LLOYDMINSTER sk T9V 1R6,LLOYDMINSTER,T9V 1R6,sk,Province of Saskatchewan,5216 44th st lloydminster sk t9v 1r6,5216,44th st
+220,St. Joseph Elementary School,1,1,1,0,Gr. K-7,5706 27TH STREET LLOYDMINSTER sk T9V 2B8,LLOYDMINSTER,T9V 2B8,sk,Province of Saskatchewan,5706 27th street lloydminster sk t9v 2b8,5706,27th street
+221,St. Mary's Elementary School,1,1,1,0,Gr. K-7,5207 42ND ST LLOYDMINSTER sk T9V 1M8,LLOYDMINSTER,T9V 1M8,sk,Province of Saskatchewan,5207 42nd st lloydminster sk t9v 1m8,5207,42nd st
+222,Avery Outreach School,0,1,1,1,Gr. 5-12,4111 48 AVENUE LLOYDMINSTER sk S9V 0V7,LLOYDMINSTER,S9V 0V7,sk,Province of Saskatchewan,4111 48 avenue lloydminster sk s9v 0v7,4111,48 avenue
+223,Barr Colony School,1,1,0,0,Gr. K-6,3103 52ND AVENUE LLOYDMINSTER sk T9V 1M9,LLOYDMINSTER,T9V 1M9,sk,Province of Saskatchewan,3103 52nd avenue lloydminster sk t9v 1m9,3103,52nd avenue
+224,Bishop Lloyd Middle School,0,0,1,0,Gr. 7-9,5524 31ST STREET LLOYDMINSTER sk T9V 1W1,LLOYDMINSTER,T9V 1W1,sk,Province of Saskatchewan,5524 31st street lloydminster sk t9v 1w1,5524,31st street
+225,College Park School,1,1,1,0,Gr. K-9,2115 56 AVE LLOYDMINSTER sk T9V 2W2,LLOYDMINSTER,T9V 2W2,sk,Province of Saskatchewan,2115 56 ave lloydminster sk t9v 2w2,2115,56 ave
+226,E.S. Laird Middle School,0,0,1,0,Gr. 7-9,4808 45TH AVENUE LLOYDMINSTER sk S9V 0X4,LLOYDMINSTER,S9V 0X4,sk,Province of Saskatchewan,4808 45th avenue lloydminster sk s9v 0x4,4808,45th avenue
+227,Jack Kemp School,1,1,0,0,Gr. K-6,3701 47 AVENUE LLOYDMINSTER sk S9V 1K9,LLOYDMINSTER,S9V 1K9,sk,Province of Saskatchewan,3701 47 avenue lloydminster sk s9v 1k9,3701,47 avenue
+228,Lloydminster Comprehensive High School,0,0,0,1,Gr. 10-12,5615 42ND ST LLOYDMINSTER sk T9V 0A2,LLOYDMINSTER,T9V 0A2,sk,Province of Saskatchewan,5615 42nd st lloydminster sk t9v 0a2,5615,42nd st
+229,Queen Elizabeth School,1,1,0,0,Gr. K-6,5512 51ST AVENUE LLOYDMINSTER sk T9V 0Y7,LLOYDMINSTER,T9V 0Y7,sk,Province of Saskatchewan,5512 51st avenue lloydminster sk t9v 0y7,5512,51st avenue
+230,Rendell Park School,1,1,0,0,Gr. K-6,3401 57TH AVENUE LLOYDMINSTER sk T9V 2K6,LLOYDMINSTER,T9V 2K6,sk,Province of Saskatchewan,3401 57th avenue lloydminster sk t9v 2k6,3401,57th avenue
+231,Winston Churchill School,1,1,0,0,Gr. K-6,4402 27TH STREET LLOYDMINSTER sk S9V 1R8,LLOYDMINSTER,S9V 1R8,sk,Province of Saskatchewan,4402 27th street lloydminster sk s9v 1r8,4402,27th street
+232,Arborfield School,1,1,1,1,Gr. K-12,BOX 70 ARBORFIELD sk S0E 0A0,ARBORFIELD,S0E 0A0,sk,Province of Saskatchewan,arborfield sk s0e 0a0,,
+233,Bjorkdale School,1,1,1,1,Gr. K-12,BOX 98 BJORKDALE sk S0E 0E0,BJORKDALE,S0E 0E0,sk,Province of Saskatchewan,bjorkdale sk s0e 0e0,,
+234,Brunswick School,1,1,0,0,Gr. K-6,BOX 6100 MELFORT sk S0E 1A0,MELFORT,S0E 1A0,sk,Province of Saskatchewan,melfort sk s0e 1a0,,
+235,Carrot River Elementary School,1,1,0,0,Gr. K-4,BOX 700 CARROT RIVER sk S0E 0L0,CARROT RIVER,S0E 0L0,sk,Province of Saskatchewan,carrot river sk s0e 0l0,,
+236,Carrot River Jr. Sr. High School,0,1,1,1,Gr. 5-12,BOX 759 CARROT RIVER sk S0E 0L0,CARROT RIVER,S0E 0L0,sk,Province of Saskatchewan,carrot river sk s0e 0l0,,
+237,Central Park Elementary School,1,1,0,0,Gr. K-3,BOX 10 NIPAWIN sk S0E 1E0,NIPAWIN,S0E 1E0,sk,Province of Saskatchewan,nipawin sk s0e 1e0,,
+238,Gronlid Central School,1,1,1,0,Gr. K-8,BOX 114 GRONLID sk S0E 0W0,GRONLID,S0E 0W0,sk,Province of Saskatchewan,gronlid sk s0e 0w0,,
+239,Home-based School,1,1,1,1,Gr. K-12,sk,,,sk,Province of Saskatchewan,sk,,
+240,Hudson Bay Community School,1,1,1,1,Gr. K-12,BOX 1268 HUDSON BAY sk S0E 0Y0,HUDSON BAY,S0E 0Y0,sk,Province of Saskatchewan,hudson bay sk s0e 0y0,,
+241,L.P. Miller Comprehensive School,0,0,1,1,Gr. 7-12,BOX 2650 NIPAWIN sk S0E 1E0,NIPAWIN,S0E 1E0,sk,Province of Saskatchewan,nipawin sk s0e 1e0,,
+242,Maude Burke Elementary School,1,1,0,0,Gr. K-6,BOX 6300 MELFORT sk S0E 1A0,MELFORT,S0E 1A0,sk,Province of Saskatchewan,melfort sk s0e 1a0,,
+243,Melfort & Unit Comprehensive Collegiate,0,0,1,1,Gr. 7-12,PO BOX 99 MELFORT sk S0E 1A0,MELFORT,S0E 1A0,sk,Province of Saskatchewan,melfort sk s0e 1a0,,
+244,Naicam School,1,1,1,1,Gr. K-12,BOX 220 NAICAM sk S0K 2Z0,NAICAM,S0K 2Z0,sk,Province of Saskatchewan,naicam sk s0k 2z0,,
+245,Porcupine Plain Comprehensive School,1,1,1,1,Gr. K-12,P O BOX 579 PORCUPINE PLAIN sk S0E 1H0,PORCUPINE PLAIN,S0E 1H0,sk,Province of Saskatchewan,p o porcupine plain sk s0e 1h0,,
+246,Reynolds Central School,1,1,0,0,Gr. K-6,BOX 2829 MELFORT sk S0E 1A0,MELFORT,S0E 1A0,sk,Province of Saskatchewan,melfort sk s0e 1a0,,
+247,Star City Colony School,0,1,1,0,Gr. 3-9,BOX 340 STAR CITY sk S0E 1P0,STAR CITY,S0E 1P0,sk,Province of Saskatchewan,star city sk s0e 1p0,,
+248,Star City School,1,1,1,1,Gr. K-12,BOX 400 STAR CITY sk S0E 1P0,STAR CITY,S0E 1P0,sk,Province of Saskatchewan,star city sk s0e 1p0,,
+249,Tisdale Elementary School,1,1,0,0,Gr. K-5,BOX 1928 TISDALE sk S0E 1T0,TISDALE,S0E 1T0,sk,Province of Saskatchewan,tisdale sk s0e 1t0,,
+250,Tisdale Middle & Secondary School,0,1,1,1,Gr. 6-12,BOX 1000 TISDALE sk S0E 1T0,TISDALE,S0E 1T0,sk,Province of Saskatchewan,tisdale sk s0e 1t0,,
+251,Wagner Elementary School,0,1,0,0,Gr. 4-6,BOX 460 NIPAWIN sk S0E 1E0,NIPAWIN,S0E 1E0,sk,Province of Saskatchewan,nipawin sk s0e 1e0,,
+252,White Fox School,1,1,1,0,Gr. K-9,BOX 250 WHITE FOX sk S0J 3B0,WHITE FOX,S0J 3B0,sk,Province of Saskatchewan,white fox sk s0j 3b0,,
+253,William Mason School,1,1,1,1,Gr. K-12,BOX 219 CHOICELAND sk S0J 0M0,CHOICELAND,S0J 0M0,sk,Province of Saskatchewan,choiceland sk s0j 0m0,,
+254,Ben Mcintyre School,1,1,1,0,Gr. K-9,BOX 222 URANIUM CITY sk S0J 2W0,URANIUM CITY,S0J 2W0,sk,Province of Saskatchewan,uranium city sk s0j 2w0,,
+255,Charlebois Community School,1,1,1,1,Gr. K-12,BOX 40 CUMBERLAND HOUSE sk S0E 0S0,CUMBERLAND HOUSE,S0E 0S0,sk,Province of Saskatchewan,cumberland house sk s0e 0s0,,
+256,Churchill Community High School,0,0,1,1,Gr. 7-12,BAG SERVICE #7500 LA RONGE sk S0J 1L0,LA RONGE,S0J 1L0,sk,Province of Saskatchewan,bag service #7500 la ronge sk s0j 1l0,,
+257,Dene High School,0,1,1,1,Gr. 6-12,BAG SERVICE 3 LA LOCHE sk S0M 1G0,LA LOCHE,S0M 1G0,sk,Province of Saskatchewan,bag service 3 la loche sk s0m 1g0,,
+258,Ducharme Elementary School,1,1,0,0,Gr. K-6,BAG SERVICE 4 LA LOCHE sk S0M 1G0,LA LOCHE,S0M 1G0,sk,Province of Saskatchewan,bag service 4 la loche sk s0m 1g0,,
+259,Gordon Denny Community School,1,1,0,0,Gr. K-6,BAG SERVICE #7300 LA RONGE sk S0J 1L0,LA RONGE,S0J 1L0,sk,Province of Saskatchewan,bag service #7300 la ronge sk s0j 1l0,,
+260,Hector Thiboutot Community School,1,1,1,1,Gr. K-12,BOX 150 SANDY BAY sk S0P 0G0,SANDY BAY,S0P 0G0,sk,Province of Saskatchewan,sandy bay sk s0p 0g0,,
+261,Home-based School,0,1,1,1,Gr. 1-11,sk,,,sk,Province of Saskatchewan,sk,,
+262,Jans Bay School,1,1,1,0,Gr. K-8,GENERAL DELIVERY CANOE NARROWS sk S0M 0K0,CANOE NARROWS,S0M 0K0,sk,Province of Saskatchewan,general delivery canoe narrows sk s0m 0k0,,general delivery
+263,Kiskahikan School,1,1,1,0,Gr. K-9,BOX 72 WEYAKWIN sk S0J 1W0,WEYAKWIN,S0J 1W0,sk,Province of Saskatchewan,weyakwin sk s0j 1w0,,
+264,Lakeview School,1,1,1,0,Gr. K-8,BOX 50 COLE BAY sk S0M 0M0,COLE BAY,S0M 0M0,sk,Province of Saskatchewan,cole bay sk s0m 0m0,,
+265,Masinahikana School,0,0,0,1,Gr. 10-12,BAG SERVICE #6500 LA RONGE sk S0J 1L0,LA RONGE,S0J 1L0,sk,Province of Saskatchewan,bag service #6500 la ronge sk s0j 1l0,,
+266,Minahik Waskahigan Elementary School,1,1,0,0,Gr. K-6,BOX 160 PINEHOUSE LAKE sk S0J 2B0,PINEHOUSE LAKE,S0J 2B0,sk,Province of Saskatchewan,pinehouse lake sk s0j 2b0,,
+267,Minahik Waskahigan High School,0,0,1,1,Gr. 7-12,BOX 160 PINEHOUSE LAKE sk S0J 2B0,PINEHOUSE LAKE,S0J 2B0,sk,Province of Saskatchewan,pinehouse lake sk s0j 2b0,,
+268,Ospwakun Sepe School,1,1,1,0,Gr. K-8,BOX 1260 LA RONGE sk S0J 1L0,LA RONGE,S0J 1L0,sk,Province of Saskatchewan,la ronge sk s0j 1l0,,
+269,Pre-Cam Community School,1,1,0,0,Gr. K-6,BAG SERVICE #7400 LA RONGE sk S0J 1L0,LA RONGE,S0J 1L0,sk,Province of Saskatchewan,bag service #7400 la ronge sk s0j 1l0,,
+270,Sasdaze School,0,1,0,0,Gr. 2-6,100 BEAR CREEK DRIVE LA LOCHE sk S0M 1G0,LA LOCHE,S0M 1G0,sk,Province of Saskatchewan,100 bear creek drive la loche sk s0m 1g0,100,bear creek drive
+271,St. George's Hill School,0,1,1,0,Gr. 1-9,GENERAL DELIVERY DILLON sk S0M 0S0,DILLON,S0M 0S0,sk,Province of Saskatchewan,general delivery dillon sk s0m 0s0,,general delivery
+272,St. Pascal School,1,1,1,0,Gr. K-9,BOX 160 GREEN LAKE sk S0M 1B0,GREEN LAKE,S0M 1B0,sk,Province of Saskatchewan,green lake sk s0m 1b0,,
+273,Stony Rapids School,1,1,1,0,Gr. K-9,BOX 39 STONY RAPIDS sk S0J 2R0,STONY RAPIDS,S0J 2R0,sk,Province of Saskatchewan,stony rapids sk s0j 2r0,,
+274,Timber Bay School,0,1,1,0,Gr. 1-9,GENERAL DELIVERY TIMBER BAY sk S0J 2T0,TIMBER BAY,S0J 2T0,sk,Province of Saskatchewan,general delivery timber bay sk s0j 2t0,,general delivery
+275,Twin Lakes Community School,1,1,1,1,Gr. K-12,BOX 219 BUFFALO NARROWS sk S0M 0J0,BUFFALO NARROWS,S0M 0J0,sk,Province of Saskatchewan,buffalo narrows sk s0m 0j0,,
+276,Valley View School,1,1,1,1,Gr. K-12,BAG SERVICE #2 BEAUVAL sk S0M 0G0,BEAUVAL,S0M 0G0,sk,Province of Saskatchewan,bag service #2 beauval sk s0m 0g0,,
+277,Carpenter High School,0,0,1,1,Gr. 9-12,BOX 369 MEADOW LAKE sk S9X 1Y3,MEADOW LAKE,S9X 1Y3,sk,Province of Saskatchewan,meadow lake sk s9x 1y3,,
+278,Dorintosh Central School,1,1,1,0,Gr. K-8,BOX 100 DORINTOSH sk S0M 0T0,DORINTOSH,S0M 0T0,sk,Province of Saskatchewan,dorintosh sk s0m 0t0,,
+279,Ernie Studer School,1,1,1,1,Gr. K-12,BOX 129 LOON LAKE sk S0M 1L0,LOON LAKE,S0M 1L0,sk,Province of Saskatchewan,loon lake sk s0m 1l0,,
+280,Gateway Middle School,0,1,1,0,Gr. 5-7,507 5TH AVENUE MEADOW LAKE sk S9X 1A9,MEADOW LAKE,S9X 1A9,sk,Province of Saskatchewan,507 5th avenue meadow lake sk s9x 1a9,507,5th avenue
+281,Glaslyn Central School,1,1,1,1,Gr. K-12,BOX 370 GLASLYN sk S0M 0Y0,GLASLYN,S0M 0Y0,sk,Province of Saskatchewan,glaslyn sk s0m 0y0,,
+282,Goodsoil Central School,1,1,1,1,Gr. K-12,BOX 189 GOODSOIL sk S0M 1A0,GOODSOIL,S0M 1A0,sk,Province of Saskatchewan,goodsoil sk s0m 1a0,,
+283,Green Acre Elementary School,1,1,1,0,Gr. K-8,BOX 10 RAPID VIEW sk S0M 2M0,RAPID VIEW,S0M 2M0,sk,Province of Saskatchewan,rapid view sk s0m 2m0,,
+284,H. Hardcastle School,1,1,1,1,Gr. K-12,BOX 238 EDAM sk S0M 0V0,EDAM,S0M 0V0,sk,Province of Saskatchewan,edam sk s0m 0v0,,
+285,Hillmond Central School,1,1,1,1,Gr. K-12,GBS 1-26 RR 2 LLOYDMINSTER sk S9V 0X7,LLOYDMINSTER,S9V 0X7,sk,Province of Saskatchewan,gbs 1 26 rr 2 lloydminster sk s9v 0x7,26,rr 2
+286,Home-based School,1,1,1,1,Gr. K-10,sk,,,sk,Province of Saskatchewan,sk,,
+287,J.H. Moore Elementary,1,1,0,0,Gr. K-6,BOX 550 LASHBURN sk S0M 1H0,LASHBURN,S0M 1H0,sk,Province of Saskatchewan,lashburn sk s0m 1h0,,
+288,Jonas Samson Middle School,0,1,1,0,Gr. 5-8,715 7TH AVENUE W MEADOW LAKE sk S9X 1A7,MEADOW LAKE,S9X 1A7,sk,Province of Saskatchewan,715 7th avenue w meadow lake sk s9x 1a7,715,7th avenue w
+289,Jubilee Elementary,1,1,0,0,Gr. K-4,718 5TH AVENUE W MEADOW LAKE sk S9X 1A4,MEADOW LAKE,S9X 1A4,sk,Province of Saskatchewan,718 5th avenue w meadow lake sk s9x 1a4,718,5th avenue w
+290,Lakeview Elementary School,1,1,0,0,Gr. K-4,304 8TH AVENUE E MEADOW LAKE sk S9X 1G9,MEADOW LAKE,S9X 1G9,sk,Province of Saskatchewan,304 8th avenue e meadow lake sk s9x 1g9,304,8th avenue e
+291,Lashburn High School,0,0,1,1,Gr. 7-12,BOX 430 LASHBURN sk S0M 1H0,LASHBURN,S0M 1H0,sk,Province of Saskatchewan,lashburn sk s0m 1h0,,
+292,Maidstone High School,0,0,1,1,Gr. 7-12,BOX 426 MAIDSTONE sk S0M 1M0,MAIDSTONE,S0M 1M0,sk,Province of Saskatchewan,maidstone sk s0m 1m0,,
+293,Marsden Jubilee School,1,1,0,0,Gr. K-6,BOX 189 MARSDEN sk S0M 1P0,MARSDEN,S0M 1P0,sk,Province of Saskatchewan,marsden sk s0m 1p0,,
+294,Marshall School,1,1,1,0,Gr. K-9,BOX 149 MARSHALL sk S0M 1R0,MARSHALL,S0M 1R0,sk,Province of Saskatchewan,marshall sk s0m 1r0,,
+295,Neilburg Composite School,1,1,1,1,Gr. K-12,BOX 309 NEILBURG sk S0M 2C0,NEILBURG,S0M 2C0,sk,Province of Saskatchewan,neilburg sk s0m 2c0,,
+296,Paradise Hill School,1,1,1,1,Gr. K-12,BOX 28 PARADISE HILL sk S0M 2G0,PARADISE HILL,S0M 2G0,sk,Province of Saskatchewan,paradise hill sk s0m 2g0,,
+297,Pierceland Central School,1,1,1,1,Gr. K-12,BOX 70 PIERCELAND sk S0M 2K0,PIERCELAND,S0M 2K0,sk,Province of Saskatchewan,pierceland sk s0m 2k0,,
+298,Ratushniak Elementary School,1,1,0,0,Gr. K-6,BOX 368 MAIDSTONE sk S0M 1M0,MAIDSTONE,S0M 1M0,sk,Province of Saskatchewan,maidstone sk s0m 1m0,,
+299,St. Walburg School,1,1,1,1,Gr. K-12,BOX 640 ST WALBURG sk S0M 2T0,ST WALBURG,S0M 2T0,sk,Province of Saskatchewan,st walburg sk s0m 2t0,,
+300,Transition Place Education Centre,0,0,0,1,Gr. 10-12,606-5TH AVE W MEADOW LAKE sk S9X 1A9,MEADOW LAKE,S9X 1A9,sk,Province of Saskatchewan,606 5th ave w meadow lake sk s9x 1a9,606,5th ave w
+301,Turtleford School,1,1,1,1,Gr. K-12,BOX 490 TURTLEFORD sk S0M 2Y0,TURTLEFORD,S0M 2Y0,sk,Province of Saskatchewan,turtleford sk s0m 2y0,,
+302,Albert E. Peacock Collegiate,0,0,1,1,Gr. 9-12,145 ROSS STREET E MOOSE JAW sk S6H 0S3,MOOSE JAW,S6H 0S3,sk,Province of Saskatchewan,145 ross street e moose jaw sk s6h 0s3,145,ross street e
+303,Assiniboia Composite High,0,0,1,1,Gr. 9-12,200 BELL ROAD ASSINIBOIA sk S0H 0B0,ASSINIBOIA,S0H 0B0,sk,Province of Saskatchewan,200 bell road assiniboia sk s0h 0b0,200,bell road
+304,Assiniboia Elementary School,0,1,1,0,Gr. 5-8,713 - 4TH ST E ASSINIBOIA sk S0H 0B0,ASSINIBOIA,S0H 0B0,sk,Province of Saskatchewan,713 4th st e assiniboia sk s0h 0b0,713,4th st e
+305,Assiniboia Seventh Avenue School,1,1,0,0,Gr. K-4,BOX 1930 ASSINIBOIA sk S0H 0B0,ASSINIBOIA,S0H 0B0,sk,Province of Saskatchewan,assiniboia sk s0h 0b0,,
+306,Avonlea School,1,1,1,1,Gr. K-12,BOX 330 AVONLEA sk S0H 0C0,AVONLEA,S0H 0C0,sk,Province of Saskatchewan,avonlea sk s0h 0c0,,
+307,Baildon Colony Hutterite School,0,1,1,0,Gr. 1-9,15 THATCHER DR E MOOSE JAW sk S6J 1L8,MOOSE JAW,S6J 1L8,sk,Province of Saskatchewan,15 thatcher dr e moose jaw sk s6j 1l8,15,thatcher dr e
+308,Belle Plaine Hutterite School,1,1,1,1,Gr. K-12,BOX 61 BELLE PLAINE sk S0G 0G0,BELLE PLAINE,S0G 0G0,sk,Province of Saskatchewan,belle plaine sk s0g 0g0,,
+309,Bengough School,1,1,1,1,Gr. K-12,BOX 459 BENGOUGH sk S0C 0K0,BENGOUGH,S0C 0K0,sk,Province of Saskatchewan,bengough sk s0c 0k0,,
+310,Briercrest Christian Academy,0,0,1,1,Gr. 9-12,510 COLLEGE DRIVE CARONPORT sk S0H 0S0,CARONPORT,S0H 0S0,sk,Province of Saskatchewan,510 college drive caronport sk s0h 0s0,510,college drive
+311,Caronport Elementary School,1,1,1,0,Gr. K-8,BOX 700 CARONPORT sk S0H 0S0,CARONPORT,S0H 0S0,sk,Province of Saskatchewan,caronport sk s0h 0s0,,
+312,Central Butte School,1,1,1,1,Gr. K-12,BOX 340 CENTRAL BUTTE sk S0H 0T0,CENTRAL BUTTE,S0H 0T0,sk,Province of Saskatchewan,central butte sk s0h 0t0,,
+313,Central Collegiate,0,0,1,1,Gr. 9-12,149 OXFORD STREET W MOOSE JAW sk S6H 2N4,MOOSE JAW,S6H 2N4,sk,Province of Saskatchewan,149 oxford street w moose jaw sk s6h 2n4,149,oxford street w
+314,Chaplin School,1,1,1,1,Gr. K-12,BOX 150 CHAPLIN sk S0H 0V0,CHAPLIN,S0H 0V0,sk,Province of Saskatchewan,chaplin sk s0h 0v0,,
+315,Cornerstone Christian School,1,1,1,1,Gr. K-12,43 IROQUOIS STREET EAST MOOSE JAW sk S6H 4S9,MOOSE JAW,S6H 4S9,sk,Province of Saskatchewan,43 iroquois street east moose jaw sk s6h 4s9,43,iroquois street east
+316,Coronach School,1,1,1,1,Gr. K-12,BOX 120 CORONACH sk S0H 0Z0,CORONACH,S0H 0Z0,sk,Province of Saskatchewan,coronach sk s0h 0z0,,
+317,Craik School,1,1,1,1,Gr. K-12,BOX 180 CRAIK sk S0G 0V0,CRAIK,S0G 0V0,sk,Province of Saskatchewan,craik sk s0g 0v0,,
+318,École Gravelbourg School,1,1,1,1,Gr. K-12,BOX 930 GRAVELBOURG sk S0H 1X0,GRAVELBOURG,S0H 1X0,sk,Province of Saskatchewan,gravelbourg sk s0h 1x0,,
+319,École Palliser Heights School,1,1,1,0,Gr. K-8,1140 SIMPSON AVENUE MOOSE JAW sk S6H 4M8,MOOSE JAW,S6H 4M8,sk,Province of Saskatchewan,1140 simpson avenue moose jaw sk s6h 4m8,1140,simpson avenue
+320,Empire School,1,1,1,0,Gr. K-8,500 COTEAU ST W MOOSE JAW sk S6H 5E4,MOOSE JAW,S6H 5E4,sk,Province of Saskatchewan,500 coteau st w moose jaw sk s6h 5e4,500,coteau st w
+321,Eyebrow School,1,1,1,1,Gr. K-12,BOX 130 EYEBROW sk S0H 1L0,EYEBROW,S0H 1L0,sk,Province of Saskatchewan,eyebrow sk s0h 1l0,,
+322,Glentworth Central School,1,1,1,1,Gr. K-12,BOX 100 GLENTWORTH sk S0H 1V0,GLENTWORTH,S0H 1V0,sk,Province of Saskatchewan,glentworth sk s0h 1v0,,
+323,Home-based School,1,1,1,1,Gr. K-12,sk,,,sk,Province of Saskatchewan,sk,,
+324,Huron Hutterite Elementary,0,1,1,0,Gr. 2-9,PO BOX 18 BROWNLEE sk S0H 0M0,BROWNLEE,S0H 0M0,sk,Province of Saskatchewan,brownlee sk s0h 0m0,,
+325,Kincaid Central School,1,1,1,1,Gr. K-12,BOX 90 KINCAID sk S0H 2J0,KINCAID,S0H 2J0,sk,Province of Saskatchewan,kincaid sk s0h 2j0,,
+326,King George School,1,1,1,0,Gr. K-8,1150 5TH AVENUE NW MOOSE JAW sk S6H 3Y7,MOOSE JAW,S6H 3Y7,sk,Province of Saskatchewan,1150 5th avenue nw moose jaw sk s6h 3y7,1150,5th avenue nw
+327,Lafleche Central School,1,1,1,1,Gr. K-12,BOX 130 LAFLECHE sk S0H 2K0,LAFLECHE,S0H 2K0,sk,Province of Saskatchewan,lafleche sk s0h 2k0,,
+328,Lindale School,1,1,1,0,Gr. K-8,1322 11TH AVENUE NW MOOSE JAW sk S6H 4L9,MOOSE JAW,S6H 4L9,sk,Province of Saskatchewan,1322 11th avenue nw moose jaw sk s6h 4l9,1322,11th avenue nw
+329,Mankota School,0,1,1,1,Gr. 1-12,BOX 300 MANKOTA sk S0H 2W0,MANKOTA,S0H 2W0,sk,Province of Saskatchewan,mankota sk s0h 2w0,,
+330,Mortlach School,1,1,1,1,Gr. K-12,BOX 98 MORTLACH sk S0H 3E0,MORTLACH,S0H 3E0,sk,Province of Saskatchewan,mortlach sk s0h 3e0,,
+331,Mossbank School,1,1,1,1,Gr. K-12,BOX 460 MOSSBANK sk S0H 3G0,MOSSBANK,S0H 3G0,sk,Province of Saskatchewan,mossbank sk s0h 3g0,,
+332,Prairie South Virtual School,0,0,0,1,Gr. 10-12,1075 9TH AVE NW MOOSE JAW sk S6H 1V7,MOOSE JAW,S6H 1V7,sk,Province of Saskatchewan,1075 9th ave nw moose jaw sk s6h 1v7,1075,9th ave nw
+333,Prince Arthur Community School,1,1,1,0,Gr. K-8,640 STADACONA ST E MOOSE JAW sk S6H 1M2,MOOSE JAW,S6H 1M2,sk,Province of Saskatchewan,640 stadacona st e moose jaw sk s6h 1m2,640,stadacona st e
+334,Riverview Collegiate Institute,0,0,1,1,Gr. 9-12,650 COTEAU STREET W MOOSE JAW sk S6H 5E6,MOOSE JAW,S6H 5E6,sk,Province of Saskatchewan,650 coteau street w moose jaw sk s6h 5e6,650,coteau street w
+335,Rockglen School,1,1,1,1,Gr. K-12,BOX 189 ROCKGLEN sk S0H 3R0,ROCKGLEN,S0H 3R0,sk,Province of Saskatchewan,rockglen sk s0h 3r0,,
+336,Rose Valley Hutterite School,1,1,1,0,Gr. K-9,PO BOX 1118 ASSINIBOIA sk S0H 0B0,ASSINIBOIA,S0H 0B0,sk,Province of Saskatchewan,assiniboia sk s0h 0b0,,
+337,Rouleau School,1,1,1,1,Gr. K-12,BOX 220 ROULEAU sk S0G 4H0,ROULEAU,S0G 4H0,sk,Province of Saskatchewan,rouleau sk s0g 4h0,,
+338,Sunningdale School,1,1,1,0,Gr. K-8,530 WOODLILY DRIVE MOOSE JAW sk S6J 1J3,MOOSE JAW,S6J 1J3,sk,Province of Saskatchewan,530 woodlily drive moose jaw sk s6j 1j3,530,woodlily drive
+339,Vanguard Hutterite School,0,1,1,0,Gr. 5-7,BOX 147 ANEROID sk S0N 0C0,ANEROID,S0N 0C0,sk,Province of Saskatchewan,aneroid sk s0n 0c0,,
+340,Westmount School,1,1,1,0,Gr. K-8,1100 CURRIE CRESCENT MOOSE JAW sk S6H 5M8,MOOSE JAW,S6H 5M8,sk,Province of Saskatchewan,1100 currie crescent moose jaw sk s6h 5m8,1100,currie crescent
+341,William Grayson School,1,1,1,0,Gr. K-8,823 CARIBOU STREET W MOOSE JAW sk S6H 2L2,MOOSE JAW,S6H 2L2,sk,Province of Saskatchewan,823 caribou street w moose jaw sk s6h 2l2,823,caribou street w
+342,Aberdeen Composite School,1,1,1,1,Gr. K-12,BOX 10 ABERDEEN sk S0K 0A0,ABERDEEN,S0K 0A0,sk,Province of Saskatchewan,aberdeen sk s0k 0a0,,
+343,Allan Composite School,1,1,1,1,Gr. K-12,BOX 9 ALLAN sk S0K 0C0,ALLAN,S0K 0C0,sk,Province of Saskatchewan,allan sk s0k 0c0,,
+344,Blaine Lake Composite School,1,1,1,1,Gr. K-12,BOX 220 BLAINE LAKE sk S0J 0J0,BLAINE LAKE,S0J 0J0,sk,Province of Saskatchewan,blaine lake sk s0j 0j0,,
+345,Borden School,1,1,1,1,Gr. K-12,BOX 40 BORDEN sk S0K 0N0,BORDEN,S0K 0N0,sk,Province of Saskatchewan,borden sk s0k 0n0,,
+346,Clavet Composite School,1,1,1,1,Gr. K-12,BOX 5 CLAVET sk S0K 0Y0,CLAVET,S0K 0Y0,sk,Province of Saskatchewan,clavet sk s0k 0y0,,
+347,Colonsay School,1,1,1,1,Gr. K-12,BOX 66 COLONSAY sk S0K 0Z0,COLONSAY,S0K 0Z0,sk,Province of Saskatchewan,colonsay sk s0k 0z0,,
+348,Dalmeny High School,0,0,1,1,Gr. 7-12,PO BOX 430 DALMENY sk S0K 1E0,DALMENY,S0K 1E0,sk,Province of Saskatchewan,dalmeny sk s0k 1e0,,
+349,Delisle Composite School,0,0,1,1,Gr. 7-12,BOX 250 DELISLE sk S0L 0P0,DELISLE,S0L 0P0,sk,Province of Saskatchewan,delisle sk s0l 0p0,,
+350,Delisle Elementary School,1,1,0,0,Gr. K-6,BOX 310 DELISLE sk S0L 0P0,DELISLE,S0L 0P0,sk,Province of Saskatchewan,delisle sk s0l 0p0,,
+351,Dundurn School,1,1,0,0,Gr. K-6,BOX 250 DUNDURN sk S0K 1K0,DUNDURN,S0K 1K0,sk,Province of Saskatchewan,dundurn sk s0k 1k0,,
+352,Eagle Creek Colony School,1,1,1,1,Gr. K-10,BOX 208 ASQUITH sk S0K 0J0,ASQUITH,S0K 0J0,sk,Province of Saskatchewan,asquith sk s0k 0j0,,
+353,École Traditions Elementary School,1,1,0,0,Gr. K-5,401 TRADITIONS BLVD WARMAN sk S0K 4S5,WARMAN,S0K 4S5,sk,Province of Saskatchewan,401 traditions blvd warman sk s0k 4s5,401,traditions blvd
+354,Green Leaf Colony School,0,1,1,1,Gr. 1-10,BOX 40 MARCELIN sk S0J 1R0,MARCELIN,S0J 1R0,sk,Province of Saskatchewan,marcelin sk s0j 1r0,,
+355,Hague Elementary School,1,1,0,0,Gr. K-6,BOX 210 HAGUE sk S0K 1X0,HAGUE,S0K 1X0,sk,Province of Saskatchewan,hague sk s0k 1x0,,
+356,Hague High School,0,0,1,1,Gr. 7-12,BOX 390 HAGUE sk S0K 1X0,HAGUE,S0K 1X0,sk,Province of Saskatchewan,hague sk s0k 1x0,,
+357,Hanley School,1,1,1,1,Gr. K-12,BOX 449 HANLEY sk S0G 2E0,HANLEY,S0G 2E0,sk,Province of Saskatchewan,hanley sk s0g 2e0,,
+358,Hepburn School,1,1,1,1,Gr. K-12,BOX 219 HEPBURN sk S0K 1Z0,HEPBURN,S0K 1Z0,sk,Province of Saskatchewan,hepburn sk s0k 1z0,,
+359,Hillcrest Hutterite School,1,1,1,1,Gr. K-10,BOX 100 DUNDURN sk S0K 1K0,DUNDURN,S0K 1K0,sk,Province of Saskatchewan,dundurn sk s0k 1k0,,
+360,Home-based School,1,1,1,1,Gr. K-12,sk,,,sk,Province of Saskatchewan,sk,,
+361,Laird School,1,1,1,0,Gr. K-8,BOX 90 LAIRD sk S0K 2H0,LAIRD,S0K 2H0,sk,Province of Saskatchewan,laird sk s0k 2h0,,
+362,Lake Vista Public School,1,1,1,0,Gr. K-8,1501 PARR HILL DR MARTENSVILLE sk S0K 2T1,MARTENSVILLE,S0K 2T1,sk,Province of Saskatchewan,1501 parr hill dr martensville sk s0k 2t1,1501,parr hill dr
+363,Langham Elementary School,1,1,0,0,Gr. K-5,BOX 350 LANGHAM sk S0K 2L0,LANGHAM,S0K 2L0,sk,Province of Saskatchewan,langham sk s0k 2l0,,
+364,Leask Community School,1,1,1,1,Gr. K-12,BOX 460 LEASK sk S0J 1M0,LEASK,S0J 1M0,sk,Province of Saskatchewan,leask sk s0j 1m0,,
+365,Leask Hutterite Colony School,1,1,1,1,Gr. K-12,BOX 430 LEASK sk S0J 1M0,LEASK,S0J 1M0,sk,Province of Saskatchewan,leask sk s0j 1m0,,
+366,Lord Asquith School,1,1,1,1,Gr. K-12,BOX 40 ASQUITH sk S0K 0J0,ASQUITH,S0K 0J0,sk,Province of Saskatchewan,asquith sk s0k 0j0,,
+367,Lost River Colony School,1,1,1,0,Gr. K-9,BOX 249 ALLAN sk S0K 0C0,ALLAN,S0K 0C0,sk,Province of Saskatchewan,allan sk s0k 0c0,,
+368,Martensville High School,0,0,1,1,Gr. 9-12,BOX 730 MARTENSVILLE sk S0K 2T0,MARTENSVILLE,S0K 2T0,sk,Province of Saskatchewan,martensville sk s0k 2t0,,
+369,Osler School,1,1,1,0,Gr. K-9,BOX 10 OSLER sk S0K 3A0,OSLER,S0K 3A0,sk,Province of Saskatchewan,osler sk s0k 3a0,,
+370,Perdue School,1,1,1,1,Gr. K-12,BOX 370 PERDUE sk S0K 3C0,PERDUE,S0K 3C0,sk,Province of Saskatchewan,perdue sk s0k 3c0,,
+371,Pike Lake School,1,1,0,0,Gr. K-4,"SITE 708, COMP 17, RR #7 SASKATOON sk S7K 1N2",SASKATOON,S7K 1N2,sk,Province of Saskatchewan,site 708 comp 17 rr #7 saskatoon sk s7k 1n2,,comp 17 rr #7
+372,Prairie View School,1,1,0,0,Gr. K-6,BOX 340 DALMENY sk S0K 1E0,DALMENY,S0K 1E0,sk,Province of Saskatchewan,dalmeny sk s0k 1e0,,
+373,Riverbend Hutterite Colony School,1,1,1,1,Gr. K-12,BOX 630 WALDHEIM sk S0K 4R0,WALDHEIM,S0K 4R0,sk,Province of Saskatchewan,waldheim sk s0k 4r0,,
+374,Riverview Colony School,0,1,1,0,Gr. 1-9,BOX 809 WARMAN sk S0K 4S0,WARMAN,S0K 4S0,sk,Province of Saskatchewan,warman sk s0k 4s0,,
+375,Rosthern Elementary School,1,1,0,0,Gr. K-5,BOX 580 ROSTHERN sk S0K 3R0,ROSTHERN,S0K 3R0,sk,Province of Saskatchewan,rosthern sk s0k 3r0,,
+376,Rosthern High School,0,1,1,1,Gr. 6-12,BOX 820 ROSTHERN sk S0K 3R0,ROSTHERN,S0K 3R0,sk,Province of Saskatchewan,rosthern sk s0k 3r0,,
+377,South Corman Park School,1,1,0,0,Gr. K-6,1760 BAKER ROAD EAST CORMAN PARK sk S7T 1B5,CORMAN PARK,S7T 1B5,sk,Province of Saskatchewan,1760 baker road east corman park sk s7t 1b5,1760,baker road east
+378,Spirit e-Learning School,0,0,1,1,Gr. 9-12,BOX 809 WARMAN sk S0K 4S0,WARMAN,S0K 4S0,sk,Province of Saskatchewan,warman sk s0k 4s0,,
+379,Stobart Community School,1,1,1,1,Gr. K-12,BOX 809 DUCK LAKE sk S0K 1J0,DUCK LAKE,S0K 1J0,sk,Province of Saskatchewan,duck lake sk s0k 1j0,,
+380,Sunnydale Colony School,1,1,1,0,Gr. K-9,BOX 809 WARMAN sk S0K 4S0,WARMAN,S0K 4S0,sk,Province of Saskatchewan,warman sk s0k 4s0,,
+381,Valley Christian Academy,1,1,1,1,Gr. K-12,BOX 279 OSLER sk S0K 3A0,OSLER,S0K 3A0,sk,Province of Saskatchewan,osler sk s0k 3a0,,
+382,Valley Manor Elementary School,1,1,1,0,Gr. K-8,BOX 10 MARTENSVILLE sk S0K 2T0,MARTENSVILLE,S0K 2T0,sk,Province of Saskatchewan,martensville sk s0k 2t0,,
+383,Vanscoy School,1,1,1,0,Gr. K-8,BOX 250 VANSCOY sk S0L 3J0,VANSCOY,S0L 3J0,sk,Province of Saskatchewan,vanscoy sk s0l 3j0,,
+384,Venture Heights Elementary School,1,1,1,0,Gr. K-8,BOX 1000 MARTENSVILLE sk S0K 2T0,MARTENSVILLE,S0K 2T0,sk,Province of Saskatchewan,martensville sk s0k 2t0,,
+385,Waldheim School,1,1,1,1,Gr. K-12,BOX 367 WALDHEIM sk S0K 4R0,WALDHEIM,S0K 4R0,sk,Province of Saskatchewan,waldheim sk s0k 4r0,,
+386,Walter W. Brown High School,0,1,1,1,Gr. 6-12,BOX 260 LANGHAM sk S0K 2L0,LANGHAM,S0K 2L0,sk,Province of Saskatchewan,langham sk s0k 2l0,,
+387,Warman Community Middle School,0,1,1,0,Gr. 6-8,BOX 820 WARMAN sk S0K 4S0,WARMAN,S0K 4S0,sk,Province of Saskatchewan,warman sk s0k 4s0,,
+388,Warman Elementary School,1,1,0,0,Gr. K-5,BOX 510 WARMAN sk S0K 4S0,WARMAN,S0K 4S0,sk,Province of Saskatchewan,warman sk s0k 4s0,,
+389,Warman High School,0,0,1,1,Gr. 9-12,BOX 403 WARMAN sk S0K 4S0,WARMAN,S0K 4S0,sk,Province of Saskatchewan,warman sk s0k 4s0,,
+390,Willow Park Colony School,1,1,1,0,Gr. K-9,BOX 809 WARMAN sk S0K 4S0,WARMAN,S0K 4S0,sk,Province of Saskatchewan,warman sk s0k 4s0,,
+391,Arm River Colony School,1,1,1,1,Gr. K-11,BOX 570 LUMSDEN sk S0G 3C0,LUMSDEN,S0G 3C0,sk,Province of Saskatchewan,lumsden sk s0g 3c0,,
+392,Balcarres School,1,1,1,1,Gr. K-12,BOX 610 BALCARRES sk S0G 0C0,BALCARRES,S0G 0C0,sk,Province of Saskatchewan,balcarres sk s0g 0c0,,
+393,Balgonie Elementary School,1,1,1,0,Gr. K-8,BOX 160 BALGONIE sk S0G 0E0,BALGONIE,S0G 0E0,sk,Province of Saskatchewan,balgonie sk s0g 0e0,,
+394,Bert Fox High School,0,0,1,1,Gr. 8-12,BOX 880 FORT QU'APPELLE sk S0G 1S0,FORT QU'APPELLE,S0G 1S0,sk,Province of Saskatchewan,fort qu'appelle sk s0g 1s0,,
+395,Broadview School,1,1,1,1,Gr. K-12,BOX 639 BROADVIEW sk S0G 0K0,BROADVIEW,S0G 0K0,sk,Province of Saskatchewan,broadview sk s0g 0k0,,
+396,Clive Draycott Elementary School,1,1,1,0,Gr. K-8,BOX 269 BETHUNE sk S0G 0H0,BETHUNE,S0G 0H0,sk,Province of Saskatchewan,bethune sk s0g 0h0,,
+397,Cupar School,1,1,1,1,Gr. K-12,BOX 429 CUPAR sk S0G 0Y0,CUPAR,S0G 0Y0,sk,Province of Saskatchewan,cupar sk s0g 0y0,,
+398,Dr. Isman Elementary School,1,1,0,0,Gr. K-6,BOX 159 WOLSELEY sk S0G 5H0,WOLSELEY,S0G 5H0,sk,Province of Saskatchewan,wolseley sk s0g 5h0,,
+399,École Lumsden Elementary School,1,1,1,0,Gr. K-8,BOX 310 LUMSDEN sk S0G 3C0,LUMSDEN,S0G 3C0,sk,Province of Saskatchewan,lumsden sk s0g 3c0,,
+400,École White City Elementary School,1,1,1,0,Gr. K-8,PO BOX 309 STN MAIN WHITE CITY sk S4L 5B1,WHITE CITY,S4L 5B1,sk,Province of Saskatchewan,stn main white city sk s4l 5b1,,stn main
+401,Edenwold Elementary School,1,1,0,0,Gr. K-6,BOX 190 EDENWOLD sk S0G 1K0,EDENWOLD,S0G 1K0,sk,Province of Saskatchewan,edenwold sk s0g 1k0,,
+402,Emerald Ridge Elementary School,1,1,1,0,Gr. K-8,15 MOTHERWELL DRIVE WHITE CITY sk S4L 0C5,WHITE CITY,S4L 0C5,sk,Province of Saskatchewan,15 motherwell drive white city sk s4l 0c5,15,motherwell drive
+403,Fort Qu'Appelle Elementary School,1,1,1,0,Gr. K-7,BOX 1130 FORT QU'APPELLE sk S0G 1S0,FORT QU'APPELLE,S0G 1S0,sk,Province of Saskatchewan,fort qu'appelle sk s0g 1s0,,
+404,Greenall High School,0,0,1,1,Gr. 9-12,BOX 70 BALGONIE sk S0G 0E0,BALGONIE,S0G 0E0,sk,Province of Saskatchewan,balgonie sk s0g 0e0,,
+405,Grenfell Elementary School,1,1,0,0,Gr. K-6,BOX 519 GRENFELL sk S0G 2B0,GRENFELL,S0G 2B0,sk,Province of Saskatchewan,grenfell sk s0g 2b0,,
+406,Grenfell High School,0,0,1,1,Gr. 7-12,BOX 1090 GRENFELL sk S0G 2B0,GRENFELL,S0G 2B0,sk,Province of Saskatchewan,grenfell sk s0g 2b0,,
+407,Home-based School,1,1,1,1,Gr. K-12,sk,,,sk,Province of Saskatchewan,sk,,
+408,Indian Head Elementary School,1,1,0,0,Gr. K-6,BOX 1270 INDIAN HEAD sk S0G 2K0,INDIAN HEAD,S0G 2K0,sk,Province of Saskatchewan,indian head sk s0g 2k0,,
+409,Indian Head High School,0,0,1,1,Gr. 7-12,BOX 609 INDIAN HEAD sk S0G 2K0,INDIAN HEAD,S0G 2K0,sk,Province of Saskatchewan,indian head sk s0g 2k0,,
+410,James Hamblin Elementary School,1,1,1,0,Gr. K-8,BOX 90 QU'APPELLE sk S0G 4A0,QU'APPELLE,S0G 4A0,sk,Province of Saskatchewan,qu'appelle sk s0g 4a0,,
+411,Kelliher School,1,1,1,1,Gr. K-12,BOX 220 KELLIHER sk S0A 1V0,KELLIHER,S0A 1V0,sk,Province of Saskatchewan,kelliher sk s0a 1v0,,
+412,Kennedy Langbank Elementary School,1,1,1,0,Gr. K-8,BOX 130 KENNEDY sk S0G 2R0,KENNEDY,S0G 2R0,sk,Province of Saskatchewan,kennedy sk s0g 2r0,,
+413,Kipling School,1,1,1,1,Gr. K-12,BOX 730 KIPLING sk S0G 2S0,KIPLING,S0G 2S0,sk,Province of Saskatchewan,kipling sk s0g 2s0,,
+414,Lajord Colony School,1,1,1,1,Gr. K-12,BOX 514 STN MAIN WHITE CITY sk S4L 5B1,WHITE CITY,S4L 5B1,sk,Province of Saskatchewan,stn main white city sk s4l 5b1,,stn main
+415,Lipton School,1,1,1,1,Gr. K-12,BOX 160 LIPTON sk S0G 3B0,LIPTON,S0G 3B0,sk,Province of Saskatchewan,lipton sk s0g 3b0,,
+416,Lumsden High School,0,0,1,1,Gr. 9-12,BOX 449 LUMSDEN sk S0G 3C0,LUMSDEN,S0G 3C0,sk,Province of Saskatchewan,lumsden sk s0g 3c0,,
+417,McLean Elementary School,1,1,1,0,Gr. K-8,BOX 236 MCLEAN sk S0G 3E0,MCLEAN,S0G 3E0,sk,Province of Saskatchewan,mclean sk s0g 3e0,,
+418,Milestone School,1,1,1,1,Gr. K-12,BOX 478 MILESTONE sk S0G 3L0,MILESTONE,S0G 3L0,sk,Province of Saskatchewan,milestone sk s0g 3l0,,
+419,Montmartre School,1,1,1,1,Gr. K-12,BOX 300 MONTMARTRE sk S0G 3M0,MONTMARTRE,S0G 3M0,sk,Province of Saskatchewan,montmartre sk s0g 3m0,,
+420,North Valley Elementary School,1,1,0,0,Gr. K-6,BOX 40 NEUDORF sk S0A 2T0,NEUDORF,S0A 2T0,sk,Province of Saskatchewan,neudorf sk s0a 2t0,,
+421,North Valley High School,0,0,1,1,Gr. 7-12,BOX 10 LEMBERG sk S0A 2B0,LEMBERG,S0A 2B0,sk,Province of Saskatchewan,lemberg sk s0a 2b0,,
+422,Pense Elementary School,1,1,1,0,Gr. K-8,GENERAL DELIVERY PENSE sk S0G 3W0,PENSE,S0G 3W0,sk,Province of Saskatchewan,general delivery pense sk s0g 3w0,,general delivery
+423,Pilot Butte Elementary School,1,1,1,0,Gr. K-8,BOX 390 PILOT BUTTE sk S0G 3Z0,PILOT BUTTE,S0G 3Z0,sk,Province of Saskatchewan,pilot butte sk s0g 3z0,,
+424,Robert Southey School,1,1,1,1,Gr. K-12,BOX 460 SOUTHEY sk S0G 4P0,SOUTHEY,S0G 4P0,sk,Province of Saskatchewan,southey sk s0g 4p0,,
+425,Sedley Elementary School,1,1,1,0,Gr. K-8,BOX 68 SEDLEY sk S0G 4K0,SEDLEY,S0G 4K0,sk,Province of Saskatchewan,sedley sk s0g 4k0,,
+426,South Shore Elementary School,1,1,1,0,Gr. K-8,BOX 399 REGINA BEACH sk S0G 4C0,REGINA BEACH,S0G 4C0,sk,Province of Saskatchewan,regina beach sk s0g 4c0,,
+427,Stewart Nicks Elementary School,1,1,1,0,Gr. K-8,RR 2 SITE 200 BOX 65 REGINA sk S4P 2Z2,REGINA,S4P 2Z2,sk,Province of Saskatchewan,rr 2 site 200 regina sk s4p 2z2,,rr 2
+428,Vibank School,1,1,1,1,Gr. K-12,BOX 70 VIBANK sk S0G 4Y0,VIBANK,S0G 4Y0,sk,Province of Saskatchewan,vibank sk s0g 4y0,,
+429,Whitewood School,1,1,1,1,Gr. K-12,BOX 10 WHITEWOOD sk S0G 5C0,WHITEWOOD,S0G 5C0,sk,Province of Saskatchewan,whitewood sk s0g 5c0,,
+430,Wolseley High School,0,0,1,1,Gr. 7-12,BOX 460 WOLSELEY sk S0G 5H0,WOLSELEY,S0G 5H0,sk,Province of Saskatchewan,wolseley sk s0g 5h0,,
+431,École Holy Cross School,1,1,1,0,Gr. K-8,2051 15TH AVENUE E PRINCE ALBERT sk S6V 6T5,PRINCE ALBERT,S6V 6T5,sk,Province of Saskatchewan,2051 15th avenue e prince albert sk s6v 6t5,2051,15th avenue e
+432,École St. Anne School,1,1,1,0,Gr. K-8,530 24TH ST W PRINCE ALBERT sk S6V 4N3,PRINCE ALBERT,S6V 4N3,sk,Province of Saskatchewan,530 24th st w prince albert sk s6v 4n3,530,24th st w
+433,École St. Mary High School,0,0,1,1,Gr. 9-12,380 14TH STREET W PRINCE ALBERT sk S6V 3L5,PRINCE ALBERT,S6V 3L5,sk,Province of Saskatchewan,380 14th street w prince albert sk s6v 3l5,380,14th street w
+434,Home-based School,0,1,1,1,Gr. 2-11,sk,,,sk,Province of Saskatchewan,sk,,
+435,St. Catherine Catholic School,1,1,0,0,Gr. K-6,1180 BRANION DRIVE PRINCE ALBERT sk S6V 2S8,PRINCE ALBERT,S6V 2S8,sk,Province of Saskatchewan,1180 branion drive prince albert sk s6v 2s8,1180,branion drive
+436,St. Francis School,1,1,1,0,Gr. K-8,1695 OLIVE DIEFENBAKER DRIVE PRINCE ALBERT sk S6X 1B8,PRINCE ALBERT,S6X 1B8,sk,Province of Saskatchewan,1695 olive diefenbaker drive prince albert sk s6x 1b8,1695,olive diefenbaker drive
+437,St. John Community School,1,1,1,0,Gr. K-8,1453 7TH STREET E PRINCE ALBERT sk S6V 0V3,PRINCE ALBERT,S6V 0V3,sk,Province of Saskatchewan,1453 7th street e prince albert sk s6v 0v3,1453,7th street e
+438,St. Michael Community School,1,1,1,0,Gr. K-8,1695 17TH STREET WEST PRINCE ALBERT sk S6V 6W2,PRINCE ALBERT,S6V 6W2,sk,Province of Saskatchewan,1695 17th street west prince albert sk s6v 6w2,1695,17th street west
+439,Archbishop M.C. O'Neill Catholic High School,0,0,1,1,Gr. 9-12,134 ARGYLE STREET REGINA sk S4R 4C3,REGINA,S4R 4C3,sk,Province of Saskatchewan,134 argyle street regina sk s4r 4c3,134,argyle street
+440,Deshaye Catholic School,1,1,1,0,Gr. K-8,37 CAMERON CRESCENT REGINA sk S4S 2X1,REGINA,S4S 2X1,sk,Province of Saskatchewan,37 cameron crescent regina sk s4s 2x1,37,cameron crescent
+441,Dr. Martin LeBoldus Catholic High School,0,0,1,1,Gr. 9-12,2330 25TH AVENUE REGINA sk S4S 4E6,REGINA,S4S 4E6,sk,Province of Saskatchewan,2330 25th avenue regina sk s4s 4e6,2330,25th avenue
+442,École St. Angela Merici,1,1,1,0,Gr. K-8,6823 GILLMORE DRIVE REGINA sk S4X 4J3,REGINA,S4X 4J3,sk,Province of Saskatchewan,6823 gillmore drive regina sk s4x 4j3,6823,gillmore drive
+443,École St. Elizabeth,1,1,1,0,Gr. K-8,5149 E GREEN BROOKS WAY REGINA sk S4V 3M4,REGINA,S4V 3M4,sk,Province of Saskatchewan,5149 e green brooks way regina sk s4v 3m4,5149,e green brooks way
+444,École St. Mary,1,1,1,0,Gr. K-8,140 MCINTOSH STREET N. REGINA sk S4R 4Z9,REGINA,S4R 4Z9,sk,Province of Saskatchewan,140 mcintosh street n regina sk s4r 4z9,140,mcintosh street n
+445,École St. Pius X,1,1,1,0,Gr. K-8,3301 GARNET STREET REGINA sk S4S 1X8,REGINA,S4S 1X8,sk,Province of Saskatchewan,3301 garnet street regina sk s4s 1x8,3301,garnet street
+446,Holy Rosary Community School,1,1,1,0,Gr. K-8,3118 14TH AVENUE REGINA sk S4T 1R9,REGINA,S4T 1R9,sk,Province of Saskatchewan,3118 14th avenue regina sk s4t 1r9,3118,14th avenue
+447,Home-based School,1,1,1,1,Gr. K-12,sk,,,sk,Province of Saskatchewan,sk,,
+448,Jean Vanier School,1,1,1,1,Gr. K-12,425 15TH AVENUE REGINA sk S4N 0V1,REGINA,S4N 0V1,sk,Province of Saskatchewan,425 15th avenue regina sk s4n 0v1,425,15th avenue
+449,Michael A. Riffel Catholic High School,0,0,1,1,Gr. 9-12,5757 ROCHDALE BLVD. REGINA sk S4X 3P5,REGINA,S4X 3P5,sk,Province of Saskatchewan,5757 rochdale blvd regina sk s4x 3p5,5757,rochdale blvd
+450,Miller Comprehensive Catholic High School,0,0,1,1,Gr. 9-12,1027 COLLEGE AVENUE REGINA sk S4P 1A7,REGINA,S4P 1A7,sk,Province of Saskatchewan,1027 college avenue regina sk s4p 1a7,1027,college avenue
+451,Mother Teresa Middle School,0,1,1,0,Gr. 6-8,1975 - 2ND AVE N REGINA sk S4R 0Y1,REGINA,S4R 0Y1,sk,Province of Saskatchewan,1975 2nd ave n regina sk s4r 0y1,1975,2nd ave n
+452,Regina Catholic Learning Online,0,0,0,1,Gr. 11-12,2160 CAMERON ST REGINA sk S4T 2V6,REGINA,S4T 2V6,sk,Province of Saskatchewan,2160 cameron st regina sk s4t 2v6,2160,cameron st
+453,Sacred Heart Community School,1,1,1,0,Gr. K-8,1325 ARGYLE ST REGINA sk S4T 2Z8,REGINA,S4T 2Z8,sk,Province of Saskatchewan,1325 argyle st regina sk s4t 2z8,1325,argyle st
+454,St. Augustine Community School,1,1,1,0,Gr. K-8,2343 EDGAR STREET REGINA sk S4N 3L2,REGINA,S4N 3L2,sk,Province of Saskatchewan,2343 edgar street regina sk s4n 3l2,2343,edgar street
+455,St. Bernadette School,1,1,1,0,Gr. K-8,727 MCINTOSH STREET N REGINA sk S4R 6E4,REGINA,S4R 6E4,sk,Province of Saskatchewan,727 mcintosh street n regina sk s4r 6e4,727,mcintosh street n
+456,St. Catherine School,1,1,1,0,Gr. K-8,150 BROTHERTON AVENUE REGINA sk S4N 0J7,REGINA,S4N 0J7,sk,Province of Saskatchewan,150 brotherton avenue regina sk s4n 0j7,150,brotherton avenue
+457,St. Dominic Savio Elementary,1,1,1,0,Gr. K-8,195 WINDFIELD ROAD REGINA sk S4V 0E9,REGINA,S4V 0E9,sk,Province of Saskatchewan,195 windfield road regina sk s4v 0e9,195,windfield road
+458,St. Francis Community School,1,1,1,0,Gr. K-8,45 MIKKELSON DRIVE REGINA sk S4T 6B7,REGINA,S4T 6B7,sk,Province of Saskatchewan,45 mikkelson drive regina sk s4t 6b7,45,mikkelson drive
+459,St. Gabriel School,1,1,1,0,Gr. K-8,3150 WINDSOR PARK ROAD REGINA sk S4V 3A1,REGINA,S4V 3A1,sk,Province of Saskatchewan,3150 windsor park road regina sk s4v 3a1,3150,windsor park road
+460,St. Gregory School,1,1,1,0,Gr. K-8,302 UPLANDS DRIVE REGINA sk S4R 5X3,REGINA,S4R 5X3,sk,Province of Saskatchewan,302 uplands drive regina sk s4r 5x3,302,uplands drive
+461,St. Jerome School,1,1,1,0,Gr. K-8,770 RINK AVENUE REGINA sk S4X 1V8,REGINA,S4X 1V8,sk,Province of Saskatchewan,770 rink avenue regina sk s4x 1v8,770,rink avenue
+462,St. Joan of Arc School,1,1,1,0,Gr. K-8,10 DEMPSEY AVENUE REGINA sk S4T 7H9,REGINA,S4T 7H9,sk,Province of Saskatchewan,10 dempsey avenue regina sk s4t 7h9,10,dempsey avenue
+463,St. Josaphat School,1,1,1,0,Gr. K-8,140 GREENWOOD CRESCENT REGINA sk S4X 1G4,REGINA,S4X 1G4,sk,Province of Saskatchewan,140 greenwood crescent regina sk s4x 1g4,140,greenwood crescent
+464,St. Kateri Tekakwitha School,1,1,1,0,Gr. K-8,4415 JAMES HILL RD REGINA sk S4W 0R9,REGINA,S4W 0R9,sk,Province of Saskatchewan,4415 james hill rd regina sk s4w 0r9,4415,james hill rd
+465,St. Luke School,0,1,1,1,Gr. 2-12,625 ELPHINSTONE STREET REGINA sk S4T 3L1,REGINA,S4T 3L1,sk,Province of Saskatchewan,625 elphinstone street regina sk s4t 3l1,625,elphinstone street
+466,St. Marguerite Bourgeoys School,1,1,1,0,Gr. K-8,2910 SHOOTER DRIVE E REGINA sk S4V 0Y7,REGINA,S4V 0Y7,sk,Province of Saskatchewan,2910 shooter drive e regina sk s4v 0y7,2910,shooter drive
+467,St. Matthew School,1,1,1,0,Gr. K-8,4710 CASTLE ROAD REGINA sk S4S 4X1,REGINA,S4S 4X1,sk,Province of Saskatchewan,4710 castle road regina sk s4s 4x1,4710,castle road
+468,St. Michael Community School,1,1,1,0,Gr. K-8,431 HAMILTON STREET REGINA sk S4R 2A8,REGINA,S4R 2A8,sk,Province of Saskatchewan,431 hamilton street regina sk s4r 2a8,431,hamilton street
+469,St. Nicholas School,1,1,1,0,Gr. K-8,7651 MAPLEFORD BLVD REGINA sk S4Y 0C6,REGINA,S4Y 0C6,sk,Province of Saskatchewan,7651 mapleford blvd regina sk s4y 0c6,7651,mapleford blvd
+470,St. Peter School,1,1,1,0,Gr. K-8,150 ARGYLE STREET REGINA sk S4R 4C3,REGINA,S4R 4C3,sk,Province of Saskatchewan,150 argyle street regina sk s4r 4c3,150,argyle street
+471,St. Theresa School,1,1,1,0,Gr. K-8,2707 7TH AVENUE E REGINA sk S4N 5E8,REGINA,S4N 5E8,sk,Province of Saskatchewan,2707 7th avenue e regina sk s4n 5e8,2707,7th avenue e
+472,St. Timothy School,1,1,1,0,Gr. K-8,280 SANGSTER BLVD. REGINA sk S4R 7H5,REGINA,S4R 7H5,sk,Province of Saskatchewan,280 sangster blvd regina sk s4r 7h5,280,sangster blvd
+473,Albert School,1,1,1,0,Gr. K-8,1340 ROBINSON STREET REGINA sk S4T 2N4,REGINA,S4T 2N4,sk,Province of Saskatchewan,1340 robinson street regina sk s4t 2n4,1340,robinson street
+474,Allan Blakeney Adult Campus,0,0,0,1,Gr. 12-12,4210 4TH AVE REGINA sk S4T 0H6,REGINA,S4T 0H6,sk,Province of Saskatchewan,4210 4th ave regina sk s4t 0h6,4210,4th ave
+475,Arcola School,1,1,1,0,Gr. K-8,2315 ABBOTT ROAD REGINA sk S4N 2K2,REGINA,S4N 2K2,sk,Province of Saskatchewan,2315 abbott road regina sk s4n 2k2,2315,abbott road
+476,Argyle School,1,1,1,0,Gr. K-8,2941 LAKEVIEW AVENUE REGINA sk S4S 1G8,REGINA,S4S 1G8,sk,Province of Saskatchewan,2941 lakeview avenue regina sk s4s 1g8,2941,lakeview avenue
+477,Balfour Collegiate,0,0,1,1,Gr. 9-12,1245 COLLEGE AVENUE REGINA sk S4P 1B1,REGINA,S4P 1B1,sk,Province of Saskatchewan,1245 college avenue regina sk s4p 1b1,1245,college avenue
+478,Campbell Collegiate,0,0,1,1,Gr. 9-12,102 MASSEY ROAD REGINA sk S4S 4M9,REGINA,S4S 4M9,sk,Province of Saskatchewan,102 massey road regina sk s4s 4m9,102,massey road
+479,Campus Regina Public - Regina Trades and Skills Centre,0,0,0,1,Gr. 11-12,828 ALBERT ST REGINA sk S4R 2P5,REGINA,S4R 2P5,sk,Province of Saskatchewan,828 albert st regina sk s4r 2p5,828,albert st
+480,Coronation Park School,1,1,1,0,Gr. K-8,3105 4TH AVENUE N REGINA sk S4R 0V2,REGINA,S4R 0V2,sk,Province of Saskatchewan,3105 4th avenue n regina sk s4r 0v2,3105,4th avenue n
+481,Douglas Park School,1,1,1,0,Gr. K-8,635 DOUGLAS AVENUE REGINA sk S4N 1H7,REGINA,S4N 1H7,sk,Province of Saskatchewan,635 douglas avenue regina sk s4n 1h7,635,douglas avenue
+482,Dr. A.E. Perry School,1,1,1,0,Gr. K-8,93 LINCOLN DRIVE REGINA sk S4S 6P1,REGINA,S4S 6P1,sk,Province of Saskatchewan,93 lincoln drive regina sk s4s 6p1,93,lincoln drive
+483,Dr. George Ferguson School,1,1,1,0,Gr. K-8,117 BROTHERTON AVENUE REGINA sk S4N 0J8,REGINA,S4N 0J8,sk,Province of Saskatchewan,117 brotherton avenue regina sk s4n 0j8,117,brotherton avenue
+484,Dr. L.M. Hanna School,1,1,1,0,Gr. K-8,55 DAVIN CRESCENT REGINA sk S4R 7E4,REGINA,S4R 7E4,sk,Province of Saskatchewan,55 davin crescent regina sk s4r 7e4,55,davin crescent
+485,École Centennial School,1,1,1,0,Gr. K-8,6903 DALGLIESH DRIVE REGINA sk S4X 3A1,REGINA,S4X 3A1,sk,Province of Saskatchewan,6903 dalgliesh drive regina sk s4x 3a1,6903,dalgliesh drive
+486,École Connaught School,1,1,1,0,Gr. K-8,3515 13TH AVE REGINA sk S4T 1Z5,REGINA,S4T 1Z5,sk,Province of Saskatchewan,3515 13th ave regina sk s4t 1z5,3515,13th ave
+487,École Harbour Landing School,1,1,1,0,Gr. K-8,4423 JAMES HILL RD REGINA sk S4W 0K5,REGINA,S4W 0K5,sk,Province of Saskatchewan,4423 james hill rd regina sk s4w 0k5,4423,james hill rd
+488,École Massey School,1,1,1,0,Gr. K-8,131 MASSEY ROAD REGINA sk S4S 4N3,REGINA,S4S 4N3,sk,Province of Saskatchewan,131 massey road regina sk s4s 4n3,131,massey road
+489,École W. S. Hawrylak School,1,1,1,0,Gr. K-8,2530 ASSINIBOINE AVENUE REGINA sk S4V 2R6,REGINA,S4V 2R6,sk,Province of Saskatchewan,2530 assiniboine avenue regina sk s4v 2r6,2530,assiniboine avenue
+490,École Wascana Plains School,1,1,1,0,Gr. K-8,5125 E GREEN BROOKS WAY REGINA sk S4V 3M4,REGINA,S4V 3M4,sk,Province of Saskatchewan,5125 e green brooks way regina sk s4v 3m4,5125,e green brooks way
+491,École Wilfrid Walker School,1,1,1,0,Gr. K-8,2102 WAGMAN DRIVE E REGINA sk S4V 0R1,REGINA,S4V 0R1,sk,Province of Saskatchewan,2102 wagman drive e regina sk s4v 0r1,2102,wagman drive
+492,Elsie Mironuck School,1,1,1,0,Gr. K-8,18 WAKEFIELD DRIVE REGINA sk S4R 4T3,REGINA,S4R 4T3,sk,Province of Saskatchewan,18 wakefield drive regina sk s4r 4t3,18,wakefield drive
+493,Ethel Milliken School,1,1,1,0,Gr. K-8,4510 QUEEN STREET REGINA sk S4S 6K9,REGINA,S4S 6K9,sk,Province of Saskatchewan,4510 queen street regina sk s4s 6k9,4510,queen street
+494,F.W. Johnson Collegiate,0,0,1,1,Gr. 9-12,400 FINES DRIVE REGINA sk S4N 5L9,REGINA,S4N 5L9,sk,Province of Saskatchewan,400 fines drive regina sk s4n 5l9,400,fines drive
+495,George Lee School,1,1,1,0,Gr. K-8,180 WELLS STREET REGINA sk S4R 5Z7,REGINA,S4R 5Z7,sk,Province of Saskatchewan,180 wells street regina sk s4r 5z7,180,wells street
+496,Gladys McDonald School,1,1,1,0,Gr. K-8,335 GARNET STREET N REGINA sk S4R 3S8,REGINA,S4R 3S8,sk,Province of Saskatchewan,335 garnet street n regina sk s4r 3s8,335,garnet street n
+497,Glen Elm School,1,1,1,0,Gr. K-8,1225 9TH AVENUE E REGINA sk S4N 0H4,REGINA,S4N 0H4,sk,Province of Saskatchewan,1225 9th avenue e regina sk s4n 0h4,1225,9th avenue e
+498,Grant Road School,1,1,1,0,Gr. K-8,2501 GRANT ROAD REGINA sk S4S 5E7,REGINA,S4S 5E7,sk,Province of Saskatchewan,2501 grant road regina sk s4s 5e7,2501,grant road
+499,Harvest City Christian Academy,1,1,1,1,Gr. K-12,2202 8TH AVENUE NORTH REGINA sk S4R 7T9,REGINA,S4R 7T9,sk,Province of Saskatchewan,2202 8th avenue north regina sk s4r 7t9,2202,8th avenue north
+500,Henry Braun School,1,1,1,0,Gr. K-8,710 GRAHAM ROAD REGINA sk S4N 7A5,REGINA,S4N 7A5,sk,Province of Saskatchewan,710 graham road regina sk s4n 7a5,710,graham road
+501,Henry Janzen School,1,1,1,0,Gr. K-8,222 RINK AVENUE REGINA sk S4R 7T8,REGINA,S4R 7T8,sk,Province of Saskatchewan,222 rink avenue regina sk s4r 7t8,222,rink avenue
+502,Home-based School,1,1,1,1,Gr. K-12,sk,,,sk,Province of Saskatchewan,sk,,
+503,Imperial School,1,1,1,0,Gr. K-8,200 BROAD STREET REGINA sk S4R 1W9,REGINA,S4R 1W9,sk,Province of Saskatchewan,200 broad street regina sk s4r 1w9,200,broad street
+504,Isp2,0,1,1,0,Gr. 6-9,1915 RETALLACK ST REGINA sk S4T 2K1,REGINA,S4T 2K1,sk,Province of Saskatchewan,1915 retallack st regina sk s4t 2k1,1915,retallack st
+505,Jack MacKenzie School,1,1,1,0,Gr. K-8,3838 BUCKINGHAM DR. E. REGINA sk S4V 3A1,REGINA,S4V 3A1,sk,Province of Saskatchewan,3838 buckingham dr e regina sk s4v 3a1,3838,buckingham dr
+506,Judge Bryant School,1,1,1,0,Gr. K-8,2828 DEWDNEY AVENUE E REGINA sk S4N 5G8,REGINA,S4N 5G8,sk,Province of Saskatchewan,2828 dewdney avenue e regina sk s4n 5g8,2828,dewdney avenue e
+507,Kitchener School,1,1,1,0,Gr. K-8,840 ATHOL STREET REGINA sk S4T 3B5,REGINA,S4T 3B5,sk,Province of Saskatchewan,840 athol street regina sk s4t 3b5,840,athol street
+508,Lakeview School,1,1,1,0,Gr. K-8,3100 20TH AVENUE REGINA sk S4S 0N8,REGINA,S4S 0N8,sk,Province of Saskatchewan,3100 20th avenue regina sk s4s 0n8,3100,20th avenue
+509,M.J. Coldwell School,1,1,1,0,Gr. K-8,103 FAIRVIEW ROAD REGINA sk S4R 0A6,REGINA,S4R 0A6,sk,Province of Saskatchewan,103 fairview road regina sk s4r 0a6,103,fairview road
+510,MacNeill School,1,1,1,0,Gr. K-8,6215 WHELAN DRIVE REGINA sk S4X 3P6,REGINA,S4X 3P6,sk,Province of Saskatchewan,6215 whelan drive regina sk s4x 3p6,6215,whelan drive
+511,Marion McVeety School,1,1,1,0,Gr. K-8,38 TURGEON CRESCENT REGINA sk S4S 3Z7,REGINA,S4S 3Z7,sk,Province of Saskatchewan,38 turgeon crescent regina sk s4s 3z7,38,turgeon crescent
+512,Martin Collegiate,0,0,1,1,Gr. 9-12,1100 MCINTOSH REGINA sk S4T 5B7,REGINA,S4T 5B7,sk,Province of Saskatchewan,1100 mcintosh regina sk s4t 5b7,1100,mcintosh
+513,McDermid School,1,1,1,0,Gr. K-8,139 TORONTO STREET REGINA sk S4R 1L8,REGINA,S4R 1L8,sk,Province of Saskatchewan,139 toronto street regina sk s4r 1l8,139,toronto street
+514,McLurg School,1,1,1,0,Gr. K-8,125 PAYNTER CRESCENT REGINA sk S4X 2A9,REGINA,S4X 2A9,sk,Province of Saskatchewan,125 paynter crescent regina sk s4x 2a9,125,paynter crescent
+515,Plainsview School,1,1,1,0,Gr. K-8,7741 MAPLEFORD BLVD REGINA sk S4Y 0C6,REGINA,S4Y 0C6,sk,Province of Saskatchewan,7741 mapleford blvd regina sk s4y 0c6,7741,mapleford blvd
+516,Regina Christian School,1,1,1,1,Gr. K-12,2505 23RD AVE REGINA sk S4S 7K7,REGINA,S4S 7K7,sk,Province of Saskatchewan,2505 23rd ave regina sk s4s 7k7,2505,23rd ave
+517,Regina Huda School,1,1,1,1,Gr. K-12,40 SHEPPARD STREET REGINA sk S4R 3M6,REGINA,S4R 3M6,sk,Province of Saskatchewan,40 sheppard street regina sk s4r 3m6,40,sheppard street
+518,Regina Public Schools Night School,0,0,0,1,Gr. 12-12,2314 11TH AVE REGINA sk S4P 0K1,REGINA,S4P 0K1,sk,Province of Saskatchewan,2314 11th ave regina sk s4p 0k1,2314,11th ave
+519,Rosemont School,1,1,1,0,Gr. K-8,841 HORACE STREET REGINA sk S4T 5L1,REGINA,S4T 5L1,sk,Province of Saskatchewan,841 horace street regina sk s4t 5l1,841,horace street
+520,Ruth M. Buck School,1,1,1,0,Gr. K-8,6330 7TH AVENUE N REGINA sk S4T 7J1,REGINA,S4T 7J1,sk,Province of Saskatchewan,6330 7th avenue n regina sk s4t 7j1,6330,7th avenue n
+521,Ruth Pawson School,1,1,1,0,Gr. K-8,40 WEEKES CRESCENT REGINA sk S4R 6X7,REGINA,S4R 6X7,sk,Province of Saskatchewan,40 weekes crescent regina sk s4r 6x7,40,weekes crescent
+522,Scott Collegiate,0,0,1,1,Gr. 9-12,3355 6TH AVE REGINA sk S4T 0P6,REGINA,S4T 0P6,sk,Province of Saskatchewan,3355 6th ave regina sk s4t 0p6,3355,6th ave
+523,Seven Stones School,1,1,1,0,Gr. K-8,1101 PRINCESS ST REGINA sk S4T 3Y3,REGINA,S4T 3Y3,sk,Province of Saskatchewan,1101 princess st regina sk s4t 3y3,1101,princess st
+524,Sheldon-Williams Collegiate,0,0,1,1,Gr. 9-12,2601 CORONATION STREET REGINA sk S4S 0L4,REGINA,S4S 0L4,sk,Province of Saskatchewan,2601 coronation street regina sk s4s 0l4,2601,coronation street
+525,The Crescents School,1,1,1,0,Gr. K-8,2401 RETALLACK REGINA sk S4T 2L2,REGINA,S4T 2L2,sk,Province of Saskatchewan,2401 retallack regina sk s4t 2l2,2401,retallack
+526,Thom Collegiate,0,0,1,1,Gr. 9-12,265 ARGYLE STREET N REGINA sk S4R 4C7,REGINA,S4R 4C7,sk,Province of Saskatchewan,265 argyle street n regina sk s4r 4c7,265,argyle street n
+527,Thomson School,1,1,1,0,Gr. K-8,2033 TORONTO STREET REGINA sk S4P 1N2,REGINA,S4P 1N2,sk,Province of Saskatchewan,2033 toronto street regina sk s4p 1n2,2033,toronto street
+528,Victoria Campus,0,0,1,1,Gr. 9-12,1915 RETALLACK ST REGINA sk S4T 2K1,REGINA,S4T 2K1,sk,Province of Saskatchewan,1915 retallack st regina sk s4t 2k1,1915,retallack st
+529,W.F. Ready School,1,1,1,0,Gr. K-8,2710 HELMSING STREET REGINA sk S4V 0W9,REGINA,S4V 0W9,sk,Province of Saskatchewan,2710 helmsing street regina sk s4v 0w9,2710,helmsing street
+530,W.H. Ford School,1,1,1,0,Gr. K-8,480 RINK AVENUE REGINA sk S4X 1S7,REGINA,S4X 1S7,sk,Province of Saskatchewan,480 rink avenue regina sk s4x 1s7,480,rink avenue
+531,Walker School,1,1,1,0,Gr. K-8,5637 7TH AVENUE REGINA sk S4T 0S9,REGINA,S4T 0S9,sk,Province of Saskatchewan,5637 7th avenue regina sk s4t 0s9,5637,7th avenue
+532,Wilfred Hunt School,1,1,1,0,Gr. K-8,101 MAYFIELD ROAD REGINA sk S4V 0B5,REGINA,S4V 0B5,sk,Province of Saskatchewan,101 mayfield road regina sk s4v 0b5,101,mayfield road
+533,Winston Knoll Collegiate,0,0,1,1,Gr. 9-12,5255 ROCHDALE BLVD. REGINA sk S4X 4M8,REGINA,S4X 4M8,sk,Province of Saskatchewan,5255 rochdale blvd regina sk s4x 4m8,5255,rochdale blvd
+534,Big River Public High School,0,0,1,1,Gr. 7-12,BOX 430 BIG RIVER sk S0J 0E0,BIG RIVER,S0J 0E0,sk,Province of Saskatchewan,big river sk s0j 0e0,,
+535,Birch Hills Public School,1,1,1,1,Gr. K-12,BOX 219 BIRCH HILLS sk S0J 0G0,BIRCH HILLS,S0J 0G0,sk,Province of Saskatchewan,birch hills sk s0j 0g0,,
+536,Canwood Public School,1,1,1,1,Gr. K-12,BOX 370 CANWOOD sk S0J 0K0,CANWOOD,S0J 0K0,sk,Province of Saskatchewan,canwood sk s0j 0k0,,
+537,Carlton Comprehensive Public High School,0,0,1,1,Gr. 9-12,665 28TH STREET E PRINCE ALBERT sk S6V 6E9,PRINCE ALBERT,S6V 6E9,sk,Province of Saskatchewan,665 28th street e prince albert sk s6v 6e9,665,28th street e
+538,Christopher Lake Public School,1,1,1,0,Gr. K-8,BOX 310 CHRISTOPHER LAKE sk S0J 0N0,CHRISTOPHER LAKE,S0J 0N0,sk,Province of Saskatchewan,christopher lake sk s0j 0n0,,
+539,East Central Public School,1,1,1,0,Gr. K-8,545 11TH STREET EAST PRINCE ALBERT sk S6V 1B1,PRINCE ALBERT,S6V 1B1,sk,Province of Saskatchewan,545 11th street east prince albert sk s6v 1b1,545,11th street east
+540,École Arthur Pechey Public School,1,1,1,0,Gr. K-8,2675 4TH AVENUE W PRINCE ALBERT sk S6V 5H8,PRINCE ALBERT,S6V 5H8,sk,Province of Saskatchewan,2675 4th avenue w prince albert sk s6v 5h8,2675,4th avenue w
+541,École Debden Public School,1,1,1,1,Gr. K-12,BOX 280 DEBDEN sk S0J 0S0,DEBDEN,S0J 0S0,sk,Province of Saskatchewan,debden sk s0j 0s0,,
+542,École Vickers Public School,1,1,1,0,Gr. K-8,2800 BRADBURY DRIVE PRINCE ALBERT sk S6V 7R8,PRINCE ALBERT,S6V 7R8,sk,Province of Saskatchewan,2800 bradbury drive prince albert sk s6v 7r8,2800,bradbury drive
+543,Home-based School,1,1,1,1,Gr. K-12,sk,,,sk,Province of Saskatchewan,sk,,
+544,John Diefenbaker Public School,1,1,1,0,Gr. K-8,1090 BRANION DRIVE PRINCE ALBERT sk S6V 2S8,PRINCE ALBERT,S6V 2S8,sk,Province of Saskatchewan,1090 branion drive prince albert sk s6v 2s8,1090,branion drive
+545,King George Public School,1,1,1,0,Gr. K-8,421 23RD STREET E PRINCE ALBERT sk S6V 1P9,PRINCE ALBERT,S6V 1P9,sk,Province of Saskatchewan,421 23rd street e prince albert sk s6v 1p9,421,23rd street e
+546,Kinistino Public School,1,1,1,1,Gr. K-12,BOX 650 KINISTINO sk S0J 1H0,KINISTINO,S0J 1H0,sk,Province of Saskatchewan,kinistino sk s0j 1h0,,
+547,Meath Park Public School,1,1,1,1,Gr. K-12,GENERAL DELIVERY MEATH PARK sk S0J 1T0,MEATH PARK,S0J 1T0,sk,Province of Saskatchewan,general delivery meath park sk s0j 1t0,,general delivery
+548,Osborne Public School,1,1,1,0,Gr. K-8,RR 2 SITE 10 COMP 48 PRINCE ALBERT sk S6V 5P9,PRINCE ALBERT,S6V 5P9,sk,Province of Saskatchewan,rr 2 site 10 comp 48 prince albert sk s6v 5p9,,rr 2 site 10 comp 48
+549,Prince Albert Collegiate Institute,0,0,1,1,Gr. 9-12,45 20TH STREET W PRINCE ALBERT sk S6V 4E9,PRINCE ALBERT,S6V 4E9,sk,Province of Saskatchewan,45 20th street w prince albert sk s6v 4e9,45,20th street w
+550,Princess Margaret Public School,1,1,1,0,Gr. K-8,351 13TH AVENUE E PRINCE ALBERT sk S6V 2N3,PRINCE ALBERT,S6V 2N3,sk,Province of Saskatchewan,351 13th avenue e prince albert sk s6v 2n3,351,13th avenue e
+551,Queen Mary Public School,1,1,1,0,Gr. K-8,1010 15TH STREET W PRINCE ALBERT sk S6V 3S2,PRINCE ALBERT,S6V 3S2,sk,Province of Saskatchewan,1010 15th street w prince albert sk s6v 3s2,1010,15th street w
+552,Red Wing Public School,1,1,1,0,Gr. K-8,545 11TH STREET EAST PRINCE ALBERT sk S6V 1B1,PRINCE ALBERT,S6V 1B1,sk,Province of Saskatchewan,545 11th street east prince albert sk s6v 1b1,545,11th street east
+553,Riverside Public School,1,1,1,0,Gr. K-8,511 5TH AVENUE E PRINCE ALBERT sk S6V 7Z6,PRINCE ALBERT,S6V 7Z6,sk,Province of Saskatchewan,511 5th avenue e prince albert sk s6v 7z6,511,5th avenue e
+554,Shellbrook Public Elementary School,1,1,0,0,Gr. K-5,BOX 664 SHELLBROOK sk S0J 2E0,SHELLBROOK,S0J 2E0,sk,Province of Saskatchewan,shellbrook sk s0j 2e0,,
+555,Spruce Home Public School,1,1,1,0,Gr. K-8,545 11TH STREET EAST PRINCE ALBERT sk S6V 1B1,PRINCE ALBERT,S6V 1B1,sk,Province of Saskatchewan,545 11th street east prince albert sk s6v 1b1,545,11th street east
+556,St. Louis Public School,1,1,1,1,Gr. K-12,BOX 70 ST LOUIS sk S0J 2C0,ST LOUIS,S0J 2C0,sk,Province of Saskatchewan,st louis sk s0j 2c0,,
+557,T.D. Michel Public School,1,1,0,0,Gr. K-6,BOX 507 BIG RIVER sk S0J 0E0,BIG RIVER,S0J 0E0,sk,Province of Saskatchewan,big river sk s0j 0e0,,
+558,Vincent Massey Public School,1,1,1,0,Gr. K-8,2999 3RD AVE E PRINCE ALBERT sk S6V 8G2,PRINCE ALBERT,S6V 8G2,sk,Province of Saskatchewan,2999 3rd ave e prince albert sk s6v 8g2,2999,3rd ave e
+559,W.J. Berezowsky Public School,1,1,1,0,Gr. K-8,566 MACINTOSH DRIVE PRINCE ALBERT sk S6V 6T2,PRINCE ALBERT,S6V 6T2,sk,Province of Saskatchewan,566 macintosh drive prince albert sk s6v 6t2,566,macintosh drive
+560,W.P. Sandin Public High School,0,1,1,1,Gr. 6-12,BOX 790 SHELLBROOK sk S0J 2E0,SHELLBROOK,S0J 2E0,sk,Province of Saskatchewan,shellbrook sk s0j 2e0,,
+561,Wesmor Public High School,0,0,1,1,Gr. 9-12,1819 14TH AVE W PRINCE ALBERT sk S6V 5P1,PRINCE ALBERT,S6V 5P1,sk,Province of Saskatchewan,1819 14th ave w prince albert sk s6v 5p1,1819,14th ave w
+562,West Central Public School,1,1,1,0,Gr. K-8,545 11TH ST E PRINCE ALBERT sk S6V 1B1,PRINCE ALBERT,S6V 1B1,sk,Province of Saskatchewan,545 11th st e prince albert sk s6v 1b1,545,11th st e
+563,Westview Public School,1,1,1,0,Gr. K-8,620 MACARTHUR DRIVE PRINCE ALBERT sk S6V 8C6,PRINCE ALBERT,S6V 8C6,sk,Province of Saskatchewan,620 macarthur drive prince albert sk s6v 8c6,620,macarthur drive
+564,Wild Rose Public School,1,1,1,0,Gr. K-8,RR 1 SHELLBROOK sk S0J 2E0,SHELLBROOK,S0J 2E0,sk,Province of Saskatchewan,rr 1 shellbrook sk s0j 2e0,,rr 1
+565,Winding River Colony School,0,1,1,1,Gr. 1-10,BOX 700 BIRCH HILLS sk S0J 0G0,BIRCH HILLS,S0J 0G0,sk,Province of Saskatchewan,birch hills sk s0j 0g0,,
+566,Won Ska Cultural Public School,0,0,1,1,Gr. 9-12,2005 4TH AVENUE E PRINCE ALBERT sk S6V 2H1,PRINCE ALBERT,S6V 2H1,sk,Province of Saskatchewan,2005 4th avenue e prince albert sk s6v 2h1,2005,4th avenue e
+567,Aden Bowman Collegiate,0,0,1,1,Gr. 9-12,1904 CLARENCE AVENUE SASKATOON sk S7J 1L3,SASKATOON,S7J 1L3,sk,Province of Saskatchewan,1904 clarence avenue saskatoon sk s7j 1l3,1904,clarence avenue
+568,Alvin Buckwold School,1,1,1,0,Gr. K-8,715 EAST DRIVE SASKATOON sk S7J 2X8,SASKATOON,S7J 2X8,sk,Province of Saskatchewan,715 east drive saskatoon sk s7j 2x8,715,east drive
+569,Bedford Road Collegiate,0,0,1,1,Gr. 9-12,722 BEDFORD ROAD SASKATOON sk S7L 0G2,SASKATOON,S7L 0G2,sk,Province of Saskatchewan,722 bedford road saskatoon sk s7l 0g2,722,bedford road
+570,Brevoort Park School,1,1,1,0,Gr. K-8,2809 EARLY DRIVE SASKATOON sk S7H 3K4,SASKATOON,S7H 3K4,sk,Province of Saskatchewan,2809 early drive saskatoon sk s7h 3k4,2809,early drive
+571,Brownell School,1,1,1,0,Gr. K-8,274 RUSSELL ROAD SASKATOON sk S7K 7E1,SASKATOON,S7K 7E1,sk,Province of Saskatchewan,274 russell road saskatoon sk s7k 7e1,274,russell road
+572,Brunskill School,1,1,1,0,Gr. K-8,101 WIGGINS AVENUE SASKATOON sk S7N 1K3,SASKATOON,S7N 1K3,sk,Province of Saskatchewan,101 wiggins avenue saskatoon sk s7n 1k3,101,wiggins avenue
+573,Buena Vista School,1,1,1,0,Gr. K-8,1306 LORNE AVENUE SASKATOON sk S7H 1X8,SASKATOON,S7H 1X8,sk,Province of Saskatchewan,1306 lorne avenue saskatoon sk s7h 1x8,1306,lorne avenue
+574,Caroline Robins School,1,1,1,0,Gr. K-8,1410 BYERS CRESCENT SASKATOON sk S7L 4H3,SASKATOON,S7L 4H3,sk,Province of Saskatchewan,1410 byers crescent saskatoon sk s7l 4h3,1410,byers crescent
+575,Caswell Community School,1,1,1,0,Gr. K-8,204 30TH STREET SASKATOON sk S7L 0N9,SASKATOON,S7L 0N9,sk,Province of Saskatchewan,204 30th street saskatoon sk s7l 0n9,204,30th street
+576,Centennial Collegiate,0,0,1,1,Gr. 9-12,160 NELSON RD SASKATOON sk S7S 1P5,SASKATOON,S7S 1P5,sk,Province of Saskatchewan,160 nelson rd saskatoon sk s7s 1p5,160,nelson rd
+577,Chief Whitecap School,1,1,1,0,Gr. K-8,812 GORDON RD SASKATOON sk S7T 0J5,SASKATOON,S7T 0J5,sk,Province of Saskatchewan,812 gordon rd saskatoon sk s7t 0j5,812,gordon rd
+578,City Park Collegiate,0,1,1,1,Gr. 1-12,820 9TH AVENUE N SASKATOON sk S7K 2Z2,SASKATOON,S7K 2Z2,sk,Province of Saskatchewan,820 9th avenue n saskatoon sk s7k 2z2,820,9th avenue n
+579,Colette Bourgonje School,1,1,1,0,Gr. K-8,169 OLSON LANE WEST SASKATOON sk S7V 0L1,SASKATOON,S7V 0L1,sk,Province of Saskatchewan,169 olson lane west saskatoon sk s7v 0l1,169,olson lane west
+580,College Park School,1,1,1,0,Gr. K-8,3440 HARRINGTON STREET SASKATOON sk S7H 3Y4,SASKATOON,S7H 3Y4,sk,Province of Saskatchewan,3440 harrington street saskatoon sk s7h 3y4,3440,harrington street
+581,Confederation Park Community School,1,1,1,0,Gr. K-8,3555 JOHN A. MACDONALD SASKATOON sk S7L 4R9,SASKATOON,S7L 4R9,sk,Province of Saskatchewan,3555 john a macdonald saskatoon sk s7l 4r9,3555,john a macdonald
+582,Dr. John G. Egnatoff School,1,1,1,0,Gr. K-8,225 KENDERDINE ROAD SASKATOON sk S7N 3V2,SASKATOON,S7N 3V2,sk,Province of Saskatchewan,225 kenderdine road saskatoon sk s7n 3v2,225,kenderdine road
+583,Dundonald School,1,1,1,0,Gr. K-8,162 WEDGE ROAD SASKATOON sk S7L 6Y4,SASKATOON,S7L 6Y4,sk,Province of Saskatchewan,162 wedge road saskatoon sk s7l 6y4,162,wedge road
+584,Ernest Lindner School,1,1,1,0,Gr. K-8,1087 HAMPTON CIRCLE SASKATOON sk S7R 0G7,SASKATOON,S7R 0G7,sk,Province of Saskatchewan,1087 hampton circle saskatoon sk s7r 0g7,1087,hampton circle
+585,Evan Hardy Collegiate,0,0,1,1,Gr. 9-12,605 ACADIA DRIVE SASKATOON sk S7H 3V8,SASKATOON,S7H 3V8,sk,Province of Saskatchewan,605 acadia drive saskatoon sk s7h 3v8,605,acadia drive
+586,Fairhaven School,1,1,1,0,Gr. K-8,495 FORRESTER ROAD SASKATOON sk S7M 4P7,SASKATOON,S7M 4P7,sk,Province of Saskatchewan,495 forrester road saskatoon sk s7m 4p7,495,forrester road
+587,Forest Grove School,1,1,1,0,Gr. K-8,501 115TH STREET EAST SASKATOON sk S7N 2X9,SASKATOON,S7N 2X9,sk,Province of Saskatchewan,501 115th street east saskatoon sk s7n 2x9,501,115th street east
+588,Greystone Heights School,1,1,1,0,Gr. K-8,2721 MAIN STREET SASKATOON sk S7H 0M2,SASKATOON,S7H 0M2,sk,Province of Saskatchewan,2721 main street saskatoon sk s7h 0m2,2721,main street
+589,Henry Kelsey School,1,1,1,0,Gr. K-8,16 VALENS DRIVE SASKATOON sk S7L 3S1,SASKATOON,S7L 3S1,sk,Province of Saskatchewan,16 valens drive saskatoon sk s7l 3s1,16,valens drive
+590,Holliston School,1,1,1,0,Gr. K-8,1511 LOUISE AVENUE SASKATOON sk S7H 2R2,SASKATOON,S7H 2R2,sk,Province of Saskatchewan,1511 louise avenue saskatoon sk s7h 2r2,1511,louise avenue
+591,Home-based School,0,1,1,1,Gr. 1-12,sk,,,sk,Province of Saskatchewan,sk,,
+592,Howard Coad School,1,1,1,0,Gr. K-8,431 AVENUE T NORTH SASKATOON sk S7L 3B5,SASKATOON,S7L 3B5,sk,Province of Saskatchewan,431 avenue t north saskatoon sk s7l 3b5,431,avenue t north
+593,Hugh Cairns VC School,1,1,1,0,Gr. K-8,2621 CAIRNS AVENUE SASKATOON sk S7J 1V8,SASKATOON,S7J 1V8,sk,Province of Saskatchewan,2621 cairns avenue saskatoon sk s7j 1v8,2621,cairns avenue
+594,James L. Alexander School,1,1,1,0,Gr. K-8,427 MCCORMACK ROAD SASKATOON sk S7M 5L8,SASKATOON,S7M 5L8,sk,Province of Saskatchewan,427 mccormack road saskatoon sk s7m 5l8,427,mccormack road
+595,John Dolan School,1,1,1,1,Gr. K-12,3144 ARLINGTON AVENUE SASKATOON sk S7J 3L5,SASKATOON,S7J 3L5,sk,Province of Saskatchewan,3144 arlington avenue saskatoon sk s7j 3l5,3144,arlington avenue
+596,John Lake School,1,1,1,0,Gr. K-8,2606 BROADWAY AVENUE SASKATOON sk S7J 0Z6,SASKATOON,S7J 0Z6,sk,Province of Saskatchewan,2606 broadway avenue saskatoon sk s7j 0z6,2606,broadway avenue
+597,King George Community School,1,1,1,0,Gr. K-8,721 AVENUE K SOUTH SASKATOON sk S7M 2E7,SASKATOON,S7M 2E7,sk,Province of Saskatchewan,721 avenue k south saskatoon sk s7m 2e7,721,avenue k south
+598,Lakeridge School,1,1,1,0,Gr. K-8,305 WATERBURY DRIVE SASKATOON sk S7J 4Z7,SASKATOON,S7J 4Z7,sk,Province of Saskatchewan,305 waterbury drive saskatoon sk s7j 4z7,305,waterbury drive
+599,Lakeview School,1,1,1,0,Gr. K-8,527 KINGSMERE BOULEVARD SASKATOON sk S7J 3V4,SASKATOON,S7J 3V4,sk,Province of Saskatchewan,527 kingsmere boulevard saskatoon sk s7j 3v4,527,kingsmere boulevard
+600,Lawson Heights School,1,1,1,0,Gr. K-8,430 REDBERRY ROAD SASKATOON sk S7K 5H6,SASKATOON,S7K 5H6,sk,Province of Saskatchewan,430 redberry road saskatoon sk s7k 5h6,430,redberry road
+601,Lester B. Pearson School,1,1,1,0,Gr. K-8,3620 CENTENNIAL DRIVE SASKATOON sk S7L 5L2,SASKATOON,S7L 5L2,sk,Province of Saskatchewan,3620 centennial drive saskatoon sk s7l 5l2,3620,centennial drive
+602,Marion M. Graham Collegiate,0,0,1,1,Gr. 9-12,602 LENORE DRIVE SASKATOON sk S7K 6A6,SASKATOON,S7K 6A6,sk,Province of Saskatchewan,602 lenore drive saskatoon sk s7k 6a6,602,lenore drive
+603,Mayfair Community School,1,1,1,0,Gr. K-8,510 34TH STREEET W SASKATOON sk S7L 0Y2,SASKATOON,S7L 0Y2,sk,Province of Saskatchewan,510 34th streeet w saskatoon sk s7l 0y2,510,34th streeet w
+604,Montgomery School,1,1,1,0,Gr. K-8,3220 ORTONA STREET SASKATOON sk S7M 3R6,SASKATOON,S7M 3R6,sk,Province of Saskatchewan,3220 ortona street saskatoon sk s7m 3r6,3220,ortona street
+605,Mount Royal Collegiate,0,0,1,1,Gr. 9-12,2220 RUSHOLME ROAD SASKATOON sk S7L 4A4,SASKATOON,S7L 4A4,sk,Province of Saskatchewan,2220 rusholme road saskatoon sk s7l 4a4,2220,rusholme road
+606,North Park Wilson School,1,1,1,0,Gr. K-8,1505 9TH AVENUE N SASKATOON sk S7K 2Z8,SASKATOON,S7K 2Z8,sk,Province of Saskatchewan,1505 9th avenue n saskatoon sk s7k 2z8,1505,9th avenue n
+607,Nutana Collegiate,0,0,1,1,Gr. 8-12,411 11TH STREET E SASKATOON sk S7N 0E9,SASKATOON,S7N 0E9,sk,Province of Saskatchewan,411 11th street e saskatoon sk s7n 0e9,411,11th street e
+608,Pleasant Hill Community School,1,1,1,0,Gr. K-8,215 AVENUE S SOUTH SASKATOON sk S7M 2Z9,SASKATOON,S7M 2Z9,sk,Province of Saskatchewan,215 avenue s south saskatoon sk s7m 2z9,215,avenue s south
+609,Prince Philip School,1,1,1,0,Gr. K-8,1715 DRINKLE STREET SASKATOON sk S7J 0P8,SASKATOON,S7J 0P8,sk,Province of Saskatchewan,1715 drinkle street saskatoon sk s7j 0p8,1715,drinkle street
+610,Princess Alexandra Community School,1,1,1,0,Gr. K-8,210 AVENUE H SOUTH SASKATOON sk S7M 1W2,SASKATOON,S7M 1W2,sk,Province of Saskatchewan,210 avenue h south saskatoon sk s7m 1w2,210,avenue h south
+611,Queen Elizabeth School,1,1,1,0,Gr. K-8,1905 EASTLAKE AVENUE SASKATOON sk S7J 0W9,SASKATOON,S7J 0W9,sk,Province of Saskatchewan,1905 eastlake avenue saskatoon sk s7j 0w9,1905,eastlake avenue
+612,River Heights School,1,1,1,0,Gr. K-8,60 RAVINE DRIVE SASKATOON sk S7K 1E2,SASKATOON,S7K 1E2,sk,Province of Saskatchewan,60 ravine drive saskatoon sk s7k 1e2,60,ravine drive
+613,Roland Michener School,1,1,1,0,Gr. K-8,4215 DEGEER STREET SASKATOON sk S7H 4N6,SASKATOON,S7H 4N6,sk,Province of Saskatchewan,4215 degeer street saskatoon sk s7h 4n6,4215,degeer street
+614,Royal West Campus,0,0,0,1,Gr. 12-12,441 WITNEY AVE N SASKATOON sk S7L 3M6,SASKATOON,S7L 3M6,sk,Province of Saskatchewan,441 witney ave n saskatoon sk s7l 3m6,441,witney ave n
+615,Saskatoon Christian School,1,1,1,1,Gr. K-12,BOX 8 SITE 510 RR 5 STN MAIN SASKATOON sk S7K 3J8,SASKATOON,S7K 3J8,sk,Province of Saskatchewan,site 510 rr 5 stn main saskatoon sk s7k 3j8,5,stn main
+616,Saskatoon Misbah School Inc.,1,1,1,0,Gr. K-8,PO BOX 21065 SASKATOON sk S7H 5N9,SASKATOON,S7H 5N9,sk,Province of Saskatchewan,saskatoon sk s7h 5n9,,
+617,Saskatoon Public Online Learning Centre,0,0,0,1,Gr. 10-12,605 ACADIA DR SASKATOON sk S7H 3V8,SASKATOON,S7H 3V8,sk,Province of Saskatchewan,605 acadia dr saskatoon sk s7h 3v8,605,acadia dr
+618,Silverspring Elementary School,1,1,1,0,Gr. K-8,610 KONIHOWSKI RD SASKATOON sk S7S 1M5,SASKATOON,S7S 1M5,sk,Province of Saskatchewan,610 konihowski rd saskatoon sk s7s 1m5,610,konihowski rd
+619,Silverwood Heights School,1,1,1,0,Gr. K-8,403 SILVERWOOD ROAD SASKATOON sk S7K 6G1,SASKATOON,S7K 6G1,sk,Province of Saskatchewan,403 silverwood road saskatoon sk s7k 6g1,403,silverwood road
+620,Sutherland School,1,1,1,0,Gr. K-8,1008 EGBERT AVENUE SASKATOON sk S7N 1X6,SASKATOON,S7N 1X6,sk,Province of Saskatchewan,1008 egbert avenue saskatoon sk s7n 1x6,1008,egbert avenue
+621,Sylvia Fedoruk School,1,1,1,0,Gr. K-8,628 MANEK RD SASKATOON sk S7W 0W3,SASKATOON,S7W 0W3,sk,Province of Saskatchewan,628 manek rd saskatoon sk s7w 0w3,628,manek rd
+622,Tommy Douglas Collegiate,0,0,1,1,Gr. 9-12,130 BOWLT CRES SASKATOON sk S7M 0L1,SASKATOON,S7M 0L1,sk,Province of Saskatchewan,130 bowlt cres saskatoon sk s7m 0l1,130,bowlt cres
+623,Victoria School,1,1,1,0,Gr. K-8,639 BROADWAY AVENUE SASKATOON sk S7N 1B2,SASKATOON,S7N 1B2,sk,Province of Saskatchewan,639 broadway avenue saskatoon sk s7n 1b2,639,broadway avenue
+624,Vincent Massey School,1,1,1,0,Gr. K-8,1001 NORTHUMBERLAND AVENUE SASKATOON sk S7L 3W8,SASKATOON,S7L 3W8,sk,Province of Saskatchewan,1001 northumberland avenue saskatoon sk s7l 3w8,1001,northumberland avenue
+625,W.P. Bate Community School,1,1,1,0,Gr. K-8,2515 18TH ST W SASKATOON sk S7M 4A9,SASKATOON,S7M 4A9,sk,Province of Saskatchewan,2515 18th st w saskatoon sk s7m 4a9,2515,18th st w
+626,Walter Murray Collegiate,0,0,1,1,Gr. 9-12,1905 PRESTON AVENUE SASKATOON sk S7J 2E7,SASKATOON,S7J 2E7,sk,Province of Saskatchewan,1905 preston avenue saskatoon sk s7j 2e7,1905,preston avenue
+627,Westmount Community School,1,1,1,0,Gr. K-8,411 AVENUE J NORTH SASKATOON sk S7L 2K4,SASKATOON,S7L 2K4,sk,Province of Saskatchewan,411 avenue j north saskatoon sk s7l 2k4,411,avenue j north
+628,Wildwood School,1,1,1,0,Gr. K-8,203 ROSEDALE ROAD SASKATOON sk S7H 5H1,SASKATOON,S7H 5H1,sk,Province of Saskatchewan,203 rosedale road saskatoon sk s7h 5h1,203,rosedale road
+629,Willowgrove School,1,1,1,0,Gr. K-8,805 STENSRUD ROAD SASKATOON sk S7W 0B1,SASKATOON,S7W 0B1,sk,Province of Saskatchewan,805 stensrud road saskatoon sk s7w 0b1,805,stensrud road
+630,33 Central,1,1,1,1,Gr. K-12,BOX 89 FILLMORE sk S0G 1N0,FILLMORE,S0G 1N0,sk,Province of Saskatchewan,fillmore sk s0g 1n0,,
+631,Alameda School,1,1,1,0,Gr. K-9,BOX 237 ALAMEDA sk S0C 0A0,ALAMEDA,S0C 0A0,sk,Province of Saskatchewan,alameda sk s0c 0a0,,
+632,Arcola School,1,1,1,1,Gr. K-12,BOX 356 ARCOLA sk S0C 0G0,ARCOLA,S0C 0G0,sk,Province of Saskatchewan,arcola sk s0c 0g0,,
+633,Assiniboia Park Elementary School,1,1,0,0,Gr. K-6,817 13TH STREET NE WEYBURN sk S4H 3M5,WEYBURN,S4H 3M5,sk,Province of Saskatchewan,817 13th street ne weyburn sk s4h 3m5,817,13th street ne
+634,Carievale School,1,1,1,0,Gr. K-8,BOX 250 CARIEVALE sk S0C 0P0,CARIEVALE,S0C 0P0,sk,Province of Saskatchewan,carievale sk s0c 0p0,,
+635,Carlyle Elementary School,1,1,0,0,Gr. K-6,BOX 789 CARLYLE sk S0C 0R0,CARLYLE,S0C 0R0,sk,Province of Saskatchewan,carlyle sk s0c 0r0,,
+636,Carnduff Education Complex,1,1,1,1,Gr. K-12,BOX 398 CARNDUFF sk S0C 0S0,CARNDUFF,S0C 0S0,sk,Province of Saskatchewan,carnduff sk s0c 0s0,,
+637,Cyber Stone Virtual School,0,0,1,1,Gr. 9-12,80 A 18TH ST NE WEYBURN sk S4H 2W4,WEYBURN,S4H 2W4,sk,Province of Saskatchewan,80 a 18th st ne weyburn sk s4h 2w4,80 a,18th st ne
+638,Estevan Comprehensive,0,0,1,1,Gr. 9-12,255 SPRUCE DRIVE ESTEVAN sk S4A 2A6,ESTEVAN,S4A 2A6,sk,Province of Saskatchewan,255 spruce drive estevan sk s4a 2a6,255,spruce drive
+639,Gladmar Regional School,1,1,1,1,Gr. K-12,BOX 39 GLADMAR sk S0C 1A0,GLADMAR,S0C 1A0,sk,Province of Saskatchewan,gladmar sk s0c 1a0,,
+640,Gordon F. Kells High School,0,0,1,1,Gr. 7-12,BOX 489 CARLYLE sk S0C 0R0,CARLYLE,S0C 0R0,sk,Province of Saskatchewan,carlyle sk s0c 0r0,,
+641,Haig School,1,1,0,0,Gr. K-6,1113 COTEAU AVE NE WEYBURN sk S4H 0H5,WEYBURN,S4H 0H5,sk,Province of Saskatchewan,1113 coteau ave ne weyburn sk s4h 0h5,1113,coteau ave ne
+642,Hillcrest Elementary School,1,1,1,0,Gr. K-8,609 ROOKS AVENUE ESTEVAN sk S4A 0B4,ESTEVAN,S4A 0B4,sk,Province of Saskatchewan,609 rooks avenue estevan sk s4a 0b4,609,rooks avenue
+643,Home-based School,1,1,1,1,Gr. K-12,sk,,,sk,Province of Saskatchewan,sk,,
+644,Lampman School,1,1,1,1,Gr. K-12,BOX 370 LAMPMAN sk S0C 1N0,LAMPMAN,S0C 1N0,sk,Province of Saskatchewan,lampman sk s0c 1n0,,
+645,Lyndale School,1,1,1,0,Gr. K-9,BOX 28 OUNGRE sk S0C 1Z0,OUNGRE,S0C 1Z0,sk,Province of Saskatchewan,oungre sk s0c 1z0,,
+646,MacLeod Elementary School,1,1,0,0,Gr. K-5,1016 GORDON STREET MOOSOMIN sk S0G 3N0,MOOSOMIN,S0G 3N0,sk,Province of Saskatchewan,1016 gordon street moosomin sk s0g 3n0,1016,gordon street
+647,Macoun School,1,1,1,0,Gr. K-8,BOX 40 MACOUN sk S0C 1P0,MACOUN,S0C 1P0,sk,Province of Saskatchewan,macoun sk s0c 1p0,,
+648,Manor School,1,1,1,1,Gr. K-12,BOX 28 MANOR sk S0C 1R0,MANOR,S0C 1R0,sk,Province of Saskatchewan,manor sk s0c 1r0,,
+649,Maryfield School,1,1,1,1,Gr. K-12,201 BARROWS STREET MARYFIELD sk S0G 3K0,MARYFIELD,S0G 3K0,sk,Province of Saskatchewan,201 barrows street maryfield sk s0g 3k0,201,barrows street
+650,McNaughton High School,0,1,1,1,Gr. 6-12,BOX 1377 MOOSOMIN sk S0G 3N0,MOOSOMIN,S0G 3N0,sk,Province of Saskatchewan,moosomin sk s0g 3n0,,
+651,Midale Central School,1,1,1,1,Gr. K-12,BOX 390 MIDALE sk S0C 1S0,MIDALE,S0C 1S0,sk,Province of Saskatchewan,midale sk s0c 1s0,,
+652,Ogema School,1,1,1,1,Gr. K-12,BOX 280 OGEMA sk S0C 1Y0,OGEMA,S0C 1Y0,sk,Province of Saskatchewan,ogema sk s0c 1y0,,
+653,Oxbow Prairie Horizons School,1,1,1,1,Gr. K-12,P O BOX 660 OXBOW sk S0C 2B0,OXBOW,S0C 2B0,sk,Province of Saskatchewan,p o oxbow sk s0c 2b0,,
+654,Pangman School,1,1,1,1,Gr. K-12,BOX 188 PANGMAN sk S0C 2C0,PANGMAN,S0C 2C0,sk,Province of Saskatchewan,pangman sk s0c 2c0,,
+655,Pleasantdale Elementary,1,1,1,0,Gr. K-8,1700 DIEPPE CRESCENT ESTEVAN sk S4A 1X1,ESTEVAN,S4A 1X1,sk,Province of Saskatchewan,1700 dieppe crescent estevan sk s4a 1x1,1700,dieppe crescent
+656,Queen Elizabeth Elementary,1,1,0,0,Gr. K-6,725 KING STREET WEYBURN sk S4H 0P9,WEYBURN,S4H 0P9,sk,Province of Saskatchewan,725 king street weyburn sk s4h 0p9,725,king street
+657,Radville Regional High School,0,0,1,1,Gr. 7-12,BOX 710 RADVILLE sk S0C 2G0,RADVILLE,S0C 2G0,sk,Province of Saskatchewan,radville sk s0c 2g0,,
+658,Redvers School,1,1,1,1,Gr. K-12,BOX 9 REDVERS sk S0C 2H0,REDVERS,S0C 2H0,sk,Province of Saskatchewan,redvers sk s0c 2h0,,
+659,Rocanville School,1,1,1,1,Gr. K-12,1002 FRANCIS AVENUE ROCANVILLE sk S0A 3L0,ROCANVILLE,S0A 3L0,sk,Province of Saskatchewan,1002 francis avenue rocanville sk s0a 3l0,1002,francis avenue
+660,Souris School,1,1,0,0,Gr. K-6,316 5TH AVENUE S.E. WEYBURN sk S4H 1Y5,WEYBURN,S4H 1Y5,sk,Province of Saskatchewan,316 5th avenue se weyburn sk s4h 1y5,316,5th avenue se
+661,Spruce Ridge School,1,1,1,0,Gr. K-8,321 SPRUCE DRIVE ESTEVAN sk S4A 2W9,ESTEVAN,S4A 2W9,sk,Province of Saskatchewan,321 spruce drive estevan sk s4a 2w9,321,spruce drive
+662,Stoughton Central School,1,1,1,1,Gr. K-12,BOX 640 STOUGHTON sk S0G 4T0,STOUGHTON,S0G 4T0,sk,Province of Saskatchewan,stoughton sk s0g 4t0,,
+663,Wapella School,1,1,1,0,Gr. K-7,610 QU APPELLE STREET WAPELLA sk S0G 4Z0,WAPELLA,S0G 4Z0,sk,Province of Saskatchewan,610 qu appelle street wapella sk s0g 4z0,610,qu appelle street
+664,Wawota Parkland School,1,1,1,1,Gr. K-12,BOX 270 WAWOTA sk S0G 5A0,WAWOTA,S0G 5A0,sk,Province of Saskatchewan,wawota sk s0g 5a0,,
+665,Weldon School,1,1,1,0,Gr. K-8,BOX 310 BIENFAIT sk S0C 0M0,BIENFAIT,S0C 0M0,sk,Province of Saskatchewan,bienfait sk s0c 0m0,,
+666,Westview Elementary,1,1,1,0,Gr. K-8,1607 2ND STREET ESTEVAN sk S4A 0M9,ESTEVAN,S4A 0M9,sk,Province of Saskatchewan,1607 2nd street estevan sk s4a 0m9,1607,2nd street
+667,Weyburn Comprehensive School,0,0,1,1,Gr. 7-12,629 KING ST WEYBURN sk S4H 2S5,WEYBURN,S4H 2S5,sk,Province of Saskatchewan,629 king st weyburn sk s4h 2s5,629,king st
+668,Yellow Grass School,1,1,1,1,Gr. K-12,BOX 180 YELLOW GRASS sk S0G 5J0,YELLOW GRASS,S0G 5J0,sk,Province of Saskatchewan,yellow grass sk s0g 5j0,,
+669,Bethlehem Catholic High School,0,0,1,1,Gr. 9-12,110 BOWLT CRES SASKATOON sk S7M 0L1,SASKATOON,S7M 0L1,sk,Province of Saskatchewan,110 bowlt cres saskatoon sk s7m 0l1,110,bowlt cres
+670,Bishop Filevich Ukrainian Bilingual School,1,1,1,0,Gr. K-8,125 105TH STREET SASKATOON sk S7N 1N3,SASKATOON,S7N 1N3,sk,Province of Saskatchewan,125 105th street saskatoon sk s7n 1n3,125,105th street
+671,Bishop James Mahoney High School,0,0,1,1,Gr. 9-12,231 PRIMROSE DRIVE SASKATOON sk S7K 6Y3,SASKATOON,S7K 6Y3,sk,Province of Saskatchewan,231 primrose drive saskatoon sk s7k 6y3,231,primrose drive
+672,Bishop Klein Community School,1,1,1,0,Gr. K-8,1121 NORTHUMBERLAND AVENUE SASKATOON sk S7L 3X2,SASKATOON,S7L 3X2,sk,Province of Saskatchewan,1121 northumberland avenue saskatoon sk s7l 3x2,1121,northumberland avenue
+673,Bishop Murray High School,0,0,1,1,Gr. 8-12,615 WIGGINS AVENUE SASKATOON sk S7H 2J2,SASKATOON,S7H 2J2,sk,Province of Saskatchewan,615 wiggins avenue saskatoon sk s7h 2j2,615,wiggins avenue
+674,Bishop Murray High School - CNYC,0,0,0,1,Gr. 10-12,615 WIGGINS AVE S SASKATOON sk S7H 2J2,SASKATOON,S7H 2J2,sk,Province of Saskatchewan,615 wiggins ave s saskatoon sk s7h 2j2,615,wiggins ave s
+675,Bishop Murray High School - FSP,0,0,1,1,Gr. 9-11,615 WIGGINS AVE S SASKATOON sk S7H 2J2,SASKATOON,S7H 2J2,sk,Province of Saskatchewan,615 wiggins ave s saskatoon sk s7h 2j2,615,wiggins ave s
+676,Bishop Murray High School - ODP,0,0,1,1,Gr. 9-12,142A 2ND AVE N SASKATOON sk S7K 2B2,SASKATOON,S7K 2B2,sk,Province of Saskatchewan,142a 2nd ave n saskatoon sk s7k 2b2,142a,2nd ave n
+677,Bishop Pocock School,1,1,1,0,Gr. K-8,227 AVONDALE ROAD SASKATOON sk S7H 5A5,SASKATOON,S7H 5A5,sk,Province of Saskatchewan,227 avondale road saskatoon sk s7h 5a5,227,avondale road
+678,Bishop Roborecki Community School,1,1,1,0,Gr. K-8,24 PEARSON PLACE SASKATOON sk S7L 4S7,SASKATOON,S7L 4S7,sk,Province of Saskatchewan,24 pearson place saskatoon sk s7l 4s7,24,pearson place
+679,E.D. Feehan Catholic High School,0,0,1,1,Gr. 9-12,411 AVENUE M NORTH SASKATOON sk S7L 2S7,SASKATOON,S7L 2S7,sk,Province of Saskatchewan,411 avenue m north saskatoon sk s7l 2s7,411,avenue m north
+680,École Cardinal Leger School,1,1,1,0,Gr. K-8,141 CAMPION CRESCENT SASKATOON sk S7H 3T8,SASKATOON,S7H 3T8,sk,Province of Saskatchewan,141 campion crescent saskatoon sk s7h 3t8,141,campion crescent
+681,École Holy Mary Catholic School,1,1,1,0,Gr. K-8,1401 PARR HILL DR MARTENSVILLE sk S0K 2T1,MARTENSVILLE,S0K 2T1,sk,Province of Saskatchewan,1401 parr hill dr martensville sk s0k 2t1,1401,parr hill dr
+682,École Mother Teresa School,1,1,1,0,Gr. K-8,738 KONIHOWSKI ROAD SASKATOON sk S7S 1M4,SASKATOON,S7S 1M4,sk,Province of Saskatchewan,738 konihowski road saskatoon sk s7s 1m4,738,konihowski road
+683,École Saskatoon French School,1,1,1,0,Gr. K-8,1441 WELLINGTON STREET SASKATOON sk S7M 1L3,SASKATOON,S7M 1L3,sk,Province of Saskatchewan,1441 wellington street saskatoon sk s7m 1l3,1441,wellington street
+684,École Sister O'Brien School,1,1,1,0,Gr. K-8,451 SILVERWOOD ROAD SASKATOON sk S7K 6G1,SASKATOON,S7K 6G1,sk,Province of Saskatchewan,451 silverwood road saskatoon sk s7k 6g1,451,silverwood road
+685,École St. Gerard School,1,1,1,0,Gr. K-8,205 MONTREAL AVENUE NORTH SASKATOON sk S7L 3N6,SASKATOON,S7L 3N6,sk,Province of Saskatchewan,205 montreal avenue north saskatoon sk s7l 3n6,205,montreal avenue north
+686,École St. Matthew School,1,1,1,0,Gr. K-8,1508 ARLINGTON AVENUE SASKATOON sk S7H 2Y2,SASKATOON,S7H 2Y2,sk,Province of Saskatchewan,1508 arlington avenue saskatoon sk s7h 2y2,1508,arlington avenue
+687,École St. Paul School,1,1,1,0,Gr. K-8,1527 ALEXANDRA AVENUE SASKATOON sk S7K 3C1,SASKATOON,S7K 3C1,sk,Province of Saskatchewan,1527 alexandra avenue saskatoon sk s7k 3c1,1527,alexandra avenue
+688,École St. Peter School,1,1,1,0,Gr. K-8,202 SUMNER CRESCENT SASKATOON sk S7L 7A4,SASKATOON,S7L 7A4,sk,Province of Saskatchewan,202 sumner crescent saskatoon sk s7l 7a4,202,sumner crescent
+689,Father Robinson School,1,1,1,0,Gr. K-8,530 ROGERS ROAD SASKATOON sk S7N 3Z3,SASKATOON,S7N 3Z3,sk,Province of Saskatchewan,530 rogers road saskatoon sk s7n 3z3,530,rogers road
+690,Father Vachon School,1,1,1,0,Gr. K-8,3722 CENTENNIAL DRIVE SASKATOON sk S7L 5K4,SASKATOON,S7L 5K4,sk,Province of Saskatchewan,3722 centennial drive saskatoon sk s7l 5k4,3722,centennial drive
+691,Georges Vanier Catholic Fine Arts School,1,1,1,0,Gr. K-8,820 WILSON CRESCENT SASKATOON sk S7J 2M4,SASKATOON,S7J 2M4,sk,Province of Saskatchewan,820 wilson crescent saskatoon sk s7j 2m4,820,wilson crescent
+692,Greater Saskatoon Catholic Cyber School,0,0,1,1,Gr. 9-12,2701 PORTER ST SASKATOON sk S7J 3K8,SASKATOON,S7J 3K8,sk,Province of Saskatchewan,2701 porter st saskatoon sk s7j 3k8,2701,porter st
+693,Holy Cross High School,0,0,1,1,Gr. 9-12,2115 MCEOWN AVENUE SASKATOON sk S7J 3K8,SASKATOON,S7J 3K8,sk,Province of Saskatchewan,2115 mceown avenue saskatoon sk s7j 3k8,2115,mceown avenue
+694,Holy Family Catholic School,1,1,1,0,Gr. K-8,815 STENSRUD RD SASKATOON sk S7W 0B1,SASKATOON,S7W 0B1,sk,Province of Saskatchewan,815 stensrud rd saskatoon sk s7w 0b1,815,stensrud rd
+695,Holy Trinity Catholic School,1,1,1,0,Gr. K-8,SS 6 405 TRADITIONS BLVD WARMAN sk S0K 4S5,WARMAN,S0K 4S5,sk,Province of Saskatchewan,ss 6 405 traditions blvd warman sk s0k 4s5,405,traditions blvd
+696,Home-based School,1,1,1,1,Gr. K-12,sk,,,sk,Province of Saskatchewan,sk,,
+697,Oskayak High School,0,0,1,1,Gr. 9-12,919 BROADWAY AVENUE SASKATOON sk S7N 1B8,SASKATOON,S7N 1B8,sk,Province of Saskatchewan,919 broadway avenue saskatoon sk s7n 1b8,919,broadway avenue
+698,Pope John Paul II School,1,1,1,0,Gr. K-8,3035 ARLINGTON AVENUE SASKATOON sk S7J 3K5,SASKATOON,S7J 3K5,sk,Province of Saskatchewan,3035 arlington avenue saskatoon sk s7j 3k5,3035,arlington avenue
+699,Saskatoon International Online School,0,0,0,1,Gr. 10-12,2701 PORTER ST SASKATOON sk S7J 3K7,SASKATOON,S7J 3K7,sk,Province of Saskatchewan,2701 porter st saskatoon sk s7j 3k7,2701,porter st
+700,St. Angela School,1,1,1,0,Gr. K-8,302 RUSSELL ROAD SASKATOON sk S7K 6P2,SASKATOON,S7K 6P2,sk,Province of Saskatchewan,302 russell road saskatoon sk s7k 6p2,302,russell road
+701,St. Anne School,1,1,1,0,Gr. K-8,102 RAVINE COURT SASKATOON sk S7K 4H6,SASKATOON,S7K 4H6,sk,Province of Saskatchewan,102 ravine court saskatoon sk s7k 4h6,102,ravine court
+702,St. Augustine School,1,1,1,0,Gr. K-8,602 BOYCHUK DRIVE SASKATOON sk S7H 4S1,SASKATOON,S7H 4S1,sk,Province of Saskatchewan,602 boychuk drive saskatoon sk s7h 4s1,602,boychuk drive
+703,St. Augustine School - Humboldt,1,1,1,0,Gr. K-8,BOX 1810 HUMBOLDT sk S0K 2A0,HUMBOLDT,S0K 2A0,sk,Province of Saskatchewan,humboldt sk s0k 2a0,,
+704,St. Bernard School,1,1,1,0,Gr. K-8,203 WHITESHORE CRESCENT SASKATOON sk S7J 3W4,SASKATOON,S7J 3W4,sk,Province of Saskatchewan,203 whiteshore crescent saskatoon sk s7j 3w4,203,whiteshore crescent
+705,St. Dominic School,1,1,1,0,Gr. K-8,3301 DIEPPE STREET SASKATOON sk S7M 3S6,SASKATOON,S7M 3S6,sk,Province of Saskatchewan,3301 dieppe street saskatoon sk s7m 3s6,3301,dieppe street
+706,St. Dominic School - Humboldt,1,1,1,0,Gr. K-8,BOX 2019 HUMBOLDT sk S0K 2A0,HUMBOLDT,S0K 2A0,sk,Province of Saskatchewan,humboldt sk s0k 2a0,,
+707,St. Edward School,1,1,1,0,Gr. K-8,1002 AVENUE P NORTH SASKATOON sk S7L 2W7,SASKATOON,S7L 2W7,sk,Province of Saskatchewan,1002 avenue p north saskatoon sk s7l 2w7,1002,avenue p north
+708,St. Frances Cree Bilingual School,1,1,0,0,Gr. K-5,2141 MCPHERSON AVENUE SASKATOON sk S7J 0S8,SASKATOON,S7J 0S8,sk,Province of Saskatchewan,2141 mcpherson avenue saskatoon sk s7j 0s8,2141,mcpherson avenue
+709,St. Frances Cree Bilingual School - Bateman,0,1,1,0,Gr. 6-9,6 BATEMAN CRES SASKATOON sk S7H 3C2,SASKATOON,S7H 3C2,sk,Province of Saskatchewan,6 bateman cres saskatoon sk s7h 3c2,6,bateman cres
+710,St. Gabriel School,1,1,1,0,Gr. K-9,BOX 1177 BIGGAR sk S0K 0M0,BIGGAR,S0K 0M0,sk,Province of Saskatchewan,biggar sk s0k 0m0,,
+711,St. George School,1,1,1,0,Gr. K-8,748 REDBERRY ROAD SASKATOON sk S7K 5H3,SASKATOON,S7K 5H3,sk,Province of Saskatchewan,748 redberry road saskatoon sk s7k 5h3,748,redberry road
+712,St. John Community School,1,1,1,0,Gr. K-8,1205 AVENUE N SOUTH SASKATOON sk S7M 2R1,SASKATOON,S7M 2R1,sk,Province of Saskatchewan,1205 avenue n south saskatoon sk s7m 2r1,1205,avenue n south
+713,St. Joseph High School,0,0,1,1,Gr. 9-12,115 NELSON ROAD SASKATOON sk S7S 1H1,SASKATOON,S7S 1H1,sk,Province of Saskatchewan,115 nelson road saskatoon sk s7s 1h1,115,nelson road
+714,St. Kateri Tekakwitha Catholic School,1,1,1,0,Gr. K-8,886 GORDON RD SASKATOON sk S7T 0J5,SASKATOON,S7T 0J5,sk,Province of Saskatchewan,886 gordon rd saskatoon sk s7t 0j5,886,gordon rd
+715,St. Lorenzo Ruiz Catholic School,1,1,1,0,Gr. K-8,1023 HAMPTON CIRCLE SASKATOON sk S7R 0G7,SASKATOON,S7R 0G7,sk,Province of Saskatchewan,1023 hampton circle saskatoon sk s7r 0g7,1023,hampton circle
+716,St. Luke School,1,1,1,0,Gr. K-8,275 EMMELINE ROAD SASKATOON sk S7J 5B7,SASKATOON,S7J 5B7,sk,Province of Saskatchewan,275 emmeline road saskatoon sk s7j 5b7,275,emmeline road
+717,St. Marguerite School,1,1,1,0,Gr. K-8,1235 MCCORMACK ROAD SASKATOON sk S7M 5L6,SASKATOON,S7M 5L6,sk,Province of Saskatchewan,1235 mccormack road saskatoon sk s7m 5l6,1235,mccormack road
+718,St. Maria Goretti Community School,1,1,1,0,Gr. K-8,301 AVENUE Q NORTH SASKATOON sk S7L 2X7,SASKATOON,S7L 2X7,sk,Province of Saskatchewan,301 avenue q north saskatoon sk s7l 2x7,301,avenue q north
+719,St. Mark Community School,1,1,1,0,Gr. K-8,414 PENDYGRASSE STREET SASKATOON sk S7M 4M3,SASKATOON,S7M 4M3,sk,Province of Saskatchewan,414 pendygrasse street saskatoon sk s7m 4m3,414,pendygrasse street
+720,St. Mary's Wellness and Education Centre,1,1,1,0,Gr. K-8,337 AVENUE O SOUTH SASKATOON sk S7M 2R9,SASKATOON,S7M 2R9,sk,Province of Saskatchewan,337 avenue o south saskatoon sk s7m 2r9,337,avenue o south
+721,St. Michael Community School,1,1,1,0,Gr. K-8,22 33RD STREET E SASKATOON sk S7K 0R7,SASKATOON,S7K 0R7,sk,Province of Saskatchewan,22 33rd street e saskatoon sk s7k 0r7,22,33rd street e
+722,St. Nicholas Catholic School,1,1,1,0,Gr. K-8,530 MANEK RD SASKATOON sk S7W 0W3,SASKATOON,S7W 0W3,sk,Province of Saskatchewan,530 manek rd saskatoon sk s7w 0w3,530,manek rd
+723,St. Philip School,1,1,1,0,Gr. K-8,1901 HAULTAIN AVENUE SASKATOON sk S7J 1P4,SASKATOON,S7J 1P4,sk,Province of Saskatchewan,1901 haultain avenue saskatoon sk s7j 1p4,1901,haultain avenue
+724,St. Thérèse of Lisieux Catholic School,1,1,1,0,Gr. K-8,123 OLSON LANE WEST SASKATOON sk S7V 0L1,SASKATOON,S7V 0L1,sk,Province of Saskatchewan,123 olson lane west saskatoon sk s7v 0l1,123,olson lane west
+725,St. Volodymyr School,1,1,1,0,Gr. K-8,302 KELLOUGH ROAD SASKATOON sk S7N 3K6,SASKATOON,S7N 3K6,sk,Province of Saskatchewan,302 kellough road saskatoon sk s7n 3k6,302,kellough road
+726,Beechy Hutterite School,0,1,1,0,Gr. 2-8,BOX 338 BEECHY sk S0L 0C0,BEECHY,S0L 0C0,sk,Province of Saskatchewan,beechy sk s0l 0c0,,
+727,Beechy School,1,1,1,1,Gr. K-12,BOX 310 BEECHY sk S0L 0C0,BEECHY,S0L 0C0,sk,Province of Saskatchewan,beechy sk s0l 0c0,,
+728,Big Rose Hutterite School,1,1,1,0,Gr. K-8,BOX 310 BIGGAR sk S0K 0M0,BIGGAR,S0K 0M0,sk,Province of Saskatchewan,biggar sk s0k 0m0,,
+729,Biggar Central School 2000,1,1,1,1,Gr. K-12,BOX 1148 BIGGAR sk S0K 0M0,BIGGAR,S0K 0M0,sk,Province of Saskatchewan,biggar sk s0k 0m0,,
+730,"Cherry Grove School, Loreburn Hutterite Colony",0,1,1,0,Gr. 1-9,BOX 220 DAVIDSON sk S0G 1A0,DAVIDSON,S0G 1A0,sk,Province of Saskatchewan,davidson sk s0g 1a0,,
+731,Clear Springs Hutterite School,0,1,1,0,Gr. 1-9,PO BOX 399 KENASTON sk S0G 2N0,KENASTON,S0G 2N0,sk,Province of Saskatchewan,kenaston sk s0g 2n0,,
+732,Cleland Hutterite School,0,1,1,0,Gr. 2-9,BOX 1656 ROSETOWN sk S0L 2V0,ROSETOWN,S0L 2V0,sk,Province of Saskatchewan,rosetown sk s0l 2v0,,
+733,D'Arcy Elementary School,1,1,0,0,Gr. K-6,BOX 9 D'ARCY STATION sk S0L 0N0,D'ARCY STATION,S0L 0N0,sk,Province of Saskatchewan,d'arcy station sk s0l 0n0,,
+734,Davidson School - K-12,1,1,1,1,Gr. K-12,BOX 699 DAVIDSON sk S0G 1A0,DAVIDSON,S0G 1A0,sk,Province of Saskatchewan,davidson sk s0g 1a0,,
+735,Dinsmore Colony School,0,1,1,0,Gr. 2-9,BOX 175 DINSMORE sk S0L 0T0,DINSMORE,S0L 0T0,sk,Province of Saskatchewan,dinsmore sk s0l 0t0,,
+736,Dinsmore Composite School,1,1,1,1,Gr. K-12,PO BOX 490 DINSMORE sk S0L 0T0,DINSMORE,S0L 0T0,sk,Province of Saskatchewan,dinsmore sk s0l 0t0,,
+737,Eaton School,1,1,1,1,Gr. K-12,BOX 190 EATONIA sk S0L 0Y0,EATONIA,S0L 0Y0,sk,Province of Saskatchewan,eatonia sk s0l 0y0,,
+738,Eatonia Hutterite School,0,1,1,0,Gr. 1-9,BOX 459 EATONIA sk S0L 0Y0,EATONIA,S0L 0Y0,sk,Province of Saskatchewan,eatonia sk s0l 0y0,,
+739,Elizabeth Middle School,0,1,1,0,Gr. 5-8,BOX 666 KINDERSLEY sk S0L 1S0,KINDERSLEY,S0L 1S0,sk,Province of Saskatchewan,kindersley sk s0l 1s0,,
+740,Elrose Composite School,1,1,1,1,Gr. K-12,BOX 400 ELROSE sk S0L 0Z0,ELROSE,S0L 0Z0,sk,Province of Saskatchewan,elrose sk s0l 0z0,,
+741,Eston Composite School,1,1,1,1,Gr. K-12,BOX 639 ESTON sk S0L 1A0,ESTON,S0L 1A0,sk,Province of Saskatchewan,eston sk s0l 1a0,,
+742,Glidden Hutterite School,0,1,1,0,Gr. 2-9,BOX 39 GLIDDEN sk S0L 1H0,GLIDDEN,S0L 1H0,sk,Province of Saskatchewan,glidden sk s0l 1h0,,
+743,Goldenview Colony School,0,1,1,0,Gr. 1-8,GENERAL DELIVERY LANDIS sk S0K 2K0,LANDIS,S0K 2K0,sk,Province of Saskatchewan,general delivery landis sk s0k 2k0,,general delivery
+744,Harris-Tessier Central School,0,1,0,0,Gr. 1-6,BOX 249 HARRIS sk S0L 1K0,HARRIS,S0L 1K0,sk,Province of Saskatchewan,harris sk s0l 1k0,,
+745,Home-based School,1,1,1,1,Gr. K-12,sk,,,sk,Province of Saskatchewan,sk,,
+746,Kenaston School,1,1,1,1,Gr. K-12,BOX 99 KENASTON sk S0G 2N0,KENASTON,S0G 2N0,sk,Province of Saskatchewan,kenaston sk s0g 2n0,,
+747,Kindersley Composite School,0,0,1,1,Gr. 9-12,BOX 1450 KINDERSLEY sk S0L 1S0,KINDERSLEY,S0L 1S0,sk,Province of Saskatchewan,kindersley sk s0l 1s0,,
+748,Kyle Colony School,0,1,1,0,Gr. 1-9,BOX 518 ELROSE sk S0L 0Z0,ELROSE,S0L 0Z0,sk,Province of Saskatchewan,elrose sk s0l 0z0,,
+749,Kyle Composite School,1,1,1,1,Gr. K-12,BOX 40 KYLE sk S0L 1T0,KYLE,S0L 1T0,sk,Province of Saskatchewan,kyle sk s0l 1t0,,
+750,Loreburn Central School,1,1,1,1,Gr. K-12,BOX 220 LOREBURN sk S0H 2S0,LOREBURN,S0H 2S0,sk,Province of Saskatchewan,loreburn sk s0h 2s0,,
+751,Lucky Lake School,1,1,1,1,Gr. K-12,BOX 219 LUCKY LAKE sk S0L 1Z0,LUCKY LAKE,S0L 1Z0,sk,Province of Saskatchewan,lucky lake sk s0l 1z0,,
+752,Matador Colony School,0,1,1,0,Gr. 1-8,BOX 628 KYLE sk S0L 1T0,KYLE,S0L 1T0,sk,Province of Saskatchewan,kyle sk s0l 1t0,,
+753,McGee Colony School,0,1,1,0,Gr. 1-9,BOX 1408 ROSETOWN sk S0L 2V0,ROSETOWN,S0L 2V0,sk,Province of Saskatchewan,rosetown sk s0l 2v0,,
+754,Milden Colony School,0,1,1,0,Gr. 1-9,P O BOX 700 ROSETOWN sk S0L 2V0,ROSETOWN,S0L 2V0,sk,Province of Saskatchewan,p o rosetown sk s0l 2v0,,
+755,North West Central School,1,1,1,1,Gr. K-12,BOX 40 PLENTY sk S0L 2R0,PLENTY,S0L 2R0,sk,Province of Saskatchewan,plenty sk s0l 2r0,,
+756,Outlook Elementary School,1,1,0,0,Gr. K-5,BOX 820 OUTLOOK sk S0L 2N0,OUTLOOK,S0L 2N0,sk,Province of Saskatchewan,outlook sk s0l 2n0,,
+757,Outlook High School,0,1,1,1,Gr. 6-12,BOX 1720 OUTLOOK sk S0L 2N0,OUTLOOK,S0L 2N0,sk,Province of Saskatchewan,outlook sk s0l 2n0,,
+758,Prairieland Hutterite School,0,1,1,0,Gr. 1-8,BOX 667 ROSETOWN sk S0L 2V0,ROSETOWN,S0L 2V0,sk,Province of Saskatchewan,rosetown sk s0l 2v0,,
+759,Rosetown Central High School,0,0,1,1,Gr. 7-12,BOX 910 ROSETOWN sk S0L 2V0,ROSETOWN,S0L 2V0,sk,Province of Saskatchewan,rosetown sk s0l 2v0,,
+760,Rossville School,1,1,0,0,Gr. K-6,BOX 25 COLEVILLE sk S0L 0K0,COLEVILLE,S0L 0K0,sk,Province of Saskatchewan,coleville sk s0l 0k0,,
+761,Smiley Hutterite School,0,1,1,0,Gr. 1-9,BOX 44 SMILEY sk S0L 2Z0,SMILEY,S0L 2Z0,sk,Province of Saskatchewan,smiley sk s0l 2z0,,
+762,Springfield Hutterite School,0,1,1,0,Gr. 1-9,BOX 1777 KINDERSLEY sk S0L 1S0,KINDERSLEY,S0L 1S0,sk,Province of Saskatchewan,kindersley sk s0l 1s0,,
+763,Springwater Hutterite Elementary,0,1,1,0,Gr. 1-9,P.O. BOX 89 RUTHILDA sk S0K 3S0,RUTHILDA,S0K 3S0,sk,Province of Saskatchewan,ruthilda sk s0k 3s0,,
+764,Sun West Distance Learning Centre,1,1,1,1,Gr. K-12,PO BOX 99 KENASTON sk S0G 2N0,KENASTON,S0G 2N0,sk,Province of Saskatchewan,kenaston sk s0g 2n0,,
+765,Valley Centre Hutterite School,0,1,0,0,Gr. 1-4,BOX 1087 ROSETOWN sk S0L 2V0,ROSETOWN,S0L 2V0,sk,Province of Saskatchewan,rosetown sk s0l 2v0,,
+766,Walter Aseltine School,1,1,0,0,Gr. K-6,BOX 1117 ROSETOWN sk S0L 2V0,ROSETOWN,S0L 2V0,sk,Province of Saskatchewan,rosetown sk s0l 2v0,,
+767,Westberry Elementary School,1,1,0,0,Gr. K-4,BOX 1774 KINDERSLEY sk S0L 1S0,KINDERSLEY,S0L 1S0,sk,Province of Saskatchewan,kindersley sk s0l 1s0,,
+768,Westcliffe Composite School,1,1,1,1,Gr. K-12,BOX 65 MARENGO sk S0L 2K0,MARENGO,S0L 2K0,sk,Province of Saskatchewan,marengo sk s0l 2k0,,

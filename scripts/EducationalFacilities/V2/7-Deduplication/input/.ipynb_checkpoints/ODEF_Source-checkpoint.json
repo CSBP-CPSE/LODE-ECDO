@@ -1,0 +1,25 @@
+{
+	"filename":"input/ODEF_Validation_ForDedupe.csv",
+	"output_name":"ODEF_DupePairs.csv",
+	"encoding":"utf-8",
+	"index":"idx",
+	"column_map":{
+			"Name":"facility_name",
+			"Address":"address_str",
+			"StreetNumber":"street_no",
+			"StreetName":"street_name",
+			"PostalCode":"postal_code",	
+			"City":"city",
+			"Province":"province",
+			"Latitude":"latitude",
+			"Longitude":"longitude",
+            "CSDUID": "CSDUID",
+            "ISCED020":"ISCED020",
+            "ISCED1":"ISCED1",
+            "ISCED2":"ISCED2",
+            "ISCED3":"ISCED3",
+            "ISCED4+":"ISCED4+"
+			},
+	"text_map":[
+	]
+}

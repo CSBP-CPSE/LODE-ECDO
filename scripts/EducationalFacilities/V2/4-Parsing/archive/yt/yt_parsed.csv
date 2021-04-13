@@ -1,0 +1,36 @@
+idx,facility_name,ISCED020,ISCED1,ISCED2,ISCED3,grade_range,address_str,province,provider,address_str_clean,street_no,street_name
+0,Aurora Virtual School,1,1,1,1,K to 12,"4201 4th Avenue, Whitehorse Y1A 5A1",YT,Yukon Territories,4201 4th avenue whitehorse y1a 5a1,4201,4th avenue
+1,Aurora Virtual School,1,1,1,1,K to 12,"4201 4th Avenue, Whitehorse Y1A 5A1",YT,Yukon Territories,4201 4th avenue whitehorse y1a 5a1,4201,4th avenue
+2,Centre scolaire secondaire communautaire Paul-√âmile-Mercier (CSSC Mercier),0,0,1,1,7 to 12,"20 Falcon Drive, Whitehorse Y1A 6B2",YT,Yukon Territories,20 falcon drive whitehorse y1a 6b2,20,falcon drive
+3,Chief Zzeh Gittlit School,1,1,1,0,K to 9,"Box 93, Old Crow Y0B 1N0",YT,Yukon Territories,old crow y0b 1n0,,
+4,Christ the King Elementary School,1,1,1,0,K to 7,"20 Nisutlin Drive, Whitehorse Y1A 3S5",YT,Yukon Territories,20 nisutlin drive whitehorse y1a 3s5,20,nisutlin drive
+5,Del Van Gorder School,1,1,1,1,K to 12,"Box 160, Faro Y0B 1K0Campbell",YT,Yukon Territories,faro y0b 1k0campbell,,faro y0b
+6,√âcole √âmilie-Tremblay,1,1,0,0,k to 6,"20 Falcon Drive, Whitehorse Y1A 6B2",YT,Yukon Territories,20 falcon drive whitehorse y1a 6b2,20,falcon drive
+7,√âcole Whitehorse Elementary School,1,1,1,0,K to 7,"4181 4th Avenue, Whitehorse Y1A 1J7",YT,Yukon Territories,4181 4th avenue whitehorse y1a 1j7,4181,4th avenue
+8,Elijah Smith Elementary School,1,1,1,0,K to 7,"1399 Hamilton Boulevard, Whitehorse Y1A 6G3",YT,Yukon Territories,1399 hamilton boulevard whitehorse y1a 6g3,1399,hamilton boulevard
+9,Eliza Van Bibber School,1,1,1,1,K to 12,"Box 30, Pelly Crossing Y0B 1P0",YT,Yukon Territories,pelly crossing y0b 1p0,,
+10,F.H. Collins Secondary School,0,0,1,1,8 to 12,"1001 Lewes Boulevard, Whitehorse Y1A 3J1",YT,Yukon Territories,1001 lewes boulevard whitehorse y1a 3j1,1001,lewes boulevard
+11,Gadzoosdaa Student Residence,0,0,0,1,10 to 12,"15 Selkirk Street, Whitehorse Y1A 3J5",YT,Yukon Territories,15 selkirk street whitehorse y1a 3j5,15,selkirk street
+12,Gh√πch Tl√¢ Community School,1,1,1,0,K to 9,"202 Austin Street, Carcross Y0B 1B0",YT,Yukon Territories,202 austin street carcross y0b 1b0,202,austin street
+13,Golden Horn Elementary School,1,1,1,0,K to 7,"Lot 209 Duncan Drive, Whitehorse Y1A 7A1",YT,Yukon Territories,lot 209 duncan drive whitehorse y1a 7a1,,duncan drive
+14,Grey Mountain Primary School,1,1,0,0,K to 3,"186 Alsek Road, Whitehorse Y1A 4N9",YT,Yukon Territories,186 alsek road whitehorse y1a 4n9,186,alsek road
+15,Hidden Valley Elementary School,1,1,1,0,K to 7,"5 MacPherson Road, Whitehorse Y1A5S3",YT,Yukon Territories,5 macpherson road whitehorse y1a5s3,5,macpherson road
+16,Holy Family Elementary School,1,1,1,0,K to 7,"55 Wann Road, Whitehorse Y1A5X4",YT,Yukon Territories,55 wann road whitehorse y1a5x4,55,wann road
+17,Individual Learning Centre,0,0,1,1,9 to 12,"Suite 500, 4201-4th Avenue, Whitehorse Y1A 5A1",YT,Yukon Territories,4201 4th avenue whitehorse y1a 5a1,4201,4th avenue
+18,J.V. Clark School,1,1,1,1,K to 12,"302 7th Avenue, Mayo Y0B 1M0",YT,Yukon Territories,302 7th avenue mayo y0b 1m0,302,7th avenue mayo
+19,Jack Hulland Elementary School,1,1,1,0,K to 7,"1304 Fir Street, Whitehorse Y1A 4C4",YT,Yukon Territories,1304 fir street whitehorse y1a 4c4,1304,fir street
+20,Johnson Elementary School,1,1,1,0,K to 7,"801 Ravenhill Drive, Watson Lake Y0A 1C0",YT,Yukon Territories,801 ravenhill drive watson lake y0a 1c0,801,ravenhill drive
+21,Kh√†t√¨nas.√†xh Community School,1,1,1,0,K to 9,"#1 School Road, Teslin Y0A 1B0",YT,Yukon Territories,#1 school road teslin y0a 1b0,#1,school road
+22,Kluane Lake School,1,1,1,0,K to 8,Destruction Bay Y0B 1H0,YT,Yukon Territories,destruction bay y0b 1h0,,
+23,Nelnah Bessie John School,1,1,1,0,K to 9,"Box 68, Beaver Creek Y0B 1A0",YT,Yukon Territories,beaver creek y0b 1a0,,beaver creek
+24,Porter Creek Secondary School,0,0,1,1,8 to 12,"1405 Hickory Street, Whitehorse Y1A 4M4",YT,Yukon Territories,1405 hickory street whitehorse y1a 4m4,1405,hickory street
+25,Robert Service School,1,1,1,1,K to 12,"967 ‚Äì 5th Avenue, Dawson City Y0B 1G0",YT,Yukon Territories,967 ‚äì 5th avenue dawson city y0b 1g0,967,äì 5th avenue
+26,Ross River School,1,1,1,1,K to 12,"241 Ross River Avenue, Ross River Y0B 1S0",YT,Yukon Territories,241 ross river avenue ross river y0b 1s0,241,ross river avenue
+27,Selkirk Elementary School,1,1,1,0,K to 7,"5 Selkirk Street, Whitehorse Y1A 3J5",YT,Yukon Territories,5 selkirk street whitehorse y1a 3j5,5,selkirk street
+28,St. Elias Community School,1,1,1,1,K to 12,"100 St. Elias Street, Haines Junction Y0B 1L0",YT,Yukon Territories,100 st elias street haines junction y0b 1l0,100,st elias street
+29,Takhini Elementary School,1,1,1,0,K to 7,"526 Range Road, Whitehorse Y1A 3A3",YT,Yukon Territories,526 range road whitehorse y1a 3a3,526,range road
+30,Tantalus School,1,1,1,1,K to 12,"121 Tantalus Crescent, Carmacks Y0B 1C0",YT,Yukon Territories,121 tantalus crescent carmacks y0b 1c0,121,tantalus crescent carmacks
+31,Teen Parent Centre,0,0,1,1,8 to 12,"1001B Lewes Blvd, Whitehorse Y1A 5P9",YT,Yukon Territories,1001b lewes blvd whitehorse y1a 5p9,1001b,lewes blvd
+32,Vanier Catholic Secondary School,0,0,1,1,8 to 12,"16 Duke Street, Whitehorse Y1A 4M2",YT,Yukon Territories,16 duke street whitehorse y1a 4m2,16,duke street
+33,Watson Lake Secondary School,0,0,1,1,8 to 12,"210 Robert Campbell Highway, Watson Lake Y0A 1C0",YT,Yukon Territories,210 robert campbell highway watson lake y0a 1c0,210,robert campbell highway
+34,Wood Street Centre,0,0,1,1,9 to 12,411 Wood Street,YT,Yukon Territories,411 wood street,411,wood street

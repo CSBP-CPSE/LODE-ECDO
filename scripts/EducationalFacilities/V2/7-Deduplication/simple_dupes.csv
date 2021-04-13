@@ -1,0 +1,59 @@
+Name,Address,StreetNumber,StreetName,PostalCode,City,Province,Latitude,Longitude,CSDUID,ISCED020,ISCED1,ISCED2,ISCED3,ISCED4+,ISCED_SUM,NameClean,dupe
+Aurora School,12245 131 Street Edmonton AB T5L1M8,12245,131 st,t5l1m8,Edmonton,AB,,,4811061.0,0.0,1.0,1.0,0.0,0,2,aurora school,True
+Aurora School,12245 131 Street Edmonton AB T5L1M8,12245,131 st,t5l1m8,Edmonton,AB,,,4811061.0,1.0,1.0,0.0,0.0,0,2,aurora school,True
+Cochrane Valley Montessori School,6 205 1st Street East Cochrane AB T4C1X6,6 205,1st st e,t4c1x6,Cochrane,AB,51.18854287,-114.4651073,4806019.0,0.0,1.0,0.0,0.0,0,1,cochrane valley montessori school,True
+Cochrane Valley Montessori School,6 205 1st Street East Cochrane AB T4C1X6,6 205,1st st e,t4c1x6,Cochrane,AB,51.18854287,-114.4651073,4806019.0,1.0,0.0,0.0,0.0,0,1,cochrane valley montessori school,True
+St Thomas Aquinas High School,1 Poirier Dr Kenora Ontario P9N4G8,1,poirier dr,p9n4g8,Kenora,ON,49.78385,-94.4592,3560010.0,0.0,0.0,1.0,1.0,0,2,st thomas aquinas high school,True
+St Thomas Aquinas High School,1 Poirier Dr Kenora Ontario P9N4G8,1,poirier dr,p9n4g8,Kenora,ON,49.78164,-94.4604,3560010.0,0.0,0.0,1.0,0.0,0,1,st thomas aquinas high school,True
+Ecole secondaire catholique Elisabeth Bruyere,359 Brydges rue Mattawa Ontario P0H1V0,359,brydges rue,p0h1v0,Mattawa,ON,46.3186,-78.7119,3548021.0,0.0,0.0,1.0,1.0,0,2,ecole secondaire catholique elisabeth bruyere,True
+Ecole secondaire catholique Elisabeth Bruyere,359 Brydges rue Mattawa Ontario P0H1V0,359,brydges rue,p0h1v0,Mattawa,ON,46.31855,-78.7111,3548021.0,0.0,0.0,1.0,0.0,0,1,ecole secondaire catholique elisabeth bruyere,True
+Bruce Peninsula District School,5 Moore St Lion s Head Ontario N0H1W0,5,moore st,n0h1w0,Lion s Head,ON,44.98479,-81.2519,3541069.0,1.0,1.0,1.0,0.0,0,3,bruce peninsula district school,True
+Bruce Peninsula District School,5 Moore St Lion s Head Ontario N0H1W0,5,moore st,n0h1w0,Lion s Head,ON,44.98478,-81.2519,3541069.0,0.0,0.0,1.0,1.0,0,2,bruce peninsula district school,True
+Peninsula Shores District School,115 George St Wiarton Ontario N0H2T0,115,george st,n0h2t0,Wiarton,ON,44.74086,-81.1507,3541055.0,1.0,1.0,1.0,0.0,0,3,peninsula shores district school,True
+Peninsula Shores District School,115 George St Wiarton Ontario N0H2T0,115,george st,n0h2t0,Wiarton,ON,44.74067,-81.1492,3541055.0,0.0,0.0,1.0,1.0,0,2,peninsula shores district school,True
+Robarts Provincial School for the Deaf,1515 Cheapside Street London Ontario N5V3N9,1515,cheapside st,n5v3n9,London,ON,43.01277,-81.2087,3539036.0,1.0,1.0,1.0,0.0,0,3,robarts provincial school for the deaf,True
+Robarts Provincial School for the Deaf,1515 Cheapside Street London Ontario N5V3N9,1515,cheapside st,n5v3n9,London,ON,43.01277,-81.2087,3539036.0,0.0,0.0,1.0,1.0,0,2,robarts provincial school for the deaf,True
+DSBN Academy,130 Louth Street St Catharines Ontario L2S2T4,130,louth st,l2s2t4,St. Catharines,ON,43.1384,-79.2573,3526053.0,0.0,1.0,1.0,0.0,0,2,dsbn academy,True
+DSBN Academy,130 Louth Street St Catharines Ontario L2S2T4,130,louth st,l2s2t4,St. Catharines,ON,43.1384,-79.2573,3526053.0,0.0,0.0,1.0,1.0,0,2,dsbn academy,True
+E C Drury/Trillium Demonstration School,347 Ontario St S Milton Ontario L9T3X9,347,on st s,l9t3x9,Milton,ON,43.51216,-79.8691,3524009.0,0.0,1.0,1.0,0.0,0,2,e c drurytrillium demonstration school,True
+E C Drury/Trillium Demonstration School,347 Ontario St S Milton Ontario L9T3X9,347,on st s,l9t3x9,Milton,ON,43.51216,-79.8691,3524009.0,0.0,0.0,1.0,1.0,0,2,e c drurytrillium demonstration school,True
+Cardinal Carter Academy for the Arts,36 Greenfield Ave Toronto Ontario M2N3C8,36,greenfield av,m2n3c8,Toronto,ON,43.76381,-79.4097,3520005.0,0.0,0.0,1.0,1.0,0,2,cardinal carter academy for the arts,True
+Cardinal Carter Academy for the Arts,36 Greenfield Ave Toronto Ontario M2N3C8,36,greenfield av,m2n3c8,Toronto,ON,43.76382,-79.4096,3520005.0,0.0,0.0,1.0,0.0,0,1,cardinal carter academy for the arts,True
+Apollo High School,5467 Yonge Street Toronto Ontario M2N5S1,5467,yonge st,m2n5s1,Toronto,ON,43.77776947,-79.41502426,3520005.0,0.0,0.0,1.0,1.0,0,2,apollo high school,True
+Apollo High School,5467 Yonge Street Toronto Ontario M2N5S1,5467,yonge st,m2n5s1,Toronto,ON,43.77776947,-79.41502426,3520005.0,0.0,0.0,1.0,1.0,0,2,apollo high school,True
+ALPHA II Alternative School,1141 Bloor St W Toronto Ontario M6H1M9,1141,bloor st w,m6h1m9,Toronto,ON,43.65909,-79.435,3520005.0,0.0,0.0,1.0,1.0,0,2,alpha ii alternative school,True
+ALPHA II Alternative School,1141 Bloor St W Toronto Ontario M6H1M9,1141,bloor st w,m6h1m9,Toronto,ON,43.65902,-79.4353,3520005.0,0.0,0.0,1.0,0.0,0,1,alpha ii alternative school,True
+Sir James Whitney School for the Deaf,350 Dundas St W Belleville Ontario K8P1B2,350,dundas st w,k8p1b2,Belleville,ON,44.15089,-77.405,3512005.0,1.0,1.0,1.0,0.0,0,3,sir james whitney school for the deaf,True
+Sir James Whitney School for the Deaf,350 Dundas St W Belleville Ontario K8P1B2,350,dundas st w,k8p1b2,Belleville,ON,44.15089,-77.405,3512005.0,0.0,0.0,1.0,1.0,0,2,sir james whitney school for the deaf,True
+Centre Jules Leger EP Surdite palier,281 av Lanark Ottawa Ontario K1Z6R8,281,av lanark,k1z6r8,Ottawa,ON,45.39935,-75.7542,3506008.0,1.0,1.0,1.0,0.0,0,3,centre jules leger ep surdite palier,True
+Centre Jules Leger EP Surdite palier,281 av Lanark Ottawa Ontario K1Z6R8,281,av lanark,k1z6r8,Ottawa,ON,45.39935,-75.7542,3506008.0,0.0,0.0,1.0,1.0,0,2,centre jules leger ep surdite palier,True
+Centre Jules Leger EP Surdicecite,281 av Lanark Ottawa Ontario K1Z6R8,281,av lanark,k1z6r8,Ottawa,ON,45.39935,-75.7542,3506008.0,1.0,1.0,1.0,0.0,0,3,centre jules leger ep surdicecite,True
+Centre Jules Leger EP Surdicecite,281 av Lanark Ottawa Ontario K1Z6R8,281,av lanark,k1z6r8,Ottawa,ON,45.39935,-75.7542,3506008.0,0.0,0.0,1.0,1.0,0,2,centre jules leger ep surdicecite,True
+Centre Jules Leger EA Difficulte,281 av Lanark Ottawa Ontario K1Z6R8,281,av lanark,k1z6r8,Ottawa,ON,45.39935,-75.7542,3506008.0,0.0,1.0,1.0,0.0,0,2,centre jules leger ea difficulte,True
+Centre Jules Leger EA Difficulte,281 av Lanark Ottawa Ontario K1Z6R8,281,av lanark,k1z6r8,Ottawa,ON,45.39935,-75.7542,3506008.0,0.0,0.0,1.0,1.0,0,2,centre jules leger ea difficulte,True
+Le Rucher,100 33e Avenue Nord Bois des Filion J6Z2C4,100,33e av n,j6z2c4,Bois-des-Filion,QC,45.670079,-73.75781,2473030.0,0.0,1.0,0.0,0.0,0.0,1,le rucher,True
+Le Rucher,100 33e Avenue Nord Bois des Filion J6Z2C4,100,33e av n,j6z2c4,Bois-des-Filion,QC,45.670079,-73.75781,2473030.0,0.0,1.0,0.0,0.0,0.0,1,le rucher,True
+Ecole nationale de cirque,8181 2e Avenue Montreal H1Z4N9,8181,2e av,h1z4n9,Montreal,QC,45.561794,-73.613646,2466023.0,0.0,0.0,1.0,1.0,0.0,2,ecole nationale de cirque,True
+Ecole nationale de cirque,8181 2e Avenue Montreal H1Z4N9,8181,2e av,h1z4n9,Montreal,QC,45.561794,-73.613646,2466023.0,0,0,0,0,1.0,1,ecole nationale de cirque,True
+Institut de tourisme et d hotellerie du Quebec,3535 rue Saint Denis Montreal H2X3P1,3535,rue saint-denis,h2x3p1,Montreal,QC,45.51798,-73.568679,2466023.0,0,0,0,0,1.0,1,institut de tourisme et d hotellerie du quebec,True
+Institut de tourisme et d hotellerie du Quebec,3535 rue Saint Denis Montreal H2X3P1,3535,rue saint-denis,h2x3p1,Montreal,QC,45.51798,-73.568679,2466023.0,0.0,0.0,0.0,0.0,1.0,1,institut de tourisme et d hotellerie du quebec,True
+Institut Teccart,3030 rue Hochelaga Montreal H1W1G2,3030,rue hochelaga,h1w1g2,Montreal,QC,45.540421,-73.554851,2466023.0,0.0,0.0,0.0,0.0,1.0,1,institut teccart,True
+Institut Teccart,3030 rue Hochelaga Montreal H1W1G2,3030,rue hochelaga,h1w1g2,Montreal,QC,45.540421,-73.554851,2466023.0,0,0,0,0,1.0,1,institut teccart,True
+College international Marie de France,4635 ch Queen Mary Montreal H3W1W3,4635,ch queen mary,h3w1w3,Montreal,QC,45.490252,-73.625122,2466023.0,1.0,1.0,1.0,1.0,0.0,4,college international marie de france,True
+College international Marie de France,4635 ch Queen Mary Montreal H3W1W3,4635,ch queen-mary,h3w1w3,Montreal,QC,45.490252,-73.625122,2466023.0,0,0,0,0,1.0,1,college international marie de france,True
+College St Michel,1995 rue Belanger Montreal H2G1B8,1995,rue belanger,h2g1b8,Montreal,QC,45.548009,-73.602282,2466023.0,0.0,0.0,0.0,0.0,1.0,1,college st michel,True
+College St Michel,1995 rue Belanger Montreal H2G1B8,1995,rue belanger,h2g1b8,Montreal,QC,45.548009,-73.602282,2466023.0,0,0,0,0,1.0,1,college st michel,True
+College St Jean Vianney,12630 boul Gouin Est Montreal H1C1B9,12630,boul gouin e,h1c1b9,Montreal,QC,45.691773,-73.51985,2466023.0,0.0,0.0,1.0,1.0,0.0,2,college st jean vianney,True
+College St Jean Vianney,12630 boul Gouin Est Montreal H1C1B9,12630,boul gouin e,h1c1b9,Montreal,QC,45.691773,-73.51985,2466023.0,1.0,1.0,0.0,0.0,0.0,2,college st jean vianney,True
+College Herzing,1616 boul Rene Levesque Ouest Montreal H3H1P8,1616,boul rene-levesque o,h3h1p8,Montreal,QC,45.493246,-73.575236,2466023.0,0.0,0.0,0.0,0.0,1.0,1,college herzing,True
+College Herzing,1616 boul Rene Levesque Ouest Montreal H3H1P8,1616,boul rene-levesque o,h3h1p8,Montreal,QC,45.493246,-73.575236,2466023.0,0,0,0,0,1.0,1,college herzing,True
+College CDI Administration Technologie Sante Saint Leonard,9480 boul Lacordaire Bureau 204 Montreal H1R0C4,9480,boul lacordaire,h1r0c4,Montreal,QC,45.600248,-73.615176,2466023.0,0,0,0,0,1.0,1,college cdi administration technologie sante saint leonard,True
+College CDI Administration Technologie Sante Saint Leonard,9480 boul Lacordaire Bureau 204 Montreal H1R0C4,9480,boul lacordaire,h1r0c4,Montreal,QC,45.600248,-73.615176,2466023.0,0,0,0,0,1.0,1,college cdi administration technologie sante saint leonard,True
+Seminaire de Sherbrooke,195 rue Marquette Sherbrooke J1H1L6,195,rue marquette,j1h1l6,Sherbrooke,QC,45.403012,-71.894517,2443027.0,0.0,0.0,1.0,1.0,0.0,2,seminaire de sherbrooke,True
+Seminaire de Sherbrooke,195 rue Marquette Sherbrooke J1H1L6,195,rue marquette,j1h1l6,Sherbrooke,QC,45.403012,-71.894517,2443027.0,0,0,0,0,1.0,1,seminaire de sherbrooke,True
+College Ellis campus de Trois Rivieres,90 rue Dorval Trois Rivieres G8T5X7,90,rue dorval,g8t5x7,Trois-Rivieres,QC,46.36319,-72.50922,2437067.0,0,0,0,0,1.0,1,college ellis campus de trois rivieres,True
+College Ellis campus de Trois Rivieres,90 rue Dorval Trois Rivieres G8T5X7,90,rue dorval,g8t5x7,Trois-Rivieres,QC,46.36319,-72.50922,2437067.0,0,0,0,0,1.0,1,college ellis campus de trois rivieres,True
+Campus Notre Dame de Foy,5000 rue Clement Lockquell Saint Augustin de Desmaures G3A1B3,5000,rue clement-lockquell,g3a1b3,Saint-Augustin-de-Desmaures,QC,46.736869,-71.399553,2423072.0,0.0,0.0,0.0,0.0,1.0,1,campus notre dame de foy,True
+Campus Notre Dame de Foy,5000 rue Clement Lockquell Saint Augustin de Desmaures G3A1B3,5000,rue clement-lockquell,g3a1b3,Saint-Augustin-de-Desmaures,QC,46.736869,-71.399553,2423072.0,0,0,0,0,1.0,1,campus notre dame de foy,True
+PDSB Online School,,,,,,ON,,,,1.0,1.0,1.0,0.0,0,3,pdsb online school,True
+PDSB Online School,,,,,,ON,,,,0.0,0.0,1.0,1.0,0,2,pdsb online school,True

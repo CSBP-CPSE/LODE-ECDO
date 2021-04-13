@@ -1,0 +1,31 @@
+{
+  "localfile": "bc/BC-strongstarts20200828.csv",
+  "schema_groups": ["edu", "address", "geocoordinates"],
+  "source": "https://catalogue.data.gov.bc.ca/dataset/strongstart-bc-centre-locations#",
+  "licence": "https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc",
+  "provider": "Province of British Columbia",
+  "encoding": "utf-8",
+  "format": {
+      "type": "csv",
+      "delimiter": ",",
+      "quote": "\""
+  },
+  "schema": {
+      "edu" : {
+          "facility_name": "FACILITY_NAME",
+          "authority_type": "PROGRAM_TYPE",
+          "source_id": "PROGRAM_NUMBER"
+      },
+      "address" : {
+          "city": "FACILITY_CITY",
+          "address_str": "FACILITY_ADDRESS",
+          "postal_code": "FACILITY_POSTAL_CODE",
+	  "province": "force:BC"
+      },
+
+      "geocoordinates" : {
+          "longitude": "LATITUDE",
+          "latitude": "LONGITUDE"
+      }
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "localfile": "nb/NB_ExternalServiceFacilities.csv",
+    "schema_groups": ["edu", "address", "geocoordinates"],
+    "provider": "Province of New Brunswick",
+    "encoding": "cp1252",
+    "format": {
+      "type": "csv",
+      "delimiter": ",",
+      "quote": "\""
+  },
+  "schema": {
+      "edu" : {
+          "facility_name": "Schools",
+          "source_id": "School Number",
+          "facility_type": "force:External Service Facility",
+          "grade_range": "Grade"
+      },
+
+      "address" : {
+          "address_str": ["Address","Municipality","Postal Code","Province"],
+          "city": "Municipality",
+          "province": "Province",
+          "postal_code": "Postal Code"
+          }
+  }
+}
