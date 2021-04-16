@@ -13,7 +13,7 @@ import pandas as pd
 
 #read in Montreal shape file
 
-gdf=gpd.read_file(r"adresse.shp")
+gdf=gpd.read_file(r"adresses.json", low_memory=False)
 crs='epsg:4326'
 gdf=gdf.to_crs(crs)
 gdf['LON']=gdf.geometry.x
@@ -45,7 +45,7 @@ for i in range(N):
     if '1/2' in num2:
 
         
-        NUM1.append(num1+' 1/2')
+        NUM1.append(str(num1)+' 1/2')
         NUM2.append(num2)
         GEN.append(GEN[i])
         SPEC.append(SPEC[i])
@@ -81,4 +81,4 @@ DF=pd.DataFrame(dict)
                      
 DF=DF.sort_values(by=['SPECIFIQUE','NUMBER'],ascending=True)
                                     
-DF.to_csv('Montreal.csv',index=False)
+DF.to_csv('Montreal_16-04-2021.csv',index=False)
