@@ -1,0 +1,63 @@
+idx,facility_name,source_id,address_str,latitude,longitude,provider,address_str_clean,street_no,street_name
+0,Alberton Elementary School,131,"354 Church Street, Alberton, PE C0B 1B0",46.81033,-64.07642,Province of Prince Edward Island,354 church street alberton pe c0b 1b0,354,church street
+1,Bloomfield Elementary School,132,"2472 O'Halloran Road - Rte 145, Bloomfield RR 2, PE C0B 1E0",46.76806,-64.19676,Province of Prince Edward Island,2472 o'halloran road rte 145 bloomfield rr 2 pe c0b 1e0,2472,o'halloran road rte 145 bloomfield rr 2 pe
+2,Colonel Gray Senior High School,311,"175 Spring Park Road, Charlottetown, PE C1A 3Y8",46.24099,-63.14043,Province of Prince Edward Island,175 spring park road charlottetown pe c1a 3y8,175,spring park road
+3,Tignish Elementary School,130,"322 Church Street, Tignish, PE C0B 2B0",46.95511,-64.03385,Province of Prince Edward Island,322 church street tignish pe c0b 2b0,322,church street
+4,Prince Street Elementary School,347,"60 Upper Prince Street, Charlottetown, PE C1A 4S3",46.24078,-63.12923,Province of Prince Edward Island,60 upper prince street charlottetown pe c1a 4s3,60,upper prince street
+5,Glen Stewart Primary School,340,"34 Glen Stewart Drive, Charlottetown, PE C1A 8B5",46.22473,-63.09808,Province of Prince Edward Island,34 glen stewart drive charlottetown pe c1a 8b5,34,glen stewart drive
+6,Morell Regional High School,411,"100 Little Flower Ave - Rte 322, Morell, PE C0A 1S0",46.41159,-62.7078,Province of Prince Edward Island,100 little flower ave rte 322 morell pe c0a 1s0,100,little flower ave rte 322
+7,Greenfield Elementary School,237,"100 Darby Drive, Summerside, PE C1N 4V8",46.4127,-63.81311,Province of Prince Edward Island,100 darby drive summerside pe c1n 4v8,100,darby drive
+8,Stonepark Intermediate School,323,"50 Pope Avenue, Charlottetown, PE C1A 7P5",46.26828,-63.12117,Province of Prince Edward Island,50 pope avenue charlottetown pe c1a 7p5,50,pope avenue
+9,École François-Buote,511,"5 Promenade Acadienne, Charlottetown, PE C1C 1M2",46.26244,-63.09392,Province of Prince Edward Island,5 promenade acadienne charlottetown pe c1c 1m2,5,promenade acadienne
+10,Ellerslie Elementary School,134,"1226 Ellerslie Road - Rte 133, Ellerslie-Bideford, PE C0B 1J0",46.60546,-63.93468,Province of Prince Edward Island,1226 ellerslie road rte 133 ellerslie bideford pe c0b 1j0,1226,ellerslie road rte 133
+11,Somerset Elementary School,234,"30 Somerset Street, Kinkora, PE C0B 1N0",46.32787,-63.60593,Province of Prince Edward Island,30 somerset street kinkora pe c0b 1n0,30,somerset street
+12,Vernon River Consolidated School,455,"5505 Murray Harbour Road - Rte 24, Vernon Bridge, PE C0A 2E0",46.19051,-62.83278,Province of Prince Edward Island,5505 murray harbour road rte 24 vernon bridge pe c0a 2e0,5505,murray harbour road rte 24
+13,Kinkora Regional High School,212,"54 Anderson Road, Kinkora, PE C0B 1N0",46.32233,-63.59843,Province of Prince Edward Island,54 anderson road kinkora pe c0b 1n0,54,anderson road
+14,Westwood Primary School,350,"80 Meadowbank Road, Cornwall, PE C0A 1H0",46.22087,-63.21968,Province of Prince Edward Island,80 meadowbank road cornwall pe c0a 1h0,80,meadowbank road
+15,Amherst Cove Consolidated School,231,"300 Carleton Street, Borden-Carleton, PE C0B 1X0",46.25206,-63.68708,Province of Prince Edward Island,300 carleton street borden carleton pe c0b 1x0,300,carleton street
+16,Bluefield High School,314,"924 Colville Road - Rte 9, North Wiltshire, PE C0A 1Y0",46.2818,-63.29431,Province of Prince Edward Island,924 colville road rte 9 north wiltshire pe c0a 1y0,924,colville road rte 9
+17,Westisle Composite High School,113,"39570 Western Road - Rte 2, Rosebank, PE C0B 1K0",46.80664,-64.1466,Province of Prince Edward Island,39570 western road rte 2 rosebank pe c0b 1k0,39570,western road rte 2
+18,Kensington Intermediate Senior High School,211,"19 Victoria Street East, Kensington, PE C0B 1M0",46.4412,-63.62913,Province of Prince Edward Island,19 victoria street east kensington pe c0b 1m0,19,victoria street east
+19,Mount Stewart Consolidated School,448,"120 South Main St - Rte 351, Mount Stewart, PE C0A 1T0",46.36323,-62.85613,Province of Prince Edward Island,120 south main st rte 351 mount stewart pe c0a 1t0,120,south main st rte 351
+20,Elm Street Elementary School,232,"256 Elm Street, Summerside, PE C1N 3V5",46.40196,-63.79574,Province of Prince Edward Island,256 elm street summerside pe c1n 3v5,256,elm street
+21,Montague Consolidated School,446,"622 Princess Drive, Montague, PE C0A 1R0",46.16626,-62.65813,Province of Prince Edward Island,622 princess drive montague pe c0a 1r0,622,princess drive
+22,Charlottetown Rural High School,310,"100 Raiders Road, Charlottetown, PE C1E 1K6",46.25861,-63.14992,Province of Prince Edward Island,100 raiders road charlottetown pe c1e 1k6,100,raiders road
+23,Stratford Elementary School,358,"50 Glen Stewart Dr, Stratford, PE C1B 0J9",46.22438,-63.09618,Province of Prince Edward Island,50 glen stewart dr stratford pe c1b 0j9,50,glen stewart dr
+24,École Évangéline,510,"1596 Route 124, Wellington Station, RR#1, PE C0B 2E0",46.45684,-64.0672,Province of Prince Edward Island,1596 route 124 wellington station rr#1 pe c0b 2e0,1596,route 124 wellington station rr#1 pe
+25,Parkside Elementary School,236,"195 Summer Street, Summerside, PE C1N 3J8",46.39855,-63.78878,Province of Prince Edward Island,195 summer street summerside pe c1n 3j8,195,summer street
+26,Athena Consolidated School,221,"150 Ryan Street, Summerside, PE C1N 6G2",46.41032,-63.77716,Province of Prince Edward Island,150 ryan street summerside pe c1n 6g2,150,ryan street
+27,Miscouche Consolidated School,222,"19 School Street, Miscouche, PE C0B 1T0",46.4332,-63.86386,Province of Prince Edward Island,19 school street miscouche pe c0b 1t0,19,school street
+28,Montague Intermediate School,420,"221 Kennedy Street, Montague, PE C0A 1R0",46.16533,-62.65079,Province of Prince Edward Island,221 kennedy street montague pe c0a 1r0,221,kennedy street
+29,Sherwood Elementary School,349,"64 Maple Avenue, Charlottetown, PE C1A 6E7",46.26504,-63.12838,Province of Prince Edward Island,64 maple avenue charlottetown pe c1a 6e7,64,maple avenue
+30,École St-Augustin,512,"2244 Church Road - Rte 243, South Rustico, PE C0A 1N0",46.4251,-63.2826,Province of Prince Edward Island,2244 church road rte 243 south rustico pe c0a 1n0,2244,church road rte 243
+31,Englewood School,345,"20280 Trans Canada Hwy - Rte 1, Crapaud, PE C0A 1J0",46.23045,-63.49611,Province of Prince Edward Island,20280 trans canada hwy rte 1 crapaud pe c0a 1j0,20280,trans canada hwy rte 1
+32,Queen Elizabeth Elementary School,233,"2 Saunders Lane, Kensington, PE C0B 1M0",46.437,-63.62911,Province of Prince Edward Island,2 saunders lane kensington pe c0b 1m0,2,saunders lane
+33,West Royalty Elementary School,356,"80 Commonwealth Avenue, Charlottetown, PE C1E 2E9",46.2746,-63.16985,Province of Prince Edward Island,80 commonwealth avenue charlottetown pe c1e 2e9,80,commonwealth avenue
+34,Hernewood Intermediate School,122,"34 Mill Road - Rte 136, O'Leary, PE C0B 1V0",46.7353,-64.17195,Province of Prince Edward Island,34 mill road rte 136 o'leary pe c0b 1v0,34,mill road rte 136
+35,East Wiltshire Intermediate School,324,"100 Kingston Road, Cornwall, PE C0A 1H0",46.25325,-63.20765,Province of Prince Edward Island,100 kingston road cornwall pe c0a 1h0,100,kingston road
+36,Summerside Intermediate School,220,"247 Central Street, Summerside, PE C1N 3M5",46.40025,-63.78981,Province of Prince Edward Island,247 central street summerside pe c1n 3m5,247,central street
+37,Spring Park Elementary School,351,"30 Dunkirk Street, Charlottetown, PE C1A 3Z8",46.24492,-63.14124,Province of Prince Edward Island,30 dunkirk street charlottetown pe c1a 3z8,30,dunkirk street
+38,Cardigan Consolidated School,441,"1614 North Royalty Road - Rte. 342, Cardigan, PE C0A 1G0",46.22535,-62.61503,Province of Prince Edward Island,1614 north royalty road rte 342 cardigan pe c0a 1g0,1614,north royalty road rte 342
+39,O'Leary Elementary School,133,"25 Barclay Road - Rte 148, O'Leary, PE C0B 1V0",46.7036,-64.23155,Province of Prince Edward Island,25 barclay road rte 148 o'leary pe c0b 1v0,25,barclay road rte 148
+40,Belfast Consolidated School,440,"3326 Trans Canada Hwy - Rte 1, Belle River, PE C0A 1B0",46.03518,-62.90332,Province of Prince Edward Island,3326 trans canada hwy rte 1 belle river pe c0a 1b0,3326,trans canada hwy rte 1
+41,Montague Regional High School,410,"274 Valleyfield Road, Montague, PE C0A 1R0",46.1579,-62.6477,Province of Prince Edward Island,274 valleyfield road montague pe c0a 1r0,274,valleyfield road
+42,Southern Kings Consolidated School,451,"2294 Peters Road - Rte 324, Montague, PE C0A 1R0",46.061,-62.60117,Province of Prince Edward Island,2294 peters road rte 324 montague pe c0a 1r0,2294,peters road rte 324
+43,École-sur-Mer,513,"5 avenue Maris Stella, Summerside, PE C1N 6M9",46.41867,-63.80804,Province of Prince Edward Island,5 avenue maris stella summerside pe c1n 6m9,5,avenue maris stella
+44,St. Jean Elementary School,354,"335 Queen Street, Charlottetown, PE C1A 4C5",46.23787,-63.13372,Province of Prince Edward Island,335 queen street charlottetown pe c1a 4c5,335,queen street
+45,École Pierre-Chiasson,514,"119 Route 157, Deblois, PE C0B 2B0",46.9196,-64.07746,Province of Prince Edward Island,119 route 157 deblois pe c0b 2b0,119,route 157
+46,M.E. Callaghan Intermediate School,123,"41870 Western Road - Rte 2, Elmsdale, PE C0B 1K0",46.89957,-64.08103,Province of Prince Edward Island,41870 western road rte 2 elmsdale pe c0b 1k0,41870,western road rte 2
+47,Donagh Regional School,344,"928 Bethel Road, Donagh, PE C1B 0T5",46.25924,-62.94151,Province of Prince Edward Island,928 bethel road donagh pe c1b 0t5,928,bethel road
+48,Queen Charlotte Intermediate School,321,"150 North River Road, Charlottetown, PE C1A 3L3",46.23928,-63.14159,Province of Prince Edward Island,150 north river road charlottetown pe c1a 3l3,150,north river road
+49,Parkdale Elementary School,346,"49 Confederation Street, Charlottetown, PE C1A 5V5",46.25236,-63.12435,Province of Prince Edward Island,49 confederation street charlottetown pe c1a 5v5,49,confederation street
+50,Gulf Shore Consolidated School,348,"185 Hilltop Avenue, North Rustico, PE C0A 1X0",46.4586,-63.3319,Province of Prince Edward Island,185 hilltop avenue north rustico pe c0a 1x0,185,hilltop avenue
+51,Three Oaks Senior High School,215,"10 Kenmoore Avenue, Summerside, PE C1N 4V9",46.4006,-63.77762,Province of Prince Edward Island,10 kenmoore avenue summerside pe c1n 4v9,10,kenmoore avenue
+52,Georgetown Elementary School,445,"47 Kent Street, Georgetown, PE C0A 1L0",46.18321,-62.53437,Province of Prince Edward Island,47 kent street georgetown pe c0a 1l0,47,kent street
+53,Central Queens Elementary School,341,"19821 Route 2, Hunter River, PE C0A 1N0",46.35496,-63.35255,Province of Prince Edward Island,19821 route 2 hunter river pe c0a 1n0,19821,route 2
+54,West Kent Elementary School,355,"27 Viceroy Avenue, Charlottetown, PE C1A 2E4",46.23492,-63.14595,Province of Prince Edward Island,27 viceroy avenue charlottetown pe c1a 2e4,27,viceroy avenue
+55,Morell Consolidated School,447,"7755 St Peter's Road - Rte 2, Morell, PE C0A 1S0",46.41544,-62.71022,Province of Prince Edward Island,7755 st peter's road rte 2 morell pe c0a 1s0,7755,st peter's road rte 2
+56,L.M. Montgomery Elementary School,343,"69 MacWilliams Road, Charlottetown, PE C1C 1L4",46.28485,-63.10286,Province of Prince Edward Island,69 macwilliams road charlottetown pe c1c 1l4,69,macwilliams road
+57,St. Louis Elementary School,135,"3807 Union Road - Rte 152, St. Louis, PE C0B 1Z0",46.88446,-64.14771,Province of Prince Edward Island,3807 union road rte 152 st louis pe c0b 1z0,3807,union road rte 152
+58,Eliot River Elementary School,342,"79 Hilltop Drive, Cornwall, PE C0A 1H0",46.22433,-63.22832,Province of Prince Edward Island,79 hilltop drive cornwall pe c0a 1h0,79,hilltop drive
+59,Birchwood Intermediate School,320,"49 Longworth Avenue, Charlottetown, PE C1A 5A6",46.24289,-63.12505,Province of Prince Edward Island,49 longworth avenue charlottetown pe c1a 5a6,49,longworth avenue
+60,Souris Regional School,412,"15 Longworth Street, Souris, PE C0A 2B0",46.35796,-62.2503,Province of Prince Edward Island,15 longworth street souris pe c0a 2b0,15,longworth street
+61,École La-Belle-Cloche,515,"861 Route 2, Rollo Bay, PE C0A 2B0",46.35448,-62.37449,Province of Prince Edward Island,861 route 2 rollo bay pe c0a 2b0,861,route 2

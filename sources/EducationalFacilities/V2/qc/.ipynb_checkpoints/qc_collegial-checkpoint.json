@@ -1,0 +1,34 @@
+{
+    "localfile": "qc/ES_Collegial.csv",
+    "schema_groups": ["edu", "address", "geocoordinates"],
+    "source": "https://infogeo.education.gouv.qc.ca/download//Donnees_Ouvertes/CSV/etablissements-mees-csv.zip",
+    "licence": "https://www.donneesquebec.ca/fr/licence/#cc-by",
+    "provider": "Province of Québec",
+    "encoding": "utf-8",
+    "format": {
+      "type": "csv",
+      "delimiter": ";",
+      "quote": "\""
+  },
+  "schema": {
+      "edu" : {
+          "facility_name": "NOM_OFFCL",
+          "facility_type": "TYPE_ORGNS",
+          "source_id": "CD_ORGNS",
+          "authority_type": "RESEAU",
+          "ISCED4+": "force:1"
+      },
+
+      "address" : {
+          "street_addr": ["ADRS_GEO_L1_GDUNO", "ADRS_GEO_L2_GDUNO"],
+          "address_str": ["ADRS_GEO_L1_GDUNO", "ADRS_GEO_L2_GDUNO", "NOM_MUNCP", "CD_POSTL_GDUNO"],
+          "city": "NOM_MUNCP",
+          "postal_code": "CD_POSTL_GDUNO"
+      },
+
+      "geocoordinates" : {
+          "latitude": "COORD_Y_LL84",
+          "longitude": "COORD_X_LL84"
+      }
+  }
+}

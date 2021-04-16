@@ -1,0 +1,271 @@
+idx,facility_name,source_id,ISCED020,ISCED1,ISCED2,ISCED3,address_str,city,province,postal_code,provider,address_str_clean,street_no,street_name
+0,St. Peter's School,1,1,1,1,0,"Black Tickle Black Tickle, NL A0K 1N0",Black Tickle,NL,A0K 1N0,Province of Newfoundland and Labrador,black tickle black tickle nl a0k 1n0,,
+1,Henry Gordon Academy,2,1,1,1,1,"P.O. Box 300 Cartwright, NL A0K 1V0",Cartwright,NL,A0K 1V0,Province of Newfoundland and Labrador,cartwright nl a0k 1v0,,
+2,William Gillett Academy,22,1,1,1,1,"P.O. Box 149 Charlottetown, LAB A0K 5Y0","Charlottetown, LAB",NL,A0K 5Y0,Province of Newfoundland and Labrador,charlottetown lab a0k 5y0,,
+3,Queen of Peace Middle School,4,0,1,1,0,"P.O. Box 1900, Stn B Happy Valley-Goose Bay, NL A0P 1E0",Happy Valley-Goose Bay,NL,A0P 1E0,Province of Newfoundland and Labrador,stn b happy valley goose bay nl a0p 1e0,,
+4,Peacock Primary School,5,1,1,0,0,"P.O. Box 2163, Stn B Happy Valley-Goose Bay, NL A0P 1E0",Happy Valley-Goose Bay,NL,A0P 1E0,Province of Newfoundland and Labrador,stn b happy valley goose bay nl a0p 1e0,,
+5,Mealy Mountain Collegiate,477,0,0,1,1,"Box 492, Station C Happy Valley-Goose Bay, NL A0P 1C0",Happy Valley-Goose Bay,NL,A0P 1C0,Province of Newfoundland and Labrador,station c happy valley goose bay nl a0p 1c0,,
+6,Amos Comenius Memorial School,7,1,1,1,1,"P.O. Box 105 Hopedale, NL A0P 1G0",Hopedale,NL,A0P 1G0,Province of Newfoundland and Labrador,hopedale nl a0p 1g0,,
+7,A. P. Low Primary,8,1,1,0,0,"600 Bartlett Drive Labrador City, NL A2V 1G6",Labrador City,NL,A2V 1G6,Province of Newfoundland and Labrador,600 bartlett drive labrador city nl a2v 1g6,600,bartlett drive
+8,Menihek High School,10,0,0,1,1,"613 Lakeside Drive Labrador City, NL A2V 2W9",Labrador City,NL,A2V 2W9,Province of Newfoundland and Labrador,613 lakeside drive labrador city nl a2v 2w9,613,lakeside drive
+9,Labrador Straits Academy,487,1,1,1,1,"P.O. Box 10 L'Anse au Loup, NL A0K 3L0",L'Anse au Loup,NL,A0K 3L0,Province of Newfoundland and Labrador,l'anse au loup nl a0k 3l0,,
+10,J.C. Erhardt Memorial School,12,1,1,1,1,"P.O. Box 134 Makkovik, NL A0P 1J0",Makkovik,NL,A0P 1J0,Province of Newfoundland and Labrador,makkovik nl a0p 1j0,,
+11,St. Mary's All Grade,40,1,1,1,1,"P.O. Box 127 Mary's Harbour, NL A0K 3P0",Mary's Harbour,NL,A0K 3P0,Province of Newfoundland and Labrador,mary's harbour nl a0k 3p0,,
+12,Mud Lake School,13,1,1,0,0,"General Delivery Mud Lake, NL A0P 1K0",Mud Lake,NL,A0P 1K0,Province of Newfoundland and Labrador,general delivery mud lake nl a0p 1k0,,general delivery
+13,Jens Haven Memorial,14,1,1,1,1,"General Delivery Nain, NL A0P 1L0",Nain,NL,A0P 1L0,Province of Newfoundland and Labrador,general delivery nain nl a0p 1l0,,
+14,Raymond Ward Memorial,41,0,0,1,0,"General Delivery Norman Bay, NL A0K 5Y0",Norman Bay,NL,A0K 5Y0,Province of Newfoundland and Labrador,general delivery norman bay nl a0k 5y0,,general delivery
+15,Lake Melville School,15,1,1,1,1,"P.O. Box 40 North West River, NL A0P 1M0",North West River,NL,A0P 1M0,Province of Newfoundland and Labrador,north west river nl a0p 1m0,,
+16,Bayside Academy,46,1,1,1,1,"P.O. Box 100 Port Hope Simpson, NL A0K 4E0",Port Hope Simpson,NL,A0K 4E0,Province of Newfoundland and Labrador,port hope simpson nl a0k 4e0,,
+17,B.L. Morrison,16,1,1,1,1,"P.O. Box 76 Postville, NL A0P 1N0",Postville,NL,A0P 1N0,Province of Newfoundland and Labrador,postville nl a0p 1n0,,
+18,Basque Memorial,50,0,1,0,0,"P.O. Box 107 Red Bay, NL A0K 4K0",Red Bay,NL,A0K 4K0,Province of Newfoundland and Labrador,red bay nl a0k 4k0,,
+19,Northern Lights Academy,17,1,1,1,1,"P.O. Box 89 Rigolet, NL A0P 1P0",Rigolet,NL,A0P 1P0,Province of Newfoundland and Labrador,rigolet nl a0p 1p0,,
+20,St. Lewis Academy,54,1,1,1,1,"P.O. Box 108 St. Lewis, NL A0K 4W0",St. Lewis,NL,A0K 4W0,Province of Newfoundland and Labrador,st lewis nl a0k 4w0,,
+21,J.R. Smallwood Middle School,381,0,1,1,0,"P.O. Box 5000 Wabush, NL A0R 1B0",Wabush,NL,A0R 1B0,Province of Newfoundland and Labrador,wabush nl a0r 1b0,,
+22,Copper Ridge Academy,125,1,1,1,1,"Box 430, 9 Columbus Drive Baie Verte, NL A0K 1B0",Baie Verte,NL,A0K 1B0,Province of Newfoundland and Labrador,9 columbus drive baie verte nl a0k 1b0,9,columbus drive
+23,St. Peter's Academy,57,1,1,1,0,"Box 95 Benoit's Cove, NL A0L 1A0",Benoit's Cove,NL,A0L 1A0,Province of Newfoundland and Labrador,benoit's cove nl a0l 1a0,,
+24,Burgeo Academy,91,1,1,1,1,"P. O. Box 310 Burgeo, NL A0N 2H0",Burgeo,NL,A0N 2H0,Province of Newfoundland and Labrador,p o burgeo nl a0n 2h0,,
+25,Grandy's River Collegiate,92,1,1,1,1,"Box 40 Burnt Islands, NL A0M 1B0",Burnt Islands,NL,A0M 1B0,Province of Newfoundland and Labrador,burnt islands nl a0m 1b0,,
+26,Our Lady of the Cape School,96,1,1,1,0,"875 Oceanview Drive De Grau, Cape St. George A0N 1T1",Cape St. George,NL,A0N 1T1,Province of Newfoundland and Labrador,875 oceanview drive de grau cape st george a0n 1t1,875,oceanview drive de
+27,St. James Elementary,97,1,1,0,0,"Box 1060 Port aux Basques, NL A0M 1C0",Channel-Port Aux Basques,NL,A0M 1C0,Province of Newfoundland and Labrador,port aux basques nl a0m 1c0,,
+28,St. James Regional High,99,0,0,1,1,"Box 910 Port Aux Basques, NL A0M 1C0",Channel-Port Aux Basques,NL,A0M 1C0,Province of Newfoundland and Labrador,port aux basques nl a0m 1c0,,
+29,James Cook Memorial,24,0,1,0,0,"P.O. Box 10 Cook's Harbour, NL A0K 1Z0",Cook's Harbour,NL,A0K 1Z0,Province of Newfoundland and Labrador,cook's harbour nl a0k 1z0,,
+30,Ecole C.C. Loughlin Elementary,60,1,1,0,0,"Citadel Drive Corner Brook, NL A2H 5M4",Corner Brook,NL,A2H 5M4,Province of Newfoundland and Labrador,citadel drive corner brook nl a2h 5m4,,citadel drive
+31,J. J. Curling Elementary,66,1,1,0,0,"Woodbine Ave Corner Brook, NL A2H 3P2",Corner Brook,NL,A2H 3P2,Province of Newfoundland and Labrador,woodbine ave corner brook nl a2h 3p2,,woodbine ave
+32,Sacred Heart Elementary,69,1,1,0,0,"Curling St Corner Brook West, NL A2H 3K8",Corner Brook,NL,A2H 3K8,Province of Newfoundland and Labrador,curling st corner brook west nl a2h 3k8,,curling st
+33,Corner Brook Regional High,485,0,0,0,1,"12 University Drive Corner Brook, NL A2H 5G4",Corner Brook,NL,A2H 5G4,Province of Newfoundland and Labrador,12 university drive corner brook nl a2h 5g4,12,university drive
+34,Eastside Elementary,498,1,1,0,0,"St. John's Avenue Corner Brook, NL A2H 2E5",Corner Brook,NL,A2H 2E5,Province of Newfoundland and Labrador,st john's avenue corner brook nl a2h 2e5,,st john's avenue
+35,Corner Brook Intermediate,955,0,0,1,0,"St. John's Avenue Corner Brook, NL A2H 2E5",Corner Brook,NL,A2H 2E5,Province of Newfoundland and Labrador,st john's avenue corner brook nl a2h 2e5,,st john's avenue
+36,Long Range Academy,388,1,1,1,1,"P.O. Box 10 Cow Head, NL A0K 2A0",Cow Head,NL,A0K 2A0,Province of Newfoundland and Labrador,cow head nl a0k 2a0,,
+37,Holy Cross All Grade,72,1,1,1,1,"P. O. Box 130 Daniel's Harbour, NL A0K 2C0",Daniel's Harbour,NL,A0K 2C0,Province of Newfoundland and Labrador,p o daniel's harbour nl a0k 2c0,,
+38,Elwood Elementary,389,1,1,0,0,"22A Farm Road Deer Lake, NL A8A 1J3",Deer Lake,NL,A8A 1J3,Province of Newfoundland and Labrador,22a farm road deer lake nl a8a 1j3,22a,farm road
+39,Elwood High School,390,0,0,0,1,"22 Farm Road Deer Lake, NL A8A 1J3",Deer Lake,NL,A8A 1J3,Province of Newfoundland and Labrador,22 farm road deer lake nl a8a 1j3,22,farm road
+40,Xavier Junior High,391,0,1,1,0,"26 Wight's Road Deer Lake, NL A8A 2H6",Deer Lake,NL,A8A 2H6,Province of Newfoundland and Labrador,26 wight's road deer lake nl a8a 2h6,26,wight's road
+41,H. G. Fillier Academy,26,1,1,1,0,"Box 220 Englee, NL A0K 2J0",Englee,NL,A0K 2J0,Province of Newfoundland and Labrador,englee nl a0k 2j0,,
+42,Canon Richards Memorial Academy,27,1,1,1,1,"Box 99 Flower's Cove, NL A0K 2N0",Flower's Cove,NL,A0K 2N0,Province of Newfoundland and Labrador,flower's cove nl a0k 2n0,,
+43,St. Simon and St. Jude Academy,137,0,1,1,1,"P.O. Box 40 Francois, NL A0N 2K0",Francois,NL,A0N 2K0,Province of Newfoundland and Labrador,francois nl a0n 2k0,,
+44,All Saints All-Grade,102,0,1,1,0,"P.O. Box 40 Grey River, NL A0N 2L0",Grey River,NL,A0N 2L0,Province of Newfoundland and Labrador,grey river nl a0n 2l0,,
+45,Truman Eddison Memorial,32,1,1,0,0,"Box 2, Site 1 Griquet, NL A0K 2X0",Griquet,NL,A0K 2X0,Province of Newfoundland and Labrador,site 1 griquet nl a0k 2x0,,
+46,Hampden Academy,75,1,1,1,1,"Box 100 Hampden, NL A0K 2Y0",Hampden,NL,A0K 2Y0,Province of Newfoundland and Labrador,hampden nl a0k 2y0,,
+47,LeGallais Memorial,103,1,1,1,0,"Box 170 Isle aux Morts, NL A0M 1J0",Isle aux Morts,NL,A0M 1J0,Province of Newfoundland and Labrador,isle aux morts nl a0m 1j0,,
+48,Valmont Academy,152,1,1,1,1,"P.O. Box 130 King's Point, NL A0J 1H0",King's Point,NL,A0J 1H0,Province of Newfoundland and Labrador,king's point nl a0j 1h0,,
+49,Douglas Academy,104,0,1,1,0,"General Delivery La Poile, NL A0M 1K0",La Poile,NL,A0M 1K0,Province of Newfoundland and Labrador,general delivery la poile nl a0m 1k0,,general delivery
+50,Cape John Collegiate,153,0,0,1,1,"Box 190 LaScie, NL A0K 3M0",La Scie,NL,A0K 3M0,Province of Newfoundland and Labrador,lascie nl a0k 3m0,,
+51,Hillside Elementary,154,1,1,0,0,"P.O. Box 250 La Scie, NL A0K 3M0",La Scie,NL,A0K 3M0,Province of Newfoundland and Labrador,la scie nl a0k 3m0,,
+52,St. James All Grade,79,1,1,1,1,"Box 100 Lark Harbour, NL A0L 1H0",Lark Harbour,NL,A0L 1H0,Province of Newfoundland and Labrador,lark harbour nl a0l 1h0,,
+53,Lourdes Elementary,106,1,1,1,0,"P.O. Box 70 Lourdes, NL A0N 1R0",Lourdes,NL,A0N 1R0,Province of Newfoundland and Labrador,lourdes nl a0n 1r0,,
+54,Mary Simms All Grade,39,1,1,1,1,"P.O. Box 10 Main Brook, NL A0K 3N0",Main Brook,NL,A0K 3N0,Province of Newfoundland and Labrador,main brook nl a0k 3n0,,
+55,E.A. Butler All Grade,394,1,1,1,1,"Box 10 McKay's, NL A0N 1G0",McKay's,NL,A0N 1G0,Province of Newfoundland and Labrador,mckay's nl a0n 1g0,,
+56,Templeton Academy,80,1,1,1,1,"Box 3539, RR#2 Corner Brook, NL A2H 6B9",Meadows,NL,A2H 6B9,Province of Newfoundland and Labrador,rr#2 corner brook nl a2h 6b9,,rr#2
+57,MSB Regional Academy,158,1,1,1,1,"Box 40 Middle Arm, NL A0K 3R0",Middle Arm,NL,A0K 3R0,Province of Newfoundland and Labrador,middle arm nl a0k 3r0,,
+58,Pasadena Elementary,82,1,1,0,0,"P.O. Box 40 Pasadena, NL A0L 1K0",Pasadena,NL,A0L 1K0,Province of Newfoundland and Labrador,pasadena nl a0l 1k0,,
+59,Pasadena Academy,83,0,0,1,1,"P.O. Box 130 Pasadena, NL A0L 1K0",Pasadena,NL,A0L 1K0,Province of Newfoundland and Labrador,pasadena nl a0l 1k0,,
+60,Piccadilly Central High,110,0,0,1,1,"P.O. Box 175, R.R.#2 Piccadilly, NL A0N 1T0",Piccadilly,NL,A0N 1T0,Province of Newfoundland and Labrador,rr#2 piccadilly nl a0n 1t0,,rr#2
+61,Dorset Collegiate,162,0,0,1,1,"Box 10 Pilley's Island, NL A0J 1M0",Pilley's Island,NL,A0J 1M0,Province of Newfoundland and Labrador,pilley's island nl a0j 1m0,,
+62,Viking Trail Academy,475,1,1,1,1,"P. O. Box 70 Plum Point, NL A0K 4A0",Plum Point,NL,A0K 4A0,Province of Newfoundland and Labrador,p o plum point nl a0k 4a0,,
+63,Main River Academy,88,1,1,1,1,"General Delivery Pollard's Point, NL A0K 4B0",Pollard's Point,NL,A0K 4B0,Province of Newfoundland and Labrador,general delivery pollard's point nl a0k 4b0,,general delivery
+64,St. Thomas Aquinas,111,1,1,1,0,"P.O. Box 299 Port au Port East, NL A0N 1T0",Port au Port East,NL,A0N 1T0,Province of Newfoundland and Labrador,port au port east nl a0n 1t0,,
+65,French Shore Academy,488,1,1,1,1,"P. O. Box 119 Port Saunders, NL A0K 4H0",Port Saunders,NL,A0K 4H0,Province of Newfoundland and Labrador,p o port saunders nl a0k 4h0,,
+66,St. Boniface All Grade,113,0,1,1,1,"P.O. Box 190 Ramea, NL A0N 2J0",Ramea,NL,A0N 2J0,Province of Newfoundland and Labrador,ramea nl a0n 2j0,,
+67,Green Bay South Academy,167,1,1,0,0,"P.O. Box 160 Robert's Arm, NL A0J 1R0",Robert's Arm,NL,A0J 1R0,Province of Newfoundland and Labrador,robert's arm nl a0j 1r0,,
+68,Gros Morne Academy,86,1,1,1,1,"P.O. Box 179 Rocky Harbour, NL A0K 4N0",Rocky Harbour,NL,A0K 4N0,Province of Newfoundland and Labrador,rocky harbour nl a0k 4n0,,
+69,Cloud River Academy,474,1,1,1,1,"P. O. Box 100 Roddickton, NL A0K 4P0",Roddickton,NL,A0K 4P0,Province of Newfoundland and Labrador,p o roddickton nl a0k 4p0,,
+70,Indian River High School,171,0,0,1,1,"P.O. Box 370 Springdale, NL A0J 1T0",Springdale,NL,A0J 1T0,Province of Newfoundland and Labrador,springdale nl a0j 1t0,,
+71,Indian River Academy,409,1,1,0,0,"P.O. Box 309 Springdale, NL A0J 1T0",Springdale,NL,A0J 1T0,Province of Newfoundland and Labrador,springdale nl a0j 1t0,,
+72,White Hills Academy,953,1,1,1,1,"31 Elementary School Road St. Anthony, NL A0K 4S0",St. Anthony,NL,A0K 4S0,Province of Newfoundland and Labrador,31 elementary school road st anthony nl a0k 4s0,31,elementary school road
+73,Bayview Academy,116,1,1,1,1,"P.O. Box 400 St. George's, NL A0N 1Z0",St. George's,NL,A0N 1Z0,Province of Newfoundland and Labrador,st george's nl a0n 1z0,,
+74,Stephenville Elementary,118,0,1,0,0,"P.O. Box 5300 Stephenville, NL A2N 3A3",Stephenville,NL,A2N 3A3,Province of Newfoundland and Labrador,stephenville nl a2n 3a3,,
+75,Stephenville High,119,0,0,1,1,"P.O. Box 5100 Stephenville, NL A2N 3M6",Stephenville,NL,A2N 3M6,Province of Newfoundland and Labrador,stephenville nl a2n 3m6,,
+76,Stephenville Primary,120,1,1,0,0,"72 West Street Stephenville, NL A2N 1E3",Stephenville,NL,A2N 1E3,Province of Newfoundland and Labrador,72 west street stephenville nl a2n 1e3,72,west street
+77,Stephenville Middle School,396,0,1,1,0,"40 Queen St Stephenville, NL A2N 2M5",Stephenville,NL,A2N 2M5,Province of Newfoundland and Labrador,40 queen st stephenville nl a2n 2m5,40,queen st
+78,Pathfinder Learning Centre,463,0,0,0,1,"P.O. Box 5600 Stephenville, NL A2N 3P5",Stephenville,NL,A2N 3P5,Province of Newfoundland and Labrador,stephenville nl a2n 3p5,,
+79,St. Michael's Elementary,123,1,1,1,0,"Hospital Road Stephenville Crossing, NL A0N 2C0",Stephenville Crossing,NL,A0N 2C0,Province of Newfoundland and Labrador,hospital road stephenville crossing nl a0n 2c0,,hospital road
+80,Brian Peckford Primary,172,1,1,0,0,"P.O. Box 39 Triton, NL A0J 1V0",Triton,NL,A0J 1V0,Province of Newfoundland and Labrador,triton nl a0j 1v0,,
+81,Jakeman All Grade,89,1,1,1,1,"Box 70 Trout River, NL A0K 5P0",Trout River,NL,A0K 5P0,Province of Newfoundland and Labrador,trout river nl a0k 5p0,,
+82,Belanger Memorial School,397,1,1,1,1,"General Delivery Doyles, NL A0N 1J0",Upper Ferry,NL,A0N 1J0,Province of Newfoundland and Labrador,general delivery doyles nl a0n 1j0,,general delivery
+83,St. Peter's Academy,174,1,1,1,1,"P. O. Box 10 Westport, NL A0K 5R0",Westport,NL,A0K 5R0,Province of Newfoundland and Labrador,p o westport nl a0k 5r0,,
+84,Bonne Bay Academy,393,1,1,1,1,"P.O. Box 70 Woody Point, NL A0K 1P0",Woody Point,NL,A0K 1P0,Province of Newfoundland and Labrador,woody point nl a0k 1p0,,
+85,Tricentia Academy,924,1,1,1,1,"Box 129 Arnold's Cove, NL A0B 1A0",Arnold's Cove,NL,A0B 1A0,Province of Newfoundland and Labrador,arnold's cove nl a0b 1a0,,
+86,Avoca Collegiate,398,1,1,1,0,"Box 190 Badger, NL A0H 1A0",Badger,NL,A0H 1A0,Province of Newfoundland and Labrador,badger nl a0h 1a0,,
+87,Helen Tulk Elementary,400,1,1,0,0,"Box 130, 1 Forest Road Bishop's Falls, NL A0H 1C0",Bishop's Falls,NL,A0H 1C0,Province of Newfoundland and Labrador,1 forest road bishop's falls nl a0h 1c0,1,forest road
+88,Leo Burke Academy,402,0,0,1,1,"Box 530 Bishop's Falls, NL A0H 1C0",Bishop's Falls,NL,A0H 1C0,Province of Newfoundland and Labrador,bishop's falls nl a0h 1c0,,
+89,Discovery Collegiate,231,0,0,1,1,"Box 549 Bonavista, NL A0C 1B0",Bonavista,NL,A0C 1B0,Province of Newfoundland and Labrador,bonavista nl a0c 1b0,,
+90,Matthew Elementary School,232,1,1,0,0,"Box 640 Bonavista, NL A0C 1B0",Bonavista,NL,A0C 1B0,Province of Newfoundland and Labrador,bonavista nl a0c 1b0,,
+91,Botwood Collegiate,132,0,0,1,1,"Box 640 Botwood, NL A0H 1E0",Botwood,NL,A0H 1E0,Province of Newfoundland and Labrador,botwood nl a0h 1e0,,
+92,Memorial Academy,133,1,1,0,0,"Box 5000 Botwood, NL A0H 1E0",Botwood,NL,A0H 1E0,Province of Newfoundland and Labrador,botwood nl a0h 1e0,,
+93,Lakeside Academy,403,1,1,1,1,"P.O. Box 130 Buchans, NL A0H 1G0",Buchans,NL,A0H 1G0,Province of Newfoundland and Labrador,buchans nl a0h 1g0,,
+94,Donald C. Jamieson Academy,224,1,1,1,0,"P.O.Box 160 Burin Bay Arm, NL A0E 1G0",Burin Bay Arm,NL,A0E 1G0,Province of Newfoundland and Labrador,pobox 160 burin bay arm nl a0e 1g0,,
+95,Greenwood Academy,177,1,1,1,0,"Box 100 Campbellton, NL A0G 1L0",Campbellton,NL,A0G 1L0,Province of Newfoundland and Labrador,campbellton nl a0g 1l0,,
+96,Phoenix Academy,178,1,1,1,1,"Box 220 Carmanville, NL A0G 1N0",Carmanville,NL,A0G 1N0,Province of Newfoundland and Labrador,carmanville nl a0g 1n0,,
+97,Catalina Elementary School,234,1,1,1,0,"Box 250 Catalina, NL A0C 1J0",Catalina,NL,A0C 1J0,Province of Newfoundland and Labrador,catalina nl a0c 1j0,,
+98,Centreville Academy,179,1,1,1,0,"P.O. Box 10 Centreville, NL A0G 4P0",Centreville-Wareham,NL,A0G 4P0,Province of Newfoundland and Labrador,centreville nl a0g 4p0,,
+99,A. R. Scammell Academy,180,0,1,1,1,"P.O. Box 39 Change Islands, NL A0G 1R0",Change Islands,NL,A0G 1R0,Province of Newfoundland and Labrador,change islands nl a0g 1r0,,
+100,Charlottetown Primary,182,1,1,0,0,"P.O. Box 110 Charlottetown, NL A0C 1L0","Charlottetown, B.B.",NL,A0C 1L0,Province of Newfoundland and Labrador,charlottetown nl a0c 1l0,,
+101,Clarenville High School,235,0,0,0,1,"50 Gladney Street Clarenville, NL A5A 1G8",Clarenville,NL,A5A 1G8,Province of Newfoundland and Labrador,50 gladney street clarenville nl a5a 1g8,50,gladney street
+102,Clarenville Middle School,428,0,0,1,0,"50B Gladney St. Clarenville, NL A5A 1G8",Clarenville,NL,A5A 1G8,Province of Newfoundland and Labrador,50b gladney st clarenville nl a5a 1g8,50b,gladney st
+103,Cottrell's Cove Academy,405,0,1,1,1,"Box 96 Cottrell's Cove, NL A0H 1L0",Cottrell's Cove,NL,A0H 1L0,Province of Newfoundland and Labrador,cottrell's cove nl a0h 1l0,,
+104,William Mercer Academy,183,1,1,1,0,"Box 100 Dover, NL A0G 1X0",Dover,NL,A0G 1X0,Province of Newfoundland and Labrador,dover nl a0g 1x0,,
+105,Holy Cross School Complex,413,1,1,1,1,"Box 138 Eastport, NL A0G 1Z0",Eastport,NL,A0G 1Z0,Province of Newfoundland and Labrador,eastport nl a0g 1z0,,
+106,Fitzgerald Academy,406,1,1,1,1,"P.O. Box 70 English Harbour West, NL A0H 1M0",English Harbour West,NL,A0H 1M0,Province of Newfoundland and Labrador,english harbour west nl a0h 1m0,,
+107,Fogo Island Central Academy,414,1,1,1,1,"General Delivery Fogo Island, NL A0G 2B0",Fogo Island,NL,A0G 2B0,Province of Newfoundland and Labrador,general delivery fogo island nl a0g 2b0,,general delivery
+108,Lake Academy,213,1,1,1,0,"P.O. Box 8, Forest Road Fortune, NL A0E 1P0",Fortune,NL,A0E 1P0,Province of Newfoundland and Labrador,forest road fortune nl a0e 1p0,,forest road
+109,Smallwood Academy,416,1,1,1,1,"Box 400 Gambo, NL A0G 1T0",Gambo,NL,A0G 1T0,Province of Newfoundland and Labrador,gambo nl a0g 1t0,,
+110,Gander Academy,417,1,1,0,0,"Fraser Road Gander, NL A1V 1K8",Gander,NL,A1V 1K8,Province of Newfoundland and Labrador,fraser road gander nl a1v 1k8,,fraser road
+111,Gander Collegiate,418,0,0,0,1,"3 Magee Road Gander, NL A1V 1W1",Gander,NL,A1V 1W1,Province of Newfoundland and Labrador,3 magee road gander nl a1v 1w1,3,magee road
+112,St. Paul's Intermediate School,420,0,0,1,0,"5 Magee Road Gander, NL A1V 1W1",Gander,NL,A1V 1W1,Province of Newfoundland and Labrador,5 magee road gander nl a1v 1w1,5,magee road
+113,Gander Elementary,495,0,1,0,0,"10 Penney's Avenue Gander, NL A1V 0J3",Gander,NL,A1V 0J3,Province of Newfoundland and Labrador,10 penney's avenue gander nl a1v 0j3,10,penney's avenue
+114,Victoria Academy,138,0,1,1,1,"Box 10 Gaultois, NL A0H 1N0",Gaultois,NL,A0H 1N0,Province of Newfoundland and Labrador,gaultois nl a0h 1n0,,
+115,Lakewood Academy,421,1,1,1,1,"P.O. Box 10 Glenwood, NL A0G 2K0",Glenwood,NL,A0G 2K0,Province of Newfoundland and Labrador,glenwood nl a0g 2k0,,
+116,Glovertown Academy,422,1,1,1,1,"P.O. Box 100 Glovertown, NL A0G 2L0",Glovertown,NL,A0G 2L0,Province of Newfoundland and Labrador,glovertown nl a0g 2l0,,
+117,John Burke High School,214,0,0,1,1,"P.O. Box 550, 48 Main Street Grand Bank, NL A0E 1W0",Grand Bank,NL,A0E 1W0,Province of Newfoundland and Labrador,48 main street grand bank nl a0e 1w0,48,main street
+118,Woodland Primary,142,1,1,0,0,"18A St. Catherine St Grand Falls-Windsor, NL A2A 1V8",Grand Falls-Windsor,NL,A2A 1V8,Province of Newfoundland and Labrador,18a st catherine st grand falls windsor nl a2a 1v8,18a,st catherine st
+119,Sprucewood Academy,144,0,1,0,0,"26 Price's Ave. Grand Falls-Windsor, NL A2B 1C9",Grand Falls-Windsor,NL,A2B 1C9,Province of Newfoundland and Labrador,26 price's ave grand falls windsor nl a2b 1c9,26,price's ave
+120,Exploits Valley High,480,0,0,0,1,"392 Grenfell Hgts Grand Falls-Windsor, NL A2A 2J2",Grand Falls-Windsor,NL,A2A 2J2,Province of Newfoundland and Labrador,392 grenfell hgts grand falls windsor nl a2a 2j2,392,grenfell hgts
+121,Exploits Valley Intermediate,481,0,0,1,0,"19 Greenwood Ave Grand Falls-Windsor, NL A2A 1S6",Grand Falls-Windsor,NL,A2A 1S6,Province of Newfoundland and Labrador,19 greenwood ave grand falls windsor nl a2a 1s6,19,greenwood ave
+122,Forest Park Primary,494,1,1,0,0,"28 Price's Ave. Grand Falls-Windsor, NL A2B 1C9",Grand Falls-Windsor,NL,A2B 1C9,Province of Newfoundland and Labrador,28 price's ave grand falls windsor nl a2b 1c9,28,price's ave
+123,King Academy,149,0,0,1,1,"Box 250 Harbour Breton, NL A0H 1P0",Harbour Breton,NL,A0H 1P0,Province of Newfoundland and Labrador,harbour breton nl a0h 1p0,,
+124,St. Joseph's Elementary,150,1,1,0,0,"Box 329 Harbour Breton, NL A0H 1P0",Harbour Breton,NL,A0H 1P0,Province of Newfoundland and Labrador,harbour breton nl a0h 1p0,,
+125,Jane Collins Academy,187,0,0,0,1,"Box 159 Hare Bay, NL A0G 2P0",Hare Bay,NL,A0G 2P0,Province of Newfoundland and Labrador,hare bay nl a0g 2p0,,
+126,John Watkins Academy,151,1,1,1,1,"Box 100 Hermitage, NL A0H 1S0",Hermitage,NL,A0H 1S0,Province of Newfoundland and Labrador,hermitage nl a0h 1s0,,
+127,Random Island Academy,242,1,1,1,1,"P.O. Box 138 Hickman's Harbour, NL A0C 1P0",Hickman's Harbour,NL,A0C 1P0,Province of Newfoundland and Labrador,hickman's harbour nl a0c 1p0,,
+128,St. Mark's School,430,0,1,1,1,"P.O. Box 84 King's Cove, NL A0C 1S0",King's Cove,NL,A0C 1S0,Province of Newfoundland and Labrador,king's cove nl a0c 1s0,,
+129,Sandstone Academy,188,1,1,0,0,"General Delivery Ladle Cove, NL A0G 2Y0",Ladle Cove,NL,A0G 2Y0,Province of Newfoundland and Labrador,general delivery ladle cove nl a0g 2y0,,general delivery
+130,St. Joseph's Academy,218,1,1,1,1,"Box 70 Lamaline, NL A0E 2C0",Lamaline,NL,A0E 2C0,Province of Newfoundland and Labrador,lamaline nl a0e 2c0,,
+131,Holy Name of Mary Academy,427,1,1,1,1,"Box 39 Lawn, NL A0E 2E0",Lawn,NL,A0E 2E0,Province of Newfoundland and Labrador,lawn nl a0e 2e0,,
+132,Leading Tickles Primary,155,0,1,0,0,"P.O. Box 29 Leading Tickles, NL A0H 1T0",Leading Tickles,NL,A0H 1T0,Province of Newfoundland and Labrador,leading tickles nl a0h 1t0,,
+133,Heritage Collegiate,471,0,0,1,1,"P. O. Box 40 Lethbridge, NL A0C 1V0",Lethbridge,NL,A0C 1V0,Province of Newfoundland and Labrador,p o lethbridge nl a0c 1v0,,
+134,Lewisporte Academy,189,1,1,0,0,"P.O.Box 640 Lewisporte, NL A0G 3A0",Lewisporte,NL,A0G 3A0,Province of Newfoundland and Labrador,pobox 640 lewisporte nl a0g 3a0,,
+135,Lewisporte Collegiate,190,0,0,0,1,"Box 250 Lewisporte, NL A0G 3A0",Lewisporte,NL,A0G 3A0,Province of Newfoundland and Labrador,lewisporte nl a0g 3a0,,
+136,Lewisporte Intermediate,486,0,0,1,0,"P.O.Box 729 Lewisporte, NL A0G 3A0",Lewisporte,NL,A0G 3A0,Province of Newfoundland and Labrador,pobox 729 lewisporte nl a0g 3a0,,
+137,Southwest Arm Academy,431,1,1,1,1,"Box 40 Little Heart's Ease, NL A0E 2K0",Little Heart's Ease,NL,A0E 2K0,Province of Newfoundland and Labrador,little heart's ease nl a0e 2k0,,
+138,Lumsden Academy,192,1,1,1,0,"Box 10 Lumsden, NL A0G 3E0",Lumsden,NL,A0G 3E0,Province of Newfoundland and Labrador,lumsden nl a0g 3e0,,
+139,Marystown Central High School,219,0,0,0,1,"P.O. Box 549 Marystown, NL A0E 2M0",Marystown,NL,A0E 2M0,Province of Newfoundland and Labrador,marystown nl a0e 2m0,,
+140,Sacred Heart Academy,220,1,1,1,0,"P.O. Box 79 Marystown, NL A0E 2M0",Marystown,NL,A0E 2M0,Province of Newfoundland and Labrador,marystown nl a0e 2m0,,
+141,St. Peter's All Grade,157,0,0,1,1,"P.O.Box 10 McCallum, NL A0H 2J0",McCallum,NL,A0H 2J0,Province of Newfoundland and Labrador,pobox 10 mccallum nl a0h 2j0,,
+142,Bay d'Espoir Academy,407,1,1,1,1,"P.O. Box 190 Milltown, NL A0H 2E0",Milltown,NL,A0H 2E0,Province of Newfoundland and Labrador,milltown nl a0h 2e0,,
+143,Gill Memorial Academy,194,1,1,1,1,"Box 70 Musgrave Harbour, NL A0G 3J0",Musgrave Harbour,NL,A0G 3J0,Province of Newfoundland and Labrador,musgrave harbour nl a0g 3j0,,
+144,Anthony Paddon Elementary,237,1,1,0,0,"Box 8 Musgravetown, NL A0C 1Z0",Musgravetown,NL,A0C 1Z0,Province of Newfoundland and Labrador,musgravetown nl a0c 1z0,,
+145,Bayview Primary,160,0,0,0,0,,Nipper's Harbour,NL,,Province of Newfoundland and Labrador,,,
+146,Hillview Academy,426,1,1,1,0,"P. O. Box 10 Norris Arm South, NL A0G 3M0",Norris Arm,NL,A0G 3M0,Province of Newfoundland and Labrador,p o norris arm south nl a0g 3m0,,
+147,Point Leamington Academy,163,1,1,1,1,"Box 100 Point Leamington, NL A0H 1Z0",Point Leamington,NL,A0H 1Z0,Province of Newfoundland and Labrador,point leamington nl a0h 1z0,,
+148,Bishop White School,240,1,1,1,1,"P.O. Box 70 Port Rexton, NL A0C 2H0",Port Rexton,NL,A0C 2H0,Province of Newfoundland and Labrador,port rexton nl a0c 2h0,,
+149,St. Stephen's All Grade,165,0,1,1,1,"Box 59 Rencontre East, NL A0H 2C0",Rencontre East,NL,A0H 2C0,Province of Newfoundland and Labrador,rencontre east nl a0h 2c0,,
+150,Christ the King School,223,1,1,1,1,"General Delivery Rushoon, NL A0E 2S0",Rushoon,NL,A0E 2S0,Province of Newfoundland and Labrador,general delivery rushoon nl a0e 2s0,,general delivery
+151,Pearce Junior High School,209,0,0,1,0,"P.O. Box 130 Burin Bay Arm, NL A0E 1G0",Salt Pond,NL,A0E 1G0,Province of Newfoundland and Labrador,burin bay arm nl a0e 1g0,,
+152,Riverside Elementary,243,1,1,0,0,"22 Thomas Pl. Clarenville, NL A5A 4P3",Shoal Harbour,NL,A5A 4P3,Province of Newfoundland and Labrador,22 thomas pl clarenville nl a5a 4p3,22,thomas pl
+153,St. Anne's School,225,0,1,1,1,"General Delivery South East Bight, NL A0E 3B0",South East Bight,NL,A0E 3B0,Province of Newfoundland and Labrador,general delivery south east bight nl a0e 3b0,,general delivery
+154,Fortune Bay Academy,226,1,1,1,1,P.O. Box 129 St. Bernard's - Jacques Font A0E 2T0,St. Bernard's - Jacques Fontaine,NL,A0E 2T0,Province of Newfoundland and Labrador,st bernard's jacques font a0e 2t0,,st bernard's jacques font a0e
+155,St. Gabriel's All Grade,196,0,1,1,0,"P.O. Box 10 St. Brendan's, NL A0G 3V0",St. Brendan's,NL,A0G 3V0,Province of Newfoundland and Labrador,st brendan's nl a0g 3v0,,
+156,St. Lawrence Academy,228,1,1,1,1,"P.O. Box 336 St. Lawrence, NL A0E 2V0",St. Lawrence,NL,A0E 2V0,Province of Newfoundland and Labrador,st lawrence nl a0e 2v0,,
+157,New World Island Academy,478,1,1,1,1,"Box 130 Summerford, NL A0G 4E0",Summerford,NL,A0G 4E0,Province of Newfoundland and Labrador,summerford nl a0g 4e0,,
+158,Swift Current Academy,246,1,1,0,0,"P. O. Box 40 Swift Current, NL A0E 2W0",Swift Current,NL,A0E 2W0,Province of Newfoundland and Labrador,p o swift current nl a0e 2w0,,
+159,St. Joseph's All Grade,229,1,1,1,1,"P.O. Box 70 Terrenceville, NL A0E 2X0",Terrenceville,NL,A0E 2X0,Province of Newfoundland and Labrador,terrenceville nl a0e 2x0,,
+160,J.M. Olds Collegiate,201,0,0,1,1,"Box 460 Twillingate, NL A0G 4M0",Twillingate,NL,A0G 4M0,Province of Newfoundland and Labrador,twillingate nl a0g 4m0,,
+161,Twillingate Island Elementary,202,1,1,0,0,"P.O. Box 370 Twillingate, NL A0G 4M0",Twillingate,NL,A0G 4M0,Province of Newfoundland and Labrador,twillingate nl a0g 4m0,,
+162,Pearson Academy,204,1,1,1,1,"Box 100 Wesleyville, NL A0G 4R0",Wesleyville,NL,A0G 4R0,Province of Newfoundland and Labrador,wesleyville nl a0g 4r0,,
+163,Riverwood Academy,206,1,1,1,1,"General Delivery Wing's Point, NL A0G 4T0",Wing's Point,NL,A0G 4T0,Province of Newfoundland and Labrador,general delivery wing's point nl a0g 4t0,,general delivery
+164,Roncalli Central High,247,0,0,1,1,"P. O. Box 260 Avondale, NL A0A 1B0",Avondale,NL,A0A 1B0,Province of Newfoundland and Labrador,p o avondale nl a0a 1b0,,
+165,Tricon Elementary,433,1,1,0,0,"P.O. Box 100 Bay de Verde, NL A0A 1E0",Bay de Verde,NL,A0A 1E0,Province of Newfoundland and Labrador,bay de verde nl a0a 1e0,,
+166,Amalgamated Academy,248,0,1,1,0,"P.O. Box 460 Bay Roberts, NL A0A 1G0",Bay Roberts,NL,A0A 1G0,Province of Newfoundland and Labrador,bay roberts nl a0a 1g0,,
+167,Ascension Collegiate,249,0,0,0,1,"Box 370 Bay Roberts, NL A0A 1G0",Bay Roberts,NL,A0A 1G0,Province of Newfoundland and Labrador,bay roberts nl a0a 1g0,,
+168,St. Augustine's Elementary,294,1,1,0,0,"P.O. Box 820 Bell Island, NL A0A 4H0",Bell Island,NL,A0A 4H0,Province of Newfoundland and Labrador,bell island nl a0a 4h0,,
+169,St. Michael's Regional High,296,0,0,1,1,"P.O. Box 400 Bell Island, NL A0A 4H0",Bell Island,NL,A0A 4H0,Province of Newfoundland and Labrador,bell island nl a0a 4h0,,
+170,Crescent Collegiate,464,0,0,1,1,"General Delivery South Dildo, NL A0B 1R0",Blaketown,NL,A0B 1R0,Province of Newfoundland and Labrador,general delivery south dildo nl a0b 1r0,,general delivery
+171,Carbonear Collegiate,253,0,0,1,1,"95 Valley Road Carbonear, NL A1Y 1A6",Carbonear,NL,A1Y 1A6,Province of Newfoundland and Labrador,95 valley road carbonear nl a1y 1a6,95,valley road
+172,Carbonear Academy,954,1,1,1,0,"88 Valley Road Carbonear, NL A1Y 1A7",Carbonear,NL,A1Y 1A7,Province of Newfoundland and Labrador,88 valley road carbonear nl a1y 1a7,88,valley road
+173,Holy Family Elementary,258,1,1,0,0,"General Delivery Chapel Arm, NL A0B 1L0",Chapel Arm,NL,A0B 1L0,Province of Newfoundland and Labrador,general delivery chapel arm nl a0b 1l0,,general delivery
+174,Coley's Point Primary,259,1,1,0,0,"P.O. Box 509 Bay Roberts, NL A0A 1G0",Coley's Point,NL,A0A 1G0,Province of Newfoundland and Labrador,bay roberts nl a0a 1g0,,
+175,Immaculate Conception Elementary,260,1,1,0,0,"P. O. Box 40 Colliers, NL A0A 1Y0",Colliers,NL,A0A 1Y0,Province of Newfoundland and Labrador,p o colliers nl a0a 1y0,,
+176,Admiral Academy,497,1,1,1,0,835 Conception Bay Highway Conception Bay South A1X 6G7,Conception Bay South,NL,A1X 6G7,Province of Newfoundland and Labrador,835 conception bay highway conception bay south a1x 6g7,835,conception bay highway
+177,Frank Roberts Junior High,300,0,0,1,0,"P.O. Box 16040, Stn Foxtrap CBS, NL A1X 2E2",Conception Bay South (Foxtrap),NL,A1X 2E2,Province of Newfoundland and Labrador,stn foxtrap cbs nl a1x 2e2,,
+178,Queen Elizabeth Regional High,302,0,0,0,1,"P.O. Box 16007 Stn. Foxtrap, CBS, NL A1X 2E2",Conception Bay South (Foxtrap),NL,A1X 2E2,Province of Newfoundland and Labrador,stn foxtrap cbs nl a1x 2e2,,
+179,St. Edward's School,303,1,1,0,0,"P.O. Box 17043 Stn. Kelligrews, CBS, NL A1X 3H1",Conception Bay South (Kelligrews),NL,A1X 3H1,Province of Newfoundland and Labrador,stn kelligrews cbs nl a1x 3h1,,
+180,Holy Spirit High,304,0,0,1,1,2694 Topsail Road Conception Bay South NL A1W 4B1,Conception Bay South (Manuels),NL,A1W 4B1,Province of Newfoundland and Labrador,2694 topsail road conception bay south nl a1w 4b1,2694,topsail road
+181,Villanova Junior High,305,0,1,1,0,"2698 Topsail Road CBS, NL A1W 4B1",Conception Bay South (Manuels),NL,A1W 4B1,Province of Newfoundland and Labrador,2698 topsail road cbs nl a1w 4b1,2698,topsail road
+182,St. George's Elementary,306,1,1,0,0,"P.O. Box 14092 Manuels, CBS, NL A1W 3J1",Conception Bay South (Manuels),NL,A1W 3J1,Province of Newfoundland and Labrador,manuels cbs nl a1w 3j1,,
+183,Topsail Elementary,366,1,1,0,0,"P.O. Box 13121, Stn Topsail CBS, NL A1W 2K1",Conception Bay South (Topsail),NL,A1W 2K1,Province of Newfoundland and Labrador,stn topsail cbs nl a1w 2k1,,
+184,Upper Gullies Elementary,371,1,1,0,0,"30 Roberts Road South Upper Gullies, CBS, NL A1X 6K2",Conception Bay South (Upper Gullies),NL,A1X 6K2,Province of Newfoundland and Labrador,30 roberts road south upper gullies cbs nl a1x 6k2,30,roberts road south upper gullies
+185,Woodland Elementary,262,1,1,0,0,"P.O. Box 40 Dildo, NL A0B 1P0",Dildo,NL,A0B 1P0,Province of Newfoundland and Labrador,dildo nl a0b 1p0,,
+186,St. Anne's Academy,435,1,1,0,0,"P.O. Box 300 Dunville, NL A0B 1S0",Dunville,NL,A0B 1S0,Province of Newfoundland and Labrador,dunville nl a0b 1s0,,
+187,Baltimore School Complex,447,1,1,1,1,"General Delivery Ferryland, NL A0A 2H0",Ferryland,NL,A0A 2H0,Province of Newfoundland and Labrador,general delivery ferryland nl a0a 2h0,,general delivery
+188,Acreman Elementary,265,1,1,0,0,"P. O. Box 9 Green's Harbour, NL A0B 1X0",Green's Harbour,NL,A0B 1X0,Province of Newfoundland and Labrador,p o green's harbour nl a0b 1x0,,
+189,St. Francis School,269,1,1,1,0,"Box 460 Harbour Grace, NL A0A 2M0",Harbour Grace,NL,A0A 2M0,Province of Newfoundland and Labrador,harbour grace nl a0a 2m0,,
+190,Holy Cross Elementary,272,1,1,0,0,"P.O. Box 280 Holyrood, NL A0A 2R0",Holyrood,NL,A0A 2R0,Province of Newfoundland and Labrador,holyrood nl a0a 2r0,,
+191,St. Francis of Assisi Elementary,317,1,1,0,0,"29 Outercove Road Outer Cove, NL A1K 4E7",Logy Bay/Middle Cove/Outer Cove,NL,A1K 4E7,Province of Newfoundland and Labrador,29 outercove road outer cove nl a1k 4e7,29,outercove road
+192,Mobile Central High,307,0,1,1,1,"Box 60 Mobile, NL A0A 3A0",Mobile,NL,A0A 3A0,Province of Newfoundland and Labrador,mobile nl a0a 3a0,,
+193,St. Catherine's Academy,274,1,1,1,1,"P.O. Box 150 Mount Carmel, NL A0B 2M0",Mount Carmel,NL,A0B 2M0,Province of Newfoundland and Labrador,mount carmel nl a0b 2m0,,
+194,Mary Queen of the World Elementary,308,1,1,0,0,"791 Topsail Road Mount Pearl, NL A1N 3J6",Mount Pearl,NL,A1N 3J6,Province of Newfoundland and Labrador,791 topsail road mount pearl nl a1n 3j6,791,topsail road
+195,Morris Academy,309,1,1,0,0,"52 Roosevelt Avenue Mount Pearl, NL A1N 1Z8",Mount Pearl,NL,A1N 1Z8,Province of Newfoundland and Labrador,52 roosevelt avenue mount pearl nl a1n 1z8,52,roosevelt avenue
+196,Mount Pearl Intermediate,310,0,1,1,0,"56 Ruth Avenue Mount Pearl, NL A1N 2H5",Mount Pearl,NL,A1N 2H5,Province of Newfoundland and Labrador,56 ruth avenue mount pearl nl a1n 2h5,56,ruth avenue
+197,Mount Pearl Senior High,311,0,0,1,1,"46 Ruth Ave Mount Pearl, NL A1N 2H5",Mount Pearl,NL,A1N 2H5,Province of Newfoundland and Labrador,46 ruth ave mount pearl nl a1n 2h5,46,ruth ave
+198,Newtown Elementary,312,0,1,0,0,"25 Jackman Drive Mount Pearl, NL A1N 2P5",Mount Pearl,NL,A1N 2P5,Province of Newfoundland and Labrador,25 jackman drive mount pearl nl a1n 2p5,25,jackman drive
+199,O'Donel High School,313,0,0,0,1,"Box 578 Mount Pearl, NL A1N 2W4",Mount Pearl,NL,A1N 2W4,Province of Newfoundland and Labrador,mount pearl nl a1n 2w4,,
+200,St. Peter's Junior High,315,0,0,1,0,"Munden Dr Mount Pearl, NL A1N 2T5",Mount Pearl,NL,A1N 2T5,Province of Newfoundland and Labrador,munden dr mount pearl nl a1n 2t5,,munden dr
+201,St. Peter's Primary,316,1,1,0,0,"108 Ashford Dr. Mount Pearl, NL A1N 3L6",Mount Pearl,NL,A1N 3L6,Province of Newfoundland and Labrador,108 ashford dr mount pearl nl a1n 3l6,108,ashford dr
+202,All Hallows Elementary,278,1,1,0,0,"General Delivery North River, NL A0A 3C0",North River,NL,A0A 3C0,Province of Newfoundland and Labrador,general delivery north river nl a0a 3c0,,general delivery
+203,Baccalieu Collegiate,476,0,0,1,1,"P. O. Box 10 Old Perlican, NL A0A 3G0",Old Perlican,NL,A0A 3G0,Province of Newfoundland and Labrador,p o old perlican nl a0a 3g0,,
+204,Holy Family Elementary,318,1,1,0,0,"67 St. Thomas Line Paradise, NL A1L 1K9",Paradise,NL,A1L 1K9,Province of Newfoundland and Labrador,67 st thomas line paradise nl a1l 1k9,67,st thomas line
+205,Octagon Pond Elementary,492,1,1,0,0,425 Topsail Road St. John's A1E 5N7,Paradise,NL,A1E 5N7,Province of Newfoundland and Labrador,425 topsail road st john's a1e 5n7,425,topsail road
+206,Paradise Elementary,951,1,1,0,0,"60 Karwood Drive Paradise, NL A1L 2T8",Paradise,NL,A1L 2T8,Province of Newfoundland and Labrador,60 karwood drive paradise nl a1l 2t8,60,karwood drive
+207,Elizabeth Park Elementary,952,1,1,0,0,"80 Ellesmere Avenue Paradise, NL A1L 0R7",Paradise,NL,A1L 0R7,Province of Newfoundland and Labrador,80 ellesmere avenue paradise nl a1l 0r7,80,ellesmere avenue
+208,Laval High School,280,0,0,1,1,"P.O. Box 310 Placentia, NL A0B 2Y0",Placentia,NL,A0B 2Y0,Province of Newfoundland and Labrador,placentia nl a0b 2y0,,
+209,Beachy Cove Elementary,320,1,1,0,0,"P.O. Box 578 Portugal Cove, NL A1M 3R6",Portugal Cove - St. Philip's,NL,A1M 3R6,Province of Newfoundland and Labrador,portugal cove nl a1m 3r6,,
+210,Brookside Intermediate,496,0,1,1,0,1169-1181 Thorburn Road Portugal Cove - St. Philip's A1M 1T6,Portugal Cove - St. Philip's,NL,A1M 1T6,Province of Newfoundland and Labrador,1169 1181 thorburn road portugal cove st philip's a1m 1t6,1169,1181 thorburn road
+211,Cape St. Francis Elementary,473,1,1,0,0,"P.O. Box 220 Pouch Cove, NL A0A 3L0",Pouch Cove,NL,A0A 3L0,Province of Newfoundland and Labrador,pouch cove nl a0a 3l0,,
+212,Holy Redeemer Elementary,285,1,1,1,0,"Box 40 Spaniard's Bay, NL A0A 3X0",Spaniard's Bay,NL,A0A 3X0,Province of Newfoundland and Labrador,spaniard's bay nl a0a 3x0,,
+213,Fatima Academy,286,0,1,1,1,"General Delivery St. Bride's, NL A0B 2Z0",St. Bride's,NL,A0B 2Z0,Province of Newfoundland and Labrador,general delivery st bride's nl a0b 2z0,,general delivery
+214,Beaconsfield Junior High,324,0,0,1,0,"210 Waterford Bridge Road St. John's, NL A1E 1E2",St. John's,NL,A1E 1E2,Province of Newfoundland and Labrador,210 waterford bridge road st john's nl a1e 1e2,210,waterford bridge road
+215,Bishop Abraham Elementary,325,1,1,0,0,"196 Pennywell Rd. St. John's, NL A1C 2L6",St. John's,NL,A1C 2L6,Province of Newfoundland and Labrador,196 pennywell rd st john's nl a1c 2l6,196,pennywell rd
+216,Bishop Feild Elementary,326,1,1,0,0,"44 Bond Street St. John's, NL A1C 1S6",St. John's,NL,A1C 1S6,Province of Newfoundland and Labrador,44 bond street st john's nl a1c 1s6,44,bond street
+217,Brother Rice Junior High,330,0,0,1,0,"75 Bonaventure Ave. St. John's, NL A1C 3Z3",St. John's,NL,A1C 3Z3,Province of Newfoundland and Labrador,75 bonaventure ave st john's nl a1c 3z3,75,bonaventure ave
+218,Cowan Heights Elementary,331,1,1,1,0,"104 Canada Drive St. John's, NL A1E 2M8",St. John's,NL,A1E 2M8,Province of Newfoundland and Labrador,104 canada drive st john's nl a1e 2m8,104,canada drive
+219,Larkhall Academy,334,1,1,0,0,"16 Larkhall St St. John's, NL A1B 2C3",St. John's,NL,A1B 2C3,Province of Newfoundland and Labrador,16 larkhall st st john's nl a1b 2c3,16,larkhall st
+220,Leary's Brook Junior High,335,0,1,1,0,"15 Larkhall St St. John's, NL A1B 2C4",St. John's,NL,A1B 2C4,Province of Newfoundland and Labrador,15 larkhall st st john's nl a1b 2c4,15,larkhall st
+221,Gonzaga Regional High,336,0,0,0,1,"20 Smithville Cres St. John's, NL A1B 2V2",St. John's,NL,A1B 2V2,Province of Newfoundland and Labrador,20 smithville cres st john's nl a1b 2v2,20,smithville cres
+222,Holy Heart of Mary Regional High,340,0,0,0,1,"55 Bonaventure Ave St. John's, NL A1C 3Z3",St. John's,NL,A1C 3Z3,Province of Newfoundland and Labrador,55 bonaventure ave st john's nl a1c 3z3,55,bonaventure ave
+223,Macdonald Drive Elementary,342,1,1,0,0,"150 Macdonald Drive St. John's, NL A1A 2K9",St. John's,NL,A1A 2K9,Province of Newfoundland and Labrador,150 macdonald drive st john's nl a1a 2k9,150,macdonald drive
+224,Macdonald Drive Junior High,343,0,0,1,0,"152 MacDonald Drive St. John's, NL A1A 2K9",St. John's,NL,A1A 2K9,Province of Newfoundland and Labrador,152 macdonald drive st john's nl a1a 2k9,152,macdonald drive
+225,Mary Queen of Peace Elementary,345,1,1,0,0,"137 Torbay Road St. John's, NL A1A 2G9",St. John's,NL,A1A 2G9,Province of Newfoundland and Labrador,137 torbay road st john's nl a1a 2g9,137,torbay road
+226,Prince of Wales Collegiate,347,0,0,0,1,"3 Paton Street St. John's, NL A1B 3E7",St. John's,NL,A1B 3E7,Province of Newfoundland and Labrador,3 paton street st john's nl a1b 3e7,3,paton street
+227,Roncalli Elementary,348,1,1,0,0,"130 Airport Hgts Dr St. John's, NL A1A 4Z7",St. John's,NL,A1A 4Z7,Province of Newfoundland and Labrador,130 airport hgts dr st john's nl a1a 4z7,130,airport hgts dr
+228,St. Andrew's Elementary,349,1,1,0,0,"141 University Ave St. John's, NL A1B 1Z4",St. John's,NL,A1B 1Z4,Province of Newfoundland and Labrador,141 university ave st john's nl a1b 1z4,141,university ave
+229,St. John Bosco School,350,1,1,1,0,"P.O. Box 150, Shea Heights St. John's, NL A0A 1J0",St. John's,NL,A0A 1J0,Province of Newfoundland and Labrador,shea heights st john's nl a0a 1j0,,
+230,St. Mary's Elementary,355,1,1,0,0,"124 Waterford Bridge Rd St. John's, NL A1E 1C9",St. John's,NL,A1E 1C9,Province of Newfoundland and Labrador,124 waterford bridge rd st john's nl a1e 1c9,124,waterford bridge rd
+231,St. Matthew's Elementary,356,1,1,1,0,"115 Cowan Avenue St. John's, NL A1E 3W4",St. John's,NL,A1E 3W4,Province of Newfoundland and Labrador,115 cowan avenue st john's nl a1e 3w4,115,cowan avenue
+232,St. Paul's Junior High,359,0,0,1,0,"340 Newfoundland Dr St. John's, NL A1A 3R9",St. John's,NL,A1A 3R9,Province of Newfoundland and Labrador,340 newfoundland dr st john's nl a1a 3r9,340,newfoundland dr
+233,Rennie's River Elementary School,360,1,1,0,0,"150 Elizabeth Avenue St. John's, NL A1B 1S4",St. John's,NL,A1B 1S4,Province of Newfoundland and Labrador,150 elizabeth avenue st john's nl a1b 1s4,150,elizabeth avenue
+234,St. Teresa's School/Ecole Ste-Therese,362,1,1,0,0,"100 Mundy Pond Road St. John's, NL A1E 1V1",St. John's,NL,A1E 1V1,Province of Newfoundland and Labrador,100 mundy pond road st john's nl a1e 1v1,100,mundy pond road
+235,Vanier Elementary,363,1,1,0,0,"75 Ennis Avenue St. John's, NL A1A 1Y7",St. John's,NL,A1A 1Y7,Province of Newfoundland and Labrador,75 ennis avenue st john's nl a1a 1y7,75,ennis avenue
+236,East Point Elementary,364,1,1,0,0,"14 Middleton Street St. John's, NL A1A 3H9",St. John's,NL,A1A 3H9,Province of Newfoundland and Labrador,14 middleton street st john's nl a1a 3h9,14,middleton street
+237,District School,452,0,0,1,1,145 St. Clare Avenue St. John's A1C 2J9,St. John's,NL,A1C 2J9,Province of Newfoundland and Labrador,145 st clare avenue st john's a1c 2j9,145,st clare avenue
+238,Hazelwood Elementary,468,1,1,0,0,"391 Topsail Rd St. John's, NL A1E 2B7",St. John's,NL,A1E 2B7,Province of Newfoundland and Labrador,391 topsail rd st john's nl a1e 2b7,391,topsail rd
+239,Waterford Valley High,489,0,0,0,1,465 Topsail Road St. John's A1E 0E3,St. John's,NL,A1E 0E3,Province of Newfoundland and Labrador,465 topsail road st john's a1e 0e3,465,topsail road
+240,Goulds Elementary,337,1,1,0,0,"Box 6, 46 Doyles Road Goulds, NL A1S 1A1",St. John's (Goulds),NL,A1S 1A1,Province of Newfoundland and Labrador,46 doyles road goulds nl a1s 1a1,46,doyles road
+241,St. Kevin's Junior High,353,0,1,1,0,"P.O. Box 700 Goulds, NL A1S 1G7",St. John's (Goulds),NL,A1S 1G7,Province of Newfoundland and Labrador,goulds nl a1s 1g7,,
+242,St. Kevin's High,354,0,0,1,1,"Box 490 Goulds, NL A1S 1G6",St. John's (Goulds),NL,A1S 1G6,Province of Newfoundland and Labrador,goulds nl a1s 1g6,,
+243,Dunne Memorial Academy,287,1,1,1,1,"P.O. Box 349 St. Mary's, NL A0B 3B0",St. Mary's,NL,A0B 3B0,Province of Newfoundland and Labrador,st mary's nl a0b 3b0,,
+244,Holy Trinity Elementary,367,1,1,0,0,"10 Doyle's & Quigley's Lane Torbay, NL A1K 1A7",Torbay,NL,A1K 1A7,Province of Newfoundland and Labrador,10 doyle's & quigley's lane torbay nl a1k 1a7,10,doyle's & quigley's lane
+245,Holy Trinity High,368,0,0,1,1,"23 Lynch's Lane Torbay, NL A1K 1A6",Torbay,NL,A1K 1A6,Province of Newfoundland and Labrador,23 lynch's lane torbay nl a1k 1a6,23,lynch's lane
+246,Juniper Ridge Intermediate,493,0,1,1,0,"10 Doyle's & Quigley's Lane Torbay, NL A1K 1A7",Torbay,NL,A1K 1A7,Province of Newfoundland and Labrador,10 doyle's & quigley's lane torbay nl a1k 1a7,10,doyle's & quigley's lane
+247,Stella Maris Academy,370,1,1,1,1,"General Delivery Trepassey, NL A0A 4B0",Trepassey,NL,A0A 4B0,Province of Newfoundland and Labrador,general delivery trepassey nl a0a 4b0,,general delivery
+248,St. Peter's Elementary,289,1,1,1,0,"P.O. Box 100 Upper Island Cove, NL A0A 4E0",Upper Island Cove,NL,A0A 4E0,Province of Newfoundland and Labrador,upper island cove nl a0a 4e0,,
+249,Persalvic Elementary,442,1,1,1,0,"P.O. Box 70 Victoria, NL A0A 4G0",Victoria,NL,A0A 4G0,Province of Newfoundland and Labrador,victoria nl a0a 4g0,,
+250,Cabot Academy,444,1,1,0,0,"P.O. Box 39 Western Bay, NL A0A 4J0",Western Bay,NL,A0A 4J0,Province of Newfoundland and Labrador,western bay nl a0a 4j0,,
+251,Whitbourne Elementary,446,1,1,0,0,"P.O. Box 8 Whitbourne, NL A0B 3K0",Whitbourne,NL,A0B 3K0,Province of Newfoundland and Labrador,whitbourne nl a0b 3k0,,
+252,Perlwin Elementary,291,1,1,0,0,"P.O. Box 130 Winterton, NL A0B 3M0",Winterton,NL,A0B 3M0,Province of Newfoundland and Labrador,winterton nl a0b 3m0,,
+253,St. Bernard's Elementary,372,1,1,0,0,"P.O. Box 70 Witless Bay, NL A0A 4K0",Witless Bay,NL,A0A 4K0,Province of Newfoundland and Labrador,witless bay nl a0a 4k0,,
+254,Ecole Notre-Dame du Cap,95,1,1,1,0,"Case postale 170 Cap Saint-Georges, NL A0N 1E0",Cap Saint-Georges,NL,A0N 1E0,Province of Newfoundland and Labrador,case postale 170 cap saint georges nl a0n 1e0,,
+255,Ecole Boreale,472,1,1,1,0,"P.O. Box 1038, Stn. C Happy Valley- Goose Bay, NL A0P 1C0",Happy Valley-Goose Bay,NL,A0P 1C0,Province of Newfoundland and Labrador,stn c happy valley goose bay nl a0p 1c0,,
+256,Ecole Sainte-Anne,107,1,1,1,1,"Case postale 190, RR#1 La Grand'Terre,TL A0N 1R0",La Grand'Terre (Mainland),NL,A0N 1R0,Province of Newfoundland and Labrador,case postale 190 rr#1 la grand'terre tl a0n 1r0,,rr#1 la grand'terre tl a0n
+257,Centre educatif l'ENVOL,459,1,1,1,1,"505 Bristol Crescent Labrador City, TL A2V 1J2",Labrador City,NL,A2V 1J2,Province of Newfoundland and Labrador,505 bristol crescent labrador city tl a2v 1j2,505,bristol crescent
+258,Ecole des Grands-Vents,460,1,1,0,0,"65 Ridge Road Saint- Jean, TL A1B 4P5",St. John's,NL,A1B 4P5,Province of Newfoundland and Labrador,65 ridge road saint jean tl a1b 4p5,65,ridge road
+259,Ecole Rocher-du-Nord,499,0,0,1,1,"7 Ricketts Road St. John's, NL A1C 6G8",St. John's,NL,A1C 6G8,Province of Newfoundland and Labrador,7 ricketts road st john's nl a1c 6g8,7,ricketts road
+260,Sheshatshiu Innu School,18,1,1,1,1,"Box 70 Sheshatshiu, NL A0P 1M0",Sheshatshiu,NL,A0P 1M0,Province of Newfoundland and Labrador,sheshatshiu nl a0p 1m0,,
+261,Mushuau Innu Natuashish School,19,1,1,1,1,"Box 189 Natuashish, NL A0P 1A0",Natuashish,NL,A0P 1A0,Province of Newfoundland and Labrador,natuashish nl a0p 1a0,,
+262,Se't Anneway Kegnamogwom,376,1,1,1,1,"P.O. Box 100 Conne River, NL A0H 1J0",Conne River,NL,A0H 1J0,Province of Newfoundland and Labrador,conne river nl a0h 1j0,,
+263,First Baptist Academy,373,1,1,1,1,"1 Ambassador Place Mount Pearl, NL A1N 5C3",Mount Pearl,NL,A1N 5C3,Province of Newfoundland and Labrador,1 ambassador place mount pearl nl a1n 5c3,1,ambassador place
+264,Murphy Centre,374,0,0,0,1,"1 Prince Philip Drive, Box 2 St. John's, NL A1A 5B2",St. John's,NL,A1A 5B2,Province of Newfoundland and Labrador,1 prince philip drive st john's nl a1a 5b2,1,prince philip drive
+265,Lakecrest-St. John's Independent School,375,1,1,1,0,"58 Patrick St. St. John's, NL A1E 2S7",St. John's,NL,A1E 2S7,Province of Newfoundland and Labrador,58 patrick st st john's nl a1e 2s7,58,patrick st
+266,St. Bonaventure's College,450,1,1,1,1,"Bonaventure Avenue St. John's, NL A1C 6B3",St. John's,NL,A1C 6B3,Province of Newfoundland and Labrador,bonaventure avenue st john's nl a1c 6b3,,bonaventure avenue
+267,Eric G. Lambert All-Grade,453,1,1,1,1,"P.O. Box 40 Churchill Falls, NL A0R 1A0",Churchill Falls,NL,A0R 1A0,Province of Newfoundland and Labrador,churchill falls nl a0r 1a0,,
+268,Immaculate Heart of Mary School,469,1,1,1,1,"112 Humber Road Corner Brook, NL A2H 1E8",Corner Brook,NL,A2H 1E8,Province of Newfoundland and Labrador,112 humber road corner brook nl a2h 1e8,112,humber road
+269,Anchor Academy,501,1,1,0,0,"1 Escasoni Place St. John's, NL A1A 0K7",St. John's,NL,A1A 0K7,Province of Newfoundland and Labrador,1 escasoni place st john's nl a1a 0k7,1,escasoni place

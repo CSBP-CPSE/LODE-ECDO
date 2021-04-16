@@ -1,0 +1,50 @@
+idx,facility_name,grade_range,address_str,city,province,provider,address_str_clean,street_no,street_name
+0,Angik School,JK-12,Angik School PO BOX 100 PAULATUK NT X0E 1N0,Paulatuk,NT,Northwest Territories,angik school paulatuk nt x0e 1n0,,
+1,Chief Julius School,JK-12,Chief Julius School PO BOX 26 FORT MCPHERSON NT X0E 0J0,Fort Mcpherson,NT,Northwest Territories,chief julius school fort mcpherson nt x0e 0j0,,
+2,Chief Paul Niditchie School,JK-9,Chief Paul Niditchie School GENERAL DELIVERY TSIIGEHTCHIC NT X0E 0B0,Tsiigehtchic,NT,Northwest Territories,chief paul niditchie school general delivery tsiigehtchic nt x0e 0b0,,
+3,East Three Elementary School,JK-6,East Three Elementary School PO BOX 1470 INUVIK NT X0E 0T0,Inuvik,NT,Northwest Territories,east three elementary school inuvik nt x0e 0t0,,
+4,East Three Secondary School,12-Jul,East Three Secondary School BAG SERVICE #3 INUVIK NT X0E 0T0,Inuvik,NT,Northwest Territories,east three secondary school bag service #3 inuvik nt x0e 0t0,,
+5,Helen Kalvak Elihakvik,JK-12,Helen Kalvak Elihakvik PO BOX 162 ULUKHAKTOK NT X0E 0S0,Ulukhaktok,NT,Northwest Territories,helen kalvak elihakvik ulukhaktok nt x0e 0s0,,
+6,Inualthuyak School,JK-9,Inualthuyak School GENERAL DELIVERY SACHS HARBOUR NT X0E 0Z0,Sachs Harbour,NT,Northwest Territories,inualthuyak school general delivery sachs harbour nt x0e 0z0,,
+7,Mangilaluk School,JK-12,Mangilaluk School PO BOX 5000 TUKTOYAKTUK NT X0E 1C0,Tuktoyaktuk,NT,Northwest Territories,mangilaluk school tuktoyaktuk nt x0e 1c0,,
+8,Moose Kerr School,JK-12,Moose Kerr School PO BOX 120 AKLAVIK NT X0E 0A0,Aklavik,NT,Northwest Territories,moose kerr school aklavik nt x0e 0a0,,
+9,cole Allain St-Cyr,JK-12,cole Allain St-Cyr 48 TAYLOR ROAD YELLOWKNIFE NT X1A 3X2,Yellowknife,NT,Northwest Territories,cole allain st cyr 48 taylor road yellowknife nt x1a 3x2,48,taylor road
+10,cole Borale,JK-12,cole Borale 145 PROMENADE RIVERVIEW HAY RIVER NT X0E 0R8,Hay River,NT,Northwest Territories,cole borale 145 promenade riverview hay river nt x0e 0r8,145,promenade riverview
+11,Kaw Tay Whee School,JK-9,Kaw Tay Whee School PO BOX 40 YELLOWKNIFE NT X1A 2N1,Detah,NT,Northwest Territories,kaw tay whee school yellowknife nt x1a 2n1,,
+12,Charles Tetcho School,JK-9,Charles Tetcho School PO BOX 60 SAMBAA KE NT X0E 1Z0,Sambaa Ke,NT,Northwest Territories,charles tetcho school sambaa ke nt x0e 1z0,,
+13,Charles Yohin School,JK-10,Charles Yohin School GENERAL DELIVERY NAHANNI BUTTE NT X0E 0N0,Nahanni Butte,NT,Northwest Territories,charles yohin school general delivery nahanni butte nt x0e 0n0,,
+14,Chief Julian Yendo School,JK-9,Chief Julian Yendo School GENERAL DELIVERY WRIGLEY NT X0E 1E0,Wrigley,NT,Northwest Territories,chief julian yendo school general delivery wrigley nt x0e 1e0,,
+15,Deh Gh Elem. & Second. School,JK-12,Deh Gh Elementary & Secondary School PO BOX 320 FORT PROVIDENCE NT X0E 0L0,Fort Providence,NT,Northwest Territories,deh gh elementary & secondary school fort providence nt x0e 0l0,,
+16,Echo-Dene School,JK-12,Echo-Dene School GENERAL DELIVERY FORT LIARD NT X0G 0A0,Fort Liard,NT,Northwest Territories,echo dene school general delivery fort liard nt x0g 0a0,,
+17,Kakisa Lake School,JK-9,Kakisa Territorial School PO BOX 4426 HAY RIVER NT X0E 1G3,Kakisa,NT,Northwest Territories,kakisa territorial school hay river nt x0e 1g3,,
+18,dl K Elementary School (Bompas Elementary School),JK-6,dl K Elementary School (Bompas Elementary School) PO BOX 499 FORT SIMPSON NT X0E 0N0,Fort Simpson,NT,Northwest Territories,dl k elementary school fort simpson nt x0e 0n0,,
+19,dl K Regional High School (Thomas Simpson Secondary School),12-Jul,dl K Regional High School (Thomas Simpson Secondary School) PO BOX 252 FORT SIMPSON NT X0E 0N0,Fort Simpson,NT,Northwest Territories,dl k regional high school fort simpson nt x0e 0n0,,
+20,Louie Norwegian School,JK-9,Louie Norwegian School GENERAL DELIVERY JEAN MARIE RIVER NT X0E 0N0,Jean Marie River,NT,Northwest Territories,louie norwegian school general delivery jean marie river nt x0e 0n0,,
+21,K'lem Dene School,JK-12,K'lem Dene School PO Box 236 NDIL NT X1A 2N2,Ndil,NT,Northwest Territories,k'lem dene school ndil nt x1a 2n2,,
+22,Chief Albert Wright School,JK-12,Chief Albert Wright School PO BOX 126 TULITA NT X0E 0K0,Tulita,NT,Northwest Territories,chief albert wright school tulita nt x0e 0k0,,
+23,Chief T'Selehye School,JK-12,Chief T'Selehye School PO BOX 99 FORT GOOD HOPE NT X0E 0H0,Fort Good Hope,NT,Northwest Territories,chief t'selehye school fort good hope nt x0e 0h0,,
+24,Colville Lake School,JK-12,Colville Lake School PO BOX 52 COLVILLE LAKE NT X0E 1L0,Colville Lake,NT,Northwest Territories,colville lake school colville lake nt x0e 1l0,,
+25,Mackenzie Mountain School,JK-12,Mackenzie Mountain School PO BOX 270 NORMAN WELLS NT X0E 0V0,Norman Wells,NT,Northwest Territories,mackenzie mountain school norman wells nt x0e 0v0,,
+26,ehtseo Ayha School,JK-12,ehtseo Ayha School PO BOX 179 DLNE NT X0E 0G0,Dlne,NT,Northwest Territories,ehtseo ayha school dlne nt x0e 0g0,,
+27,Chief Sunrise Education Centre,JK-12,Chief Sunrise Education Centre PO BOX 3055 HAY RIVER DENE RESERVE NT X0E 1G4,K'atlode-eche First Nation Reserve,NT,Northwest Territories,chief sunrise education centre hay river dene reserve nt x0e 1g4,,
+28,Deninu School,JK-12,Deninu School GENERAL DELIVERY FORT RESOLUTION NT X0E 0M0,Fort Resolution,NT,Northwest Territories,deninu school general delivery fort resolution nt x0e 0m0,,
+29,Diamond Jenness Secondary School,12-Aug,Diamond Jenness Secondary School 58 WOODLAND DRIVE HAY RIVER NT X0E 0R8,Hay River,NT,Northwest Territories,diamond jenness secondary school 58 woodland drive hay river nt x0e 0r8,58,woodland drive
+30,Harry Camsell School,JK-3,Harry Camsell School 54 WOODLAND DRIVE HAY RIVER NT X0E 0R8,Hay River,NT,Northwest Territories,harry camsell school 54 woodland drive hay river nt x0e 0r8,54,woodland drive
+31,Joseph Burr Tyrrell School,JK-6,Joseph Burr Tyrrell School 232 McDougal Road BAG SERVICE #1 FORT SMITH NT X0E 0P0,Fort Smith,NT,Northwest Territories,joseph burr tyrrell school 232 mcdougal road bag service #1 fort smith nt x0e 0p0,232,mcdougal road bag service #1
+32,Lutsel K'e Dene School,JK-12,Lutsel K'e Dene School PO Box 80 UTSELKE NT X0E 1A0,utselke,NT,Northwest Territories,lutsel k'e dene school utselke nt x0e 1a0,,
+33,P.W. Kaeser High School,12-Jul,P.W. Kaeser High School 97 Conibear Cres PO BOX 480 FORT SMITH NT X0E 0P0,Fort Smith,NT,Northwest Territories,pw kaeser high school 97 conibear cres fort smith nt x0e 0p0,97,conibear cres
+34,Princess Alexandra School,07-Apr,Princess Alexandra School 56 WOODLAND DRIVE HAY RIVER NT X0E 0R8,Hay River,NT,Northwest Territories,princess alexandra school 56 woodland drive hay river nt x0e 0r8,56,woodland drive
+35,Alexis Arrowmaker School,JK-10,Alexis Arrowmaker School PO BOX 70 WEKWET NT X0E 1W0,Wekwet,NT,Northwest Territories,alexis arrowmaker school wekwet nt x0e 1w0,,
+36,Chief Jimmy Bruneau School,JK-12,Chief Jimmy Bruneau School BAG SERVICE #1 BEHCHOK NT X0E 0Y0,Behchok,NT,Northwest Territories,chief jimmy bruneau school bag service #1 behchok nt x0e 0y0,,
+37,Elizabeth Mackenzie Elem.,JK-6,Elizabeth Mackenzie Elementary BAG SERVICE #2 BEHCHOK NT X0E 0Y0,Behchok,NT,Northwest Territories,elizabeth mackenzie elementary bag service #2 behchok nt x0e 0y0,,
+38,Jean Wetrade Gamt School,JK-12,Jean Wetrade Gamt School GENERAL DELIVERY GAMT NT X0E 1R0,Gamt,NT,Northwest Territories,jean wetrade gamt school general delivery gamt nt x0e 1r0,,
+39,Mezi Community School,JK-12,Mezi Community School GENERAL DELIVERY WHAT NT X0E 1P0,What,NT,Northwest Territories,mezi community school general delivery what nt x0e 1p0,,
+40,cole St. Joseph School,JK-7,cole St. Joseph School PO BOX 728 YELLOWKNIFE NT X1A 2N5,Yellowknife,NT,Northwest Territories,cole st joseph school yellowknife nt x1a 2n5,,
+41,cole St. Patrick High School,12-Aug,cole St. Patrick High School PO BOX 2880 YELLOWKNIFE NT X1A 2R2,Yellowknife,NT,Northwest Territories,cole st patrick high school yellowknife nt x1a 2r2,,
+42,Weledeh Catholic School,JK-7,Weledeh Catholic School PO BOX 1650 YELLOWKNIFE NT X1A 2P2,Yellowknife,NT,Northwest Territories,weledeh catholic school yellowknife nt x1a 2p2,,
+43,cole J.H. Sissons School,JK-5,cole J.H. Sissons School 50 TAYLOR ROAD YELLOWKNIFE NT X1A 3X2,Yellowknife,NT,Northwest Territories,cole jh sissons school 50 taylor road yellowknife nt x1a 3x2,50,taylor road
+44,cole Sir John Franklin High School,12-Aug,cole Sir John Franklin High School PO BOX 1200 YELLOWKNIFE NT X1A 2N8,Yellowknife,NT,Northwest Territories,cole sir john franklin high school yellowknife nt x1a 2n8,,
+45,cole William McDonald School,07-Jun,cole William McDonald School 50 TAYLOR ROAD YELLOWKNIFE NT X1A 3X2,Yellowknife,NT,Northwest Territories,cole william mcdonald school 50 taylor road yellowknife nt x1a 3x2,50,taylor road
+46,Mildred Hall Elementary School,JK-8,Mildred Hall Elementary School 5408 - 50th AVENUE YELLOWKNIFE NT X1A 1E5,Yellowknife,NT,Northwest Territories,mildred hall elementary school 5408 50th avenue yellowknife nt x1a 1e5,5408,50th avenue
+47,N.J. Macpherson School,JK-5,N.J. Macpherson School 525 RANGE LAKE ROAD YELLOWKNIFE NT X1A 3X1,Yellowknife,NT,Northwest Territories,nj macpherson school 525 range lake road yellowknife nt x1a 3x1,525,range lake road
+48,Range Lake North School,JK-8,Range Lake North School 170 BORDEN DRIVE YELLOWKNIFE NT X1A 3R1,Yellowknife,NT,Northwest Territories,range lake north school 170 borden drive yellowknife nt x1a 3r1,170,borden drive

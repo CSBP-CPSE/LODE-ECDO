@@ -1,0 +1,21 @@
+{
+  "localfile": "esdc/QC-esdc.csv",
+  "schema_groups": ["edu", "address", "geocoordinates"],
+  "source": "https://www.canada.ca/en/employment-social-development/programs/designated-schools.html",
+  "licence": "https://www.canada.ca/en/transparency/terms.html",
+  "provider": "Employment and Social Development Canada",
+  "encoding": "utf-8",
+  "format": {
+      "type": "csv",
+      "delimiter": ",",
+      "quote": "\""
+  },
+  "schema": {
+      "facility_name" : "EI Name",
+      "source_id": "EI Code",
+      "authority_type": "EI Type",
+      "address_str": "Address",
+      "province": "force:QC",
+      "ISCED4+": "force:1"
+  }
+}

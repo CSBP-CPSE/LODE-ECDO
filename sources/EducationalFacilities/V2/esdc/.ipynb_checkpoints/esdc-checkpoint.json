@@ -1,0 +1,25 @@
+{
+  "localfile": "esdc/ESDC_Designated_Institutions.csv",
+  "schema_groups": ["edu", "address", "geocoordinates"],
+  "source": "https://www.canada.ca/en/employment-social-development/programs/designated-schools.html",
+  "licence": "https://www.canada.ca/en/transparency/terms.html",
+  "provider": "Employment and Social Development Canada",
+  "encoding": "utf-8",
+  "format": {
+      "type": "csv",
+      "delimiter": ",",
+      "quote": "\""
+  },
+  "schema": {
+      "facility_name" : "EI name",
+      "source_id": "EI Code",
+      "facility_type": "Institution Type",
+      "address_str": ["Address Line 1", "Address Line 2", "Address Line 3", "City", "Province","Postal Code","Country"],
+      "street_addr": ["Address Line 1","Address Line 2","Address Line 3"],
+      "telephone": "Telephone Number",
+      "city": "City",
+      "postal_code": "Postal Code",
+      "province":"Province",
+      "ISCED4+":"force:1"
+  }
+}

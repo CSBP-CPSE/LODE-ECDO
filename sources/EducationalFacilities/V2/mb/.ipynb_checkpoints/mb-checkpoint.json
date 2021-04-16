@@ -1,0 +1,34 @@
+{
+  "localfile": "mb/Schools in MB Jan 2019_isced.csv",
+  "schema_groups": ["edu", "address", "geocoordinates"],
+  "source": "https://www.edu.gov.mb.ca/k12/schools/index.html",
+  "provider": "Province of Manitoba",
+  "encoding": "cp1252",
+  "format": {
+      "type": "csv",
+      "delimiter": ",",
+      "quote": "\""
+  },
+  "schema": {
+      "edu" : {
+          "facility_name": "School name",
+          "grade_range": "gradeString",
+         "ISCED010": "ISCED010",
+         "ISCED020": "ISCED020",
+         "ISCED1": "ISCED1",
+         "ISCED2": "ISCED2",
+         "ISCED3": "ISCED3",
+	  "authority_name": "Division Name",
+          "source_id": "School #"
+      },
+
+      "address" : {
+          "address_str": ["Address Line 1",	"Address Line 2","city","postalCode", "force:MB"],
+          "street_addr": "Address Line 1",
+          "city": "city",
+          "postal_code": "postalCode",
+	  "province": "force:MB",
+          "telephone":"phone"
+          }
+  }
+}
