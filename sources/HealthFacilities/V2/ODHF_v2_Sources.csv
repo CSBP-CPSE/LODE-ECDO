@@ -1,0 +1,37 @@
+Province,City or Region,Name,Source,Open,Direct Link,Special Notes,License or Terms of Use,Attribution Statement
+QC,Gatineau,,https://www.gatineau.ca/upload/donneesouvertes/LIEU_PUBLIC.csv,Yes,Yes,List of public spaces including hospitals,https://www.gatineau.ca/donneesouvertes/licence_en.aspx,Licensed from the City of Gatineau under a Creative Commons CC-BY license.
+QC,Quebec City,,https://www.donneesquebec.ca/recherche/dataset/daa10606-5fdd-4c9b-b5ef-235081690b6e/resource/06faa019-50f1-4741-94a7-adb8729d24b9/download/vdq-lieupublic.csv,Yes,Yes,List of public spaces including hospitals,https://www.donneesquebec.ca/fr/licence/#cc-by,Licensed from Quebec City under a Creative Commons CC-BY license.
+ON,All,,https://www.ontario.ca/data/hospital-locations,Yes,No,"Need to provide email for download instructions, but it's still under the Open Ontario license.",https://www.ontario.ca/page/open-government-licence-ontario,Contains information licensed under the Open Government Licence – Ontario. 5. 
+NS,All,,https://data.novascotia.ca/Health-and-Wellness/Hospitals/2kxr-ajui,Yes,Yes,,https://novascotia.ca/opendata/licence.asp,Contains information licensed under the Open Government Licence – Nova Scotia
+NS,All,,https://data.novascotia.ca/Health-and-Wellness/Long-Term-Care-and-Residential-Care-Facilities/x76a-axw2,Yes,No,,http://novascotia.ca/opendata/licence.asp,Contains information licensed under the Open Government Licence – Nova Scotia
+BC,All,,https://catalogue.data.gov.bc.ca/dataset/residential-care-facilities,Yes,No,,https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61,Contains information licensed under the Open Government Licence – British Columbia.
+BC,All,,https://catalogue.data.gov.bc.ca/dataset/hospitals-in-bc,Yes,No,,https://www2.gov.bc.ca/gov/content/data/open-data/open-government-license-bc,Contains information licensed under the Open Government Licence – British Columbia.
+BC,All,,https://catalogue.data.gov.bc.ca/dataset/walk-in-clinics-in-bc,Yes,No,,https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61,Contains information licensed under the Open Government Licence – British Columbia.
+BC,All,,https://catalogue.data.gov.bc.ca/dataset/emergency-rooms-in-bc,Yes,No,,https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61,Contains information licensed under the Open Government Licence – British Columbia.
+YT,All,,https://yukonhospitals.ca/,No,No,Local database completed,No Open License,
+SK,All,,https://www.saskatchewan.ca/residents/health/emergency-medical-services/find-a-hospital?userLat=50.454722&userLong=-104.606667&searchRadius=150&filter-{A1EE9CD9-CA6F-4E65-8A5D-5E2EC439B11F}=on,No,No,"Map app (search in radius), and materials on webpage copyrighted",No Open License,
+SK,All,,https://www.saskhealthauthority.ca/services-locations/Pages/Home.aspx,No,No,List to different sask regional health authority websites,No Open License,
+NU,All,,https://www.gov.nu.ca/health/information/qikiqtani-general-hospital,No,No,Local database completed,No Open License,
+NT,All,,https://www.hss.gov.nt.ca/en/hospitals-and-health-centres,No,No,Local database completed,No Open License,
+NL,All,,https://www.health.gov.nl.ca/health/findhealthservices/in_your_community.html,No,No,"Links to NL regional health authorities. There is also an open KML file, but without address info (just coordinates).",https://opendata.gov.nl.ca/public/opendata/page/?page-id=licence,Contains information licensed under the Open Government Licence - Newfoundland and Labrador.
+NL,All,,https://opendata.gov.nl.ca/public/opendata/page/?page-id=datasetdetails&id=67,Yes,No,"Health Centres, KML file, old file",https://opendata.gov.nl.ca/public/opendata/page/?page-id=licence,
+NL,All,,https://opendata.gov.nl.ca/public/opendata/page/?page-id=datasetdetails&id=86,Yes,No,"Hospitals, KML file, old file",https://opendata.gov.nl.ca/public/opendata/page/?page-id=licence,
+NB,All,,https://www.nbhc.ca/data/hospital#.XEsq79tKjZ4,No,No,Local database completed,No Open License,
+NB,All,,https://gnb.socrata.com/Health-and-Wellness/Licensed-Nursing-Homes-Foyers-de-soins-agr%C3%A9es/efvh-czff,Yes,No,Licensed Nursing Homes,,
+MB,All,,https://www.gov.mb.ca/health/waittime/map.html,No,No,Local database completed,No Open License,
+AB,All,,https://www.albertahealthservices.ca/findhealth/results.aspx?type=facility&id=3&locationCity=Athabasca&radius=all#contentStart,No,No,Local database completed,No Open License,
+AB,All,,https://open.alberta.ca/publications/hospital-services-in-alberta,Yes,No,PDF,http://open.alberta.ca/licence,
+NB,Moncton,,http://open.moncton.ca/datasets/senior-care-facilities,Yes,No,,,
+NB,Moncton,,http://open.moncton.ca/datasets/medical-clinics,,,,,
+NB,All,,https://gnb.socrata.com/Health-and-Wellness/Map-of-Licensed-Nursing-Homes-Cartes-des-Foyers-de/hd36-4gjj,Yes,No,,http://www.snb.ca/e/2000/data-E.html,
+NB,All,,https://gnb.socrata.com/Health-and-Wellness/Hospitals-in-New-Brunswick-Operated-by-Horizon-Hea/9bqr-479n,Yes,No,,http://www.snb.ca/e/2000/data-E.html,
+NB,All,,https://gnb.socrata.com/Health-and-Wellness/Hospitals-in-New-Brunswick-Operated-by-Vitalit-Hea/vc6s-v9py,Yes,No,,http://www.snb.ca/e/2000/data-E.html,
+PE,All,,https://exchange.maps.arcgis.com/home/item.html?id=cbeae4239f184f6999a4b4b65887c74b,,,,,
+CA,All,,CIHI,,,,,
+CA,All,,PHAC,,,,,
+MB,,Winnipeg Regional Health Authority Locations,https://wrha.mb.ca/locations-services/,No,,,,
+MB,,Locations of facilities managed by the Interlake-Eastern Regional Health Authority,https://www.ierha.ca/default.aspx?cid=6147&lang=1,No,,,,
+MB,,Locations of facilities managed by the Northern Health Region,https://northernhealthregion.com/,No,,,,
+MB,,Locations of facilities managed by the Prairie Mountain Health Authority,https://www.prairiemountainhealth.ca/our-locations,No,,,,
+MB,,Locations of facilities managed by the Southern Health Authority,https://www.southernhealth.ca/en/finding-care/,No,,,,
+YT,All,,Provided in email for v1,,,,,
