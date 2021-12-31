@@ -1,0 +1,15 @@
+{ 
+    "filename": "surfaces_rue_et_transport_actif.shp",
+    "filetype": "shp",
+    "class": ["walking", "biking"],
+    "prov/terr": "force:qc",
+    "municipality": "force:Laval",
+    "provider": "force:Ville de Laval",
+    "source_url": "force:https://www.donneesquebec.ca/recherche/dataset/surface-de-rue-et-transport-actif/resource/76899754-1e0e-475f-ad4c-bfec56342d90",
+    "licence": "force:https://www.donneesquebec.ca/fr/licence/#cc-by",
+    "schema": {
+          "surface_type": "REVETEMENT",
+          "street_name": "ODONYME",
+          "geometry": "geometry"  
+}
+}

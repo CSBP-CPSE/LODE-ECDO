@@ -1,0 +1,16 @@
+{ 
+    "filename": "Sidewalks.shp",
+    "filetype": "shp",
+    "class": "walking",
+    "prov/terr": "force:nb",
+    "municipality": "force:Fredericton",
+    "provider": "force:City of Fredericton",
+    "source_url": "force:https://data-fredericton.opendata.arcgis.com/datasets/sidewalks/explore",
+    "licence": "force:Request permission",
+    "schema": {
+          "source_id": "UNIQUE_ID",
+          "source_class": "Class",
+          "street_name": "Location",
+          "geometry": "geometry"  
+}
+}
