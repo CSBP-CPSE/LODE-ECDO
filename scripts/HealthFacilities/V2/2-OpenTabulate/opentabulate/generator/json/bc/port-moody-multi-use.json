@@ -1,0 +1,25 @@
+{
+    "filename": "Pathways.shp",
+    "filetype": "shp",
+    "class": "multi-use",
+    "filter": {
+        "inscope_filter": "Status",
+        "inscope_value": "OPERATIONAL"
+    },
+    "force": {
+        "prov/terr": "bc",
+        "municipality": "Port Moody",
+        "provider": "City of Port Moody",
+        "source_url": "https://data.portmoody.ca/datasets/9f3aa5c190924e6dafad7cb588716c70_46/explore?showTable=true",
+        "licence": "https://www.portmoody.ca/opendatatou"
+    },
+    "schema": {
+        "source_id": "OBJECTID",
+        "source_class": "class",
+        "surface_type": "material",
+        "width": "width",
+        "street_name": "location",
+        "geometry": "geometry",
+        "geom_type": "linestring"
+    }
+}

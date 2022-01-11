@@ -1,0 +1,19 @@
+{
+	"localfile": "Community_Services.csv",
+	"schema_groups": ["health", "geocoordinates"],
+	"format": {
+		"type": "csv",
+		"delimiter": ",",
+		"quote": "\""
+	},
+	"schema": {
+		"health" : {
+			"name" : "NAME",
+			"type" : "TYPE"
+		},
+		"geocoordinates" : {
+			"longitude": "longitude",
+			"latitude": "latitude"
+		}
+	}
+  }

@@ -1,0 +1,20 @@
+{
+	"localfile": "hlbc_hospitals.csv",
+	"schema_groups": ["hospital", "location"],
+	"format": {
+		"type": "csv",
+		"delimiter": ",",
+		"quote": "\""
+	},
+	"schema": {
+		"hospital" : {
+			"name" : "SV_NAME",
+			"type" : "TAXONOMY_NAME",
+			"health_authority": "RG_NAME"
+		},
+		"location" : {
+			"longitude": "LONGITUDE",
+			"latitude": "LATITUDE"
+		}
+	}
+  }

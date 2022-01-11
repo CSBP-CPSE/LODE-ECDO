@@ -1,0 +1,24 @@
+{
+    "filename": "residential_care_",
+    "schema_groups": [
+        "health",
+        "geocoordinates",
+        "address",
+        "contact"
+    ],
+    "source_url": "https://catalogue.data.gov.bc.ca/dataset/residential-care-facilities",
+    "provider": "Province of British Columbia",
+    "lisence_url": "https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc",
+    "region_type": "Provincial",
+    "format": {
+        "type": "csv",
+        "delimiter": ",",
+        "quote": "\""
+    },
+    "schema": {
+        "health": {},
+        "geocoordinates": {},
+        "address": {},
+        "contact": {}
+    }
+}
