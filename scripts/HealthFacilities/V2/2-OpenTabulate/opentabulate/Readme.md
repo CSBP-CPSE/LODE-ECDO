@@ -9,9 +9,9 @@ Full docs for opentabulate are here: https://opentabulate.readthedocs.io/en/late
 
 ### Configuration
 
-The configuration file in the reposity is just . To run opentabulate, you will need to add/edit this configuration at the root of the system you are using. 
+The configuration file in the reposity is just a copy of the one actually used by opentabulate. To run opentabulate, you will need to add/edit this configuration at the root of the system you are using. 
 
-It should be found/edited here: `nano ~/.config/opentabulate.conf`
+It could be found/edited here: `nano ~/.config/opentabulate.conf`
 
 ### Json file generation
 
