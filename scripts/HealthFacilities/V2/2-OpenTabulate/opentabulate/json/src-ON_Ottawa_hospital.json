@@ -1,0 +1,34 @@
+{
+    "localfile": "ON_Ottawa_hospital.csv",
+    "schema_groups": [
+        "health",
+        "geocoordinates",
+        "address",
+        "contact"
+    ],
+    "source": "https://open.ottawa.ca/datasets/hospitals/explore",
+    "licence": "https://ottawa.ca/en/city-hall/get-know-your-city/open-data#open-data-licence-version-2-0",
+    "provider": "Ottawa",
+    "format": {
+        "type": "csv",
+        "delimiter": ",",
+        "quote": "\""
+    },
+    "schema": {
+        "health": {
+            "facility_name": "NAME",
+            "facility_type": "force:hospital"
+        },
+        "geocoordinates": {
+            "longitude": "Y",
+            "latitude": "X"
+        },
+        "address": {
+            "street_addr": "ADDRESS"
+        },
+        "contact": {
+            "phone": "PHONE",
+            "website": "LINK_EN"
+        }
+    }
+}

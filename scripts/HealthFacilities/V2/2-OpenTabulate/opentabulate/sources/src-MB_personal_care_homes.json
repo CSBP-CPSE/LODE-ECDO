@@ -1,0 +1,38 @@
+{
+    "localfile": "MB_personal_care_homes.csv",
+    "schema_groups": [
+        "health",
+        "geocoordinates",
+        "address",
+        "contact"
+    ],
+    "source": "https://geoportal.gov.mb.ca/datasets/manitoba-licensed-personal-care-homes/explore",
+    "licence": "https://manitoba.ca/legal/copyright.html",
+    "provider": "Province of Manitoba",
+    "format": {
+        "type": "csv",
+        "delimiter": ",",
+        "quote": "\""
+    },
+    "schema": {
+        "health": {
+            "facility_name": "Facility",
+            "facility_type": "force:personal_care_homes",
+            "health_authority": "Regional_Health_Authority",
+            "alternative_name": "Facility_Label",
+            "number_beds": "Beds"
+        },
+        "geocoordinates": {
+            "longitude": "Longitude",
+            "latitude": "Latitude"
+        },
+        "address": {
+            "street_addr": "Address",
+            "postal_code": "Postal_Code"
+        },
+        "contact": {
+            "phone": "Phone_Number",
+            "website": "Website"
+        }
+    }
+}

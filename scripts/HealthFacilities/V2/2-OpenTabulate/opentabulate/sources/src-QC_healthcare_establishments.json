@@ -1,0 +1,34 @@
+{
+    "localfile": "QC_healthcare_establishments.csv",
+    "schema_groups": [
+        "health",
+        "geocoordinates",
+        "address",
+        "contact"
+    ],
+    "source": "https://www.donneesquebec.ca/recherche/dataset/fichiers-cartographiques-m02-des-installations-et-etablissements/resource/a1988030-1f8b-4c67-bc29-ca8b9f710afd",
+    "licence": "https://www.donneesquebec.ca/fr/licence/#cc-by",
+    "provider": "Province of Quebec",
+    "format": {
+        "type": "csv",
+        "delimiter": ",",
+        "quote": "\""
+    },
+    "schema": {
+        "health": {
+            "facility_name": "ETAB_NOM",
+            "health_authority": "RLS_NOM",
+            "alternative_name": "ETAB_NOM_A"
+        },
+        "geocoordinates": {
+            "longitude": "LONGITUDE",
+            "latitude": "LATITUDE"
+        },
+        "address": {
+            "street_addr": "ADRESSE",
+            "city": "MRC_NOM",
+            "postal_code": "CODE_POSTA"
+        },
+        "contact": {}
+    }
+}

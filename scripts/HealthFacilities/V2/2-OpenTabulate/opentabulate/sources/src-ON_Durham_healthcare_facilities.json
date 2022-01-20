@@ -1,0 +1,35 @@
+{
+    "localfile": "ON_Durham_healthcare_facilities.csv",
+    "schema_groups": [
+        "health",
+        "geocoordinates",
+        "address",
+        "contact"
+    ],
+    "source": "https://opendata.durham.ca/datasets/healthcare-facilities/explore",
+    "licence": "https://www.durham.ca/en/regional-government/resources/Documents/OpenDataLicenceAgreement.pdf",
+    "provider": "Durham",
+    "format": {
+        "type": "csv",
+        "delimiter": ",",
+        "quote": "\""
+    },
+    "schema": {
+        "health": {
+            "facility_name": "NAME"
+        },
+        "geocoordinates": {
+            "longitude": "LONGITUDE",
+            "latitude": "LATITUDE"
+        },
+        "address": {
+            "street_addr": "ADDRESS",
+            "city": "MUNICIPALITY",
+            "postal_code": "POSTAL_CODE"
+        },
+        "contact": {
+            "phone": "PHONE",
+            "website": "WEBSITE"
+        }
+    }
+}

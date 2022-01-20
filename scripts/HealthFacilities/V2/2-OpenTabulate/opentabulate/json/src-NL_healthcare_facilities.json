@@ -1,0 +1,35 @@
+{
+    "localfile": "NL_healthcare_facilities.csv",
+    "schema_groups": [
+        "health",
+        "geocoordinates",
+        "address",
+        "contact"
+    ],
+    "source": "https://opendata.gov.nl.ca/public/opendata/page/?page-id=datasetdetails&id=67",
+    "licence": "https://opendata.gov.nl.ca/public/opendata/page/?page-id=licence",
+    "provider": "Province of Newfoundland and Labrador",
+    "format": {
+        "type": "csv",
+        "delimiter": ",",
+        "quote": "\""
+    },
+    "schema": {
+        "health": {
+            "facility_name": "name",
+            "facility_type": "force:hospital",
+            "number_beds": "long_term_care_beds"
+        },
+        "geocoordinates": {
+            "longitude": "longitude",
+            "latitude": "latitude"
+        },
+        "address": {
+            "city": "location"
+        },
+        "contact": {
+            "phone": "telephone",
+            "website": "website"
+        }
+    }
+}

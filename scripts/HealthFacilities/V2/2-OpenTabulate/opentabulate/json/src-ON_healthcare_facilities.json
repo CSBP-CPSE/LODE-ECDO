@@ -1,0 +1,34 @@
+{
+    "localfile": "ON_healthcare_facilities.csv",
+    "schema_groups": [
+        "health",
+        "geocoordinates",
+        "address",
+        "contact"
+    ],
+    "source": "https://data.ontario.ca/en/dataset/hospital-locations",
+    "licence": "https://www.ontario.ca/page/open-government-licence-ontario",
+    "provider": "Province of Ontario",
+    "format": {
+        "type": "csv",
+        "delimiter": ",",
+        "quote": "\""
+    },
+    "schema": {
+        "health": {
+            "facility_name": "EN_NAME",
+            "facility_type": "SERV_TYPE",
+            "alternative_name": "EN_ALT"
+        },
+        "geocoordinates": {
+            "longitude": "Y",
+            "latitude": "X"
+        },
+        "address": {
+            "street_addr": "ADDRESS_1",
+            "city": "COMMUNITY",
+            "postal_code": "POSTALCODE"
+        },
+        "contact": {}
+    }
+}

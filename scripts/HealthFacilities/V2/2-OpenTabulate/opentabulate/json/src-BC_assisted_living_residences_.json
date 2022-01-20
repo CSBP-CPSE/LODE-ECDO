@@ -1,0 +1,37 @@
+{
+    "localfile": "BC_assisted_living_residences_.csv",
+    "schema_groups": [
+        "health",
+        "geocoordinates",
+        "address",
+        "contact"
+    ],
+    "source": "https://catalogue.data.gov.bc.ca/dataset/assisted-living-residences",
+    "licence": "https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc",
+    "provider": "Province of British Columbia",
+    "format": {
+        "type": "csv",
+        "delimiter": ",",
+        "quote": "\""
+    },
+    "schema": {
+        "health": {
+            "facility_name": "OPERATOR_NAME",
+            "facility_type": "TYPE",
+            "health_authority": "HEALTH_AUTHORITY",
+            "alternative_name": "BUSINESS_NAME"
+        },
+        "geocoordinates": {
+            "longitude": "LONGITUDE",
+            "latitude": "LATITUDE"
+        },
+        "address": {
+            "street_addr": "STREET_ADDRESS",
+            "city": "CITY",
+            "postal_code": "POSTAL_CODE"
+        },
+        "contact": {
+            "phone": "BUSINESS_PHONE"
+        }
+    }
+}

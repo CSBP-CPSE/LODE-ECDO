@@ -1,0 +1,36 @@
+{
+    "localfile": "ON_Guelph_healthcare_facilities.csv",
+    "schema_groups": [
+        "health",
+        "geocoordinates",
+        "address",
+        "contact"
+    ],
+    "source": "http://data.open.guelph.ca/dataset/health-services-in-guelph",
+    "licence": "http://data.open.guelph.ca/pages/open-government-licence",
+    "provider": "Guelph",
+    "format": {
+        "type": "csv",
+        "delimiter": ",",
+        "quote": "\""
+    },
+    "schema": {
+        "health": {
+            "facility_name": "Name_of_th",
+            "facility_type": "Types_of_C",
+            "alternative_name": "LOCNAME"
+        },
+        "geocoordinates": {},
+        "address": {
+            "street_no": "Street__Nu",
+            "street_name": "Street__Na",
+            "street_addr": "Address",
+            "city": "City",
+            "postal_code": "Postal_Cod"
+        },
+        "contact": {
+            "phone": "Phone",
+            "website": "Website"
+        }
+    }
+}

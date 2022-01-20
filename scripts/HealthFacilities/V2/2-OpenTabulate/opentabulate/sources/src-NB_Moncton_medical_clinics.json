@@ -1,0 +1,33 @@
+{
+    "localfile": "NB_Moncton_medical_clinics.csv",
+    "schema_groups": [
+        "health",
+        "geocoordinates",
+        "address",
+        "contact"
+    ],
+    "source": "https://open.moncton.ca/datasets/medical-clinics/explore",
+    "licence": "https://ago-item-storage.s3-external-1.amazonaws.com/3ec310926cbd436cbaa609d8ee9fac15/Open_Data_Terms_of_Use.pdf?X-Amz-Security-Token=FQoGZXIvYXdzEJ7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDD2zzrrj4ybMy8kEkyK3A7vs1Qks4tClljOAPdHNa9hdJc1ySqBbqMMNvH72QZOkyz6G6V462s5zXjiZo%2FzT53YsTCl9Jhzq8LTywCnZNSmRLdNpVaDd1PkvZOyFFZkJPsD3wWwEDXlTYt5OHG3B6DxQKY93tON02iyWwc7V%2FL3S8rPtiIySlg%2FwTGd%2FOklrDNtoA044lT89GPddrCyh7E1MWpJLjC%2BAXwt%2BZJDIyQX%2FeuV%2BMXpF9p5DzV6lO2BWnwk%2BwwPqTtBTqPvjqBv2D4AemKevQd8lNkwtLB5YTMo8%2Bb4kzRp7f7xNvdXtEJAcRxLq8dLbvHHGzY5wY8JOp5DyyG%2B%2FERoOeU2KE9j61LFPWBVxJLqE6uW1okfnkIQUtVi2WHuj4D%2F9MCWMtHRRFlxZCt9xfs67YfPu3h%2BwIlMZYyGYNvxZ0MVZ4KJNF52aLQjC2ABKI09Zl1Sk0yUfBiugilagW%2B9tFRErFNIyEuF1Wh9RhxhefwizWOogDZS4QExmmbBPeMfXUYIlqamyR5JZNU6duosmJGUYS4fJng2R8LnyRYdpDfN%2F1LIiWZGLosSLVSSwemkPJrPblwYX7Ds%2BQ2MxktUohqaX4wU%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20190214T211858Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAYZTTEKKE3M6ZCLSI%2F20190214%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ed9203b42a153cd203e655fb11d41dd065e6da38e377c93cf0231b26666bfffa",
+    "provider": "Moncton",
+    "format": {
+        "type": "csv",
+        "delimiter": ",",
+        "quote": "\""
+    },
+    "schema": {
+        "health": {
+            "facility_name": "Name",
+            "facility_type": "Services"
+        },
+        "geocoordinates": {
+            "longitude": "LONGITUDE",
+            "latitude": "LATITUDE"
+        },
+        "address": {
+            "address_str": "Address"
+        },
+        "contact": {
+            "phone": "Phone"
+        }
+    }
+}

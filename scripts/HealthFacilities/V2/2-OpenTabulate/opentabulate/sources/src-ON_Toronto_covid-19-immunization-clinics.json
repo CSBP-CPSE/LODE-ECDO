@@ -1,0 +1,35 @@
+{
+    "localfile": "ON_Toronto_covid-19-immunization-clinics.csv",
+    "schema_groups": [
+        "health",
+        "geocoordinates",
+        "address",
+        "contact"
+    ],
+    "source": "https://open.toronto.ca/dataset/covid-19-immunization-clinics/",
+    "licence": "https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-licence/",
+    "provider": "Toronto",
+    "format": {
+        "type": "csv",
+        "delimiter": ",",
+        "quote": "\""
+    },
+    "schema": {
+        "health": {
+            "facility_name": "locationName",
+            "facility_type": "locationType"
+        },
+        "geocoordinates": {
+            "longitude": "LONGITUDE",
+            "latitude": "LATITUDE"
+        },
+        "address": {
+            "street_addr": "address",
+            "city": "force:Toronto"
+        },
+        "contact": {
+            "phone": "phone",
+            "website": "website"
+        }
+    }
+}

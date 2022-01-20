@@ -1,0 +1,49 @@
+idx,facility_name,facility_type,alternative_name,street_no,street_name,street_addr,city,postal_code,phone,website,provider
+0,Guelph Community Health Centre - Downtown location,Community Health Centre,Guelph Community Health Centre - Downtown location,176,Wyndham Street North,176 Wyndham Street North,Guelph,N1H 8N9,519-821-6638,http://www.guelphchc.ca,Guelph
+1,"Canadian Mental Health Association, Waterloo Wellington Dufferin",Children and Youth Mental Health,"Canadian Mental Health Association, Waterloo Wellington Dufferin",485,Silvercreek Parkway North,485 Silvercreek Parkway North,Guelph,N1H 7K5,1 844 264 2993 (toll-free phone number),http://www.cmhawwd.ca,Guelph
+2,Guelph Community Health Centre - Satellite Clinic,Community Health Centre,Guelph Community Health Centre - Satellite Clinic,20,Shelldale Crescent,20 Shelldale Crescent,Guelph,N1H 1C8,519-821-6638 extension 2,http://www.guelphchc.ca,Guelph
+3,Growing Great Kids Guelph-Wellington,Family and Children Services,Growing Great Kids Guelph-Wellington,160,Chancellors Way,160 Chancellors Way,Guelph,N1H 0E1,519-822-2715 extension 3616,,Guelph
+4,Family Counselling and Support Services for Guelph Wellington,Family and Children Services,Family Counselling and Support Services for Guelph Wellington,109,Surrey Street East,109 Surrey Street East,Guelph,N1H 3P7,"519-824-2431, 1-800-307-7078",,Guelph
+5,Dawson Road Family Medical Clinic,Family Health Teams,Dawson Road Family Medical Clinic,83,Dawson Road,83 Dawson Road,Guelph,N1H 1B1,519-766-1360,http://www.dawsonroadfamilymedicalclinic.com/,Guelph
+6,Dawson Road - Dr. Jennifer Caspers,Family Health Teams,Dawson Road - Dr. Jennifer Caspers,83,Dawson Road,83 Dawson Road,Guelph,N1H 1B1,519-767-1512,,Guelph
+7,Arbour Family Medical Centre,Family Health Teams,Arbour Family Medical Centre,281,Stone Road East,281 Stone Road East,Guelph,N1G 5J5,519-823-5133,http://www.arbourfamilymedical.com/,Guelph
+8,Diabetes Care Guelph,Family Health Teams,Diabetes Care Guelph,83,Dawson Road,83 Dawson Road,Guelph,N1H 1B2,519-840-1964,,Guelph
+9,Downey Road,Family Health Teams,Downey Road,115,Downey Road,115 Downey Road,Guelph,N1C 1A2,519-827-9779,,Guelph
+10,Guelph North End Family Medical,Family Health Teams,Guelph North End Family Medical,83,Dawson Road,83 Dawson Road,Guelph,N1H 1B1,519-780-0375,http://www.guelphfht.com/Views/ClinicProfile.aspx?clinicID=42,Guelph
+11,Norfolk 302,Family Health Teams,Norfolk 302,85,Norfolk Street,85 Norfolk Street,Guelph,N1H 4J4,519-822-1871,,Guelph
+12,Hope Health Centre,Family Health Teams,Hope Health Centre,21,Yarmouth Street,21 Yarmouth Street,Guelph,N1H 4G2,519-822-6700,http://www.guelphfht.com/Views/ClinicProfile.aspx?clinicID=1,Guelph
+13,Norfolk 305,Family Health Teams,Norfolk 305,85,Norfolk Street,85 Norfolk Street,Guelph,N1H 4J4,519-766-1490,,Guelph
+14,Norfolk 311,Family Health Teams,Norfolk 311,86,Norfolk Street,86 Norfolk Street,Guelph,N1H 4J4,519-836-7861,,Guelph
+15,Old Quebec 207,Family Health Teams,Old Quebec 207,55,Wyndham Street North,55 Wyndham Street North,Guelph,N1H 7T8,519-836-1455,,Guelph
+16,Old Quebec 208,Family Health Teams,Old Quebec 208,55,Wyndham Street North,55 Wyndham Street North,Guelph,N1H 7T8,519-837-2283,,Guelph
+17,Victoria Grange,Family Health Teams,Victoria Grange,23,Victoria Road North,23 Victoria Road North,Guelph,N1E 5G6,519-823-2190,,Guelph
+18,Westmount Road 306,Family Health Teams,Westmount Road 306,77,Westmount Road,77 Westmount Road,Guelph,N1H 5J1,519-827-1399,,Guelph
+19,Westminster Woods Medical Centre,Family Health Teams,Westminster Woods Medical Centre,33,Farley Drive,33 Farley Drive,Guelph,N1L 0B7,519-837-8137,http://www.guelphfht.com/Views/ClinicProfile.aspx?clinicID=7,Guelph
+20,Woolwich Street,Family Health Teams,Woolwich Street,112,Woolwich Street,112 Woolwich Street,Guelph,N1H 3T9,519-767-1721,,Guelph
+21,Dawson Road - Dr. Jennifer Caspers,Family Health Teams,Dawson Road - Dr. Jennifer Caspers,83,Dawson Road,83 Dawson Road,Guelph,N1H 1B1,519-767-1512,,Guelph
+22,Dawson Road Family Medical Clinic,Family Health Teams,Dawson Road Family Medical Clinic,83,Dawson Road,83 Dawson Road,Guelph,N1H 1B1,519-766-1360,http://www.dawsonroadfamilymedicalclinic.com/,Guelph
+23,Wyndham Medical,Family Health Teams,Wyndham Medical,75,Wyndham Street South,75 Wyndham Street South,Guelph,N1E 5R3,519-265-4848,http://www.guelphfht.com/Views/ClinicProfile.aspx?clinicID=41,Guelph
+24,Guelph General Hospital,Hospital,Guelph General Hospital,115,Delhi Street,115 Delhi Street,Guelph,N1E 4J4,519-822-5350,,Guelph
+25,St. Joseph's Health Centre Guelph,Hospital,St. Joseph's Health Centre Guelph,100,Westmount Road,100 Westmount Road,Guelph,N1H 5H8,519-824-6000,,Guelph
+26,Homewood Health Centre,Mental Health,Homewood Health Centre,150,Delhi Street,150 Delhi Street,Guelph,N1E 6K9,519-824-1010,,Guelph
+27,"Canadian Mental Health Association, Waterloo Wellington Dufferin",Mental Health,"Canadian Mental Health Association, Waterloo Wellington Dufferin",147,Wyndham Street North,147 Wyndham Street North,Guelph,N1H 4E9,519-763-4014 extension 2355,,Guelph
+28,MentalHealthSupport.ca,Mental Health,MentalHealthSupport.ca,35,Cheltonwood Avenue,35 Cheltonwood Avenue,Guelph,N1E 4E1,519-993-4609,,Guelph
+29,"Canadian Mental Health Association, Waterloo Wellington Dufferin Self -Help Alliance",Mental Health,"Canadian Mental Health Association, Waterloo Wellington Dufferin Self -Help Alliance",147,Wyndham Street North,147 Wyndham Street North,Guelph,N1H 4E9,1 844 264 2993 (toll-free phone number) 519 763 4014,http://www.cmhawwd.ca,Guelph
+30,"Canadian Mental Health Association, Waterloo Wellington Dufferin",Mental Health,"Canadian Mental Health Association, Waterloo Wellington Dufferin",80,Waterloo Avenue,80 Waterloo Avenue,Guelph,N1H 0A1,1 844 264 2993 (toll-free phone number),http://www.cmhawwd.ca,Guelph
+31,Guelph ?�� 160 Chancellors Way,Public Health,Guelph ?�� 160 Chancellors Way,160,Chancellors Way,160 Chancellors Way,Guelph,N1G 0E1,1-800-265-7293,,Guelph
+32,Guelph ?�� Shelldale Centre,Public Health,Guelph ?�� Shelldale Centre,20,Shelldale Crescent,20 Shelldale Crescent,Guelph,N1H 1C8,1-800-265-7293,,Guelph
+33,Arkell Walk-in Clinic,Walk in Clinic,Arkell Walk-in Clinic,403,Arkell Road,403 Arkell Road,Guelph,N1L 1E5,519-822-7841,,Guelph
+34,Dawson Road Family Medical Clinic - After Hours,Walk in Clinic,Dawson Road Family Medical Clinic - After Hours,83,Dawson Road,83 Dawson Road,Guelph,N1H 1B1,519-766-1360,,Guelph
+35,Guelph Family Health Team,Walk in Clinic,Guelph Family Health Team,55,Wyndham Street North,55 Wyndham Street North,Guelph,N1H 7T8,519-837-4444,,Guelph
+36,Guelph Walk-in Medical Clinic,Walk in Clinic,Guelph Walk-in Medical Clinic,1499,Gordon Street,1499 Gordon Street,Guelph,N1L 1C9,519-265-6400,,Guelph
+37,Guelph Walk-in Medical Clinic,Walk in Clinic,Guelph Walk-in Medical Clinic,160,Kortright Road West,160 Kortright Road West,Guelph,N1G 4W2,519-265-9177,,Guelph
+38,Dawson Road Family Medical Clinic - After Hours,Walk in Clinic,Dawson Road Family Medical Clinic - After Hours,83,Dawson Road,83 Dawson Road,Guelph,N1H 1B1,519-766-1360,,Guelph
+39,Guelph Walk-in Medical Clinic,Walk in Clinic,Guelph Walk-in Medical Clinic,105,Silvercreek Parkway North,105 Silvercreek Parkway North,Guelph,N1H 6S4,519-822-9363,,Guelph
+40,Family and Children's Services of Guelph and Wellington County,Family and Children Services,Family and Children's Services of Guelph and Wellington County,275,Eramosa Road,275 Eramosa Road,Guelph,N1E 2M7,519-824-2410,,Guelph
+41,Mango Tree,Family Health Team,Mango Tree,28,Brock Road North,28 Brock Road North,Aberfoyle,N1H 6H9,519-224-0540,http://www.mangotreefht.com,Guelph
+42,Surrey 101,Family Health Teams,Surrey 101,21,Surrey Street West,21 SURREY ST W,Guelph,N1H 3R3,519-822-2188,,Guelph
+43,Surrey 102,Family Health Teams,Surrey 102,21,Surrey Street West,21 SURREY ST W,Guelph,N1H 3R3,519-837-3623,,Guelph
+44,Surrey 108,Family Health Teams,Surrey 108,21,Surrey Street West,21 SURREY ST W,Guelph,N1H 3R3,519-823-2190,,Guelph
+45,Surrey 103,Family Health Teams,Surrey 103,21,Surrey Street West,21 SURREY ST W,Guelph,N1H 3R3,519-837-1170,,Guelph
+46,Surrey 302,Family Health Teams,Surrey 302,21,Surrey Street West,21 SURREY ST W,Guelph,N1H 3R3,519-763-4338,,Guelph
+47,Surrey 301,Family Health Teams,Surrey 301,21,Surrey Street West,21 SURREY ST W,Guelph,N1H 3R3,519-836-7240,,Guelph
