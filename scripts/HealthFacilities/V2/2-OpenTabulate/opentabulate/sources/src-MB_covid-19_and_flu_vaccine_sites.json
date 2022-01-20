@@ -26,8 +26,7 @@
         },
         "address": {
             "street_addr": "Address",
-            "city": "City",
-            "province": "Province"
+            "city": "City"
         },
         "contact": {
             "phone": "Phone"

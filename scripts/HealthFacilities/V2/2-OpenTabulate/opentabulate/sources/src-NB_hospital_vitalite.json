@@ -24,7 +24,7 @@
             "latitude": "Latitude"
         },
         "address": {
-            "address_str": "Mailing Address / Adresse Postal"
+            "address_str": "Mailing Address / Adresse postal"
         },
         "contact": {
             "phone": "Telephone / T\u00e9l\u00e9phone",
