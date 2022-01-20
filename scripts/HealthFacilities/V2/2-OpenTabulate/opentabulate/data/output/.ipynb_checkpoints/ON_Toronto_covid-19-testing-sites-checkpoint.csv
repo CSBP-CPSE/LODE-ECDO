@@ -1,0 +1,19 @@
+idx,facility_name,facility_type,longitude,latitude,street_addr,city,phone,website,provider
+0,"Humber River Hospital, Reactivation Care Centre, Finch Site",covid_testing_centre,-79.52652999999999,43.754975,2111 Finch Ave. W.,Toronto,416-747-5474,https://www.hrh.ca/covid-19/,Toronto
+1,Michael Garron Hospital,covid_testing_centre,-79.324955,43.689832,825 Coxwell Ave.,Toronto,416-469-6858,https://www.tehn.ca/programs-services/covid-19-assessment-centre,Toronto
+2,"Auduzhe Mino Nesewinong (Place of Healthy Breathing) Comprehensive First Nations, Inuit and Metis specific COVID-19 response program",covid_testing_centre,-79.418499,43.681681,22 Vaughan Rd.,Toronto,416-654-4184,,Toronto
+3,"North York General Hospital, Branson Site",covid_testing_centre,-79.447383,43.77161,555 Finch Ave. W.,Toronto,416-635-2509,https://nygh.on.ca/patients-and-visitors/covid-19-updates/assessment-centres,Toronto
+4,Rexdale Community Hub community testing clinic,covid_testing_centre,-79.58153,43.746311,21 Panorama Court,Toronto,416-748-4650,,Toronto
+5,Unison Health and Community Services - Lawrence Heights,covid_testing_centre,-79.444854871264,43.719719730538,12 Flemington Road,Toronto,,,Toronto
+6,Unison Health and Community Services - Jane Street Hub,covid_testing_centre,-79.501978617297,43.69882469813,1541 Jane Street,Toronto,,,Toronto
+7,Unison Health and Community Services - Keele-Rogers,covid_testing_centre,-79.471826273117,43.683679729644,1651 Keele Street,Toronto,,,Toronto
+8,Sunnybrook Health Sciences Centre,covid_testing_centre,-79.37373100000001,43.724889,80 Armistice Drive,Toronto,,https://sunnybrook.ca/content/?page=novel-coronavirus-covid-19-assessment-centre,Toronto
+9,UHN Toronto Western Hospital,covid_testing_centre,-79.405843,43.652566,347 Bathurst St.,Toronto,,https://www.uhn.ca/Covid19,Toronto
+10,"Unity, St. Joseph's Health Centre",covid_testing_centre,-79.450102,43.639358,30 The Queensway,Toronto,416-530-6720,https://unityhealth.to/assessment-centres/,Toronto
+11,Women's College Hospital,covid_testing_centre,-79.38737999999999,43.661517,76 Grenville St.,Toronto,416-800-1945,https://www.womenscollegehospital.ca/patients-and-caregivers/wch-covid-19-assessment-centre-v2,Toronto
+12,Taylor Massey - Crescent Town Health Centre,covid_testing_centre,-79.292327,43.695989,4 The Market Place,Toronto,416-613-8061,https://ethp.ca/main/covid19-testing,Toronto
+13,Thorncliffe Park - TNO Youth Centre,covid_testing_centre,-79.34626,43.705547,45 Overlea Blvd.,Toronto,,https://ethp.ca/main/covid19-testing,Toronto
+14,Danforth Village,covid_testing_centre,-79.290680288461,43.68996937979301,3003 Danforth Avenue,Toronto,,https://www.tehn.ca/covid-19/community-covid-19-outreach-centres-east-toronto,Toronto
+15,Regent Park CHC - Fred Victor,covid_testing_centre,-79.3674443,43.6614063,40 Oak Street,Toronto,416-642-1359,https://regentparkchc.org/covid-19-vaccine-clinic/,Toronto
+16,Warden Woods - The Hub at Warden Woods Community Centre,covid_testing_centre,-79.27800396021701,43.704045749541,76 Firvalley Court,Toronto,416-613-8061,https://ethp.ca/main/covid19-testing,Toronto
+17,Carefirst One-Stop Multi-Services Centre,covid_testing_centre,-79.294945959621,43.812711835266,300 Silver Star Boulevard,Toronto,,,Toronto

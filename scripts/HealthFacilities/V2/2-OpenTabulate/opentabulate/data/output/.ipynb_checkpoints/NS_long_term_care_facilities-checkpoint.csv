@@ -1,0 +1,136 @@
+idx,facility_name,facility_type,number_beds,longitude,latitude,street_addr,city,postal_code,provider
+0,Glen Haven Manor,Nursing Home,0,45.5749352459,-62.6439357043,739 EAST RIVER RD,NEW GLASGOW,B2H 5E9,Province of Nova Scotia
+1,Oakwood Terrace,Nursing Home,0,44.6535297057,-63.5445184349,10 MOUNT HOPE AVENUE,DARTMOUTH,B2Y 4K1,Province of Nova Scotia
+2,Musquodoboit Valley Home for Special Care Association,Nursing Home,0,45.0399737291,-63.1399624674,126 HIGGINSVILLE ROAD,MIDDLE MUSQUODOBOIT,B0N 1X0,Province of Nova Scotia
+3,Sisters of St. Martha,Nursing Home,0,45.6311404784,-61.980854876,45 BAY STREET,ANTGONISH,B2G 2G6,Province of Nova Scotia
+4,Ivey's Terrace Nursing Home,Nursing Home,0,45.6231158834,-62.6314135971,11 CENTENNIAL DRIVE,TRENTON,B0K 1X0,Province of Nova Scotia
+5,Ivy Meadows Continuing Care Centre,Nursing Home,0,44.9023290404,-63.7109149281,125 KNOWLES CRESCENT,BEAVERBANK,B4G 1E7,Province of Nova Scotia
+6,Ryan Hall,Nursing Home and Residential Care Facility,15,44.3834574419,-64.5055060942,313 HOLLINGSWORTH DRIVE,BRIDGEWATER,B4V 0A3,Province of Nova Scotia
+7,Bissett Court,Nursing Home,0,44.677899124,-63.4903147595,74 CHAMEAU CRESCENT,COLE HARBOUR,B2W 0H5,Province of Nova Scotia
+8,South Cumberland Community Care Centre,Nursing Home,0,45.4090871712,-64.325939162,50 JENKS AVENUE,PARRSBORO,B0M 1S0,Province of Nova Scotia
+9,Mountain Lea Lodge,Nursing Home,0,44.8488867357,-65.2926080152,170 CHURCH STREET,BRIDGETOWN NORTH,B0S 1C0,Province of Nova Scotia
+10,Grand View Manor,Nursing Home,0,45.0353852167,-64.7285963928,110 COMMERCIAL STREET,BERWICK,B0P 1E0,Province of Nova Scotia
+11,Victoria Park Guest Home,Residential Care Facility,12,44.9927712815,-64.1332130528,350 KING STREET,WINDSOR,B0N 2T0,Province of Nova Scotia
+12,Glasgow Hall - Parklands at the Lakes Limited,Nursing Home,0,44.6657162615,-63.5306328321,76 BAKER DR,DARTMOUTH,B2W 0C7,Province of Nova Scotia
+13,Saunders Rest Home,Residential Care Facility,8,44.840857092,-65.2888528519,9 FREEMAN STREET,BRIDGETOWN,B0S 1C0,Province of Nova Scotia
+14,Precision Health - 16 Rannoch Road,Residential Care Facility,3,44.6906636112,-63.5356331395,16 RANNOCH ROAD,DARTMOUTH,B2X IJ6,Province of Nova Scotia
+15,Alderwood,Nursing Home and Residential Care Facility,11,46.0956038205,-60.7655569049,89 ALDEREWOOD LANE,BADDECK,B0E 1B0,Province of Nova Scotia
+16,Mary's Abide-A-While Home Ltd,Residential Care Facility,14,43.7656877572,-65.3247064627,188 WATER,SHELBURNE,B0T 1W0,Province of Nova Scotia
+17,Debert Court,Nursing Home,0,45.4352400429,-63.4536777557,16 DAKOTA ROAD,DEBERT,B0N 1C0,Province of Nova Scotia
+18,Victoria Manor,Residential Care Facility,40,45.8297291732,-64.2146334839,14 VICTORIA ST W,AMHERST,B4H 1B8,Province of Nova Scotia
+19,the Admiral Long Term Care Centre,Nursing Home,0,44.6843185257,-63.5454557366,6 ADMIRAL STREET,DARTMOUTH,B2X 1W4,Province of Nova Scotia
+20,Arborstone Enhanced Care,Nursing Home,0,44.6328756027,-63.6082271374,126 PURCELL'S COVE RD,HALIFAX,B3P 1B5,Province of Nova Scotia
+21,Southview Guest Home Ltd.,Residential Care Facility,3,46.1862367957,-60.1975697845,2027 HIGHWAY 28,SYDNEY,B1N 3H6,Province of Nova Scotia
+22,Wynn Park Villa,Nursing Home and Residential Care Facility,20,45.3556912172,-63.3018909263,32 WINDOR WAY,TRURO,B2N 0B4,Province of Nova Scotia
+23,Maple Hill Manor,Nursing Home and Residential Care Facility,13,46.2407118572,-60.0854333287,700 KING ST,NEW WATERFORD,B1H 3Z5,Province of Nova Scotia
+24,St. Anne Community and Nursing Care Centre,Nursing Home,0,45.5110421069,-61.0319110818,2313 HIGHWAY 206,ARICHAT,B0E 1A0,Province of Nova Scotia
+25,Blomidon Court,Nursing Home,0,45.0764011234,-64.4068288427,58 JESSICA'S WAY,GREENWICH,B4P 0B2,Province of Nova Scotia
+26,Bayview Memorial Health Centre,Nursing Home,0,45.3462119025,-64.7948350302,3375 HIGHWAY 209,ADVOCATE HARBOUR,B0M 1A0,Province of Nova Scotia
+27,Haliburton Place,Nursing Home,0,44.9863835536,-64.1203737528,89 PAYZANT DRIVE,WINDSOR,B0N 2T0,Province of Nova Scotia
+28,Dutch Brook Guest Home,Residential Care Facility,3,46.0516394384,-60.2014032423,2400 HIGHWAY 327,DUTCH BROOK,B1L 1G1,Province of Nova Scotia
+29,Au Logis d=Meteghan Ltd.,Residential Care Facility,22,44.1939506913,-66.1529628012,8405 HIGHWAY 1,METEGHAN,B0W 2J0,Province of Nova Scotia
+30,Gables Lodge Limited,Nursing Home,0,45.8249325543,-64.1895187177,260 CHURCH ST,AMHERST,B4H 3C9,Province of Nova Scotia
+31,Taigh Solas,Nursing Home,0,46.2182083643,-60.2355515129,520 PURVES STREET,NORTH SYDNEY,B2A 3M4,Province of Nova Scotia
+32,Grace Haven,Residential Care Facility,20,44.8596233935,-65.2400903414,9791 HIGHWAY 1,BRIDGETOWN EAST,B0S 1C0,Province of Nova Scotia
+33,Chignecto Manor,Residential Care Facility,14,45.3357245242,-64.7782141576,24 BAYVIEW MANOR ROAD,ADVOCATE HARBOUR,B0M 1A0,Province of Nova Scotia
+34,Northwoodcare Incorporated,Nursing Home and Residential Care Facility,40,44.6571807575,-63.5920466822,2615 NORTHWOOD TERR,HALIFAX,B3K 3S5,Province of Nova Scotia
+35,Northwoodcare Bedford Incorporated- Christina & Hedley G. Ivany Place,Nursing Home and Residential Care Facility,26,44.7237165517,-63.7062657835,123 GARY MARTIN DRIVE,BEDFORD,B4B 0G7,Province of Nova Scotia
+36,Highland Crest Residential Care Facility,Residential Care Facility,35,45.6176844,-61.9904718374,44 HILLCREST ST,ANTIGONISH,B2G 1Z3,Province of Nova Scotia
+37,Shiretown Nursing Home,Nursing Home and Residential Care Facility,17,45.6777573673,-62.7295375998,280 HALIBURTON RD,PICTOU,B0K 1H0,Province of Nova Scotia
+38,Seabright Rest Home Ltd.,Residential Care Facility,6,44.6231727533,-63.9262204342,11625 PEGGYS COVE ROAD,SEABRIGHT,B3Z 2Y1,Province of Nova Scotia
+39,Lohnes Rest Home,Residential Care Facility,8,44.5842831414,-64.6442586638,97 LAKEVIEW DR,BARSS CORNER,B0R 1A0,Province of Nova Scotia
+40,Harbour View Facility,Nursing Home,0,46.234744466,-60.2222073482,22 RICHARD STREET,SYDNEY MINES,B1V 2H7,Province of Nova Scotia
+41,Nakile Home for Special Care,Nursing Home,0,43.7912286759,-65.8617366427,35 NAKILE DRIVE,ARGYLE,B0W 1W0,Province of Nova Scotia
+42,Rosedale Home for Special Care,Nursing Home,0,44.5372109561,-64.7111589104,4927 HIGHWAY (TRUNK) 10,NEW GERMANY,B0R 1E0,Province of Nova Scotia
+43,Windsor Elms Village for Continuing Care Society,Nursing Home,0,44.9949404491,-64.17090584,174 DYKE ROAD,WINDSOR,B0N 2T0,Province of Nova Scotia
+44,Hillsview Acres,Residential Care Facility,29,44.209164259,-64.8637243148,14 MIDDLEFIELD ROAD,GREENFIELD,B0T 1E0,Province of Nova Scotia
+45,Willow Lodge,Nursing Home,0,45.7111639799,-63.2971883623,100 BLAIR AVENNUE,TATAMAGOUCHE,B0K 1V0,Province of Nova Scotia
+46,East Cumberland Lodge,Nursing Home,0,45.8565261686,-63.657569563,262 GULF SHORE ROAD,PUGWASH,B0K 1L0,Province of Nova Scotia
+47,RK MacDonald Nursing Home,Nursing Home,0,45.6251643081,-61.9913203281,64 PLEASANT STREET,ANTIGONISH,B2G 1W7,Province of Nova Scotia
+48,Maplestone Enhanced Care Limited,Nursing Home,0,44.6537430479,-63.6492075902,245 MAIN AVE,HALIFAX,B3M 1B7,Province of Nova Scotia
+49,Wedgewood house For Seniors Limited,Residential Care Facility,15,45.0768508417,-64.4915612303,19 LEVERETT AVENUE,KENTVILLE,B4N 2K5,Province of Nova Scotia
+50,Heart of the Valley - Long Term Care Centre,Nursing Home,0,44.9505071111,-65.0668100329,89 NORTH STREET,MIDDLETON,B0S 1P0,Province of Nova Scotia
+51,The Sagewood Continuing Care Centre,Nursing Home and Residential Care Facility,13,44.761402858,-63.6520139696,345 COBEQUID ROAD,SACKVILLE,B4C 4E6,Province of Nova Scotia
+52,Wolfville Nursing Home,Nursing Home,0,45.0897805326,-64.3722728611,601 MAIN STREET,WOLFVILLE,B4P 1E9,Province of Nova Scotia
+53,New Visions Home for Seniors,Residential Care Facility,25,45.0343300445,-64.7232723207,4507 HIGHWAY 1,BERWICK,B0P 1E0,Province of Nova Scotia
+54,R.C. MacGillivray Guest Home,Nursing Home,0,46.123566273,-60.1942551293,25 XAVIER DR,SYDNEY,B1S 2R9,Province of Nova Scotia
+55,Peter's Place Halifax - PJD Rehab Housing Incorporated,Residential Care Facility,4,44.669058838,-63.6584299241,12 SWAN CRESCENT,HALIFAX,B3M 1T6,Province of Nova Scotia
+56,The Magnolia,Nursing Home and Residential Care Facility,12,44.9513275091,-63.5274765882,416 HIGHWAY 2,ENFIELD,B2T1E1,Province of Nova Scotia
+57,Orchard Court Continuing Care Residence,Nursing Home,0,45.0792726286,-64.5026468461,155 RIVER STREET,KENTVILLE,B4N 1G8,Province of Nova Scotia
+58,Dykeland Lodge,Nursing Home,0,44.9797639021,-64.1269854448,124 COTTAGE STREET,WINDSOR,B0N 2T0,Province of Nova Scotia
+59,The Cove Guest Home,Nursing Home,0,46.1210673481,-60.1977096274,320 ALEXANDRA STREET,SYDNEY,B1S 2G1,Province of Nova Scotia
+60,Northside Community Guest Home,Nursing Home,0,46.1950076665,-60.2626301399,11 QUEEN ST,NORTH SYDNEY,B2A 1A2,Province of Nova Scotia
+61,Northside General Hospital 4 East,Nursing Home,0,46.2182083643,-60.2355515129,520 PURVES STREET,NORTH SYDNEY,B2A 3M4,Province of Nova Scotia
+62,Ocean View Continuing Care Centre,Nursing Home,0,44.606723876,-63.4702157757,1909 CALDWELL ROAD,EASTERN PASSAGE,B3G 1M4,Province of Nova Scotia
+63,Inverary Manor,Nursing Home,0,46.226713682,-61.3038475549,72 MAPLE,INVERNESS,B0E 1N0,Province of Nova Scotia
+64,Queens Manor,Nursing Home,0,44.0361756693,-64.7067914518,20 HOLLANDS DR,LIVERPOOL,B0T 1K0,Province of Nova Scotia
+65,Evergreen Home for Special Care,Nursing Home,0,45.0762915876,-64.5400583686,655 PARK ST,KENTVILLE,B4N 3V7,Province of Nova Scotia
+66,Harbourview Lodge Continuing Care Centre,Nursing Home and Residential Care Facility,4,44.9204049993,-62.5326587551,22639 HIGHWAY 7,SHEET HARBOUR,B0J 3B0,Province of Nova Scotia
+67,Victoria Haven Nursing Home,Nursing Home,0,46.2115856947,-59.9648406898,5 THIRD ST,GLACE BAY,B1A 5V2,Province of Nova Scotia
+68,Tibbetts Home for Special Care,Residential Care Facility,25,44.9770412808,-64.9690618406,15074 HIGHWAY 1,WILMOT,B0P 1R0,Province of Nova Scotia
+69,Cedarstone Enhanced Care Limited,Nursing Home,0,45.3504829593,-63.275909216,378 YOUNG ST,TRURO,B2N 7H2,Province of Nova Scotia
+70,North Queens Nursing Home,Nursing Home,0,44.3764636392,-65.0148131992,9565 HIGHWAY 8,CALEDONIA,B0T 1B0,Province of Nova Scotia
+71,Melville Lodge,Nursing Home,0,44.6295606856,-63.6152512124,50 SHOREHAM LANE,HALIFAX,B3P 2R3,Province of Nova Scotia
+72,Precision Health - Washmill Lake Drive Appartments,Residential Care Facility,20,44.6500124112,-63.6536656726,599 WASHMILL LAKE DRIVE,HALIFAX,B3G 1M4,Province of Nova Scotia
+73,Villa Acadienne,Nursing Home,0,44.1937041296,-66.1541422334,8403 HIGHWAY 1,METEGHAN,B0W 2J0,Province of Nova Scotia
+74,Glace Bay Health Care Facility,Nursing Home,0,46.1832118413,-59.9385728366,300 SOUTH STREET,GLACE BAY,B1A 1W5,Province of Nova Scotia
+75,Milford Haven Corporation,Nursing Home,0,45.4021123288,-61.5070936716,10558 ROUTE 16,GUYSBOROUGH,B0H 1N0,Province of Nova Scotia
+76,Tideview Terrace,Nursing Home,0,44.6092227727,-65.7632932883,74 PLEASANT STREET,CONWAY,B0V 1A0,Province of Nova Scotia
+77,The Birches,Nursing Home,0,44.7830353497,-63.158333445,7704 HIGHWAY 7,MUSQUODOBOIT HARBOUR,B0J 2L0,Province of Nova Scotia
+78,The Heritage House,Residential Care Facility,11,46.0145010744,-61.5280844833,55 HIGH ROAD,PORT HOOD,B0E 2W0,Province of Nova Scotia
+79,The Mira,Nursing Home,0,45.3481634058,-63.2747811178,426 YOUNG ST,TRURO,B2N 7B1,Province of Nova Scotia
+80,Villa Saint Joseph-du-Lac,Nursing Home,0,43.8692445999,-66.1116431111,255 HIGHWAY 1,DAYTON,B5A 4A5,Province of Nova Scotia
+81,Harbourstone Enhanced Care Limited,Nursing Home,0,46.1070401628,-60.2138180695,84 KENWOOD DR,SYDNEY,B1S 3V7,Province of Nova Scotia
+82,Mitchell's Rest Home,Residential Care Facility,3,45.0818810489,-63.646603548,5153 HIGHWAY 14,UPPER NINE MILE RIVER,,Province of Nova Scotia
+83,Canso Seaside Manor,Nursing Home,0,45.3326282071,-60.984004647,1748 UNION STREET,CANSO,B0H 1H0,Province of Nova Scotia
+84,Pont du Marais Home Ltd,Residential Care Facility,23,43.6382136832,-65.8018749204,1526 HIGHWAY 335,LOWER WEST PUBNICO,B0W 2C0,Province of Nova Scotia
+85,White Birches Retirement Residence,Residential Care Facility,24,45.8414123864,-64.1793484589,189 FOX RANCH RD,AMHERST,B4H 3Y3,Province of Nova Scotia
+86,Richmond Villa,Nursing Home and Residential Care Facility,8,45.6584233209,-60.874805837,9361 PEPPERALL STREET,ST PETER'S,B0E 3B0,Province of Nova Scotia
+87,Highland Manor,Nursing Home,0,46.8109670404,-60.322164937,175 NEW HAVEN ROAD,NEIL'S HARBOUR,B0C 1N0,Province of Nova Scotia
+88,Seaview Manor,Nursing Home,0,46.1844896682,-59.936438571,275 SOUTH STREET,GLACE BAY,B1A 1W6,Province of Nova Scotia
+89,Vimy Court,Nursing Home,0,45.3793295022,-63.2606517007,130 VIMY ROAD,BIBLE HILL,B2N 4J6,Province of Nova Scotia
+90,Melville Gardens Nursing Home,Nursing Home and Residential Care Facility,60,44.6320039153,-63.6146368753,11 RAMSGATE LANE,HALIFAX,B3P 2S9,Province of Nova Scotia
+91,Shoreham Village,Nursing Home,0,44.5448589128,-64.2322046667,50 SHOREHAM VILLAGE CRESCENT,CHESTER,B0J 1J0,Province of Nova Scotia
+92,Port Hawkesbury Nursing Home,Nursing Home and Residential Care Facility,6,45.6197506969,-61.3552879542,2 MACQUARRIE DRIVE EXTENSION,PORT HAWKESBURY,B9A 3A2,Province of Nova Scotia
+93,Bay Side Home Corporation,Nursing Home,0,43.5484492595,-65.5981735088,96 BAYSIDE DRIVE,BARRINGTON,B0W 1E0,Province of Nova Scotia
+94,Saint Vincent's Nursing Home,Nursing Home,0,44.6479163111,-63.5941906385,2080 WINDSOR ST,HALIFAX,B3K 5B2,Province of Nova Scotia
+95,Precision Health - 24 Kincardine Street,Residential Care Facility,3,44.6914255598,-63.5370865365,24 KINCARDINE STREET,DARTMOUTH,B2X 1H9,Province of Nova Scotia
+96,Foyer P├⌐re Fiset,Nursing Home and Residential Care Facility,10,46.6234390124,-61.0157412109,15092 CABOT TRAIL,CHETICAMP,B0E 1H0,Province of Nova Scotia
+97,High - Crest Place,Residential Care Facility,27,45.5857168555,-62.6451446856,222 PROVOST ST,NEW GLASGOW,B2H 2R3,Province of Nova Scotia
+98,High - Crest Sherbrooke Home for Special Care,Nursing Home,0,45.140817953,-61.9811632318,53 COURT STREET,SHERBROOKE,B0J 3C0,Province of Nova Scotia
+99,Mahone Nursing Home,Nursing Home,0,44.4477229699,-64.3769495199,640 MAIN,MAHONE BAY,B0J 2E0,Province of Nova Scotia
+100,Townsview Estates,Residential Care Facility,51,45.3377932493,-63.3013640702,310 ABENAKI ROAD,MILLBROOK 27,B2N 5Z5,Province of Nova Scotia
+101,White Hills Long term Care Centre,Nursing Home,0,44.7439918402,-63.8051871319,297 POCKWOCK ROAD,HAMMONDS PLAINS,B4B 1N5,Province of Nova Scotia
+102,Carefield Manor Ltd,Residential Care Facility,12,46.171042466,-60.1677949255,1 DRYDEN AVE,SYDNEY,B1S 1V3,Province of Nova Scotia
+103,High - Crest Home New Glasgow,Residential Care Facility,29,45.5856299281,-62.6418534028,253 FORBES ST,NEW GLASGOW,B2H 4P5,Province of Nova Scotia
+104,Annapolis Royal Nursing Home Limited,Nursing Home and Residential Care Facility,12,44.7353894109,-65.5001769296,9745 HIGHWAY 8,ANNAPOLIS ROYAL,B0S 1A0,Province of Nova Scotia
+105,The Meadows - Tidal View Manor,Nursing Home,0,43.8505087355,-66.1030678965,339 PLEASANT St,YARMOUTH,B5A 2K9,Province of Nova Scotia
+106,Centennial Villa,Residential Care Facility,43,45.8240299389,-64.189907125,258 CHURCH ST,AMHERST,B4H 3C9,Province of Nova Scotia
+107,Olson's Glo Estate Home for Special Care,Residential Care Facility,11,43.848281031,-66.1276057564,143 ROUTE 304,OVERTON,B4A 4J7,Province of Nova Scotia
+108,High - Crest Springhill Home for Special Care Ltd,Nursing Home,0,45.6495130028,-64.0493362039,11 SPROUL STREET,SPRINGHILL,B0M 1X0,Province of Nova Scotia
+109,Karlaine Place,Residential Care Facility,8,45.3755422145,-63.2597931832,104 PICTOU RD,BIBLE HILL,B2N 2S3,Province of Nova Scotia
+110,My Cape Breton Home for Seniors - Sydney,Residential Care Facility,16,46.1183619255,-60.2214390673,137 RIVERDALE DRIVE,SYDNEY,B1R 0A9,Province of Nova Scotia
+111,My Cape Breton Home for Seniors - North Sydney,Residential Care Facility,16,46.2047715662,-60.2694141459,77 CAMPBELL STREET,NORTH SYDNEY,B1P 6J1,Province of Nova Scotia
+112,Northumberland Hall Continuing Care Residence,Nursing Home,0,45.8292145541,-64.1895868286,189 WILLOW STREET,AMHERST,B4H 3W6,Province of Nova Scotia
+113,Clarmar Residential Care Facility,Residential Care Facility,24,44.6835301518,-63.5326255108,200 MAIN STREET,DARTMOUTH,B2X 1S3,Province of Nova Scotia
+114,Harbour View Haven,Nursing Home,0,44.3770736976,-64.3024732105,25 BLOCKHOUSE HILL RD,LUNENBURG,B0J 2C0,Province of Nova Scotia
+115,Precision Health - 21 Kincardine Street,Residential Care Facility,4,44.6907861954,-63.5361913006,21 KINCARDINE STREET,DARTMOUTH,B2X 1H7,Province of Nova Scotia
+116,Celtic Court,Nursing Home,0,46.1219735668,-60.1946583843,16 ST. ANTHONY DRIVE,SYDNEY,B1S 2R5,Province of Nova Scotia
+117,Hillside Pines Home for Special Care,Nursing Home,0,44.3688714608,-64.5206479534,77 EXHIBITION DR,BRIDGEWATER,B4V 3K6,Province of Nova Scotia
+118,Parkstone Enhanced Care Limited,Nursing Home,0,44.663382564,-63.6720733647,156 PARKLAND DRIVE,HALIFAX,B3S 1N9,Province of Nova Scotia
+119,Valley View Villa,Nursing Home,0,45.5395911381,-62.6672730046,6125 TRAFALGAR ROAD,STELLARTON,,Province of Nova Scotia
+120,Maplewood Manor,Residential Care Facility,6,45.7103993471,-63.2941363465,150 BLAIR AVENUE,TATAMAGOUCHE,B0K 1V0,Province of Nova Scotia
+121,Elk Court,Nursing Home,0,45.2592638495,-63.2738470335,91 CARTER ROAD,BROOKFIELD,B0N 1C0,Province of Nova Scotia
+122,Willows Manor Limited,Residential Care Facility,8,45.0883759976,-63.4076029436,2844 HIGHWAY 2,SHUBENACADIE,B0N 2H0,Province of Nova Scotia
+123,Foyer Celeste Inc,Residential Care Facility,19,44.1838220838,-66.1695472033,8064 HIGHWAY 31,METEGHAN,B0W 2J0,Province of Nova Scotia
+124,Wolfville Elms,Residential Care Facility,23,45.087092718,-64.378696731,701 MAIN STREET,WOLFVILLE,B4P 2N4,Province of Nova Scotia
+125,Sunshine Personal Home Care Inc.,Residential Care Facility,3,44.6330128943,-63.6235123451,38 A WITHROD DR,HALIFAX,B3N 1B1,Province of Nova Scotia
+126,Maritime Odd Fellows Home,Nursing Home,0,45.6732961424,-62.7227449792,143 HALIBURTON RD,PICTOU,B0K 1H0,Province of Nova Scotia
+127,Taigh Na Mara Facility,Nursing Home,0,46.1994504507,-59.9776869002,974 MAIN STREET,GLACE BAY,B1A 4Z8,Province of Nova Scotia
+128,Roseway Manor Inc.,Nursing Home,0,43.7487650684,-65.3089609479,1604 LAKE ROAD,SANDY POINT,B0T 1W0,Province of Nova Scotia
+129,Waterford Heights,Nursing Home,0,46.2398633455,-60.0857932887,716 KING ST,NEW WATERFORD,B1H 3Z5,Province of Nova Scotia
+130,Serenity Lodge,Residential Care Facility,6,44.9508737452,-63.5350595543,39 RUSSELL MCKEEN DRIVE,ENFIELD,B2T 1A7,Province of Nova Scotia
+131,Miner's Memorial Manor,Nursing Home and Residential Care Facility,13,46.2395975234,-60.2182966209,15 LORNE ST,SYDNEY MINES,B1V 3B9,Province of Nova Scotia
+132,Peter's Place (PJD Rehab Housing Inc.),Residential Care Facility,6,44.2579218948,-64.4161552587,326 HUEY LAKE ROAD,PLEASNANTVILLE,B0R 1G0,Province of Nova Scotia
+133,Surf Lodge Community Continuing Care Centre,Nursing Home,0,43.7015725885,-65.1174778773,73 HOWE STREET,LOCKEPORT,B0T 1L0,Province of Nova Scotia
+134,Dominion Community Guest Home,Residential Care Facility,4,46.2107155768,-60.0223541907,79 COMMERCIAL ST,DOMINION,B1G 1B3,Province of Nova Scotia

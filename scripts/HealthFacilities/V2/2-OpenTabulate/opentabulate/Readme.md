@@ -1,12 +1,35 @@
-Scripts for Opentabulate step, which standardizes column headers between datasets. 
+This directory contains scripts to run opentabulate, which standardizes column headers between datasets. 
 
-O
+Open tabulate requires three components to run:
+1. a configuration file: `opentabulate.conf`
+2. CSV data file(s) to be mapped 
+3. A json for each CSV to tell opentabulate how to map the column names from each dataset to a standardised set of column names.
 
-The jsongenerator.py script is used to generate source files for open tab. 
+Full docs for opentabulate are here: https://opentabulate.readthedocs.io/en/latest/
 
-variablemap.csv 
+### Configuration
 
-To  the generator
+The configuration file in the reposity is just . To run opentabulate, you will need to add/edit this configuration at the root of the system you are using. 
 
+It should be found/edited here: `nano ~/.config/opentabulate.conf`
 
-Instructions for running open tabulate
+### Json file generation
+
+The json files can be generated using the jsongenerator script. This script takes variablemap.csv as its input, which has been filled in manually to record the column names for each open data set.
+
+The outputs of the generator script are json files stored in /sources.
+
+The original json generator script is here: https://github.com/KHobbs3/infc-processing
+
+### Running open tabulate
+
+Follow installation and setup steps in the (docs)[https://opentabulate.readthedocs.io/en/latest/]
+
+To run open tabulate
+- Navigate to the 'opentabulate' directory
+- Run for one file: `opentab sources/src-PE_Hospitals.json`
+- Run for all files in /sources: `or file in sources/*; do opentab $file; done`
+
+-Sam Lumley
+Jan 2022
+
