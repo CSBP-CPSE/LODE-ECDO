@@ -1,16 +1,14 @@
 {
-    "filename": "BC_urgent_care.csv",
+    "localfile": "BC_pharmacies.csv",
     "schema_groups": [
         "health",
         "geocoordinates",
         "address",
         "contact"
     ],
-    "source_url": "https://catalogue.data.gov.bc.ca/dataset/urgent-and-primary-care-centres",
+    "source": "https://catalogue.data.gov.bc.ca/dataset/after-hours-pharmacies-in-bc",
+    "licence": "https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc",
     "provider": "Province of British Columbia",
-    "province": "BC",
-    "lisence_url": "https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc",
-    "region_type": "Provincial",
     "format": {
         "type": "csv",
         "delimiter": ",",
@@ -29,6 +27,7 @@
         "address": {},
         "contact": {
             "phone": "PHONE_NUMBER",
+            "email": "EMAIL_ADDRESS",
             "website": "WEBSITE"
         }
     }

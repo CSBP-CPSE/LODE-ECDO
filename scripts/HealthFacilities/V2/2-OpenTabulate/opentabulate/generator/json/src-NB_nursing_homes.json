@@ -1,0 +1,36 @@
+{
+    "localfile": "NB_nursing_homes.csv",
+    "schema_groups": [
+        "health",
+        "geocoordinates",
+        "address",
+        "contact"
+    ],
+    "source": "https://gnb.socrata.com/Health-and-Wellness/Licensed-Nursing-Homes-Foyers-de-soins-agr-es/efvh-czff",
+    "licence": "http://www.snb.ca/e/2000/data-E.html",
+    "provider": "Province of New Brunswick",
+    "format": {
+        "type": "csv",
+        "delimiter": ",",
+        "quote": "\""
+    },
+    "schema": {
+        "health": {
+            "facility_name": "Name / Nom",
+            "facility_type": "force:nursing_homes",
+            "number_beds": "Number of Beds / Nombre de lits"
+        },
+        "geocoordinates": {
+            "longitude": "LONGITUDE",
+            "latitude": "LATITUDE"
+        },
+        "address": {
+            "street_addr": "Addresse/Adresse ",
+            "city": "Municipality/Municipalit\u00e9",
+            "postal_code": "Postal Code / Code Postal"
+        },
+        "contact": {
+            "phone": "Telephone Number / No de t\u00e9l\u00e9phone"
+        }
+    }
+}

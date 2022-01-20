@@ -1,0 +1,38 @@
+{
+    "filename": "MB_covid-19_and_flu_vaccine_sites.csv",
+    "schema_groups": [
+        "health",
+        "geocoordinates",
+        "address",
+        "contact"
+    ],
+    "source_url": "https://geoportal.gov.mb.ca/datasets/manitoba-covid-19-and-flu-vaccination-sites-1/explore?location=50.975321%2C-96.701879%2C6.36",
+    "provider": "Province of Manitoba",
+    "province": "MB",
+    "lisence_url": "https://manitoba.ca/legal/copyright.html",
+    "region_type": "Provincial",
+    "format": {
+        "type": "csv",
+        "delimiter": ",",
+        "quote": "\""
+    },
+    "schema": {
+        "health": {
+            "facility_name": "Provider_Name",
+            "facility_type": "Provider_Type",
+            "health_authority": "RHA_Name"
+        },
+        "geocoordinates": {
+            "longitude": "LONGITUDE",
+            "latitude": "LATITUDE"
+        },
+        "address": {
+            "street_addr": "Address",
+            "city": "City",
+            "province": "Province"
+        },
+        "contact": {
+            "phone": "Phone"
+        }
+    }
+}

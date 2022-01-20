@@ -1,16 +1,14 @@
 {
-    "filename": "BC_urgent_care.csv",
+    "localfile": "BC_emergency_rooms.csv",
     "schema_groups": [
         "health",
         "geocoordinates",
         "address",
         "contact"
     ],
-    "source_url": "https://catalogue.data.gov.bc.ca/dataset/urgent-and-primary-care-centres",
+    "source": "https://catalogue.data.gov.bc.ca/dataset/emergency-rooms-in-bc",
+    "licence": "https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc",
     "provider": "Province of British Columbia",
-    "province": "BC",
-    "lisence_url": "https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc",
-    "region_type": "Provincial",
     "format": {
         "type": "csv",
         "delimiter": ",",

@@ -1,0 +1,31 @@
+{
+    "localfile": "QC_Gatineau_public_places_including_hospitals.csv",
+    "schema_groups": [
+        "health",
+        "geocoordinates",
+        "address",
+        "contact"
+    ],
+    "source": "https://www.gatineau.ca/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes/donnees_ouvertes/jeux_donnees/details&id=1267315911",
+    "licence": "https://www.gatineau.ca/donneesouvertes/licence_en.aspx",
+    "provider": "Gatineau",
+    "format": {
+        "type": "csv",
+        "delimiter": ",",
+        "quote": "\""
+    },
+    "schema": {
+        "health": {
+            "facility_name": "NOM_TOPOGR",
+            "facility_type": "TYPE"
+        },
+        "geocoordinates": {
+            "longitude": "LONGITUDE",
+            "latitude": "LATITUDE"
+        },
+        "address": {
+            "street_addr": "ADR_COMPLE"
+        },
+        "contact": {}
+    }
+}

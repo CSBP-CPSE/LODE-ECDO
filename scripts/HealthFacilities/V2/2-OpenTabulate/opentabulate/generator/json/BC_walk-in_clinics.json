@@ -1,12 +1,12 @@
 {
-    "filename": "BC_assisted_living_residences_.csv",
+    "filename": "BC_walk-in_clinics.csv",
     "schema_groups": [
         "health",
         "geocoordinates",
         "address",
         "contact"
     ],
-    "source_url": "https://catalogue.data.gov.bc.ca/dataset/assisted-living-residences",
+    "source_url": "https://catalogue.data.gov.bc.ca/dataset/walk-in-clinics-in-bc",
     "provider": "Province of British Columbia",
     "province": "BC",
     "lisence_url": "https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc",
@@ -18,23 +18,19 @@
     },
     "schema": {
         "health": {
-            "facility_name": "OPERATOR_NAME",
-            "facility_type": "TYPE",
-            "health_authority": "HEALTH_AUTHORITY",
-            "alternative_name": "BUSINESS_NAME"
+            "facility_name": "SV_NAME",
+            "facility_type": "TAXONOMY_NAME",
+            "health_authority": "RG_NAME"
         },
         "geocoordinates": {
             "longitude": "LONGITUDE",
             "latitude": "LATITUDE"
         },
-        "address": {
-            "street_addr": "STREET_ADDRESS",
-            "city": "CITY",
-            "postal_code": "POSTAL_CODE",
-            "province": "BC"
-        },
+        "address": {},
         "contact": {
-            "phone": "BUSINESS_PHONE"
+            "phone": "PHONE_NUMBER",
+            "email": "EMAIL_ADDRESS",
+            "website": "WEBSITE"
         }
     }
 }

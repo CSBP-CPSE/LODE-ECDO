@@ -1,0 +1,34 @@
+{
+    "filename": "NS_hospital.csv",
+    "schema_groups": [
+        "health",
+        "geocoordinates",
+        "address",
+        "contact"
+    ],
+    "source_url": "https://data.novascotia.ca/Health-and-Wellness/Hospitals/tmfr-3h8a",
+    "provider": "Province of Nova Scotia",
+    "province": "NS",
+    "lisence_url": "https://novascotia.ca/opendata/licence.asp",
+    "region_type": "Provincial",
+    "format": {
+        "type": "csv",
+        "delimiter": ",",
+        "quote": "\""
+    },
+    "schema": {
+        "health": {
+            "facility_name": "FACILITY",
+            "facility_type": "TYPE"
+        },
+        "geocoordinates": {
+            "longitude": "LONGITUDE",
+            "latitude": "LATITUDE"
+        },
+        "address": {
+            "street_addr": "Address",
+            "city": "TOWN"
+        },
+        "contact": {}
+    }
+}

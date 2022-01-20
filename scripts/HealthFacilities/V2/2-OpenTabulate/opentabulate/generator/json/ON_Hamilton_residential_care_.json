@@ -1,0 +1,30 @@
+{
+    "filename": "ON_Hamilton_residential_care_.csv",
+    "schema_groups": [
+        "health",
+        "geocoordinates",
+        "address",
+        "contact"
+    ],
+    "source_url": "",
+    "provider": "Hamilton",
+    "province": "ON",
+    "lisence_url": "https://www.hamilton.ca/city-initiatives/strategies-actions/open-data-licence-terms-and-conditions",
+    "region_type": "Municipal",
+    "format": {
+        "type": "csv",
+        "delimiter": ",",
+        "quote": "\""
+    },
+    "schema": {
+        "health": {
+            "facility_name": "BUSINESS_NAME",
+            "facility_type": "LICENSE_TYPE"
+        },
+        "geocoordinates": {},
+        "address": {
+            "street_addr": "BUSINESS_ADDRESS"
+        },
+        "contact": {}
+    }
+}

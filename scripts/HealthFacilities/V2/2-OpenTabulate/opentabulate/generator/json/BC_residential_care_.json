@@ -1,12 +1,12 @@
 {
-    "filename": "BC_assisted_living_residences_.csv",
+    "filename": "BC_residential_care_.csv",
     "schema_groups": [
         "health",
         "geocoordinates",
         "address",
         "contact"
     ],
-    "source_url": "https://catalogue.data.gov.bc.ca/dataset/assisted-living-residences",
+    "source_url": "https://catalogue.data.gov.bc.ca/dataset/residential-care-facilities",
     "provider": "Province of British Columbia",
     "province": "BC",
     "lisence_url": "https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc",
@@ -21,7 +21,8 @@
             "facility_name": "OPERATOR_NAME",
             "facility_type": "TYPE",
             "health_authority": "HEALTH_AUTHORITY",
-            "alternative_name": "BUSINESS_NAME"
+            "alternative_name": "BUSINESS_NAME",
+            "number_beds": "LONG_TERM_CARE_MAX_CAP"
         },
         "geocoordinates": {
             "longitude": "LONGITUDE",

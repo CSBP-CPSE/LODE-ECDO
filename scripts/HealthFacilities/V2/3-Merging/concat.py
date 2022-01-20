@@ -16,7 +16,7 @@ def GetHash(x):
 
 
 #read in all parsed files and concatenate together
-pdir="/home/jovyan/data-vol-1/ODHF/V2/2-OpenTabulate/data/output"
+pdir="/home/jovyan/data-vol-1/ODHF/LODE-ECDO/scripts/HealthFacilities/V2/2-OpenTabulate/opentabulate/data/output"
 
 sources=['ab','bc','mb','nb','nl','ns','nt','nu','on','pe','qc','sk','yt']
 DFS=[]
@@ -29,7 +29,9 @@ for s in sources:
 df=pd.concat(DFS)
 
 #restrict to only desired columns
-df=df[['idx', 'source_id','facility_name', 'facility_type','authority_name','authority_type', 'grade_range','grade_type','ISCED010', 'ISCED020','ISCED1', 'ISCED2', 'ISCED3', 'ISCED4+', 'address_str',   'street_addr', 'city', 'province', 'postal_code', 'provider', 'latitude', 'longitude','geo_source', 'telephone' ]]
+
+#columns to be assessed after opentab run: idx, source_id, geo_source
+df=df[['idx', 'source_id', 'facility_name', 'facility_type', 'operator_name', 'health_authority', 'alternative_name', 'number_beds', 'active', 'address_str', 'street_no', 'street_name', 'street_addr', 'city', 'province', 'postal_code', 'provider', 'latitude', 'longitude','geo_source', 'phone', 'email', 'website' ]]
 
 
 
@@ -66,6 +68,14 @@ for key in provs_dict:
 
 df['postal_code']=df['postal_code'].str.replace(' ','').str.upper()
 
+
+"""
+Code below to be modified to fit ODHF needs, examples from ODEF remain.
+Thoughts:
+- dropping facilities that do not fit into our categories such as eye exam locations and dentists
+- since York hospital file only one with variable 'active', maybe just remove records that show status is non-active then drop variable
+- 
+"""
 
 
 #Drop entries that shouldn't be included

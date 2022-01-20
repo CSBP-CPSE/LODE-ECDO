@@ -1,0 +1,35 @@
+{
+    "localfile": "AB_Calgary_covid_vaccination_centres.csv",
+    "schema_groups": [
+        "health",
+        "geocoordinates",
+        "address",
+        "contact"
+    ],
+    "source": "https://data.calgary.ca/Health-and-Safety/COVID-19-Vaccination-Locations/9kkc-pfd6",
+    "licence": "https://data.calgary.ca/stories/s/Open-Calgary-Terms-of-Use/u45n-7awa",
+    "provider": "Calgary",
+    "format": {
+        "type": "csv",
+        "delimiter": ",",
+        "quote": "\""
+    },
+    "schema": {
+        "health": {
+            "facility_name": "Location",
+            "facility_type": "force:covid_vaccination_centres"
+        },
+        "geocoordinates": {
+            "longitude": "LONGITUDE",
+            "latitude": "LATITUDE"
+        },
+        "address": {
+            "street_addr": "Address1",
+            "city": "City"
+        },
+        "contact": {
+            "phone": "Phone",
+            "website": "BookingLink"
+        }
+    }
+}
