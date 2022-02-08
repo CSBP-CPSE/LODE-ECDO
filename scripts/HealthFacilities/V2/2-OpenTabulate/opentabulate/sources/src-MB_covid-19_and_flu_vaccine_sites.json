@@ -26,7 +26,8 @@
         },
         "address": {
             "street_addr": "Address",
-            "city": "City"
+            "city": "City",
+            "province": "force:MB"
         },
         "contact": {
             "phone": "Phone"

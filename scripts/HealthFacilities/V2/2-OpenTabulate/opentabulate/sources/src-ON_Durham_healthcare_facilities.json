@@ -25,6 +25,7 @@
         "address": {
             "street_addr": "ADDRESS",
             "city": "MUNICIPALITY",
+            "province": "force:ON",
             "postal_code": "POSTAL_CODE"
         },
         "contact": {

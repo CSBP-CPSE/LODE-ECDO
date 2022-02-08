@@ -16,6 +16,8 @@ name_out: the name of the output file
 December 14 2020
 """
 
+import sys
+!conda install --yes --prefix {sys.prefix} postal
 import pandas as pd
 from postal.parser import parse_address
 import argparse

@@ -1,48 +1,48 @@
-idx,facility_name,facility_type,longitude,latitude,address_str,phone,provider
-0,Bioscript Pharmacy,Community Pharmacy,-64.82994743799998,46.12494948000005,585 Mapleton Road Suite 202,(506) 204-7581,Moncton
-1,Cameron Street Clinic,Community Pharmacy,-64.78849413799998,46.08853959200007,107 Cameron Street P.O. Box 792,(506) 858-0287,Moncton
-2,Costco Pharmacy,Community Pharmacy,-64.77839915099997,46.12930264400006,"140 Granite Drive, Moncton NB",Phone: (506) 317-0433,Moncton
-3,CSC Atlantic Regional Pharmacy,Institutional Pharmacy,-64.78001561899998,46.08813715500003,"859 Main Street, Moncton NB",(506) 851-6386,Moncton
-4,Ford's Family Pharmacy & Wellness Centre,Community Pharmacy,-64.79777183999994,46.08750225600005,"544 St. George Blvd, Moncton NB",(506) 853-0830,Moncton
-5,Healthconnect Pharmacy,Community Pharmacy,-64.87098752599996,46.09593097500004,"10 Desbrisay Avenue, Unit 2, Moncton NB",(506) 867-9854,Moncton
-6,Innomar Pharmacy Inc.,Community Pharmacy,-64.80622631799997,46.10593189700006,"100 Arden Street, Suite 309, Moncton NB",(506) 860-3428,Moncton
-7,Jean Coutu Pharmacy,Community Pharmacy,-64.79031811799996,46.08926822600006,"1789 Mountain Road North, Moncton NB",(506) 387-9001,Moncton
-8,Lawton's Drugs,Community Pharmacy,-64.77059155999996,46.12263236500007,"565 Elmwood Drive, Moncton NB",(506) 386-3408,Moncton
-9,Lawtons Drugs # 141,Community Pharmacy,-64.80674624799997,46.09923636900004,"800 Mountain Road Suite 101, Moncton NB",(506) 386-3408,Moncton
-10,Lawtons Drugs # 147,Community Pharmacy,-64.82305309199995,46.10744516200003,"40 Mapleton Road, Moncton NB",(506) 857-9919,Moncton
-11,Loblaw Pharmacy # 326,Community Pharmacy,-64.83248128999998,46.11840086700005,"89 Trinity Drive, Moncton NB",(506) 383-4955,Moncton
-12,Loblaw Pharmacy,Community Pharmacy,-64.76857402999997,46.09381427300008,"165 Main Street, Moncton NB",(506) 852-2069,Moncton
-13,Mapleton Pharmacy,Community Pharmacy,-64.82953405199999,46.12066346000006,"500 Mapleton Road Suite 120, Moncton NB",(506) 855-2210,Moncton
-14,McKesson Specialty Prescription Services,Community Pharmacy,-64.72671121699995,46.13594807700008,"290 Frenette Ave, Moncton NB",(506) 777-1240,Moncton
-15,Medicine Shoppe Pharmacy # 294,Community Pharmacy,-64.79680957799997,46.07951852700006,"1685 Main Street, Moncton NB",(506) 854-2010,Moncton
-16,Pharmacie - Hopital Dr. Georges-L. Dumont,Institutional Pharmacy,-64.78717110699995,46.09806568600004,"330 Avenue Uiversite, Moncton NB",(506) 862-4200,Moncton
-17,Pharmacy - The Moncton Hospital,Institutional Pharmacy,-64.80564891399996,46.10480409300004,"135 Macbeath Avenue, Moncton NB",,Moncton
-18,Phoenix Center,Community Pharmacy,-64.79338990499997,46.09592140900003,"353 High Street, Moncton NB",(506) 854-4673,Moncton
-19,Shoppers Drug Mart # 182,Community Pharmacy,-64.78850440499997,46.08256954100005,"45 Vaughan Harvey Blvd. , Moncton NB",(506) 857-8702,Moncton
-20,Shoppers Drug Mart # 588,Community Pharmacy,-64.78678095399994,46.09007302600003,"350 St. George Street , Moncton NB",(506) 857-6330,Moncton
-21,Shoppers Drug Mart # 593,Community Pharmacy,-64.83893521999994,46.11718911600008,"1633 Mountain Road, Moncton NB",(506) 858-0055,Moncton
-22,Shoppers Drug Mart # 184,Community Pharmacy,-64.81132904699996,46.10038224000004,"860 Mountain Road PO Box 25066, Moncton NB",(506) 857-9700,Moncton
-23,Shoppers Drug Mart # 590,Community Pharmacy,-64.77442431199995,46.11326520300003,"320 Elmwood Drive , Moncton NB",(506) 383-8303,Moncton
-24,Shoppers Drug Mart # 2011,Community Pharmacy,-64.80298028399994,46.09980515000007,"681 Mountain Road , Moncton NB",(506) 382-8615,Moncton
-25,Sobeys Elmwood #783,Community Pharmacy,-64.76811036199996,46.12256770900007,"77 Filles De Jesus Avenue , Moncton NB",(506) 855-6925,Moncton
-26,,Community Pharmacy,-64.83215768399998,46.10931613100007,"1380 Mountain Road, Moncton NB",(506) 854-7727,Moncton
-27,Sobeys Pharmacy,Community Pharmacy,-64.78777176299997,46.08447248900006,"55 Vaughan Harvey Boulevard, Moncton NB",(506) 855-0253,Moncton
-28,Staples Drugs,Community Pharmacy,-64.78672895899996,46.09051306400005,"321 St George Street , Moncton NB",(506) 857-4150,Moncton
-29,The Medicine Shoppe # 174,Community Pharmacy,-64.82463108999997,46.10880907800004,"90 Mapleton Road , Moncton NB",(506) 869-5221,Moncton
-30,The Medicine Shoppe # 219,Community Pharmacy,-64.82125805199996,46.08242686600005,"960 St. George Blvd , Moncton NB",(506) 852-8082,Moncton
-31,The Medicine Shoppe Pharmacy,Community Pharmacy,-64.76212235899993,46.10301188200003,"120 Shediac Road , Moncton NB",(506) 858-6161,Moncton
-32,Wal-Mart Pharmacy,Community Pharmacy,-64.82911232599997,46.11405383600004,"25 Plaza Boulevard, Moncton NB",(506) 853-7664,Moncton
-33,Dieppe Guardian 556615,Community Pharmacy,-64.74228706499997,46.09181974300003,"185 Acadie Avenue, Dieppe NB",(506) 384-6343,Moncton
-34,Express Scripts Canada Pharmacy,Community Pharmacy,-64.70645980799998,46.10350840600006,"1040 Champlain Street, Dieppe NB",(888) 204-4876,Moncton
-35,Familiprix Dieppe,Community Pharmacy,-64.73264303799994,46.08482217200003,"318 rue Amirault , Dieppe NB",506) 830-2555,Moncton
-36,Jean Coutu #337,Community Pharmacy,-64.69980470799999,46.09759700600006,"600 Blvd Dieppe , Dieppe NB",(506) 854-7474,Moncton
-37,Jean Coutu Pharmacy,Community Pharmacy,-64.75268226799994,46.09490493600003,"123 Champlain Street , Dieppe NB",(506) 859-1990,Moncton
-38,Shoppers Drug Mart # 181,Community Pharmacy,-64.75952434799996,46.09634936900005,"477 Paul Street , Dieppe NB",(506) 857-0820,Moncton
-39,Shoppers Drug Mart 2005,Community Pharmacy,-64.75858088099994,46.09276639400008,"18 Champlain St , Dieppe NB",(506) 389-1680,Moncton
-40,Sobeys Pharmacy #602,Community Pharmacy,-64.76298207499997,46.09535671200007,"477 Paul Street, Dieppe NB",(506) 857-8019,Moncton
-41,Wal-Mart Pharmacy,Community Pharmacy,-64.76086295699997,46.09725831600008,"477 Paul Street, Dieppe NB",(506) 855-6011,Moncton
-42,Ford's Pharmacy/Jean Coutu Pharmacy,Community Pharmacy,-64.80175983399994,46.06386568300007,"438 Coverdale Road, Dieppe NB",(506) 853-0825,Moncton
-43,Loblaw Pharmacy # 361,Community Pharmacy,-64.80117737799998,46.06512816900005,"425 Coverdale Road, Dieppe NB",(506) 387-5085,Moncton
-44,Riverview Guardian Pharmacy,Community Pharmacy,-64.78998074199995,46.05206809500004,"645 Pinewood Road, Dieppe NB",(506) 386-2111,Moncton
-45,Shoppers Drug Mart # 185,Community Pharmacy,-64.80644858099998,46.06272886900007,"500 Coverdale Road, Dieppe NB",(506) 857-6380,Moncton
-46,Sobeys Pharmacy # 736,Community Pharmacy,-64.79456267299997,46.04932998000004,"1160 Findlay Boulevard, Dieppe NB",,Moncton
+idx,facility_name,facility_type,longitude,latitude,address_str,city,province,phone,provider
+0,Bioscript Pharmacy,Community Pharmacy,-64.82994743799998,46.12494948000005,585 Mapleton Road Suite 202,Moncton,NB,(506) 204-7581,Moncton
+1,Cameron Street Clinic,Community Pharmacy,-64.78849413799998,46.08853959200007,107 Cameron Street P.O. Box 792,Moncton,NB,(506) 858-0287,Moncton
+2,Costco Pharmacy,Community Pharmacy,-64.77839915099997,46.12930264400006,"140 Granite Drive, Moncton NB",Moncton,NB,Phone: (506) 317-0433,Moncton
+3,CSC Atlantic Regional Pharmacy,Institutional Pharmacy,-64.78001561899998,46.08813715500003,"859 Main Street, Moncton NB",Moncton,NB,(506) 851-6386,Moncton
+4,Ford's Family Pharmacy & Wellness Centre,Community Pharmacy,-64.79777183999994,46.08750225600005,"544 St. George Blvd, Moncton NB",Moncton,NB,(506) 853-0830,Moncton
+5,Healthconnect Pharmacy,Community Pharmacy,-64.87098752599996,46.09593097500004,"10 Desbrisay Avenue, Unit 2, Moncton NB",Moncton,NB,(506) 867-9854,Moncton
+6,Innomar Pharmacy Inc.,Community Pharmacy,-64.80622631799997,46.10593189700006,"100 Arden Street, Suite 309, Moncton NB",Moncton,NB,(506) 860-3428,Moncton
+7,Jean Coutu Pharmacy,Community Pharmacy,-64.79031811799996,46.08926822600006,"1789 Mountain Road North, Moncton NB",Moncton,NB,(506) 387-9001,Moncton
+8,Lawton's Drugs,Community Pharmacy,-64.77059155999996,46.12263236500007,"565 Elmwood Drive, Moncton NB",Moncton,NB,(506) 386-3408,Moncton
+9,Lawtons Drugs # 141,Community Pharmacy,-64.80674624799997,46.09923636900004,"800 Mountain Road Suite 101, Moncton NB",Moncton,NB,(506) 386-3408,Moncton
+10,Lawtons Drugs # 147,Community Pharmacy,-64.82305309199995,46.10744516200003,"40 Mapleton Road, Moncton NB",Moncton,NB,(506) 857-9919,Moncton
+11,Loblaw Pharmacy # 326,Community Pharmacy,-64.83248128999998,46.11840086700005,"89 Trinity Drive, Moncton NB",Moncton,NB,(506) 383-4955,Moncton
+12,Loblaw Pharmacy,Community Pharmacy,-64.76857402999997,46.09381427300008,"165 Main Street, Moncton NB",Moncton,NB,(506) 852-2069,Moncton
+13,Mapleton Pharmacy,Community Pharmacy,-64.82953405199999,46.12066346000006,"500 Mapleton Road Suite 120, Moncton NB",Moncton,NB,(506) 855-2210,Moncton
+14,McKesson Specialty Prescription Services,Community Pharmacy,-64.72671121699995,46.13594807700008,"290 Frenette Ave, Moncton NB",Moncton,NB,(506) 777-1240,Moncton
+15,Medicine Shoppe Pharmacy # 294,Community Pharmacy,-64.79680957799997,46.07951852700006,"1685 Main Street, Moncton NB",Moncton,NB,(506) 854-2010,Moncton
+16,Pharmacie - Hopital Dr. Georges-L. Dumont,Institutional Pharmacy,-64.78717110699995,46.09806568600004,"330 Avenue Uiversite, Moncton NB",Moncton,NB,(506) 862-4200,Moncton
+17,Pharmacy - The Moncton Hospital,Institutional Pharmacy,-64.80564891399996,46.10480409300004,"135 Macbeath Avenue, Moncton NB",Moncton,NB,,Moncton
+18,Phoenix Center,Community Pharmacy,-64.79338990499997,46.09592140900003,"353 High Street, Moncton NB",Moncton,NB,(506) 854-4673,Moncton
+19,Shoppers Drug Mart # 182,Community Pharmacy,-64.78850440499997,46.08256954100005,"45 Vaughan Harvey Blvd. , Moncton NB",Moncton,NB,(506) 857-8702,Moncton
+20,Shoppers Drug Mart # 588,Community Pharmacy,-64.78678095399994,46.09007302600003,"350 St. George Street , Moncton NB",Moncton,NB,(506) 857-6330,Moncton
+21,Shoppers Drug Mart # 593,Community Pharmacy,-64.83893521999994,46.11718911600008,"1633 Mountain Road, Moncton NB",Moncton,NB,(506) 858-0055,Moncton
+22,Shoppers Drug Mart # 184,Community Pharmacy,-64.81132904699996,46.10038224000004,"860 Mountain Road PO Box 25066, Moncton NB",Moncton,NB,(506) 857-9700,Moncton
+23,Shoppers Drug Mart # 590,Community Pharmacy,-64.77442431199995,46.11326520300003,"320 Elmwood Drive , Moncton NB",Moncton,NB,(506) 383-8303,Moncton
+24,Shoppers Drug Mart # 2011,Community Pharmacy,-64.80298028399994,46.09980515000007,"681 Mountain Road , Moncton NB",Moncton,NB,(506) 382-8615,Moncton
+25,Sobeys Elmwood #783,Community Pharmacy,-64.76811036199996,46.12256770900007,"77 Filles De Jesus Avenue , Moncton NB",Moncton,NB,(506) 855-6925,Moncton
+26,,Community Pharmacy,-64.83215768399998,46.10931613100007,"1380 Mountain Road, Moncton NB",Moncton,NB,(506) 854-7727,Moncton
+27,Sobeys Pharmacy,Community Pharmacy,-64.78777176299997,46.08447248900006,"55 Vaughan Harvey Boulevard, Moncton NB",Moncton,NB,(506) 855-0253,Moncton
+28,Staples Drugs,Community Pharmacy,-64.78672895899996,46.09051306400005,"321 St George Street , Moncton NB",Moncton,NB,(506) 857-4150,Moncton
+29,The Medicine Shoppe # 174,Community Pharmacy,-64.82463108999997,46.10880907800004,"90 Mapleton Road , Moncton NB",Moncton,NB,(506) 869-5221,Moncton
+30,The Medicine Shoppe # 219,Community Pharmacy,-64.82125805199996,46.08242686600005,"960 St. George Blvd , Moncton NB",Moncton,NB,(506) 852-8082,Moncton
+31,The Medicine Shoppe Pharmacy,Community Pharmacy,-64.76212235899993,46.10301188200003,"120 Shediac Road , Moncton NB",Moncton,NB,(506) 858-6161,Moncton
+32,Wal-Mart Pharmacy,Community Pharmacy,-64.82911232599997,46.11405383600004,"25 Plaza Boulevard, Moncton NB",Moncton,NB,(506) 853-7664,Moncton
+33,Dieppe Guardian 556615,Community Pharmacy,-64.74228706499997,46.09181974300003,"185 Acadie Avenue, Dieppe NB",Moncton,NB,(506) 384-6343,Moncton
+34,Express Scripts Canada Pharmacy,Community Pharmacy,-64.70645980799998,46.10350840600006,"1040 Champlain Street, Dieppe NB",Moncton,NB,(888) 204-4876,Moncton
+35,Familiprix Dieppe,Community Pharmacy,-64.73264303799994,46.08482217200003,"318 rue Amirault , Dieppe NB",Moncton,NB,506) 830-2555,Moncton
+36,Jean Coutu #337,Community Pharmacy,-64.69980470799999,46.09759700600006,"600 Blvd Dieppe , Dieppe NB",Moncton,NB,(506) 854-7474,Moncton
+37,Jean Coutu Pharmacy,Community Pharmacy,-64.75268226799994,46.09490493600003,"123 Champlain Street , Dieppe NB",Moncton,NB,(506) 859-1990,Moncton
+38,Shoppers Drug Mart # 181,Community Pharmacy,-64.75952434799996,46.09634936900005,"477 Paul Street , Dieppe NB",Moncton,NB,(506) 857-0820,Moncton
+39,Shoppers Drug Mart 2005,Community Pharmacy,-64.75858088099994,46.09276639400008,"18 Champlain St , Dieppe NB",Moncton,NB,(506) 389-1680,Moncton
+40,Sobeys Pharmacy #602,Community Pharmacy,-64.76298207499997,46.09535671200007,"477 Paul Street, Dieppe NB",Moncton,NB,(506) 857-8019,Moncton
+41,Wal-Mart Pharmacy,Community Pharmacy,-64.76086295699997,46.09725831600008,"477 Paul Street, Dieppe NB",Moncton,NB,(506) 855-6011,Moncton
+42,Ford's Pharmacy/Jean Coutu Pharmacy,Community Pharmacy,-64.80175983399994,46.06386568300007,"438 Coverdale Road, Dieppe NB",Moncton,NB,(506) 853-0825,Moncton
+43,Loblaw Pharmacy # 361,Community Pharmacy,-64.80117737799998,46.06512816900005,"425 Coverdale Road, Dieppe NB",Moncton,NB,(506) 387-5085,Moncton
+44,Riverview Guardian Pharmacy,Community Pharmacy,-64.78998074199995,46.05206809500004,"645 Pinewood Road, Dieppe NB",Moncton,NB,(506) 386-2111,Moncton
+45,Shoppers Drug Mart # 185,Community Pharmacy,-64.80644858099998,46.06272886900007,"500 Coverdale Road, Dieppe NB",Moncton,NB,(506) 857-6380,Moncton
+46,Sobeys Pharmacy # 736,Community Pharmacy,-64.79456267299997,46.04932998000004,"1160 Findlay Boulevard, Dieppe NB",Moncton,NB,,Moncton

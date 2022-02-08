@@ -28,7 +28,7 @@ Follow installation and setup steps in the (docs)[https://opentabulate.readthedo
 To run open tabulate
 - Navigate to the 'opentabulate' directory
 - Run for one file: `opentab sources/src-PE_Hospitals.json`
-- Run for all files in /sources: `or file in sources/*; do opentab $file; done`
+- Run for all files in /sources: `for file in sources/*; do opentab $file; done`
 
 -Sam Lumley
 Jan 2022

@@ -24,7 +24,9 @@
             "longitude": "LONGITUDE",
             "latitude": "LATITUDE"
         },
-        "address": {},
+        "address": {
+            "province": "force:BC"
+        },
         "contact": {
             "phone": "PHONE_NUMBER",
             "website": "WEBSITE"

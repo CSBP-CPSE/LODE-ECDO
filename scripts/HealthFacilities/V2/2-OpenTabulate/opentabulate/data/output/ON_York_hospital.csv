@@ -1,44 +1,44 @@
-idx,facility_name,facility_type,active,longitude,latitude,street_addr,city,postal_code,phone,provider
-0,Markham-Stouffville - Uxbridge Cottage Hospital,hospital,Existing,-79.12667319688303,44.1025754594496,4 Campbell Drive,Durham,L9P 1S4,905-852-9771,York Region
-1,Princess Margaret Hospital,hospital,Existing,-79.39028633643423,43.6580808901927,610 University Avenue,Toronto,M5G 2M9,416-946-2000,York Region
-2,Women's College Hospital,hospital,Existing,-79.38750906150908,43.66138163608323,76 Grenville Street,Toronto,M5S 1B2,416-323-6400,York Region
-3,The Hospital for Sick Children,hospital,Existing,-79.38890210760863,43.65655377486957,555 University Avenue,Toronto,M5G 1X8,416-813-1500,York Region
-4,Sunnybrook Health Science Centre,hospital,Existing,-79.37898904757769,43.7227314098786,2075 Bayview Avenue,Toronto,M4N 3M5,416-480-6100,York Region
-5,St. Michael's Hospital,hospital,Existing,-79.37779431673482,43.65356726528367,30 Bond Street,Toronto,M5B 1W8,416-360-4000,York Region
-6,Scarborough Health Network - Centenary Campus,hospital,Existing,-79.20584194583995,43.78207399627058,2867 Ellesmere Road,Toronto,M1E 4B9,416-284-8131,York Region
-7,Scarborough Health Network - General Campus,hospital,Existing,-79.24668510997959,43.75554328985756,3050 Lawrence Avenue East,Toronto,M1P 2V5,416-438-2911,York Region
-8,North York General Hospital - General Site,hospital,Existing,-79.36408319797252,43.76974517120309,4001 Leslie Street,Toronto,M2K 1E1,416-756-6000,York Region
-9,Mackenzie Health,hospital,Existing,-79.45071041004276,43.87037792539481,10 Trench Street,York,L4C 4Z3,905-883-1212,York Region
-10,Lakeridge Health - Port Perry Hospital,hospital,Existing,-78.95421943439389,44.10495365557109,451 Paxton Street,Durham,L9L 1L9,905-985-7321,York Region
-11,Georgian Bay General Hospital - Midland Site,hospital,Existing,-79.91118584623256,44.74235960894646,1112 St Andrews Drive,Simcoe,L4R 4P4,705-526-1300,York Region
-12,Markham-Stouffville Hospital,hospital,Existing,-79.23222153375512,43.88363386673732,381 Church Street,York,L3P 7P3,905-472-7000,York Region
-13,Trillium Health Centre - Mississauga,hospital,Existing,-79.60768958999711,43.57291935617845,100 Queensway West,Peel,L5B 1B8,905-848-7100,York Region
-14,Scarborough Health Network - Birchmount Campus,hospital,Existing,-79.30788132908087,43.80074399477373,3030 Birchmount Road,Toronto,M1W 3W3,416-495-2400,York Region
-15,Lakeridge Health - Bowmanville Hospital,hospital,Existing,-78.6790979027018,43.90904544225243,47 Liberty Street South,Durham,L1C 2N4,905-623-3331,York Region
-16,The Royal Victoria Regional Health Centre,hospital,Existing,-79.68116625298399,44.40030169069522,201 Georgian Drive,Simcoe,L4M 6M2,705-728-9802,York Region
-17,The Collingwood General and Marine Hospital,hospital,Existing,-80.20161980315027,44.49841839335398,459 Hume Street,Simcoe,L9Y 1W9,705-445-2550,York Region
-18,Southlake Regional Health Centre,hospital,Existing,-79.45162045115727,44.06045067212513,596 Davis Drive,York,L3Y 2P9,905-895-4521,York Region
-19,Toronto General Hospital,hospital,Existing,-79.38733276891291,43.65924820118482,200 Elizabeth Street,Toronto,M5G 2C4,416-340-3111,York Region
-20,Toronto Western Hospital,hospital,Existing,-79.40644184682873,43.65410833904173,399 Bathurst Street,Toronto,M5T 2S8,416-603-2581,York Region
-21,St. Joseph's Health Centre,hospital,Existing,-79.44986781895724,43.6393019856698,30 The Queensway,Toronto,M6R 1B5,416-530-6000,York Region
-22,Lakeridge Health - Ajax Pickering Hospital,hospital,Existing,-79.01590250850707,43.8364881765121,580 Harwood Avenue South,Durham,L1S 2J4,905-683-2320,York Region
-23,Trillium Health Centre - Credit Valley Hospital,hospital,Existing,-79.70357386634207,43.56058081381472,2200 Eglinton Avenue West,Peel,L5M 2N1,905-813-2200,York Region
-24,William Osler Health Centre - Etobicoke,hospital,Existing,-79.60108318992383,43.73030161406817,101 Humber College Boulevard,Toronto,M9V 1R8,416-747-3400,York Region
-25,North York General Hospital - Branson Division,hospital,Existing,-79.45046109581095,43.77210002881542,555 Finch Avenue West,Toronto,M2R 1N5,416-633-9420,York Region
-26,Michael Garron Hospital,hospital,Existing,-79.32569067290338,43.68973391121214,825 Coxwell Avenue,Toronto,M4C 3E7,416-461-8272,York Region
-27,The Stevenson Memorial Hospital,hospital,Existing,-79.87645232207016,44.15588626883302,200 Fletcher Crescent,Simcoe,L9R 1W7,705-435-6281,York Region
-28,William Osler Health Centre - Brampton,hospital,Existing,-79.74428900835409,43.74531538182809,2100 Bovaird Drive East,Peel,L6R 3J7,905-494-2120,York Region
-29,Reactivation Care Centre (RCC) Church Site,hospital,Existing,-79.50991864313565,43.708826049232,200 Church Street,Toronto,M9N 1N8,416-249-8111,York Region
-30,Mount Sinai Hospital,hospital,Existing,-79.39012612208857,43.65767661017819,600 University Avenue,Toronto,M5G 1X5,416-596-4200,York Region
-31,Lakeridge Health - Oshawa Hospital,hospital,Existing,-78.86803175367665,43.90577950812821,1 Hospital Court,Durham,L1G 2B9,905-576-8711,York Region
-32,Joseph Brant Hospital,hospital,Existing,-79.80271129143667,43.31713099412629,1230 North Shore Boulevard,Halton,L7S 1W7,905-632-3737,York Region
-33,Halton Healthcare Services Corp- Oakville,hospital,Existing,-79.6749105195447,43.45381296270348,327 Reynolds Street,Halton,L6J 3L7,905-845-2571,York Region
-34,Halton Healthcare Services Corp - Milton,hospital,Existing,-79.87000247766726,43.4965902496157,7030 Derry Road East,Halton,L9T 7H6,905-878-2383,York Region
-35,Halton Healthcare Services Corp - Georgetown,hospital,Existing,-79.93478366050907,43.64419958425699,1 Princess Anne Drive,Halton,L7G 2B8,905-873-0111,York Region
-36,Trillium Health Centre - Queensway Health Centre,hospital,Existing,-79.56037020657904,43.60861744333378,150 Sherway Drive,Toronto,M9C 1A5,416-259-6671,York Region
-37,Sunnybrook-Holland Orthopaedic & Arthritic Centre,hospital,Existing,-79.38198205440462,43.66523508120611,43 Wellesley Street East,Toronto,M4Y 1H1,416-967-8500,York Region
-38,Humber River Hospital - Wilson Site,hospital,Existing,-79.48876955969362,43.72428753165615,1235 Wilson,Toronto,M3M 0B2,416-242-1000,York Region
-39,Casey House Hospice,hospital,Existing,-79.37840922418272,43.66894356561335,9 Huntley Street,Toronto,M4Y 2K8,416-962-7600,York Region
-40,Lakeridge Health - Whitby Hospital,hospital,Existing,-78.94443435478483,43.85624022322239,300 Gordon Street,Durham,L1N 2T5,905-668-6831,York Region
-41,Reactivation Care Centre (RCC) Finch Site,hospital,Existing,-79.5261274476475,43.75437585843874,2111 Finch Avenue West,Toronto,M3N 1N1,416-744-2500,York Region
-42,Cortellucci Vaughan Hospital,hospital,Existing,-79.53986667689566,43.85009900954515,3100 Major MacKenzie Drive West,York,L6A 1S1,905-883-1212,York Region
+idx,facility_name,facility_type,active,longitude,latitude,street_addr,city,province,postal_code,phone,provider
+0,Markham-Stouffville - Uxbridge Cottage Hospital,hospital,Existing,-79.12667319688303,44.1025754594496,4 Campbell Drive,Durham,ON,L9P 1S4,905-852-9771,York Region
+1,Princess Margaret Hospital,hospital,Existing,-79.39028633643423,43.6580808901927,610 University Avenue,Toronto,ON,M5G 2M9,416-946-2000,York Region
+2,Women's College Hospital,hospital,Existing,-79.38750906150908,43.66138163608323,76 Grenville Street,Toronto,ON,M5S 1B2,416-323-6400,York Region
+3,The Hospital for Sick Children,hospital,Existing,-79.38890210760863,43.65655377486957,555 University Avenue,Toronto,ON,M5G 1X8,416-813-1500,York Region
+4,Sunnybrook Health Science Centre,hospital,Existing,-79.37898904757769,43.7227314098786,2075 Bayview Avenue,Toronto,ON,M4N 3M5,416-480-6100,York Region
+5,St. Michael's Hospital,hospital,Existing,-79.37779431673482,43.65356726528367,30 Bond Street,Toronto,ON,M5B 1W8,416-360-4000,York Region
+6,Scarborough Health Network - Centenary Campus,hospital,Existing,-79.20584194583995,43.78207399627058,2867 Ellesmere Road,Toronto,ON,M1E 4B9,416-284-8131,York Region
+7,Scarborough Health Network - General Campus,hospital,Existing,-79.24668510997959,43.75554328985756,3050 Lawrence Avenue East,Toronto,ON,M1P 2V5,416-438-2911,York Region
+8,North York General Hospital - General Site,hospital,Existing,-79.36408319797252,43.76974517120309,4001 Leslie Street,Toronto,ON,M2K 1E1,416-756-6000,York Region
+9,Mackenzie Health,hospital,Existing,-79.45071041004276,43.87037792539481,10 Trench Street,York,ON,L4C 4Z3,905-883-1212,York Region
+10,Lakeridge Health - Port Perry Hospital,hospital,Existing,-78.95421943439389,44.10495365557109,451 Paxton Street,Durham,ON,L9L 1L9,905-985-7321,York Region
+11,Georgian Bay General Hospital - Midland Site,hospital,Existing,-79.91118584623256,44.74235960894646,1112 St Andrews Drive,Simcoe,ON,L4R 4P4,705-526-1300,York Region
+12,Markham-Stouffville Hospital,hospital,Existing,-79.23222153375512,43.88363386673732,381 Church Street,York,ON,L3P 7P3,905-472-7000,York Region
+13,Trillium Health Centre - Mississauga,hospital,Existing,-79.60768958999711,43.57291935617845,100 Queensway West,Peel,ON,L5B 1B8,905-848-7100,York Region
+14,Scarborough Health Network - Birchmount Campus,hospital,Existing,-79.30788132908087,43.80074399477373,3030 Birchmount Road,Toronto,ON,M1W 3W3,416-495-2400,York Region
+15,Lakeridge Health - Bowmanville Hospital,hospital,Existing,-78.6790979027018,43.90904544225243,47 Liberty Street South,Durham,ON,L1C 2N4,905-623-3331,York Region
+16,The Royal Victoria Regional Health Centre,hospital,Existing,-79.68116625298399,44.40030169069522,201 Georgian Drive,Simcoe,ON,L4M 6M2,705-728-9802,York Region
+17,The Collingwood General and Marine Hospital,hospital,Existing,-80.20161980315027,44.49841839335398,459 Hume Street,Simcoe,ON,L9Y 1W9,705-445-2550,York Region
+18,Southlake Regional Health Centre,hospital,Existing,-79.45162045115727,44.06045067212513,596 Davis Drive,York,ON,L3Y 2P9,905-895-4521,York Region
+19,Toronto General Hospital,hospital,Existing,-79.38733276891291,43.65924820118482,200 Elizabeth Street,Toronto,ON,M5G 2C4,416-340-3111,York Region
+20,Toronto Western Hospital,hospital,Existing,-79.40644184682873,43.65410833904173,399 Bathurst Street,Toronto,ON,M5T 2S8,416-603-2581,York Region
+21,St. Joseph's Health Centre,hospital,Existing,-79.44986781895724,43.6393019856698,30 The Queensway,Toronto,ON,M6R 1B5,416-530-6000,York Region
+22,Lakeridge Health - Ajax Pickering Hospital,hospital,Existing,-79.01590250850707,43.8364881765121,580 Harwood Avenue South,Durham,ON,L1S 2J4,905-683-2320,York Region
+23,Trillium Health Centre - Credit Valley Hospital,hospital,Existing,-79.70357386634207,43.56058081381472,2200 Eglinton Avenue West,Peel,ON,L5M 2N1,905-813-2200,York Region
+24,William Osler Health Centre - Etobicoke,hospital,Existing,-79.60108318992383,43.73030161406817,101 Humber College Boulevard,Toronto,ON,M9V 1R8,416-747-3400,York Region
+25,North York General Hospital - Branson Division,hospital,Existing,-79.45046109581095,43.77210002881542,555 Finch Avenue West,Toronto,ON,M2R 1N5,416-633-9420,York Region
+26,Michael Garron Hospital,hospital,Existing,-79.32569067290338,43.68973391121214,825 Coxwell Avenue,Toronto,ON,M4C 3E7,416-461-8272,York Region
+27,The Stevenson Memorial Hospital,hospital,Existing,-79.87645232207016,44.15588626883302,200 Fletcher Crescent,Simcoe,ON,L9R 1W7,705-435-6281,York Region
+28,William Osler Health Centre - Brampton,hospital,Existing,-79.74428900835409,43.74531538182809,2100 Bovaird Drive East,Peel,ON,L6R 3J7,905-494-2120,York Region
+29,Reactivation Care Centre (RCC) Church Site,hospital,Existing,-79.50991864313565,43.708826049232,200 Church Street,Toronto,ON,M9N 1N8,416-249-8111,York Region
+30,Mount Sinai Hospital,hospital,Existing,-79.39012612208857,43.65767661017819,600 University Avenue,Toronto,ON,M5G 1X5,416-596-4200,York Region
+31,Lakeridge Health - Oshawa Hospital,hospital,Existing,-78.86803175367665,43.90577950812821,1 Hospital Court,Durham,ON,L1G 2B9,905-576-8711,York Region
+32,Joseph Brant Hospital,hospital,Existing,-79.80271129143667,43.31713099412629,1230 North Shore Boulevard,Halton,ON,L7S 1W7,905-632-3737,York Region
+33,Halton Healthcare Services Corp- Oakville,hospital,Existing,-79.6749105195447,43.45381296270348,327 Reynolds Street,Halton,ON,L6J 3L7,905-845-2571,York Region
+34,Halton Healthcare Services Corp - Milton,hospital,Existing,-79.87000247766726,43.4965902496157,7030 Derry Road East,Halton,ON,L9T 7H6,905-878-2383,York Region
+35,Halton Healthcare Services Corp - Georgetown,hospital,Existing,-79.93478366050907,43.64419958425699,1 Princess Anne Drive,Halton,ON,L7G 2B8,905-873-0111,York Region
+36,Trillium Health Centre - Queensway Health Centre,hospital,Existing,-79.56037020657904,43.60861744333378,150 Sherway Drive,Toronto,ON,M9C 1A5,416-259-6671,York Region
+37,Sunnybrook-Holland Orthopaedic & Arthritic Centre,hospital,Existing,-79.38198205440462,43.66523508120611,43 Wellesley Street East,Toronto,ON,M4Y 1H1,416-967-8500,York Region
+38,Humber River Hospital - Wilson Site,hospital,Existing,-79.48876955969362,43.72428753165615,1235 Wilson,Toronto,ON,M3M 0B2,416-242-1000,York Region
+39,Casey House Hospice,hospital,Existing,-79.37840922418272,43.66894356561335,9 Huntley Street,Toronto,ON,M4Y 2K8,416-962-7600,York Region
+40,Lakeridge Health - Whitby Hospital,hospital,Existing,-78.94443435478483,43.85624022322239,300 Gordon Street,Durham,ON,L1N 2T5,905-668-6831,York Region
+41,Reactivation Care Centre (RCC) Finch Site,hospital,Existing,-79.5261274476475,43.75437585843874,2111 Finch Avenue West,Toronto,ON,M3N 1N1,416-744-2500,York Region
+42,Cortellucci Vaughan Hospital,hospital,Existing,-79.53986667689566,43.85009900954515,3100 Major MacKenzie Drive West,York,ON,L6A 1S1,905-883-1212,York Region

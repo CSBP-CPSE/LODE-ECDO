@@ -24,7 +24,9 @@
             "latitude": "X"
         },
         "address": {
-            "street_addr": "ADDRESS"
+            "street_addr": "ADDRESS",
+            "city": "force:Ottawa",
+            "province": "force:ON"
         },
         "contact": {
             "phone": "PHONE",

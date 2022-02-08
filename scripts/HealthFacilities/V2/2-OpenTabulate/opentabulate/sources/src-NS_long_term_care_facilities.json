@@ -27,6 +27,7 @@
         "address": {
             "street_addr": "Address",
             "city": "Town",
+            "province": "force:NS",
             "postal_code": "Postal Code"
         },
         "contact": {}

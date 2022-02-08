@@ -21,7 +21,8 @@
         },
         "geocoordinates": {},
         "address": {
-            "street_addr": "BUSINESS_ADDRESS"
+            "street_addr": "BUSINESS_ADDRESS",
+            "province": "force:ON"
         },
         "contact": {}
     }

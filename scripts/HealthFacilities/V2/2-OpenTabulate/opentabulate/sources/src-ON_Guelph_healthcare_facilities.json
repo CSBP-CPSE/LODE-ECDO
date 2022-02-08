@@ -26,6 +26,7 @@
             "street_name": "Street__Na",
             "street_addr": "Address",
             "city": "City",
+            "province": "force:ON",
             "postal_code": "Postal_Cod"
         },
         "contact": {

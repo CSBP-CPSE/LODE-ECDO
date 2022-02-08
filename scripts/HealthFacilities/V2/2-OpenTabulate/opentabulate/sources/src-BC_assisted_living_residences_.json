@@ -28,6 +28,7 @@
         "address": {
             "street_addr": "STREET_ADDRESS",
             "city": "CITY",
+            "province": "force:BC",
             "postal_code": "POSTAL_CODE"
         },
         "contact": {

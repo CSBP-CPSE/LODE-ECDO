@@ -24,7 +24,9 @@
             "latitude": "LATITUDE"
         },
         "address": {
-            "street_addr": "ADR_COMPLE"
+            "street_addr": "ADR_COMPLE",
+            "city": "force:Gatineau",
+            "province": "force:QC"
         },
         "contact": {}
     }

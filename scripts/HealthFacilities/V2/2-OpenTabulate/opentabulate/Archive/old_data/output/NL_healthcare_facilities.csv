@@ -1,0 +1,24 @@
+idx,facility_name,facility_type,number_beds,longitude,latitude,city,phone,website,provider
+0,A.M. Guy Memorial Health Centre,hospital,18.0,-56.857706,48.823607,Buchans,(709) 672-3304,https://www.centralhealth.nl.ca/baie-verte-buchans,Province of Newfoundland and Labrador
+1,Baie Verte Peninsula Health Centre,hospital,18.0,-56.221908,49.925669,Baie Verte,(709) 532-4281,https://www.centralhealth.nl.ca/baie-verte-buchans,Province of Newfoundland and Labrador
+2,Bonavista Peninsula Health Centre,hospital,0.0,-53.106421,48.647766,Bonavista,(709) 468-7881,http://www.easternhealth.ca/AboutEH.aspx?d=3&id=873&p=724,Province of Newfoundland and Labrador
+3,Bonne Bay Health Centre,hospital,14.0,-57.87512,49.536728,Norris Point,(709) 458-2211,http://westernhealth.nl.ca/index.php/locations/rural-health-centres/bonne-bay-health-centre,Province of Newfoundland and Labrador
+4,Calder Health Centre,hospital,18.0,-57.622608,47.613921,Burgeo,(709) 886-2898,http://westernhealth.nl.ca/index.php/locations/rural-health-centres/calder-health-centre,Province of Newfoundland and Labrador
+5,Connaigre Peninsula Health Centre,hospital,12.0,-55.827557,47.467951,Harbour Breton,(709) 885-2043,https://www.centralhealth.nl.ca/lewisporte-exploits-coast-of-bays,Province of Newfoundland and Labrador
+6,Dr. Charles L. LeGrow Health Centre,hospital,30.0,-59.162914,47.588701,Channel-Port aux Basques,(709) 695-2175,http://westernhealth.nl.ca/index.php/locations/rural-health-centres/dr-charles-l-legrow-health-centre,Province of Newfoundland and Labrador
+7,Labrador South Health Centre,hospital,14.0,-56.959661,51.47333,Forteau,(709) 931-2450,https://www.lghealth.ca/facilities/health-centres/labrador-south-health-centre/,Province of Newfoundland and Labrador
+8,Notre Dame Bay Memorial Health Centre,hospital,31.0,-54.757182,49.653137,Twillingate,(709) 884-2131,https://www.centralhealth.nl.ca/isles-of-notre-dame-kittiwake-coast,Province of Newfoundland and Labrador
+9,Rufus Guinchard Health Centre,hospital,22.0,-57.305704,50.649414,Port Saunders,(709) 861-3139,http://westernhealth.nl.ca/index.php/locations/rural-health-centres/rufus-guinchard-health-centre,Province of Newfoundland and Labrador
+10,Dr. Y.K. Jeon Kittiwake Health Centre,hospital,0.0,-53.590619,49.134809,New-Wes-Valley,(709) 536-2405,https://www.centralhealth.nl.ca/isles-of-notre-dame-kittiwake-coast,Province of Newfoundland and Labrador
+11,Dr. Hugh Twomey Health Centre,hospital,76.0,-55.356718,49.147147,Botwood,(709) 257-5250,https://www.centralhealth.nl.ca/lewisporte-exploits-coast-of-bays,Province of Newfoundland and Labrador
+12,Dr. Walter Templeman Health Centre,hospital,15.0,-52.946963,47.645626,Wabana,(709) 488-2821,http://www.easternhealth.ca/AboutEH.aspx?d=3&id=779&p=724,Province of Newfoundland and Labrador
+13,Fogo Island Health Centre,hospital,9.0,-54.224568,49.665575,Fogo Island Center,(709) 266-2221,https://www.centralhealth.nl.ca/isles-of-notre-dame-kittiwake-coast,Province of Newfoundland and Labrador
+14,Green Bay Health Centre,hospital,0.0,-56.047676,49.507846,Springdale,(709) 673-3911,https://www.centralhealth.nl.ca/baie-verte-buchans,Province of Newfoundland and Labrador
+15,Placentia Health Centre,hospital,74.0,-53.961299,47.237843,Placentia,(709) 227-2061,http://www.easternhealth.ca/AboutEH.aspx?d=3&id=804&p=724,Province of Newfoundland and Labrador
+16,U.S. Memorial Health Centre,hospital,39.0,-55.399219,46.929965,St. Lawrence,(709) 873-2330,http://www.easternhealth.ca/AboutEH.aspx?d=3&id=821&p=724,Province of Newfoundland and Labrador
+17,Dr. A.A. Wilkinson Memorial Health Centre,hospital,0.0,-53.005098,48.071594,Old Perlican,(709) 587-2200,http://www.easternhealth.ca/AboutEH.aspx?d=3&id=777&p=724,Province of Newfoundland and Labrador
+18,Dr. William H. Newhook Community Health Centre,hospital,0.0,-53.53082,47.418848,Whitbourne,(709) 759-2300,http://www.easternhealth.ca/AboutEH.aspx?d=3&id=1074&p=724,Province of Newfoundland and Labrador
+19,Dr. S. Beckley Health Centre,hospital,0.0,-55.761599,47.09464,Grand Bank,(709) 832-2500,http://www.easternhealth.ca/AboutEH.aspx?d=3&id=782&p=724,Province of Newfoundland and Labrador
+20,Strait of Belle Isle Health Centre,hospital,0.0,-56.715359,51.307079,Flower's Cove,(709) 456-2401,https://www.lghealth.ca/facilities/health-centres/strait-of-belle-isle/,Province of Newfoundland and Labrador
+21,White Bay Central Health Centre,hospital,0.0,-56.11446,50.86762,Roddickton-Bide Arm,(709) 457-2215,https://www.lghealth.ca/facilities/health-centres/white-bay-central/,Province of Newfoundland and Labrador
+22,Lewisporte Health Centre,hospital,,-55.067376,49.24665,Lewisporte,(709) 535-6767,https://www.centralhealth.nl.ca/lewisporte-exploits-coast-of-bays,Province of Newfoundland and Labrador

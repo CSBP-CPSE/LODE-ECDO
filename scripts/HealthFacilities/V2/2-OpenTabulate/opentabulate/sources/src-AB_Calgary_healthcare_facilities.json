@@ -24,7 +24,9 @@
             "latitude": "LATITUDE"
         },
         "address": {
-            "street_addr": "ADDRESS"
+            "street_addr": "ADDRESS",
+            "city": "force:Calgary",
+            "province": "force:AB"
         },
         "contact": {}
     }

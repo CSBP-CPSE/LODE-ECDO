@@ -26,6 +26,7 @@
         "address": {
             "street_addr": "Street Address",
             "city": "Community",
+            "province": "force:PE",
             "postal_code": "Postal Code"
         },
         "contact": {}

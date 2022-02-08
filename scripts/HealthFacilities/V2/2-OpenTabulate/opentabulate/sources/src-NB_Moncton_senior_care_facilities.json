@@ -26,7 +26,9 @@
         },
         "address": {
             "street_no": "CIVIC",
-            "street_name": "STNAME"
+            "street_name": "STNAME",
+            "city": "force:Moncton",
+            "province": "force:NB"
         },
         "contact": {
             "phone": "CONTACTNUMBER"

@@ -27,6 +27,7 @@
         "address": {
             "street_addr": "ADRESSE",
             "city": "MRC_NOM",
+            "province": "force:QC",
             "postal_code": "CODE_POSTA"
         },
         "contact": {}

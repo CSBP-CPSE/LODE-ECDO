@@ -28,6 +28,7 @@
         },
         "address": {
             "street_addr": "Address",
+            "province": "force:MB",
             "postal_code": "Postal_Code"
         },
         "contact": {

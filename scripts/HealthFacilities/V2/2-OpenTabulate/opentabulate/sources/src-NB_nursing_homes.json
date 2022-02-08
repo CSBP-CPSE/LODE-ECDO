@@ -27,6 +27,7 @@
         "address": {
             "street_addr": "Addresse/Adresse ",
             "city": "Municipality/Municipalit\u00e9",
+            "province": "force:NB",
             "postal_code": "Postal Code / Code Postal"
         },
         "contact": {

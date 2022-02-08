@@ -24,7 +24,9 @@
             "latitude": "LATITUDE"
         },
         "address": {
-            "address_str": "Address"
+            "address_str": "Address",
+            "city": "force:Moncton",
+            "province": "force:NB"
         },
         "contact": {
             "phone": "Phone"

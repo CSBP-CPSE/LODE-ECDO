@@ -25,7 +25,8 @@
         },
         "address": {
             "street_addr": "ADDRESS",
-            "city": "COMMUNITY"
+            "city": "COMMUNITY",
+            "province": "force:ON"
         },
         "contact": {}
     }

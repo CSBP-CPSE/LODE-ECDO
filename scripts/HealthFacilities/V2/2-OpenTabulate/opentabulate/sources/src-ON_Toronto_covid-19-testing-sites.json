@@ -25,7 +25,8 @@
         },
         "address": {
             "street_addr": "address",
-            "city": "force:Toronto"
+            "city": "force:Toronto",
+            "province": "force:ON"
         },
         "contact": {
             "phone": "phone",

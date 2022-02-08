@@ -25,7 +25,8 @@
             "latitude": "latitude"
         },
         "address": {
-            "city": "Location"
+            "city": "Location",
+            "province": "force:NL"
         },
         "contact": {
             "phone": "Telephone",

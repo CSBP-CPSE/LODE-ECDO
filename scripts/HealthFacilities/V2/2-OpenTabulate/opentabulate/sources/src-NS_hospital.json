@@ -25,7 +25,8 @@
         },
         "address": {
             "street_addr": "Address",
-            "city": "TOWN"
+            "city": "TOWN",
+            "province": "force:NS"
         },
         "contact": {}
     }

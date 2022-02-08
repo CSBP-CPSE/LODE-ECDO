@@ -25,7 +25,9 @@
         },
         "address": {
             "street_no": "NO_CIVIQUE",
-            "street_name": "RUE"
+            "street_name": "RUE",
+            "city": "force:Quebec",
+            "province": "force:QC"
         },
         "contact": {}
     }

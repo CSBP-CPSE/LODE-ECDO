@@ -24,7 +24,8 @@
             "latitude": "Latitude"
         },
         "address": {
-            "address_str": "Mailing Address / Adresse postal"
+            "address_str": "Mailing Address / Adresse postal",
+            "province": "force:NB"
         },
         "contact": {
             "phone": "Telephone / T\u00e9l\u00e9phone",
