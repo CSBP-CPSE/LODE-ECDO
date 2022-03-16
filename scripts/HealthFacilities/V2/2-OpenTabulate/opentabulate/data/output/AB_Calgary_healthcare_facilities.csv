@@ -1,15 +1,15 @@
-idx,facility_name,facility_type,longitude,latitude,street_addr,city,province,provider
-0,Thornhill Community Health Centre,PHS Clinic,51.1121862,-114.0639146,6617 Centre ST NW,Calgary,AB,Calgary
-1,Peter Lougheed Medical Centre,Hospital,51.0790163,-113.9839435,3500 - 26 AV NE,Calgary,AB,Calgary
-2,Village Square Community Health Centre,PHS Clinic,51.0755389,-113.9535557,2623 - 56 ST NE,Calgary,AB,Calgary
-3,Foothills Hospital,Hospital,51.0641829,-114.1321766,1403 - 29 ST NW,Calgary,AB,Calgary
-4,South Health Campus,Hospital,50.8821019,-113.9517038,4448 FRONT ST SE,Calgary,AB,Calgary
-5,Alberta Children's Hospital,Hospital,51.0745599,-114.1479576,2888 Shaganappi Trail NW,Calgary,AB,Calgary
-6,North Hill Community Health Centre,PHS Clinic,51.0653216,-114.1065071,1527 19 ST NW,Calgary,AB,Calgary
-7,Acadia Community Health Centre,PHS Clinic,50.975072,-114.0709401,151 - 86 AV SE,Calgary,AB,Calgary
-8,Shaganappi Complex Health Centre,PHS Clinic,51.0448871,-114.1368419,3415 - 8 AV SW,Calgary,AB,Calgary
-9,Sheldon M. Chumir Health Centre,PHS Clinic,51.0411634,-114.0721296,1213 - 4 ST SW,Calgary,AB,Calgary
-10,Northwest Community Health Centre,PHS Clinic,51.1233336,-114.1971615,109 1829 Ranchlands BV NW,Calgary,AB,Calgary
-11,East Calgary Health Centre,PHS Clinic,51.0450485,-113.9672201,4715 8 AV SE,Calgary,AB,Calgary
-12,Rockyview General Hospital,Hospital,50.9918289,-114.0963207,7007 - 14 ST SW,Calgary,AB,Calgary
-13,South Calgary Health Centre,PHS Clinic,50.9025753,-114.058575,31 Sunpark Plaza SE,Calgary,AB,Calgary
+,idx,facility_name,facility_type,longitude,latitude,street_addr,city,province,provider,filename
+0,0,Thornhill Community Health Centre,PHS Clinic,-114.0639146,51.1121862,6617 Centre ST NW,Calgary,AB,Calgary,AB_Calgary_healthcare_facilities.csv
+1,1,Peter Lougheed Medical Centre,Hospital,-113.9839435,51.0790163,3500 - 26 AV NE,Calgary,AB,Calgary,AB_Calgary_healthcare_facilities.csv
+2,2,Village Square Community Health Centre,PHS Clinic,-113.9535557,51.0755389,2623 - 56 ST NE,Calgary,AB,Calgary,AB_Calgary_healthcare_facilities.csv
+3,3,Foothills Hospital,Hospital,-114.1321766,51.0641829,1403 - 29 ST NW,Calgary,AB,Calgary,AB_Calgary_healthcare_facilities.csv
+4,4,South Health Campus,Hospital,-113.9517038,50.8821019,4448 FRONT ST SE,Calgary,AB,Calgary,AB_Calgary_healthcare_facilities.csv
+5,5,Alberta Children's Hospital,Hospital,-114.1479576,51.0745599,2888 Shaganappi Trail NW,Calgary,AB,Calgary,AB_Calgary_healthcare_facilities.csv
+6,6,North Hill Community Health Centre,PHS Clinic,-114.1065071,51.0653216,1527 19 ST NW,Calgary,AB,Calgary,AB_Calgary_healthcare_facilities.csv
+7,7,Acadia Community Health Centre,PHS Clinic,-114.0709401,50.975072,151 - 86 AV SE,Calgary,AB,Calgary,AB_Calgary_healthcare_facilities.csv
+8,8,Shaganappi Complex Health Centre,PHS Clinic,-114.1368419,51.0448871,3415 - 8 AV SW,Calgary,AB,Calgary,AB_Calgary_healthcare_facilities.csv
+9,9,Sheldon M. Chumir Health Centre,PHS Clinic,-114.0721296,51.0411634,1213 - 4 ST SW,Calgary,AB,Calgary,AB_Calgary_healthcare_facilities.csv
+10,10,Northwest Community Health Centre,PHS Clinic,-114.1971615,51.1233336,109 1829 Ranchlands BV NW,Calgary,AB,Calgary,AB_Calgary_healthcare_facilities.csv
+11,11,East Calgary Health Centre,PHS Clinic,-113.9672201,51.0450485,4715 8 AV SE,Calgary,AB,Calgary,AB_Calgary_healthcare_facilities.csv
+12,12,Rockyview General Hospital,Hospital,-114.0963207,50.9918289,7007 - 14 ST SW,Calgary,AB,Calgary,AB_Calgary_healthcare_facilities.csv
+13,13,South Calgary Health Centre,PHS Clinic,-114.058575,50.9025753,31 Sunpark Plaza SE,Calgary,AB,Calgary,AB_Calgary_healthcare_facilities.csv

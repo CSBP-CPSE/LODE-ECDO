@@ -1,4 +1,0 @@
-idx,facility_name,health_authority,alternative_name,facility_type,latitude,longitude,street_addr,street_no,street_name,city,postal_code,phone,website,provider,province
-1,Whitehorse General Hospital,,,Hospital,60.71933555,-135.0435648,5 Hospital Road,,,Whitehorse,Y1A 3H7,867-393-8700,https://yukonhospitals.ca/whitehorse-general-hospital/programs-and-services/emergency-services,Yukon,YK
-2,Watson Lake Community Hospital,,,Hospital,60.07077394,-128.7101567,817 Ravenhill Drive,,,Watson Lake,Y0A 1C0,867-536-4444,https://yukonhospitals.ca/watson-lake-community-hospital/programs-and-services/emergency-services,Yukon,YK
-3,Dawson City Community Hospital,,,Hospital,64.05725428,-139.4329756,501 Sixth Avenue,,,Dawson City,Y0B 1G0,867-993-4444,https://yukonhospitals.ca/dawson-city-hospital/programs-and-services/emergency-services,Yukon,YK

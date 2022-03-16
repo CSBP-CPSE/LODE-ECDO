@@ -1,0 +1,26 @@
+{
+	"filename":"inputs/odhf_process_4_newdata.csv",
+	"output_name":"outputs/ODHF_process_5a_candidate_pairs",
+	"encoding":"cp1252",
+	"index":"idx",
+	"column_map":{
+			"Name":"facility_name",
+			"Address":"source_format_str_address",
+			"StreetNumber":"street_no",
+			"StreetName":"street_name",
+			"PostalCode":"postal_code",	
+			"City":"city",
+			"Province":"province",
+			"Latitude":"latitude",
+			"Longitude":"longitude"
+			},
+	"text_map":[
+	["(ch)","(centre hospitalier)"],
+	["ch","centre hospitalier"],
+	["csss","centre de sante et de services sociaux"],
+	["cisss","centre integre de sante et de services sociaux"],
+	["clsc","centre locale de services communautaires"],
+	["chsld","centre d'hebergement de soins de longue dureee"],
+	["gmf","groupe de medecine de famille"]
+	]
+}

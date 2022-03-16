@@ -21,8 +21,8 @@
             "number_beds": "Nursing Homes (NH) No. of Beds"
         },
         "geocoordinates": {
-            "longitude": "Y  Coordinate",
-            "latitude": "X Coordinate"
+            "longitude": "X Coordinate",
+            "latitude": "Y  Coordinate"
         },
         "address": {
             "street_addr": "Address",

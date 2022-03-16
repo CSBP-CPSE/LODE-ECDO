@@ -20,8 +20,8 @@
             "facility_type": "TYPE"
         },
         "geocoordinates": {
-            "longitude": "LONGITUDE",
-            "latitude": "LATITUDE"
+            "longitude": "LATITUDE",
+            "latitude": "LONGITUDE"
         },
         "address": {
             "street_addr": "ADDRESS",

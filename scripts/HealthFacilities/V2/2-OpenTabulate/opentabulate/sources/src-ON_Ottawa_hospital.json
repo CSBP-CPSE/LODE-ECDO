@@ -20,8 +20,8 @@
             "facility_type": "force:hospital"
         },
         "geocoordinates": {
-            "longitude": "Y",
-            "latitude": "X"
+            "longitude": "X",
+            "latitude": "Y"
         },
         "address": {
             "street_addr": "ADDRESS",

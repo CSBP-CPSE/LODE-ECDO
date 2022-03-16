@@ -26,6 +26,7 @@
         },
         "address": {
             "address_str": "Mailing Address / Adresse Postal",
+            "street_addr": "Mailing Address / Adresse Postal",
             "province": "force:NB"
         },
         "contact": {

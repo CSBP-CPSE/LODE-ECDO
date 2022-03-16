@@ -5,10 +5,12 @@ Download.py (and the .ipynb file) are used to download data from each of the ope
 The downloaded data files are stored in /raw.
 
 The processing.ipynb script processes the raw downloaded files for use with Open Tabulate into  /processed. The following steps are taken:
-- Format latitude and longitude as seperate columns
+- Format latitude and longitude as separate columns
+- Remove / replace characters that are out of place
 - Convert format to CSV 
 - Encode CSV with utf-8
 - Filter out data not related to health (eg police stations)
 
 -Sam Lumley
 Jan 2022
+

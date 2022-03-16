@@ -1,11 +1,11 @@
-idx,facility_name,facility_type,longitude,latitude,street_addr,city,province,phone,website,provider
-0,Royal Ottawa Hospital,hospital,45.3880857319464,-75.7323641819013,1145 Carling Avenue,Ottawa,ON,722-6521,http://www.theroyal.ca/,Ottawa
-1,Ottawa Hospital - Civic Campus,hospital,45.3926709811472,-75.7212123791832,1053 Carling Avenue,Ottawa,ON,761-4000,https://www.ottawahospital.on.ca/,Ottawa
-2,Ottawa Hospital - Riverside Campus,hospital,45.3967504298005,-75.6679411994667,1967 Riverside Drive,Ottawa,ON,738-7100,https://www.ottawahospital.on.ca/,Ottawa
-3,Children's Hospital of Eastern Ontario,hospital,45.4010192242404,-75.6519225985255,401 Smyth Road,Ottawa,ON,737-7600,http://www.cheo.on.ca/,Ottawa
-4,Ottawa Hospital - General Campus,hospital,45.4009873603342,-75.6476421836888,501 Smyth Road,Ottawa,ON,737-7777,https://www.ottawahospital.on.ca/,Ottawa
-5,Montfort Hospital,hospital,45.4458831256519,-75.638787118929,713 Montreal Road,Ottawa,ON,746-4621,http://www.hopitalmontfort.com/en,Ottawa
-6,Queensway-Carleton Hospital,hospital,45.3349759913866,-75.8075497000918,3045 Baseline Road,Ottawa,ON,721-2000,http://www.qch.on.ca/,Ottawa
-7,Rehabilitation Centre,hospital,45.4042156362429,-75.6517980623827,505 Smyth Road,Ottawa,ON,737-7350,https://www.ottawahospital.on.ca/,Ottawa
-8,Saint Vincent Hospital,hospital,45.413854212514,-75.7089688251543,60 Cambridge Street North,Ottawa,ON,233-4041,https://www.bruyere.org/en/home,Ottawa
-9,Elizabeth Bruyere Hospital,hospital,45.4319052365564,-75.697481083961,43 Bruyere Street,Ottawa,ON,562-0050,http://www.bruyere.org/en/elisabeth-bruyere-hospital,Ottawa
+,idx,facility_name,facility_type,longitude,latitude,street_addr,city,province,phone,website,provider,filename
+0,0,Royal Ottawa Hospital,hospital,-75.7323641819013,45.3880857319464,1145 Carling Avenue,Ottawa,ON,722-6521,http://www.theroyal.ca/,Ottawa,ON_Ottawa_hospital.csv
+1,1,Ottawa Hospital - Civic Campus,hospital,-75.7212123791832,45.3926709811472,1053 Carling Avenue,Ottawa,ON,761-4000,https://www.ottawahospital.on.ca/,Ottawa,ON_Ottawa_hospital.csv
+2,2,Ottawa Hospital - Riverside Campus,hospital,-75.6679411994667,45.3967504298005,1967 Riverside Drive,Ottawa,ON,738-7100,https://www.ottawahospital.on.ca/,Ottawa,ON_Ottawa_hospital.csv
+3,3,Children's Hospital of Eastern Ontario,hospital,-75.6519225985255,45.4010192242404,401 Smyth Road,Ottawa,ON,737-7600,http://www.cheo.on.ca/,Ottawa,ON_Ottawa_hospital.csv
+4,4,Ottawa Hospital - General Campus,hospital,-75.6476421836888,45.4009873603342,501 Smyth Road,Ottawa,ON,737-7777,https://www.ottawahospital.on.ca/,Ottawa,ON_Ottawa_hospital.csv
+5,5,Montfort Hospital,hospital,-75.638787118929,45.4458831256519,713 Montreal Road,Ottawa,ON,746-4621,http://www.hopitalmontfort.com/en,Ottawa,ON_Ottawa_hospital.csv
+6,6,Queensway-Carleton Hospital,hospital,-75.8075497000918,45.3349759913866,3045 Baseline Road,Ottawa,ON,721-2000,http://www.qch.on.ca/,Ottawa,ON_Ottawa_hospital.csv
+7,7,Rehabilitation Centre,hospital,-75.6517980623827,45.4042156362429,505 Smyth Road,Ottawa,ON,737-7350,https://www.ottawahospital.on.ca/,Ottawa,ON_Ottawa_hospital.csv
+8,8,Saint Vincent Hospital,hospital,-75.7089688251543,45.413854212514,60 Cambridge Street North,Ottawa,ON,233-4041,https://www.bruyere.org/en/home,Ottawa,ON_Ottawa_hospital.csv
+9,9,Elizabeth Bruyere Hospital,hospital,-75.697481083961,45.4319052365564,43 Bruyere Street,Ottawa,ON,562-0050,http://www.bruyere.org/en/elisabeth-bruyere-hospital,Ottawa,ON_Ottawa_hospital.csv

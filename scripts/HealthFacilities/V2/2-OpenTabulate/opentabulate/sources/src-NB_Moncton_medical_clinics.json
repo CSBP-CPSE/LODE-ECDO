@@ -25,6 +25,7 @@
         },
         "address": {
             "address_str": "Address",
+            "street_addr": "Address",
             "city": "force:Moncton",
             "province": "force:NB"
         },

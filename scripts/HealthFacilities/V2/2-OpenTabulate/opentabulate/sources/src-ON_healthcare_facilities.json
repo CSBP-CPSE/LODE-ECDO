@@ -21,8 +21,8 @@
             "alternative_name": "EN_ALT"
         },
         "geocoordinates": {
-            "longitude": "Y",
-            "latitude": "X"
+            "longitude": "X",
+            "latitude": "Y"
         },
         "address": {
             "street_addr": "ADDRESS_1",
