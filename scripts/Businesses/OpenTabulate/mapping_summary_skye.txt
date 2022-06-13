@@ -1,0 +1,869 @@
+
+========================================================
+
+Now viewing summary of [31] NB_Moncton_Pharmacies.csv:
+
+6 out of 10 columns were mapped:
+Name    -> business_name
+Type    -> business_sector
+lat     -> latitude
+lon     -> longitude
+Address -> full_address
+Phone   -> telephone
+
+-----------------------
+There are 4 unmapped columns:
+FID
+Manager
+Unnamed: 0
+geometry
+
+-----------------------
+There are 2 unknown variables:
+X -> x
+Y -> y
+
+
+========================================================
+
+Now viewing summary of [32] NB_Saint_John_Grocery_Stores.csv:
+
+6 out of 12 columns were mapped:
+Name      -> business_name
+lat       -> latitude
+lon       -> longitude
+Address   -> full_address
+Website   -> business_website
+Telephone -> telephone
+
+-----------------------
+There are 6 unmapped columns:
+Adresse
+Classifica
+GlobalID
+OBJECTID
+Unnamed: 0
+geometry
+
+-----------------------
+There are 2 unknown variables:
+X -> x
+Y -> y
+
+
+========================================================
+
+Now viewing summary of [33] NT_Yellowknife_Business_Directory.csv:
+
+7 out of 9 columns were mapped:
+BUSINESSNAME       -> business_name
+BUSINESSTYPE       -> business_sector
+MUNICIPAL ADDRESS  -> unit
+MUNICIPAL ADDRESS2 -> street_no
+MUNICIPAL ADDRESS3 -> street_name
+EMAILADDRESS       -> email
+PHONE              -> telephone
+
+-----------------------
+There are 2 unmapped columns:
+Unnamed: 0
+dROLLNMBR
+
+-----------------------
+There are 0 unknown variables:
+
+
+========================================================
+
+Now viewing summary of [34] NU_Indigenous_Business.csv:
+
+2 out of 4 columns were mapped:
+Name      -> business_name
+Community -> city
+
+-----------------------
+There are 2 unmapped columns:
+Effective Date
+Region
+
+-----------------------
+There are 0 unknown variables:
+
+
+========================================================
+
+Now viewing summary of [35] ON_Brampton_Business_Directory.csv:
+
+17 out of 48 columns were mapped:
+COMPANY_NA -> business_name
+PRODUCT_DE -> business_sector
+NAICS_DETA -> primary_NAICS
+lat        -> latitude
+lon        -> longitude
+BUSINESS_F -> full_address
+UNIT       -> unit
+STREET_NUM -> street_no
+STREET_NAM -> street_name
+STREET_DIR -> street_direction
+STREET_TYP -> street_type
+POSTAL_COD -> postal_code
+WEBURL     -> business_website
+PHONE      -> telephone
+FAX        -> fax
+TOTAL_EMPL -> total_no_employees
+DATE_EST_I -> date_established
+
+-----------------------
+There are 31 unmapped columns:
+CITY
+CREATED_BY
+CREATE_DAT
+EXPORTS
+EXPORT_COU
+EXPORT_C_1
+EXPORT_C_2
+EXPORT_PER
+FACEBOOK
+GFA_SQUARE
+GFA_SQUA_1
+GLOBALID
+HEAD_OFFIC
+INSTAGRAM
+LINKEDIN
+NAIC_2
+NAIC_3
+NAIC_4
+NAIC_6
+OBJECTID
+OPERATIONA
+PROVINCE
+SHIFTS
+SHIFT_NUMB
+STARTED_IN
+TWITTER
+UPDATED_BY
+UPDATE_DAT
+Unnamed: 0
+YOUTUBE
+geometry
+
+-----------------------
+There are 2 unknown variables:
+X -> x
+Y -> y
+
+
+========================================================
+
+Now viewing summary of [36] ON_Caledon_Business_Directory.csv:
+
+16 out of 25 columns were mapped:
+Name       -> business_name
+Bus_NAICS  -> primary_NAICS
+NAICS_2    -> secondary_NAICS
+NAICS2desc -> NAICS_descr
+Latitude   -> latitude
+Longitude  -> longitude
+X          -> x
+Y          -> y
+Address    -> full_address
+Unit       -> unit
+PostalCode -> postal_code
+Website    -> business_website
+Email      -> email
+Telephone  -> telephone
+Fax        -> fax
+EmplRange  -> total_no_employees
+
+-----------------------
+There are 9 unmapped columns:
+DataNotes
+Facebook
+GlobalID
+Instagram
+LinkedIn
+MUN
+OBJECTID
+OtherSocial
+Twitter
+
+-----------------------
+There are 0 unknown variables:
+
+
+========================================================
+
+Now viewing summary of [37] ON_Cambridge_Business_Directory.csv:
+
+19 out of 37 columns were mapped:
+COMPANY_NA -> business_name
+PRIMARY__1 -> business_sector
+PRIMARY__2 -> business_subsector
+PROFILE    -> business_description
+ID         -> business_id_no
+PRIMARY_NA -> primary_NAICS
+SECONDARY_ -> secondary_NAICS
+lat        -> latitude
+lon        -> longitude
+UNIT       -> unit
+STREET_NUM -> street_no
+STREET_NAM -> street_name
+POSTAL_COD -> postal_code
+WEBSITE    -> business_website
+EMAIL      -> email
+PHONE      -> telephone
+TOLL_FREE  -> toll_free_telephone
+TOTAL_EMPL -> total_no_employees
+YEAR_ESTAB -> date_established
+
+-----------------------
+There are 18 unmapped columns:
+BUSINESS_P
+DOWNTOWN
+DOWNTOWN_P
+EXPORTING
+FIRST_NAME
+FIRST_NA_1
+GlobalID
+IN_CIP
+LAST_NAME_
+LAST_NAM_1
+NAME_SUFFI
+OBJECTID
+SPACE_SIZE
+THE
+TITLE_1
+TITLE_2
+Unnamed: 0
+geometry
+
+-----------------------
+There are 2 unknown variables:
+X -> x
+Y -> y
+
+
+========================================================
+
+Now viewing summary of [38] ON_Durham_Business_Directory.csv:
+
+17 out of 32 columns were mapped:
+Business_N -> business_name
+Business_D -> business_description
+Business_I -> business_id_no
+NAICSCode  -> primary_NAICS
+NAICSCode_ -> NAICS_descr
+lat        -> latitude
+lon        -> longitude
+Unit_Numbe -> unit
+Street_Num -> street_no
+Street_Nam -> street_name
+Street_Dir -> street_direction
+Street_Typ -> street_type
+City       -> city
+Site_Posta -> postal_code
+Web_Addres -> business_website
+Telephone_ -> telephone
+Fax_Number -> fax
+
+-----------------------
+There are 15 unmapped columns:
+Created_Da
+Geo_X
+Geo_Y
+Mailing_Ad
+Mailing_Ci
+Mailing_Co
+Mailing_Po
+Mailing_Pr
+Mailing__1
+Municipali
+OBJECTID
+Province
+Unnamed: 0
+Updated_Da
+geometry
+
+-----------------------
+There are 2 unknown variables:
+X -> x
+Y -> y
+
+
+========================================================
+
+Now viewing summary of [39] ON_Greater_Sudbury_Business_Licences.csv:
+
+4 out of 7 columns were mapped:
+BUSINESS      -> business_name
+CATEGORY      -> business_sector
+VENDORID      -> business_id_no
+WORK_PHONE_NO -> telephone
+
+-----------------------
+There are 3 unmapped columns:
+LICENSE_PLATE
+LIC_ISSUE_DATE
+VENDORNAME
+
+-----------------------
+There are 0 unknown variables:
+
+
+========================================================
+
+Now viewing summary of [40] ON_Hamilton_Licenced_Basic_Food_Shops.csv:
+
+5 out of 7 columns were mapped:
+BUSINESS_NAME    -> business_name
+SUB_DESCRIPTION  -> business_sector
+LICENSE_NUMBER   -> licence_number
+LICENSE_TYPE     -> licence_type
+BUSINESS_ADDRESS -> full_address
+
+-----------------------
+There are 2 unmapped columns:
+EXPIRY_DATE
+OBJECTID
+
+-----------------------
+There are 0 unknown variables:
+
+
+========================================================
+
+Now viewing summary of [41] ON_Hamilton_Licenced_Food_Establishments.csv:
+
+5 out of 7 columns were mapped:
+BUSINESS_NAME    -> business_name
+SUB_DESCRIPTION  -> business_sector
+LICENSE_NUMBER   -> licence_number
+LICENSE_TYPE     -> licence_type
+BUSINESS_ADDRESS -> full_address
+
+-----------------------
+There are 2 unmapped columns:
+EXPIRY_DATE
+OBJECTID
+
+-----------------------
+There are 0 unknown variables:
+
+
+========================================================
+
+Now viewing summary of [42] ON_Hamilton_Licenced_Kennels_and_Pet_Shops.csv:
+
+4 out of 6 columns were mapped:
+BUSINESS_NAME    -> business_name
+LICENSE_NUMBER   -> licence_number
+LICENSE_TYPE     -> licence_type
+BUSINESS_ADDRESS -> full_address
+
+-----------------------
+There are 2 unmapped columns:
+EXPIRY_DATE
+OBJECTID
+
+-----------------------
+There are 0 unknown variables:
+
+
+========================================================
+
+Now viewing summary of [43] ON_Hamilton_Licenced_Lodging_Houses.csv:
+
+4 out of 6 columns were mapped:
+BUSINESS_NAME    -> business_name
+LICENSE_NUMBER   -> licence_number
+LICENSE_TYPE     -> licence_type
+BUSINESS_ADDRESS -> full_address
+
+-----------------------
+There are 2 unmapped columns:
+EXPIRY_DATE
+OBJECTID
+
+-----------------------
+There are 0 unknown variables:
+
+
+========================================================
+
+Now viewing summary of [44] ON_Hamilton_Licenced_Places_of_Amusement.csv:
+
+5 out of 7 columns were mapped:
+BUSINESS_NAME    -> business_name
+SUB_DESCRIPTION  -> business_sector
+LICENSE_NUMBER   -> licence_number
+LICENSE_TYPE     -> licence_type
+BUSINESS_ADDRESS -> full_address
+
+-----------------------
+There are 2 unmapped columns:
+EXPIRY_DATE
+OBJECTID
+
+-----------------------
+There are 0 unknown variables:
+
+
+========================================================
+
+Now viewing summary of [45] ON_Hamilton_Licenced_Public_Garages.csv:
+
+5 out of 7 columns were mapped:
+BUSINESS_NAME    -> business_name
+SUB_DESCRIPTION  -> business_sector
+LICENSE_NUMBER   -> licence_number
+LICENSE_TYPE     -> licence_type
+BUSINESS_ADDRESS -> full_address
+
+-----------------------
+There are 2 unmapped columns:
+EXPIRY_DATE
+OBJECTID
+
+-----------------------
+There are 0 unknown variables:
+
+
+========================================================
+
+Now viewing summary of [46] ON_Hamilton_Licenced_Public_Halls.csv:
+
+4 out of 6 columns were mapped:
+BUSINESS_NAME    -> business_name
+LICENSE_NUMBER   -> licence_number
+LICENSE_TYPE     -> licence_type
+BUSINESS_ADDRESS -> full_address
+
+-----------------------
+There are 2 unmapped columns:
+EXPIRY_DATE
+OBJECTID
+
+-----------------------
+There are 0 unknown variables:
+
+
+========================================================
+
+Now viewing summary of [47] ON_Hamilton_Licenced_Residential_Care_Facilities.csv:
+
+4 out of 6 columns were mapped:
+BUSINESS_NAME    -> business_name
+LICENSE_NUMBER   -> licence_number
+LICENSE_TYPE     -> licence_type
+BUSINESS_ADDRESS -> full_address
+
+-----------------------
+There are 2 unmapped columns:
+EXPIRY_DATE
+OBJECTID
+
+-----------------------
+There are 0 unknown variables:
+
+
+========================================================
+
+Now viewing summary of [48] ON_Hamilton_Licenced_Salvage_Yards.csv:
+
+4 out of 6 columns were mapped:
+BUSINESS_NAME    -> business_name
+LICENSE_NUMBER   -> licence_number
+LICENSE_TYPE     -> licence_type
+BUSINESS_ADDRESS -> full_address
+
+-----------------------
+There are 2 unmapped columns:
+EXPIRY_DATE
+OBJECTID
+
+-----------------------
+There are 0 unknown variables:
+
+
+========================================================
+
+Now viewing summary of [49] ON_Hamilton_Licenced_Second_Hand_Shops.csv:
+
+4 out of 6 columns were mapped:
+BUSINESS_NAME    -> business_name
+LICENSE_NUMBER   -> licence_number
+LICENSE_TYPE     -> licence_type
+BUSINESS_ADDRESS -> full_address
+
+-----------------------
+There are 2 unmapped columns:
+EXPIRY_DATE
+OBJECTID
+
+-----------------------
+There are 0 unknown variables:
+
+
+========================================================
+
+Now viewing summary of [50] ON_Kitchener_Business_Directory.csv:
+
+19 out of 37 columns were mapped:
+COMPANY_NA -> business_name
+PRIMARY__1 -> business_sector
+PRIMARY__2 -> business_subsector
+PROFILE    -> business_description
+ID         -> business_id_no
+PRIMARY_NA -> primary_NAICS
+SECONDARY_ -> secondary_NAICS
+lat        -> latitude
+lon        -> longitude
+UNIT       -> unit
+STREET_NUM -> street_no
+STREET_NAM -> street_name
+POSTAL_COD -> postal_code
+WEBSITE    -> business_website
+EMAIL      -> email
+PHONE      -> telephone
+TOLL_FREE  -> toll_free_telephone
+TOTAL_EMPL -> total_no_employees
+YEAR_ESTAB -> date_established
+
+-----------------------
+There are 18 unmapped columns:
+BUSINESS_P
+DOWNTOWN
+DOWNTOWN_P
+EXPORTING
+FIRST_NAME
+FIRST_NA_1
+GlobalID
+IN_CIP
+LAST_NAME_
+LAST_NAM_1
+NAME_SUFFI
+OBJECTID
+SPACE_SIZE
+THE
+TITLE_1
+TITLE_2
+Unnamed: 0
+geometry
+
+-----------------------
+There are 2 unknown variables:
+X -> x
+Y -> y
+
+
+========================================================
+
+Now viewing summary of [51] ON_Mississauga_Business_Directory.csv:
+
+15 out of 22 columns were mapped:
+Name       -> business_name
+NAICSTitle -> business_sector
+ID         -> business_id_no
+NAICSCode  -> primary_NAICS
+NAICSDescr -> NAICS_descr
+Address    -> full_address
+UnitNo     -> unit
+StreetNo   -> street_no
+StreetName -> street_name
+PostalCode -> postal_code
+WebAddress -> business_website
+Phone      -> telephone
+TollFree   -> toll_free_telephone
+Fax        -> fax
+EmplRange  -> total_no_employees
+
+-----------------------
+There are 7 unmapped columns:
+BldgNo
+CHArea
+EMail
+FID
+Modified
+PIN
+Ward
+
+-----------------------
+There are 1 unknown variables:
+Email -> email
+
+
+========================================================
+
+Now viewing summary of [52] ON_Ottawa_Cultural_Businesses.csv:
+
+10 out of 17 columns were mapped:
+NAME     -> business_name
+SUB      -> business_sector
+ID       -> business_id_no
+ADDRESS  -> full_address
+CITY     -> city
+PROVINCE -> province
+PC       -> postal_code
+WEB_1    -> business_website
+EMAIL    -> email
+PHONE    -> telephone
+
+-----------------------
+There are 7 unmapped columns:
+ADDRES_FR
+DATE_MOD
+IMAGE
+NAME_FR
+OBJECTID
+PC_ADDRESS
+WEB_2
+
+-----------------------
+There are 0 unknown variables:
+
+
+========================================================
+
+Now viewing summary of [53] ON_Ottawa_Street_Food_Vendors.csv:
+
+5 out of 11 columns were mapped:
+Trade_Name -> business_name
+Concept    -> business_description
+Y          -> latitude
+X          -> longitude
+Website    -> business_website
+
+-----------------------
+There are 6 unmapped columns:
+FID
+FID2
+Facebook
+Licence_
+Location
+Twitter
+
+-----------------------
+There are 0 unknown variables:
+
+
+========================================================
+
+Now viewing summary of [54] ON_Pickering_Business_Directory.csv:
+
+19 out of 32 columns were mapped:
+Business_N -> business_name
+Business_D -> business_sector
+Business_I -> business_id_no
+NAICSCode  -> primary_NAICS
+NAICSCode_ -> NAICS_descr
+lat        -> latitude
+lon        -> longitude
+Geo_X      -> x
+Geo_Y      -> y
+Unit_Numbe -> unit
+Street_Num -> street_no
+Street_Nam -> street_name
+Street_Dir -> street_direction
+Street_Typ -> street_type
+City       -> city
+Site_Posta -> postal_code
+Web_Addres -> business_website
+Telephone_ -> telephone
+Fax_Number -> fax
+
+-----------------------
+There are 13 unmapped columns:
+Created_Da
+Mailing_Ad
+Mailing_Ci
+Mailing_Co
+Mailing_Po
+Mailing_Pr
+Mailing__1
+Municipali
+OBJECTID
+Province
+Unnamed: 0
+Updated_Da
+geometry
+
+-----------------------
+There are 0 unknown variables:
+
+
+========================================================
+
+Now viewing summary of [55] ON_Toronto_Business_Licences.csv:
+
+7 out of 16 columns were mapped:
+Operating Name         -> business_name
+Category               -> business_sector
+Licence No.            -> licence_number
+Licence Address Line 1 -> full_address
+Licence Address Line 2 -> city
+Licence Address Line 3 -> postal_code
+Business Phone         -> telephone
+
+-----------------------
+There are 9 unmapped columns:
+Business Phone Ext.
+Cancel Date
+Client Name
+Conditions
+Endorsements
+Free Form Conditions Line 1
+Free Form Conditions Line 2
+Issued
+Plate No.
+
+-----------------------
+There are 0 unknown variables:
+
+
+========================================================
+
+Now viewing summary of [56] ON_Welland_Business_Directory.csv:
+
+15 out of 21 columns were mapped:
+Company           -> business_name
+SectorDescription -> business_sector
+ID                -> business_id_no
+Address           -> full_address
+City              -> city
+PC                -> postal_code
+WebSite           -> business_website
+Email             -> email
+Telephone         -> telephone
+Extension         -> telephone_extension
+Fax               -> fax
+FullTime          -> no_full_time
+PartTime          -> no_part_time
+Seasonal          -> no_seasonal
+Estab             -> date_established
+
+-----------------------
+There are 6 unmapped columns:
+LanguageEN
+LanguageFr
+LanguageOTHER
+OBJECTID
+Prov
+Telephone2
+
+-----------------------
+There are 0 unknown variables:
+
+
+========================================================
+
+Now viewing summary of [57] ON_York_Region_Business_Directory.csv:
+
+22 out of 52 columns were mapped:
+NAME              -> business_name
+BUS_ACTIVITY_DESC -> business_description
+BUSINESSID        -> business_id_no
+PRIM_NAICS        -> primary_NAICS
+SEC_NAICS         -> secondary_NAICS
+PRIM_NAICS_DESC   -> NAICS_descr
+X_Coord           -> x
+Y_Coord           -> y
+FULL_ADDRESS      -> full_address
+MAIL_FULL_ADDRESS -> mailing_address
+UNIT_NUM          -> unit
+STREET_NUM        -> street_no
+STREET_NAME       -> street_name
+STREET_DIR        -> street_direction
+STREET_TYPE       -> street_type
+POST_CODE         -> postal_code
+WEBSITE           -> business_website
+GEN_BUS_EMAIL     -> email
+PHONE_NO          -> telephone
+TOLLFREE_NO       -> toll_free_telephone
+FAX_NO            -> fax
+EMPLOYEE_RANGE    -> total_no_employees
+
+-----------------------
+There are 30 unmapped columns:
+CAN_HEADOFFICE
+COMMUNITY
+COUNTRY
+HEADOFFICECOUNTRY
+HEADOFFICEPROVSTATE
+LAST_SURVEYED
+LAST_UPDATED
+MAIL_COMMUNITY
+MAIL_COUNTRY
+MAIL_MUNICIPALITY
+MAIL_POBOX
+MAIL_POST_CODE
+MAIL_PROVINCE
+MAIL_STREET_DIR
+MAIL_STREET_NAME
+MAIL_STREET_NUM
+MAIL_STREET_TYPE
+MAIL_UNIT_NUM
+MANUFACTURER
+MUNICIPALITY
+PARENTNAME
+PHONE_EXT
+PRIM_BUS_CLUSTER
+PROVINCE
+SEC_BUS_CLUSTER
+SEC_NAICS_DESC
+TOLLFREE_EXT
+TRAFFIC_ZONE
+UPDATEMETHOD
+YR_CURRENTLOC
+
+-----------------------
+There are 0 unknown variables:
+
+
+========================================================
+
+Now viewing summary of [58] ON_oebd.csv:
+
+5 out of 6 columns were mapped:
+Company Name -> business_name
+Sectors      -> business_sector
+Description  -> business_description
+Location     -> city
+Website      -> business_website
+
+-----------------------
+There are 1 unmapped columns:
+Contact
+
+-----------------------
+There are 0 unknown variables:
+
+
+========================================================
+
+Now viewing summary of [59] QC_Etablissements.csv:
+
+7 out of 17 columns were mapped:
+NOM_ETAB            -> business_name
+DESC_ACT_ECON_ETAB  -> business_sector
+DESC_ACT_ECON_ETAB2 -> business_subsector
+NEQ                 -> business_id_no
+LIGN1_ADR           -> full_address
+LIGN2_ADR           -> city
+LIGN4_ADR           -> postal_code
+
+-----------------------
+There are 10 unmapped columns:
+COD_ACT_ECON
+COD_ACT_ECON2
+IND_DISP
+IND_ETAB_PRINC
+IND_SALON_BRONZ
+IND_VENTE_TABAC_DETL
+LIGN3_ADR
+NO_ACT_ECON_ETAB
+NO_ACT_ECON_ETAB2
+NO_SUF_ETAB
+
+-----------------------
+There are 0 unknown variables:
+

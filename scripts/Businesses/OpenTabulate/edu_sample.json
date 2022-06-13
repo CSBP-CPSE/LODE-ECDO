@@ -1,0 +1,54 @@
+{
+  "localfile": "ab/final_abFR_isced.csv",
+  "schema_groups": ["edu", "address", "geocoordinates"],
+  "source": "https://education.alberta.ca/media/1626669/authority_and_school.xlsx",
+  "licence": "http://open.alberta.ca/licence",
+  "provider": "Province of Alberta",
+  "encoding": "utf-8",
+  "format": {
+      "type": "csv",
+      "delimiter": ",",
+      "quote": "\""
+  },
+  "schema": {
+      
+      "edu" : {
+          "facility_name": "School Name",
+          "source_id": "School Code",
+          "facility_type": "Unnamed: 3",
+          "language": "Authority Type",
+          "authority_name": "Authority Name",
+          "authority_type": "Authority Type",
+          "grade_range": "force:",
+          "grade_type": "force:", 
+          "geo_source": "force:", 
+          "enrolment": "force:",
+          "ISCED010": "force:",
+          "ISCED020": "ISCED020",
+          "ISCED1": "ISCED1",
+          "ISCED2": "ISCED2",
+          "ISCED3": "ISCED3",
+          "ISCED4+": "ISCED4+"
+      },
+      
+      "geocoordinates" : {
+          "longitude" : "Unnamed: 3", 
+          "latitude" : "Unnamed: 3"
+      },
+
+      "address" : {
+          "address_str": ["School Address1", "School Address2", "School City",
+                       "School Province","School Postal Code"],
+          "street_no": "force:", 
+          "street_name": "force:", 
+          "street_addr": "School Address1",
+          "city": "School City", 
+          "province": "School Province", 
+          "postal_code": "School Postal Code", 
+          "country": "force:Canada", 
+          "telephone": "School Phone", 
+          "email": "School EMail",
+          "fax": "School Fax"
+          }
+  }
+}
