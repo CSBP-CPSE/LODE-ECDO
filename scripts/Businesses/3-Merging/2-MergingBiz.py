@@ -25,12 +25,13 @@ from hashlib import blake2b
 from datetime import datetime as dt
 from pytz import timezone
 import openpyxl
+from tqdm import tqdm # For status bars
 
 # Memory viewer
-import os, psutil
-process = psutil.Process(os.getpid())
-# print(process.memory_info().rss)  # in bytes 
-ram_time = 10
+# import os, psutil
+# process = psutil.Process(os.getpid())
+# # print(process.memory_info().rss)  # in bytes 
+# ram_time = 10
 # print(psutil.cpu_percent(ram_time))
 
 def GetHash(x):
@@ -44,12 +45,13 @@ def GetHash(x):
 def main():
     # Retrieve today's date
     # today = dt.date.today()
-    today = dt.now(timezone('Canada/Eastern'))
-    today = str(today)[:10]
+    ET = 'Canada/Eastern'
+    start_time = dt.now(timezone(ET))
+    today = str(start_time)[:10]
 
     # File path names
-    pdir="/home/jovyan/ODBiz/2-OpenTabulate/data/output"
-    outName = f"/home/jovyan/ODBiz/3-Merging/ODBiz_merged_{today}"
+    pdir="/home/jovyan/ODBiz/3-Merging/input"
+    outName = f"/home/jovyan/ODBiz/3-Merging/output/ODBiz_merged_{today}"
 
     # Duplicate keys
     # Use these columns to determine obvious duplicates and 
@@ -62,23 +64,21 @@ def main():
                 'full_address_2',
                 'province'
                 ]
-                    
-    #read in all parsed files and concatenate together
-    # sources=['ab','bc','mb','nb','nl','ns','nt','nu','on','pe','qc','sk','yt', 'supplementary_files'#,'esdc'
-    # 		]
+
+    # List files to exclude from merging (by listing the file names)      
     excluded_files = []
 
+    # Begin merging csvs
     DFS=[]
-    # for s in sources:
     files=[f for f in listdir(pdir) if f.endswith('.csv')]
-    for f in files:
+    print('Begin merging files together...')
+    for f in tqdm(files):
         if f in excluded_files:
             continue
-        # df_temp=pd.read_csv("{}/{}/{}".format(pdir,s,f),dtype=str, low_memory=False)
         df_temp=pd.read_csv(f'{pdir}/{f}',dtype=str, low_memory=False)
         DFS.append(df_temp)
 
-    print('A')
+    # Reorder the columns
     df_unordered=pd.concat(DFS, ignore_index = True)
     del DFS
     col_order = [ 'idx',
@@ -108,6 +108,7 @@ def main():
             'city',
             'province',
             'postal_code',
+            'country',
             'business_website',
             'email',
             'telephone',
@@ -122,54 +123,48 @@ def main():
             'indigenous',
             'provider'
             ]
-    # test = -39
-    # print(col_order[test])
-    print('B')
-    # print(psutil.cpu_percent(ram_time))  # in bytes 
-    df = pd.DataFrame()
-    for i in col_order:
-        print(i)
-        df[i]=df_unordered[i]
-        del df_unordered[i]
-    # df=df_unordered[col_order]
-    print('C')
-    # print(psutil.cpu_percent(ram_time))  # in bytes 
+    df=df_unordered[col_order]
 
-    # #standardise ISCEDs:
-    # ISCEDS=['ISCED010','ISCED020','ISCED1','ISCED2','ISCED3','ISCED4+',]
-    # for I in ISCEDS:
-    #     df[I]=df[I].str.replace('Y','1', regex=False)
-    #     df[I]=df[I].str.replace('N','0', regex=False)
-    #     df[I]=df[I].str.replace('1.0','1', regex=False)
-    #     df[I]=df[I].str.replace('0.0','0', regex=False)
+    #standardise province names
+    df.loc[df.provider=='Province of Alberta','province']='AB'
+    df.loc[df.provider=='Province of British Columbia','province']='BC'
+    df.loc[df.provider=='Province of Ontario','province']='ON'
+    df.loc[df.provider=='Province of Québec','province']='QC'
+    df.loc[df.provider=='Province of Saskatchewan','province']='SK'
+    df.loc[df.provider=='Province of Nova Scotia','province']='NS'
+    df.loc[df.provider=='Province of Prince Edward Island','province']='PE'
 
-    # #standardise province names
-    # df.loc[df.provider=='Province of Alberta','province']='AB'
-    # df.loc[df.provider=='Province of British Columbia','province']='BC'
-    # df.loc[df.provider=='Province of Ontario','province']='ON'
-    # df.loc[df.provider=='Province of Québec','province']='QC'
-    # df.loc[df.provider=='Province of Saskatchewan','province']='SK'
-    # df.loc[df.provider=='Province of Nova Scotia','province']='NS'
-    # df.loc[df.provider=='Province of Prince Edward Island','province']='PE'
+    provs_dict={'Alberta':'AB',
+               'British Columbia':'BC',
+               'Manitoba':'MB',
+               'New Brunswick':'NB',
+               'Newfoundland and Labrador':'NL',
+               'Newfoundland And Labrador':'NL',
+               'NF':'NL',
+               'Nova Scotia':'NS',
+               'Northwest Territories':'NT',
+               'Nunavut':'NU',
+               'Ontario':'ON',
+               'ONTARIO':'ON',
+               'Prince Edward Island':'PE',
+               'Quebec':'QC',
+               'QB':'QC',
+               'Saskatchewan':'SK',
+               'Yukon Territories':'YT',
+               'Yukon':'YT'}
+    print('Standardizing Province Names...')
+    for key in tqdm(provs_dict):
+        df['province'] = df['province'].str.replace(key, provs_dict[key],regex=False)
+    df['province'] = df['province'].str.upper()
 
-    # provs_dict={'Alberta':'AB',
-    #            'British Columbia':'BC',
-    #            'Manitoba':'MB',
-    #            'New Brunswick':'NB',
-    #            'Newfoundland and Labrador':'NL',
-    #            'Nova Scotia':'NS',
-    #            'Northwest Territories':'NT',
-    #            'Nunavut':'NU',
-    #            'Ontario':'ON',
-    #            'Prince Edward Island':'PE',
-    #            'Quebec':'QC',
-    #            'Saskatchewan':'SK',
-    #            'Yukon Territories':'YT',
-    #            'Yukon':'YT'}
-
-
-    # for key in provs_dict:
-    #     df['province'] = df['province'].str.replace(key, provs_dict[key],regex=False)
+    # Standardize Country Names
+    country_dict = {
+        '^CA$': 'CANADA'
+    }
+    print('Standardizing Country Names...')
+    for key in tqdm(country_dict):
+        df['country'] = df['country'].str.replace(key, country_dict[key])
+    df['country'] = df['country'].str.upper()
         
     # #standardise language entries
     # df['language']=df['language'].str.replace('Intensive French Integrated French','French', regex=False)
@@ -189,7 +184,8 @@ def main():
     # df.loc[df.province=='NS','city']=df.loc[df.province=='NS','city'].str.rstrip(' NS')
 
     #make postal codes consistent
-    df['postal_code']=df['postal_code'].str.replace(' ','').str.upper()
+    print('Making Postal Codes consistent...')
+    df['postal_code']=tqdm(df['postal_code'].str.replace(' ','').str.upper())
 
     # #excel turns grade ranges with hyphens to dates, so replace with double hyphens
     # df['grade_range']=df['grade_range'].str.replace('-','--')
@@ -222,6 +218,7 @@ def main():
     # df.drop(df.loc[df['facility_type']==qc_adult_schools].index, inplace=True)
 
     # Drop duplicates
+    print('Dropping Duplicates')
     df['duplicated'] = df.duplicated(subset=dup_keys, keep='first')
     dup_exists = True in df['duplicated']
     print(f'Does at least 1 obvious duplicate exist? {dup_exists}')
@@ -230,13 +227,15 @@ def main():
     # df = df.drop(columns = ['is_trade_school', 'duplicated'])
 
     #finally, replace index with fresh index
-    df['idx_basic']=range(1,1+len(df))
+    print('Creating idx_basic...')
+    df['idx_basic']=tqdm(range(1,1+len(df)))
 
     def make_temp_col(df):
         df_temp=df.copy()
         cols=dup_keys
         del_list=[" ","-","'","."]
-        for col in cols:
+        print('Capitalize values and fill in blanks of dup_key columns with NULL to a copy of the df')
+        for col in tqdm(cols):
         
             df_temp[col]=df_temp[col].str.upper()
             df_temp[col]=df_temp[col].fillna('NULL')
@@ -245,7 +244,8 @@ def main():
                 df_temp[col]=df_temp[col].str.replace(i,'',regex=False)
 
         df_temp['temp'] = ''
-        for col in cols:
+        print('Appending dup_key columns together and assign to temp column')
+        for col in tqdm(cols):
             df_temp['temp'] += df_temp[col] 
             if col != cols[-1]:
                 df_temp['temp'] += '-'
@@ -253,20 +253,23 @@ def main():
         # df_temp['temp']=df_temp['source_id']+'-'+df_temp['facility_name']+'-'+df_temp['address_str']+'-'+df_temp['provider']
         return df_temp['temp']
 
+    print('Creating temp column:')
     df['temp']=make_temp_col(df)
-    df['idx']=df['temp'].apply(GetHash)
+    print('Applying hashing to get new indicies...')
+    df['idx']=tqdm(df['temp'].apply(GetHash))
 
-    #fill in geo_method.
+    # Fill in geo_source.
+    print('Filling in geo_source column')
     if ~('geo_source' in df.columns):
         df['geo_source'] = ''
     df.loc[~df.latitude.isnull() & df.geo_source.isnull(), 'geo_source']='Source'
 
-    #print(len(df), 'entries in database')
-
     # Write dataframe to csv
+    print(f'Writing {len(df)} dataframe entries to csv. This will take a while and unfortunately no easy progress bar solutions were available here...')
     df.to_csv(f'{outName}.csv',index=False)
     print(f'File saved to {outName}.csv')
-    print('Done')
+    end_time = dt.now(timezone(ET)) - start_time
+    print(f'Finished in {end_time.total_seconds()} seconds')
 
 if __name__ == '__main__':
     main()
