@@ -23,11 +23,18 @@ def write_and_print(filepath: str, text: str, mode = 'a'):
     with open(filepath, mode) as f:
         f.write(text + '\n')
 
-# Read in variablemap.csv
-vm_csv_path = "/home/jovyan/ODBiz/2-OpenTabulate/variablemap2.csv"
+# Define file paths
+vm_csv_path = "/home/jovyan/ODBiz/2-OpenTabulate/variablemap.csv"
 txt_path = '/home/jovyan/ODBiz/2-OpenTabulate/mapping_summary.txt'
+unmapped_path = '/home/jovyan/ODBiz/2-OpenTabulate/unmapped_vars.csv'
+
+# Read in variablemap.csv
 vm_df = pd.read_csv(vm_csv_path)
 vm_df = vm_df.set_index('localfile')
+
+# Create the unmapped_path csv
+um_df = pd.DataFrame(columns=['localfile', 'Unmapped_Variables'])
+um_df = um_df.set_index('localfile')
 
 # Overwrite the summary file
 with open(txt_path, 'w') as f:
@@ -58,9 +65,9 @@ for i in range(no_of_files):
     write_and_print(txt_path, f'{tot_mapped} out of {tot_cols} columns were mapped:')
 
     # Display the mappings
-    max_col_len = max(list(map(len, shared_cols)))
+    max_col_len = max(list(map(len, shared_cols.to_list() + [i for i in mapped_cols if (type(i) == str and 'force:' in i)])))
     for idx, val in mapped_cols.iteritems():
-        if val in shared_cols:
+        if val in shared_cols or (type(val) == str and 'force:' in val):
             val_len = len(val)
             val += (max_col_len-val_len) * ' '
             write_and_print(txt_path, f'{val} -> {idx}')
@@ -78,6 +85,9 @@ for i in range(no_of_files):
     for i in missing:
         write_and_print(txt_path, i)
 
+    # Save unknown variables to a csv
+    um_df.loc[localfile, 'Unmapped_Variables'] = ',\n'.join(missing)
+
     # Display variables in variablemap.csv that aren't in the processed dataset
     mapped_cols2 = mapped_cols.drop(['source_url', 'provider', 'licence', 'last_updated', 'update_frequency', 'notes'])
     unk_var_idx = []
@@ -87,6 +97,8 @@ for i in range(no_of_files):
             unk_var_idx.append(idx)
             unk_var_val.append(val)
     unk_var_len = len(unk_var_idx)
+
+    # Print out the unknown variables
     write_and_print(txt_path, '\n-----------------------')
     write_and_print(txt_path, f'There are {unk_var_len} unknown variables:')
     # if unk_var_idx == []:
@@ -103,13 +115,15 @@ for i in range(no_of_files):
         val += (max_col_len-val_len) * ' '
         write_and_print(txt_path, f'{val} -> {idx}')
 
-    write_and_print(txt_path, f'\n Flagging messages:')
+    write_and_print(txt_path, f'\nFlagging messages:')
     flag_msg = ''
     if tot_mapped != tot_cols:
-        flag_msg += '- NOT_ALL_COLS_MAPPED\n'
+        flag_msg += '- NOT_ALL_COLS_MAPPED\n' # Not all columns were mapped
     if unk_var_len != 0:
-        flag_msg += '- UNK_VARS_EXIST\n'
+        flag_msg += '- UNK_VARS_EXIST\n' # Unknown variables exist
     
     write_and_print(txt_path, f'{flag_msg}')
     # print(f'Summary successfully appended to {txt_path}')
+um_df.to_csv(unmapped_path)
+print(f'Saved unmapped variables to {unmapped_path}')
 print('DONE')
