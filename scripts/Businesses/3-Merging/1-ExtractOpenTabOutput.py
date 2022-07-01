@@ -4,4 +4,4 @@ in_dir_name = '/home/jovyan/ODBizOpenTabCompressedOutput/OpenTabCompressedOutput
 out_dir_name = '/home/jovyan/ODBiz/3-Merging/input'
 
 su.unpack_archive(in_dir_name, out_dir_name)
-print(f'Files unzipped to {in_dir_name}')
+print(f'Files unzipped to {out_dir_name}')

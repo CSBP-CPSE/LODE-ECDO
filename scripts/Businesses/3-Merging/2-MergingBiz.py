@@ -121,6 +121,7 @@ def main():
             'no_seasonal',
             'date_established',
             'indigenous',
+            'status',
             'provider'
             ]
     df=df_unordered[col_order]
@@ -136,6 +137,7 @@ def main():
 
     provs_dict={'Alberta':'AB',
                'British Columbia':'BC',
+               '`': 'BC', # 1 business keeps setting their province to ` and I have determined that they’re located in BC
                'Manitoba':'MB',
                'New Brunswick':'NB',
                'Newfoundland and Labrador':'NL',
@@ -149,6 +151,7 @@ def main():
                'Prince Edward Island':'PE',
                'Quebec':'QC',
                'QB':'QC',
+               'PQ':'QC',
                'Saskatchewan':'SK',
                'Yukon Territories':'YT',
                'Yukon':'YT'}
@@ -163,7 +166,7 @@ def main():
     }
     print('Standardizing Country Names...')
     for key in tqdm(country_dict):
-        df['country'] = df['country'].str.replace(key, country_dict[key])
+        df['country'] = df['country'].str.replace(key, country_dict[key], regex = True)
     df['country'] = df['country'].str.upper()
         
     # #standardise language entries
