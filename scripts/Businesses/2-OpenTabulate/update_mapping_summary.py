@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import os
+from tqdm import tqdm
 
 # Store the file name of all csvs in processed
 
@@ -43,14 +44,15 @@ print(f'Summary successfully rewritten to {txt_path}')
 
 # Loop through all csv file names
 no_of_files = len(filepaths)
-for i in range(no_of_files):
+print('Updating file...')
+for i in tqdm(range(no_of_files)):
     write_and_print(txt_path, '\n========================================================\n')
     localfile = filepaths[i]
     write_and_print(txt_path, f"Now viewing summary of [{i+1}] {localfile}:\n")
     csv_path = f"/home/jovyan/ODBiz/1-PreProcessing/processed/{localfile}"
 
     # Import the csv as dataframe
-    df = pd.read_csv(csv_path)
+    df = pd.read_csv(csv_path, low_memory=False)
 
     # Extract the necessary column/row
     df_cols = df.columns
