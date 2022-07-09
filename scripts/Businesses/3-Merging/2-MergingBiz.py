@@ -52,6 +52,7 @@ def main():
     # File path names
     pdir="/home/jovyan/ODBiz/3-Merging/input"
     outName = f"/home/jovyan/ODBiz/3-Merging/output/ODBiz_merged_{today}"
+    dups_only_path = f"/home/jovyan/ODBiz/3-Merging/output/ODBiz_dups_only_{today}"
 
     # Duplicate keys
     # Use these columns to determine obvious duplicates and 
@@ -62,7 +63,9 @@ def main():
                 'primary_NAICS',
                 'full_address',
                 'full_address_2',
-                'province'
+                'province',
+                'business_sector',
+                'licence_type'
                 ]
 
     # List files to exclude from merging (by listing the file names)      
@@ -168,66 +171,27 @@ def main():
     for key in tqdm(country_dict):
         df['country'] = df['country'].str.replace(key, country_dict[key], regex = True)
     df['country'] = df['country'].str.upper()
-        
-    # #standardise language entries
-    # df['language']=df['language'].str.replace('Intensive French Integrated French','French', regex=False)
-    # df['language']=df['language'].str.replace('Late Immersion Integrated French','French', regex=False)
-    # df['language']=df['language'].str.replace('Intensive French Intergrated French','French', regex=False)
-    # df['language']=df['language'].str.replace('Francophone','French', regex=False)
-    # df['language']=df['language'].str.replace('French','French', regex=False)
-    # df['language']=df['language'].str.replace('Intensive French','French', regex=False)
-    # df['language']=df['language'].str.replace('Integrated French','French', regex=False)
-    # df['language']=df['language'].str.replace('Intergrated French','French', regex=False)
-    # df['language']=df['language'].str.replace('Inregrated French','French', regex=False)
-    # df['language']=df['language'].str.replace('Franco','French', regex=False)
-    # df['language']=df['language'].str.replace('Anglo','English', regex=False)
-    # # raise NotImplementedError('Language standardization not yet implemented')
-        
-    # #fix NS city field with "NS" appended to it
-    # df.loc[df.province=='NS','city']=df.loc[df.province=='NS','city'].str.rstrip(' NS')
 
     #make postal codes consistent
     print('Making Postal Codes consistent...')
     df['postal_code']=tqdm(df['postal_code'].str.replace(' ','').str.upper())
 
     # #excel turns grade ranges with hyphens to dates, so replace with double hyphens
-    # df['grade_range']=df['grade_range'].str.replace('-','--')
-    # df['grade_range']=df['grade_range'].str.replace('---','--')
-    # df['grade_range']=df['grade_range'].str.replace('Pre--K','Pre-K')
+    df['unit']=df['unit'].str.replace('-','--')
+    df['unit']=df['unit'].str.replace('---','--')
+    df['total_no_employees']=df['total_no_employees'].str.replace('-','--')
+    df['total_no_employees']=df['total_no_employees'].str.replace('---','--')
 
     # #Drop entries that shouldn't be included
     # drop_list=['Home-based School', 'Home Based School', 'StrongStart BC']
 
     # for d in drop_list:
     #     df.drop(df.loc[df['facility_name']==d].index, inplace=True)
-        
-    # # If the school doesn't offer K--12 education, drop it
-    # df['is_trade_school'] = False
-    # grade_cols = ['ISCED020','ISCED1','ISCED2','ISCED3']
-    # for i, row in df.iterrows():
-    #     sum_so_far = 0
-    #     for j in row[grade_cols]:
-    #         if not(pd.isna(j)):
-    #             sum_so_far += int(j)
-    # #     print(sum_so_far)
-    #     if sum_so_far == 0:
-    # #         print(i)
-    #         df.loc[i, 'is_trade_school'] = True
-            
-    # df.drop(df.loc[df['is_trade_school']==True].index, inplace=True)
-        
-    # # Drop adult schools
-    # qc_adult_schools = '9_OrgImm_Anglo_Adu'
-    # df.drop(df.loc[df['facility_type']==qc_adult_schools].index, inplace=True)
 
-    # Drop duplicates
-    print('Dropping Duplicates')
+    # Mark duplicates
+    print('Marking Duplicates')
     df['duplicated'] = df.duplicated(subset=dup_keys, keep='first')
-    dup_exists = True in df['duplicated']
-    print(f'Does at least 1 obvious duplicate exist? {dup_exists}')
-
-    # # Drop temp columns
-    # df = df.drop(columns = ['is_trade_school', 'duplicated'])
+    dup_count = df['duplicated'].sum()
 
     #finally, replace index with fresh index
     print('Creating idx_basic...')
@@ -253,7 +217,6 @@ def main():
             if col != cols[-1]:
                 df_temp['temp'] += '-'
         
-        # df_temp['temp']=df_temp['source_id']+'-'+df_temp['facility_name']+'-'+df_temp['address_str']+'-'+df_temp['provider']
         return df_temp['temp']
 
     print('Creating temp column:')
@@ -265,10 +228,24 @@ def main():
     print('Filling in geo_source column')
     if ~('geo_source' in df.columns):
         df['geo_source'] = ''
-    df.loc[~df.latitude.isnull() & df.geo_source.isnull(), 'geo_source']='Source'
+    df.loc[~df.latitude.isnull() & ((df.geo_source.isnull()) | (df.geo_source == '')), 'geo_source']='Source'
+
+    # Remove temporary columns
+    df = df.drop(   labels = [  'duplicated',
+                                'idx_basic',
+                                'temp'], 
+                    axis = 'columns')
+
+    # Drop duplicates
+    print('Dropping duplicates')
+    df_dups_only = df[df.duplicated(subset=dup_keys, keep=False)]
+    df = df.drop_duplicates(dup_keys)
+    print(f'{dup_count} duplicate rows dropped')
 
     # Write dataframe to csv
     print(f'Writing {len(df)} dataframe entries to csv. This will take a while and unfortunately no easy progress bar solutions were available here...')
+    df_dups_only.to_csv(f'{dups_only_path}.csv',index=False)
+    print(f'File saved to {dups_only_path}.csv')
     df.to_csv(f'{outName}.csv',index=False)
     print(f'File saved to {outName}.csv')
     end_time = dt.now(timezone(ET)) - start_time
