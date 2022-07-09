@@ -35,12 +35,17 @@ def main():
     inputFileName = '/home/jovyan/ODBiz/1-PreProcessing/raw/BC_Vancouver_Business_Licences.csv'
     outputFileName = '/home/jovyan/ODBiz/1-PreProcessing/processed/BC_Vancouver_Business_Licences.csv'
 
+    # Load in variablemap to help with column names
+    var_map = pd.read_csv('/home/jovyan/ODBiz/2-OpenTabulate/variablemap.csv')
+    var_map = var_map.set_index('localfile')
+    street_no = var_map.loc['BC_Vancouver_Business_Licences.csv', 'street_no']
+
     # Load in the csv
     df = pd.read_csv(inputFileName, low_memory=False)
     total_lines = 636855
     chunksize = 1000
-    # df = pd.read_csv(mergedFilePathName, low_memory=False)
-    df = pd.concat([chunk for chunk in tqdm(pd.read_csv(inputFileName, chunksize=chunksize), desc='Loading data', total=total_lines//chunksize+1)])
+    types_dict = {street_no: str} # Read in street numbers as strs since some of them are formatted weirdly
+    df = pd.concat([chunk for chunk in tqdm(pd.read_csv(inputFileName, chunksize=chunksize, dtype = types_dict), desc='Loading data', total=total_lines//chunksize+1)])
 
     # Filter out non-Canadian businesses
     nonCAD_provs = [ 'AK', 'AL', 'AR', 'AZ', 'CA', 'CO', 'CT', 'DC', 'DE', 'FL', 'GA',
