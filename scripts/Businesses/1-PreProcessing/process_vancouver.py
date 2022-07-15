@@ -41,7 +41,7 @@ def main():
     street_no = var_map.loc['BC_Vancouver_Business_Licences.csv', 'street_no']
 
     # Load in the csv
-    df = pd.read_csv(inputFileName, low_memory=False)
+    # df = pd.read_csv(inputFileName, low_memory=False)
     total_lines = 636855
     chunksize = 1000
     types_dict = {street_no: str} # Read in street numbers as strs since some of them are formatted weirdly
