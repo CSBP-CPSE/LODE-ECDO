@@ -51,7 +51,7 @@ def main():
 
     # File path names
     pdir="/home/jovyan/ODBiz/3-Merging/input"
-    outName = f"/home/jovyan/ODBiz/3-Merging/output/ODBiz_merged_{today}"
+    outName = f"/home/jovyan/ODBiz/3-Merging/output/2-ODBiz_merged_{today}"
     dups_only_path = f"/home/jovyan/ODBiz/3-Merging/output/ODBiz_dups_only_{today}"
 
     # Duplicate keys
@@ -229,6 +229,8 @@ def main():
     if ~('geo_source' in df.columns):
         df['geo_source'] = ''
     df.loc[~df.latitude.isnull() & ((df.geo_source.isnull()) | (df.geo_source == '')), 'geo_source']='Source'
+
+    # Insert filter for removing businesses with no address or coord info here
 
     # Remove temporary columns
     df = df.drop(   labels = [  'duplicated',
