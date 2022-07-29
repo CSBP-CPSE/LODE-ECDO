@@ -97,7 +97,7 @@ def fix_variable_names(gdf: gpd.GeoDataFrame, root: str, name: str) -> gpd.GeoDa
     max_col_len_pd = max(list(map(len, rename_dict.values())))
     spacing = (max_col_len_gpd-3) * ' '
     spacing2 = (max_col_len_pd-2) * ' '
-    header = f'gpd{spacing} -> pd{spacing2} | shared_chars'
+    header = f'shp{spacing} -> csv{spacing2} | shared_chars'
     print(header)
     print('-' * len(header))
     for k,v in rename_dict.items():
@@ -162,8 +162,12 @@ def port_moody_shp():
 def main():
     # Iterate through the ../raw/shapefiles folder
     for root, dirs, files in os.walk(raw_shp_dir):
-        if 'testing' in root: # Ignore the files used for testing
-            continue
+        # if 'testing' in root: # Ignore the files used for testing
+        #     continue
+
+        # Skip the archive directory
+        if 'archive' in dirs:
+            dirs.remove('archive')
 
         # Iterate through all files in a folder
         for file in files:

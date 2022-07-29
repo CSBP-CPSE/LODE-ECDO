@@ -36,6 +36,8 @@ def main():
     inputFileName = '/home/jovyan/ODBiz/1-PreProcessing/raw/BC_Vancouver_Business_Licences.csv'
     outputFileName = '/home/jovyan/ODBiz/1-PreProcessing/processed/BC_Vancouver_Business_Licences.csv'
 
+    rm_provs_file_name = '/home/jovyan/ODBiz/1-PreProcessing/double_check/filter_non_CAD_provs_comparison.csv'
+
     # # Load in variablemap to help with column names
     # var_map = pd.read_csv('/home/jovyan/ODBiz/2-OpenTabulate/variablemap.csv')
     # var_map = var_map.set_index('localfile')
@@ -46,6 +48,8 @@ def main():
     chunksize = 1000
     # types_dict = {street_no: str} # Read in street numbers as strs since some of them are formatted weirdly
     df = pd.concat([chunk for chunk in tqdm(pd.read_csv(inputFileName, chunksize=chunksize, dtype = str, keep_default_na = False), desc='Loading data', total=total_lines//chunksize+1)])
+    rm_provs_df = pd.DataFrame({'original': df['Province'].value_counts()})
+    rm_provs_df.index.name = 'Province Code'
     # print('Filling in NA with empty string')
     # old_time = dt.now()
     # df = df.fillna('')
@@ -68,6 +72,10 @@ def main():
             'US', 'HB', 'SP', 'RJ'
             ]
     df = df[~(df['Province'].str.upper().isin(nonCAD_provs))]
+    rm_provs_df['post_filter'] = df['Province'].value_counts()
+    rm_provs_df['post_filter'] = rm_provs_df['post_filter'].astype('Int64')
+    rm_provs_df.to_csv(rm_provs_file_name)
+    print(f'Saved file {rm_provs_file_name}')
     new_time = dt.now()
     exetime = new_time - old_time
     print(f'Done in {exetime.seconds} s')

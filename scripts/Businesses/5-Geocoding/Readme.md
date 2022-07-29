@@ -1,3 +1,14 @@
+# Running notes
+
+We have many records to geocode - in the order of hundreds of thousands. So we won't be able to use lower capacity geocoding methods. 
+
+Instead, we are adapting scripts Address matching scripts from Nick.
+
+Here are the address matching scripts: \\btssce\csbpim1\DEIL\Projects\DEIL_Accessibility\2019-20\5-Process\Scripts\AddressMatching
+
+Joseph also had some geocoding scripts for open data sets using bing here: \\btssce\csbpim1\DEIL\Projects\DEIL_Accessibility\2019-20\5-Process\Scripts\Geocoding_Scripts
+
+
 # Purpose 
 
 The goal of this step is to ensure that each data source has lat/lon coordinates and street address. 
