@@ -1,3 +1,9 @@
+'''
+update_mapping_summary.py
+
+Outputs a txt file with the mapping summary described in variablemap in a slightly more human readable form
+'''
+
 import pandas as pd
 import numpy as np
 import os
