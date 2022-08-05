@@ -309,8 +309,8 @@ def main():
     new_time = dt.now()
     exetime = new_time - old_time
     print(f'csv took {exetime.seconds} s to save')
-    end_time = dt.now(timezone(ET)) - start_time
-    print(f'Execution finished in {end_time.total_seconds()} seconds')
+    tot_exe_time = dt.now(timezone(ET)) - start_time
+    print(f'Execution finished in {tot_exe_time.total_seconds()} seconds')
 
 if __name__ == '__main__':
     main()

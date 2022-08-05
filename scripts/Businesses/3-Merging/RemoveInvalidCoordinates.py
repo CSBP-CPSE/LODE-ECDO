@@ -1,4 +1,10 @@
 import pandas as pd
+'''
+RemoveInvalidCoordinates.py
+
+Sets invalid coordinates to nan
+'''
+
 import numpy as np
 from tqdm import tqdm
 from pytz import timezone
@@ -74,6 +80,7 @@ def main():
     exetime = new_time - old_time
     print(f'Done in {exetime.seconds} s')
 
+    # Output a file to do a sanity check on coordinate ranges
     if double_check_mode:
         new_rows = pd.DataFrame({   'coord': ['new latitude', 'new longitude'], 
                             'min': [df['latitude'].min(), df['longitude'].min()], 
@@ -89,6 +96,9 @@ def main():
 
         coord_ranges_df.to_csv(coord_ranges_csv, index = False)
         print(f'File saved to {coord_ranges_csv}')
+
+    # Drop the valid_coord column
+    df = df.drop('valid_coord', axis = 'columns')
 
     # Save df to csv
     df.to_csv(outputFileName, index = export_idx)
