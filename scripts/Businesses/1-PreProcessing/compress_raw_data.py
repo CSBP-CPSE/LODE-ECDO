@@ -1,3 +1,9 @@
+'''
+This script is incomplete and made obsolete by other scripts
+
+I believe it just pretty prints the PreProcessing/raw directory
+'''
+
 import os
 
 input_dir = '/home/jovyan/NewServer/ODBiz/1-PreProcessing/raw'

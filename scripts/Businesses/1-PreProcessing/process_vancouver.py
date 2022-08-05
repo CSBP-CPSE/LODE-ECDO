@@ -5,7 +5,8 @@ The BC_Vancouver_Business_Licences.csv dataset had an intense cleaning process.
 Modifications made to the Vancouver dataset include:
 1. Filtering out all non-Canadian business (determined by location of HQ)
 2. Extracting lat/lon coordinates from JSON str format
-3. Creating a new column to more accurately record the business names of each business.
+3. Removes duplicates, keeps the most recent entry
+# (This step is no longer performed) 3. Creating a new column to more accurately record the business names of each business.
 '''
 
 import numpy as np
