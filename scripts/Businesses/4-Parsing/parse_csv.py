@@ -55,6 +55,7 @@ def format_parser(add):
 
 if __name__ == "__main__":
     start_time = dt.now()
+
     # parser = ArgumentParser(
     #     description='Apply libpostal address parser to an address column in a csv')
     # parser.add_argument('name_in',
@@ -68,12 +69,20 @@ if __name__ == "__main__":
     # name_in = args.name_in
     # addr_col = args.addr_col
     # name_out = args.name_out
+
     name_in = '/home/jovyan/ODBiz/4-Parsing/input/ODBiz_Merged.csv' 
     addr_col = 'full_address' 
     name_out = '/home/jovyan/ODBiz/4-Parsing/output/parsed_biz.csv'
     
+    # Read in df and fill in na's with empty string
     df_in = pd.read_csv(name_in, dtype='str', low_memory=False)
     df_in=df_in.fillna('')
+
+    # # Remove spaces adjacent to dashes THIS CAUSES MORE PROBLEMS!!!
+    # df_in[addr_col] = df_in[addr_col].str.replace(r'\s+-', '-', regex = True)
+    # df_in[addr_col] = df_in[addr_col].str.replace(r'-\s+', '-', regex = True)
+
+    # Apply Libpostal to parse address
     df_out = parse_csv(df_in, addr_col)
     
 #street numbers that include unit number through a dash get split and put into separate columns

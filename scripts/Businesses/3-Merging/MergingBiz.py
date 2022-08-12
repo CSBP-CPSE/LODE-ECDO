@@ -235,15 +235,6 @@ def main():
     exetime = new_time - old_time
     print(f'Done in {exetime.seconds} s')
 
-    # Mark duplicates
-    print('Marking Duplicates...')
-    df['duplicated'] = df.duplicated(subset=dup_keys, keep='first')
-    dup_count = df['duplicated'].sum()
-    old_time = new_time
-    new_time = dt.now()
-    exetime = new_time - old_time
-    print(f'Done in {exetime.seconds} s')
-
     #finally, replace index with fresh index
     df['idx_basic']=range(1,1+len(df))
 
@@ -283,11 +274,15 @@ def main():
         df['geo_source'] = ''
     df.loc[~df.latitude.isnull() & ((df.geo_source.isnull()) | (df.geo_source == '')), 'geo_source']='Source'
 
-    # Remove temporary columns
-    df = df.drop(   labels = [  'duplicated',
-                                'idx_basic',
-                                'temp'], 
-                    axis = 'columns')
+    # Mark duplicates
+    print('Marking Duplicates...')
+    old_time = dt.now()
+    dup_keys = 'idx'
+    df['duplicated'] = df.duplicated(subset=dup_keys, keep='first')
+    dup_count = df['duplicated'].sum()
+    new_time = dt.now()
+    exetime = new_time - old_time
+    print(f'Done in {exetime.seconds} s')
 
     # Drop duplicates
     print('Dropping duplicates')
@@ -298,6 +293,12 @@ def main():
     new_time = dt.now()
     exetime = new_time - old_time
     print(f'Done in {exetime.seconds} s')
+
+    # Remove temporary columns
+    df = df.drop(   labels = [  'duplicated',
+                                'idx_basic',
+                                'temp'], 
+                    axis = 'columns')
 
     # Write dataframe to csv
     print(f'Writing {len(df)} dataframe entries to csv. This will take a while and unfortunately no easy progress bar solutions were available here...')
