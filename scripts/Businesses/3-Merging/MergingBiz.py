@@ -114,6 +114,7 @@ def main():
     col_order = [ 'idx',
             'localfile',
             'business_name',
+            'alt_business_name',
             'business_sector',
             'business_subsector',
             'business_description',
