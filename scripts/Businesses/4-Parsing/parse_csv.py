@@ -73,14 +73,26 @@ def parsing_df_wrapper(df_in: pd.DataFrame, addr_col: str):
     # Apply Libpostal to parse address
     df_out = parse_csv(df_in, addr_col)
 
-    # Update LP_street_no with LP_street_no_alt if LP_street_no is empty string
+    # Update LP_street_no or LP_Unit with LP_street_no_alt if LP_street_no is empty string
     LP_street_no_empty = df_out['LP_street_no'] == ''
+    LP_Unit_empty = df_out['LP_Unit'] == ''
+    df_out.loc[~LP_street_no_empty & LP_Unit_empty, 'LP_Unit'] = df_out.loc[~LP_street_no_empty & LP_Unit_empty, 'LP_street_no_alt']
     df_out.loc[LP_street_no_empty, 'LP_street_no'] = df_out.loc[LP_street_no_empty, 'LP_street_no_alt']
     
     #street numbers that include unit number through a dash get split and put into separate columns
     # print('stop')
-    df_temp = df_out.loc[df_out['LP_street_no'].str.contains("-")]
-    df_out[['LP2_unit', 'LP2_street_no', 'spill']] = df_temp['LP_street_no'].str.split('-', expand=True, n=2)
+    split_chars = r'[\-\s]'
+    df_temp = df_out.loc[df_out['LP_street_no'].str.contains(split_chars)]
+    try:
+        df_out[['LP2_unit', 'LP2_street_no']] = df_temp['LP_street_no'].str.split(split_chars, expand=True, regex = True)
+    except:
+        print('Too many dashes, spilling over parsing to extra column.')
+        df_out[['LP2_unit', 'LP2_street_no', 'spill']] = df_temp['LP_street_no'].str.split(split_chars, expand=True, n=2, regex = True)
+        
+        # If the spillover column contains a street name, pre-pend it to LP_street_name
+        has_street_name = df_out['spill'].str.contains(r'[a-z]$', na = False)
+        df_out.loc[has_street_name, 'LP_street_name'] = df_out.loc[has_street_name, 'spill'] + ' ' +  df_out.loc[has_street_name, 'LP_street_name']
+        
     df_out['LP2_unit'] = df_out['LP2_unit'].fillna(df_out['LP_Unit'])
     df_out['LP2_street_no'] = df_out['LP2_street_no'].fillna(df_out['LP_street_no'])
 
