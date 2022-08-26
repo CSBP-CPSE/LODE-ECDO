@@ -13,7 +13,8 @@ folders_to_backup = [
     '2-OpenTabulate',
     '3-Merging',
     '4-Parsing',
-    '5-Geocoding'
+    '5-Geocoding',
+    '6-AssignCSDs'
 ]
 
 excluded_files = [
