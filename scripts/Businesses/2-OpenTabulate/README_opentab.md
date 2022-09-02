@@ -9,10 +9,14 @@ Opentabulate is a script that is used to standardize column names across differe
 
 The first step is creating a variable map (variablemap.csv). This is quite simple, the column headers in this file are the column names you want for a specific information, such as "facility_name" and "phone" (not all datasets need to contain this information). Each row in the variable map is a different dataset taken from /data/input/. So, for example, let's assume dataset_1 has a column header "HOSPITAL_NAME". In the variable map, in the row for that dataset, under the column "facility_name", we write "HOSPITAL_NAME". This will tell the program what information is what in each dataset (it can't guess for us... yet). By viewing the variable map, this explanation becomes clearer
 
+---
+
+## openTabulate_main.ipynb ##
+Hitting "Run all" on this Jupyter notebook will run all the necessary commands in the correct order as explained below
 
 ## JSON Generator ##
 
-Run `1-jsongenerator.ipynb` to create the JSONs necessary to run opentabulate
+Run the first code block cell in `openTabulate_main.ipynb` to create the JSONs necessary to run opentabulate. This code block converts the `variablemap.csv` into several JSON files (one for each dataset) that opentabulate uses to perform the column mappings.
 
 ## Opentabulate ##
 
@@ -20,8 +24,15 @@ Run `1-jsongenerator.ipynb` to create the JSONs necessary to run opentabulate
 The files in `data/input` are a copy of all files from `1-PreProcessing/processed`
 
 ### 2. Configuration
-The configuration file in this directory (`opentabulate.conf`) is just a copy of the one actually used by opentabulate. To run opentabulate, you will need to add or edit certain things to the configuration, but you must do this at the root of the system. To access the script at the root, go into the terminal and enter: 
-`nano ~/.config/opentabulate.conf`
+The configuration file in this directory (`opentab.conf`) is just a copy of the one actually used by opentabulate. To run opentabulate, you will need to add or edit certain things to the configuration, but you must do this at the root of the system. 
+
+To copy all your edits from `opentab.conf` to the file that's actually used by opentabulate, go into the terminal and enter:
+`cp ~/ODBiz/2-OpenTabulate/opentab.conf ~/.config/opentabulate.conf`
+This is the easier editing option
+
+Or, to directly access the script at the root, go into the terminal and enter: 
+`nano ~/.config/opentabulate.conf`.
+
 You can edit multiple things in opentab, but probably the most essential is the last section "labels". Here you can edit what column headers you want in the output, but it's very important that they must be the same as in the variable map. (You don't need to put all the labels that are in the variable map, but you cannot add any that are not in the variable map)
 For more details on the different opentabulate settings as well as installation, visit: [https://opentabulate.readthedocs.io/en/latest/]
 
@@ -36,15 +47,21 @@ $ cd /home/jovyan/ODBiz/2-OpenTabulate/sources
 $ opentab *
 ```
 
+Note: These opentabulate commands are performed automatically by `1-openTabulate.ipynb` if you hit "run all". 
+
 ### 4. The output
 After running opentabulate, you will find the CSV files with the new column headers in /data/output
 
 ---
 
 ## `update_mapping_summary.py`
-In order to ensure that columns get properly mapped by opentab, especially when dealing with a large number of datasets, the script `update_mapping_summary.py` will generate `mapping_summary.txt` and `unmapped_vars.csv`. `mapping_summary.txt` provides a summary of the column mappings that `variablemap.csv` will produce. It will also flag unmapped columns and unrecognized variables, which are variables present in variablemap, but not in the original dataset. `unmapped_vars.csv` displays unmapped columns in a slightly more readable format if opened in Excel.
+In order to ensure that columns get properly mapped by opentab, especially when dealing with a large number of datasets, the script `update_mapping_summary.py` will generate `mapping_summary.txt` and `unmapped_vars.csv`. 
+
+- `mapping_summary.txt` provides a summary of the column mappings that `variablemap.csv` will produce. It will also flag unmapped columns and unrecognized variables, which are variables present in variablemap, but not in the original dataset. 
+
+- `unmapped_vars.csv` displays unmapped columns in a slightly more readable format if opened in Excel.
 
 ## `add_filename.ipynb` ##
 With the outputs, you can then run add_filename.ipynb to add a column with the name of the file this dataset comes from. This makes it easier to locate different facilities and where errors might come from later in the process.
 
-NOTE: For ODBiz, `1-json_generator.ipynb` has been modified to tell opentab to perform what `add_filename.ipynb` does automatically.
+NOTE: For ODBiz, `1-openTabulate.ipynb` has been modified to tell opentab to perform what `add_filename.ipynb` does automatically.
