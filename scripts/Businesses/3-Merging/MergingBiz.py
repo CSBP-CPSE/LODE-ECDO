@@ -4,15 +4,21 @@ merging_biz.py
 This script reads in, then merges all the output data from the 2-OpenTabulate/Output folder except for specified excluded files. 
 
 This script also standardizes the following values:
-    - NAICS values
+    - postal codes
     - province names
-    - Telephone?
-    - ...
-
-This script also filters out datasets of the following criteria:
-    - ...
+    - country names
     
 A unique index is generated and assigned to every entry to help with data processing further along the pipeline beyond this point.
+As a result, some basic deduplication is performed. If two rows have an exact match with ALL of the following columns, then only the first row is kept:
+    'business_name',
+    'licence_number',
+    'business_id_no',
+    'primary_NAICS',
+    'full_address',
+    'full_address_2',
+    'province',
+    'business_sector',
+    'licence_type'
     
 Output:
 A .csv file, both containing the same merged data.
@@ -48,7 +54,6 @@ def main():
     double_check_mode = True
 
     # Retrieve today's date
-    # today = dt.date.today()
     ET = 'Canada/Eastern'
     start_time = dt.now(timezone(ET))
     today = str(start_time)[:10]
@@ -162,7 +167,6 @@ def main():
 
     # Standardize province names
     print('Standardizing Province Names...')
-
     provs_dict={
                 'Province of Alberta': 'AB',
                 'Province of British Columbia': 'BC',

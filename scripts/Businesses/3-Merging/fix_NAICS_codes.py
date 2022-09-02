@@ -33,7 +33,8 @@ def main():
     df['primary_NAICS'] = df['primary_NAICS'].replace('TBD', np.nan, regex = False)
     df['primary_NAICS'] = df['primary_NAICS'].replace('tbd', np.nan, regex = False)
     df['primary_NAICS'] = df['primary_NAICS'].replace('-', np.nan, regex = False)
-    df['primary_NAICS'] = df['primary_NAICS'].str.replace(r'\s\-\s.*', '', regex = True)
+    temp = df['primary_NAICS'].str.split(r'\s\-\s*', n = 1, regex = True, expand = True)
+    df[['primary_NAICS', 'NAICS_descr2']] = temp
     df['primary_NAICS'] = df['primary_NAICS'].astype('Int64')
     df['primary_NAICS'] = df['primary_NAICS'].abs()
 

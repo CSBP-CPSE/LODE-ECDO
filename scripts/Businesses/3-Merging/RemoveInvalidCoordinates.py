@@ -1,10 +1,10 @@
-import pandas as pd
 '''
 RemoveInvalidCoordinates.py
 
 Sets invalid coordinates to nan
 '''
 
+import pandas as pd
 import numpy as np
 from tqdm import tqdm
 from pytz import timezone
@@ -68,12 +68,12 @@ def main():
     # df = df.set_index('idx')
     # export_idx = True
 
+
+    # Force invalid coords to be blank
     print('Forcing invalid coords to be blank')
     df_invalid_coords = df[~df['valid_coord']].copy()
     df_invalid_coords.to_csv(inv_coords_csv, index = export_idx)
     print(f'Affected rows saved to {inv_coords_csv}')
-
-    # Force invalid coords to be blank
     df.loc[df_invalid_coords.index, ['longitude', 'latitude']] = np.nan
     old_time = new_time
     new_time = dt.now(timezone(ET))
