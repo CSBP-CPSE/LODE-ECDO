@@ -73,6 +73,45 @@ dirs_en={'east':'e',
 	'south-west':'sw'
 	}
 
+long_sub_fr={'autoroute':'aut',
+	'avenue':'av',
+	'boulevard':'boul',
+	'barrage':'brge',
+	'centre':'c',
+	'carré':'car',
+	'cul-de-sac':'cds',
+	'chemin':'ch',
+	'carrefour':'carref',
+	'croissant':'crois',
+	'échangeur':'éch',
+	'esplanada':'espl',
+	'impasse':'imp',
+	'passage':'pass',
+	'plateau':'plat',
+	'promenade':'prom',
+	'rond-point':'rdpt',
+	'ruelle':'rle',
+	'route':'rte',
+	'sentier':'sent',
+	'terrasse':'tsse',
+	}
+
+
+
+dirs_fr={'est':'e',
+	'ouest':'o',
+	'nord':'n',
+	'sud':'s',
+	'nordest':'ne',
+	'nord-est':'ne',
+	'nordouest':'no',
+	'nord-ouest':'no',
+	'sudest':'se',
+	'sud-est':'se',
+	'sudouest':'so',
+	'sud-ouest':'so'
+	}
+
 def AddressClean_en(df,name_in, name_out):
 	dirs=dirs_en
 	long_sub=long_sub_en
@@ -109,65 +148,33 @@ def AddressClean_en(df,name_in, name_out):
 			df[name_out]=df[name_out].replace(regex=expr,value=sub)
 		
 	return df
-##FOR FRENCH	
 
+
+##FOR FRENCH	
 def AddressClean_fr(df, name_in, name_out):
 
-	long_sub={'autoroute':'aut',
-	'avenue':'ave',
-	'boulevard':'boul',
-	'barrage':'brge',
-	'centre':'c',
-	'carré':'car',
-	'cul-de-sac':'cds',
-	'chemin':'ch',
-	'carrefour':'carref',
-	'croissant':'crois',
-	'échangeur':'éch',
-	'esplanada':'espl',
-	'impasse':'imp',
-	'passage':'pass',
-	'plateau':'plat',
-	'promenade':'prom',
-	'rond-point':'rdpt',
-	'ruelle':'rle',
-	'route':'rte',
-	'sentier':'sent',
-	'terrasse':'tsse',
-	}
-
-
-
-	dirs={'est':'e',
-	'ouest':'o',
-	'nord':'n',
-	'sud':'s',
-	'nordest':'ne',
-	'nord-est':'ne',
-	'nordouest':'no',
-	'nord-ouest':'no',
-	'sudest':'se',
-	'sud-est':'se',
-	'sudouest':'so',
-	'sud-ouest':'so'
-
-	}
+    dirs=dirs_fr
+    long_sub=long_sub_fr
 
 	#get rid of periods
-	df[name_out]=[x.replace('.','') for x in df[name_in].astype('str')]
+    df[name_out]=[x.replace('.','') for x in df[name_in].astype('str')]
+    
+    #make all lower case
+    df[name_out]=df[name_out].str.lower()
 
-	for i,j in dirs.items():
+    for i,j in dirs.items():
 	
 		#shorten directions only if they are the last word of the string
-		expr=r"\b"+re.escape(i)+r"$"
-		df[name_out]=df[name_out].replace(regex=expr,value=j)
+        expr=r"\b"+re.escape(i)+r"$"
+        df[name_out]=df[name_out].replace(regex=expr,value=j)
 		 
 
-	for i,j in long_sub.items():
+    for i,j in long_sub.items():
 
 		#shorten street types if they are first word in string:
-		expr=r"^"+re.escape(i)+r"\b"
-		df[name_out]=df[name_out].replace(regex=expr,value=j)
+        expr=r"^"+re.escape(i)+r"\b"
+        df[name_out]=df[name_out].replace(regex=expr,value=j)
 
-	return df
+    return df
+
 

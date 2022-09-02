@@ -46,6 +46,8 @@ for folder in folders_to_backup:
             include = True
         elif f_len >= 6 and f[-6:] == '.ipynb':
             include = True
+        elif f_len >= 3 and f[-3:] == '.md':
+            include = True
         elif f in include_files:
             include = True
         else:
