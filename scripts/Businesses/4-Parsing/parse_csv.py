@@ -25,9 +25,6 @@ python parse_csv.py input/ODBiz_Merged.csv full_address output/parsed_biz.csv
 
 """
 
-
-
-
 import sys
 import pandas as pd
 from postal.parser import parse_address
@@ -42,20 +39,16 @@ def parse_csv(df, addr_col):
     return df
 
 def format_parser(addr):
-
     # libpostal returns a list of tuples, this just converts it to a dictionary
     A = parse_address(addr)
     B = dict((x, y) for (y, x) in A)
     key_list = ['house_number', 'road', 'city', 'state', 'postcode', 'unit', 
                 'house'
                 ]
-    # house = 'house'
     parsed = []
     for k in key_list:
         if k in B.keys():
             parsed.append(B[k])
-        # elif (k == 'house_number') and (house in B.keys()):
-        #     parsed.append(B[house])
         else:
             parsed.append('')
     return parsed
@@ -65,10 +58,6 @@ def parsing_df_wrapper(df_in: pd.DataFrame, addr_col: str):
     start_time = dt.now()
     print(f'Begin parsing the `{addr_col}` column')
     df_in=df_in.fillna('')
-
-    # # Remove spaces adjacent to dashes THIS CAUSES MORE PROBLEMS!!!
-    # df_in[addr_col] = df_in[addr_col].str.replace(r'\s+-', '-', regex = True)
-    # df_in[addr_col] = df_in[addr_col].str.replace(r'-\s+', '-', regex = True)
 
     # Apply Libpostal to parse address
     df_out = parse_csv(df_in, addr_col)
@@ -80,7 +69,6 @@ def parsing_df_wrapper(df_in: pd.DataFrame, addr_col: str):
     df_out.loc[LP_street_no_empty, 'LP_street_no'] = df_out.loc[LP_street_no_empty, 'LP_street_no_alt']
     
     #street numbers that include unit number through a dash get split and put into separate columns
-    # print('stop')
     split_chars = r'[\-\s]'
     df_temp = df_out.loc[df_out['LP_street_no'].str.contains(split_chars)]
     try:
@@ -102,6 +90,7 @@ def parsing_df_wrapper(df_in: pd.DataFrame, addr_col: str):
     df_out['LP2_street_no']=df_out['LP2_street_no'].mask(units, np.nan)
     df_out['LP3_unit'] = df_out['LP3_unit'].fillna(df_out['LP2_unit'])
     
+    # This block of code wasn't relevant for ODBiz
     #df2_temp = df_out.loc[df_out['LP2_street_no'].str.contains(" ", na)]    
     #print(df_temp)
     #df_out[['LP3_unit', 'LP3_street_no']] = df2_temp['LP2_street_no'].str.split(' ', expand=True)
@@ -123,24 +112,24 @@ def parsing_file_wrapper(name_in: str, addr_col: str, name_out: str):
     print(f'File saved to {name_out}')
 
 def main():
+    parser = ArgumentParser(
+        description='Apply libpostal address parser to an address column in a csv')
+    parser.add_argument('name_in',
+                        help='Name/Path of input file')
+    parser.add_argument('addr_col',
+                        help='Name of address column to pass to parser')
+    parser.add_argument('name_out',
+                        help='Name/Path of output file')
+    args = parser.parse_args()
 
-    # parser = ArgumentParser(
-    #     description='Apply libpostal address parser to an address column in a csv')
-    # parser.add_argument('name_in',
-    #                     help='Name/Path of input file')
-    # parser.add_argument('addr_col',
-    #                     help='Name of address column to pass to parser')
-    # parser.add_argument('name_out',
-    #                     help='Name/Path of output file')
-    # args = parser.parse_args()
+    name_in = args.name_in
+    addr_col = args.addr_col
+    name_out = args.name_out
 
-    # name_in = args.name_in
-    # addr_col = args.addr_col
-    # name_out = args.name_out
-
-    name_in = '/home/jovyan/ODBiz/4-Parsing/input/ODBiz_Merged.csv' 
-    addr_col = 'full_address' 
-    name_out = '/home/jovyan/ODBiz/4-Parsing/output/parsed_biz.csv'
+    # The inputs that were used for ODBiz
+    # name_in = '/home/jovyan/ODBiz/4-Parsing/input/ODBiz_Merged.csv' 
+    # addr_col = 'full_address' 
+    # name_out = '/home/jovyan/ODBiz/4-Parsing/output/parsed_biz.csv'
 
     parsing_file_wrapper(name_in, addr_col, name_out)
     

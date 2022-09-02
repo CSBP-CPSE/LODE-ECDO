@@ -17,6 +17,13 @@ def duplicate_dashes(df: pd.DataFrame) -> pd.DataFrame:
 def save_df_to_csv(df, output_path: str, **kwargs):
     '''
     Saves df to_csv and prints a confirmation message
+
+    Arguments:
+        - df (pd.DataFrame): The main dataframe being parsed
+        - **kwargs: Optional keyword arguments to pass along to panda's df.to_csv() function
+        
+    Side Effects:
+        - Outputs df as a csv
     '''
 
     df.to_csv(output_path, **kwargs)
@@ -26,6 +33,13 @@ def simple_parse(df: pd.DataFrame, output_path: str) -> pd.DataFrame:
     '''
     Split LP_street_no by dashes (-), set the right most value as LP2_street_no, 
     set everything else as LP2_unit
+    
+    Arguments:
+        - df (pd.DataFrame): The main dataframe being parsed
+        - output_path (str): Path of the csv file to output the results of this parsing
+        
+    Side Effects:
+        - Outputs df as a csv
     '''
 
     new_df = df.copy()
@@ -55,6 +69,12 @@ def toronto_parse(df: pd.DataFrame, output_path: str) -> pd.DataFrame:
     '''
     Apply a parsing rule specific to several Toronto businesses
 
+    Arguments:
+        - df (pd.DataFrame): The main dataframe being parsed
+        - output_path (str): Path of the csv file to output the results of this parsing
+        
+    Side Effects:
+        - Outputs df as a csv
     '''
 
     new_df = df.copy()
@@ -79,6 +99,10 @@ def flag_incorrect_QC(df: pd.DataFrame, QC_parsed_wrong_df_path: str) -> pd.Data
     '''
     Identify incorrectly parsed entries in the QC dataset and flag them
     by setting LP2_unit and LP2_street_no as nan
+    
+    Arguments:
+        - df (pd.DataFrame): The main dataframe being parsed
+        - QC_parsed_wrong_df_path (str): Path of the csv file to output the results of this parsing
     '''
     df = df.copy()
 
@@ -147,6 +171,10 @@ def detect_unit_starts_non_digit(df: pd.DataFrame, regex_search: str) -> pd.Inde
     '''
     Detects if unit starts with a non-digit character
 
+    Arguments:
+        - df (pd.DataFrame): The main dataframe being parsed
+        - regex_search (str): A regex string to use in the search function
+
     Returns:
         A pandas Index of boolean values
     '''
@@ -159,6 +187,10 @@ def detect_blank_street_names(df: pd.DataFrame, OUT_OF_TOWN_VARS_LIST: list) -> 
     '''
     Detects if LP_street_name is blank given non blank full addresses that aren't "out of town"
 
+    Arguments:
+        - df (pd.DataFrame): The main dataframe being parsed
+        - OUT_OF_TOWN_VARS_LIST (list): A list of full address values that should be discarded due to not providing enough info
+
     Returns:
         A pandas Index of boolean values
     '''
@@ -170,6 +202,11 @@ def detect_blank_street_names(df: pd.DataFrame, OUT_OF_TOWN_VARS_LIST: list) -> 
 def fix_postcode_errs(parsing_errs_df: pd.DataFrame, usa_postcode_err: pd.Series, postal_code_csv: str = None) -> pd.DataFrame:
     '''
     Fixes postal code errors
+
+    Arguments:
+        - parsing_errs_df (pd.DataFrame): A subset of the main dataframe containing only detected parsing errors.
+        - usa_postcode_err (pd.Series): A boolean series that indicates which entries has the usa postal code error
+        - postal_code_csv (str): Default = None. The file path to output the results of this parsing
 
     Side Effects:
         - Outputs usa_postcode_err_df as a csv
@@ -203,14 +240,13 @@ def extract_parsing_errs(df: pd.DataFrame, err_idxs_dict: dict, OUT_OF_TOWN_VARS
         - df: The main dataframe
         - err_idxs_dict: A dictionary of pandas Index of boolean values to indicate which entries have 
         a parsing error
-        - OUT_OF_TOWN_VARS_LIST: A list of full addresses that should be discarded due to not providing enough info
+        - OUT_OF_TOWN_VARS_LIST: A list of full address values that should be discarded due to not providing enough info
         - main_df_output_path: File path to save the main df
         - parsing_errs_output_path: File path to save the parsing errors df
 
     Returns:
         - parsing_errs_df: A dataframe of the extracted entries with parsing errors
     '''
-    
     
     # Extract the indicies of all entries with detected parsing errors
     err_idxs = False
@@ -240,12 +276,22 @@ def extract_parsing_errs(df: pd.DataFrame, err_idxs_dict: dict, OUT_OF_TOWN_VARS
 
     return parsing_errs_df
 
-def fix_dashes_with_spaces(parsing_errs_df: pd.DataFrame, err_id_str: str, dashes_with_spaces_path: str, ORDINAL_NUMBER_DETECTION: str, CAD_POSTCODE_FORMAT: str) -> pd.DataFrame:
+def fix_dashes_with_spaces(parsing_errs_df: pd.DataFrame, dashes_with_spaces_path: str, ORDINAL_NUMBER_DETECTION: str, CAD_POSTCODE_FORMAT: str) -> pd.DataFrame:
     '''
     Fixes entries where spaces adjacent to dashes causes parsing errors
 
+    Arguments:
+        - parsing_errs_df (pd.DataFrame): A dataframe of the extracted entries with parsing errors
+        - dashes_with_spaces_path (str): The file path used to save the results of this parsing
+        - ORDINAL_NUMBER_DETECTION (str): A regex string used to detect ordinal numbers in addressses
+        - CAD_POSTCODE_FORMAT (str): A regex string used to detect valid Canadian postal codes
+    
+    Returns:
+        - dashes_with_spaces_df: A dataframe with some of the dashes_with_spaces errors fixed
+
     Side Effects:
         - Calls fix_postcode_errs()
+        - Saves parsing_errs_df to dashes_with_spaces_path as a csv
     '''
 
     # DEBUG_COLS = ['full_address', 'LP2_unit', 'LP2_street_no', 'LP_street_name']
@@ -295,18 +341,17 @@ def fix_dashes_with_spaces(parsing_errs_df: pd.DataFrame, err_id_str: str, dashe
 def main():
     # Define filepaths
     input_csv_path = '/home/jovyan/ODBiz/4-Parsing/output/parsed_biz.csv'
-    new_df_path = '/home/jovyan/ODBiz/4-Parsing/double_check/parsed_with_spillover.csv'
     df2_path = '/home/jovyan/ODBiz/4-Parsing/double_check/parsed_with_easy_blanket_rule.csv'
     dfTO_path = '/home/jovyan/ODBiz/4-Parsing/double_check/parsed_with_spillover_toronto.csv'
     QC_parsed_wrong_df_path = '/home/jovyan/ODBiz/4-Parsing/custom_parsing_data/QC_Biz_parsed_wrong.csv'
     postal_code_df_path = '/home/jovyan/ODBiz/4-Parsing/custom_parsing_data/postal_code_err.csv'
     dashes_with_spaces_path = '/home/jovyan/ODBiz/4-Parsing/custom_parsing_data/dashes_with_space.csv'
-    # unparsed_addrs_path = '/home/jovyan/ODBiz/4-Parsing/custom_parsing_data/unparsed_addresses.csv'
     main_df_output_path = '/home/jovyan/ODBiz/4-Parsing/custom_parsing_data/main_with_detected_parsing_errors.csv'
     parsing_errs_output_path = '/home/jovyan/ODBiz/4-Parsing/custom_parsing_data/extract_detected_parsing_errors.csv'
     output_csv_path = '/home/jovyan/ODBiz/4-Parsing/output/2-parsed_biz.csv'
     
-    OUT_OF_TOWN_VARS_LIST = [
+    # Define some useful variables
+    OUT_OF_TOWN_VARS_LIST = [ # All entries where full_address was a full match with one of the values in this list were removed
         '-',                                  
         'BUSINESS - OUT OF TOWN SQUAMISH',    
         'BUSINESS - OUT OF TOWN',             
@@ -335,8 +380,6 @@ def main():
     # Extract only entries that spillover their unit+street_no values
     new_df = df[~df['spill'].isna()].copy()
     new_df = new_df[['localfile', 'business_name', 'full_address', 'LP2_unit', 'LP2_street_no', 'spill', 'LP_street_no', 'LP_street_name', 'LP_City', 'LP_Province', 'LP_PostCode', 'LP_Unit', 'LP3_unit']]
-    new_df.to_csv(new_df_path, index = True)
-    print(f'Saved new_df to {new_df_path}')
 
     # Apply a simple parsing rule
     print('Applying simple_parse')
@@ -364,7 +407,6 @@ def main():
 
     # Detect dashes with spaces, libpostal freaks out when it encounters these
     dashes_with_spaces = df['full_address'].str.contains(r'\s+-|-\s+', na = False) & ~(df['LP_street_name'].str.contains(ORDINAL_NUMBER_DETECTION, regex = True) & ((~(df['LP2_unit'].isnull()) | ~(df['LP2_street_no'].str.contains(r'\s', regex = True, na = False))))) & (~(df['full_address'].str.startswith('#', na = False)))
-    # str.contains(r'1st |2nd |3rd |\dth ', regex = True)
 
     # Detect if absolutely no street_no info has been parsed
     street_no_blank = detect_blank_street_no(df)
@@ -399,8 +441,7 @@ def main():
     parsing_errs_df.update(usa_postcode_err_df)    
 
     # Fix dashes with space error
-    # parsing_errs_df['parsing_err'] == 'dashes_with_spaces,'
-    dashes_with_spaces_df = fix_dashes_with_spaces(parsing_errs_df, 'dashes_with_spaces,', dashes_with_spaces_path, ORDINAL_NUMBER_DETECTION, CAD_POSTCODE_FORMAT)
+    dashes_with_spaces_df = fix_dashes_with_spaces(parsing_errs_df, dashes_with_spaces_path, ORDINAL_NUMBER_DETECTION, CAD_POSTCODE_FORMAT)
     df.update(dashes_with_spaces_df)    
     parsing_errs_df.update(dashes_with_spaces_df)   
 
@@ -420,9 +461,7 @@ def main():
     for i in fixed_conds:
         fixed_conds_idxs = fixed_conds_idxs | i
     fixed_conds_idxs = fixed_conds_idxs & (~parsing_errs_df['LP_street_name'].isna())
-    # fixed_conds_idxs = fixed_conds_idxs & (~(parsing_errs_df['LP_street_name'].str.contains('-', na = False))) # Most street names shouldn't have a dash
     parsed_idxs = parsing_errs_df[fixed_conds_idxs].index
-    # parsing_errs_df = parsing_errs_df.drop(index = parsed_idxs)
     parsing_errs_df.loc[parsed_idxs, 'parsing_err_exists'] = False
     print(f'Total    {parsing_errs_df.shape[0]}')
     print('parsing_errs_df[parsing_err_exists].value_counts():')
@@ -432,7 +471,7 @@ def main():
     print('Remaining parsing required (breakdown):')
     print(parsing_errs_df.loc[parsing_errs_df['parsing_err_exists'],'parsing_err'].value_counts())
 
-    ### Unit starts with letter
+    ### Apply a custom regex parser for units that start with a letter (This doesn't actually work properly so I didn't keep these results in the final, but removing only this block of code may break other things)
     re_mapping = {
                     0: 'regex_g1', 
                     1: 'regex_g2'
@@ -468,6 +507,7 @@ def main():
                                         'parsing_err',
                                         'localfile',
                                         'business_name',
+                                        'alt_business_name',
                                         'business_sector',
                                         'business_subsector',
                                         'business_description',
@@ -477,6 +517,7 @@ def main():
                                         'primary_NAICS',
                                         'secondary_NAICS',
                                         'NAICS_descr',
+                                        'NAICS_descr2',
                                         'alt_econ_act_code',
                                         'alt_econ_act_descrip',
                                         'latitude',
@@ -505,11 +546,11 @@ def main():
                                         'geo_source',
                                         ]
     len_column_reorder = len(column_reorder)
-    parsing_errs_rows = parsing_errs_df.shape[1]
-    if len_column_reorder != parsing_errs_rows:
+    parsing_errs_cols = parsing_errs_df.shape[1]
+    if len_column_reorder != parsing_errs_cols:
         print('WARNING! There might be some missing columns!')
         print(f'len_column_reorder = {len_column_reorder}')
-        print(f'parsing_errs_rows = {parsing_errs_rows}')
+        print(f'parsing_errs_cols = {parsing_errs_cols}')
     parsing_errs_df = parsing_errs_df[column_reorder]
 
     # Save parsing_errs_df
@@ -518,7 +559,6 @@ def main():
     # Save the main csv
     df.to_csv(output_csv_path, index = True)
     print(f'Saved df to {output_csv_path}')
-    # print(f'Reminder: df was not saved!')
 
 if __name__ == '__main__':
     main()
