@@ -5,6 +5,7 @@ AB,Lethbridge,http://opendata.lethbridge.ca/datasets/49562195f8c14a26ae9908bc764
 BC,Surrey,https://data.surrey.ca/dataset/places-of-interest,Open,Public buildings including police stations
 NB,Moncton,https://catalogue-moncton.opendata.arcgis.com/datasets/points-of-interest,Open,Public buildings including police stations
 ON,Province,https://www.opp.ca/index.php?id=119,Not Open,"All OPP stations, weblinks"
+ON,Province,https://data.ontario.ca/en/dataset/ontario-provincial-police-detachments-and-bureau-listing,Open,Ontario Provincial Police Detachments and Bureau Listing
 ON,Brampton,http://geohub.brampton.ca/datasets/2c53a937c0494c2786f01b75d4339f0c_6,Open,Public buildings including police stations (shouldbe contained in Peel region as well)
 ON,Cambridge,https://rowopendata-rmw.opendata.arcgis.com/datasets/cityofcambridge::emergency-services,Open,Public buildings including police stations
 ON,Peel Region,http://opendata.peelregion.ca/data-categories/facilities-and-structures/landmarks.aspx,Open,Public buildings including police stations
