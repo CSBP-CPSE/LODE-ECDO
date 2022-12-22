@@ -1,0 +1,25 @@
+﻿Province,Region,Source,Open,Special Note
+AB,Calgary,https://data.calgary.ca/Health-and-Safety/Calgary-Police-Service-Office-Locations/ap4r-bav3,Open,
+AB,Edmonton,https://data.edmonton.ca/Facilities-and-Structures/Police-Stations/e7aq-scxv,Open,
+AB,Lethbridge,http://opendata.lethbridge.ca/datasets/49562195f8c14a26ae9908bc764bb324_0,Open,
+BC,Surrey,https://data.surrey.ca/dataset/places-of-interest,Open,Public buildings including police stations
+NB,Moncton,https://catalogue-moncton.opendata.arcgis.com/datasets/points-of-interest,Open,Public buildings including police stations
+ON,Province,https://www.opp.ca/index.php?id=119,Not Open,"All OPP stations, weblinks"
+ON,Brampton,http://geohub.brampton.ca/datasets/2c53a937c0494c2786f01b75d4339f0c_6,Open,Public buildings including police stations (shouldbe contained in Peel region as well)
+ON,Cambridge,https://rowopendata-rmw.opendata.arcgis.com/datasets/cityofcambridge::emergency-services,Open,Public buildings including police stations
+ON,Peel Region,http://opendata.peelregion.ca/data-categories/facilities-and-structures/landmarks.aspx,Open,Public buildings including police stations
+ON,Guelph,http://data.open.guelph.ca/dataset/guelph-police-stations,Open,Police Stations
+ON,Hamilton,http://open.hamilton.ca/datasets/ad1aeb9b93cf429c9536ea29dd8d5f5f_9,Open,Police Stations
+ON,Huron County,https://data-huron.opendata.arcgis.com/datasets/emergency-services,Open,Public buildings including police stations
+ON,Kingston,https://opendatakingston.cityofkingston.ca/explore/dataset/point-of-interest/information/?disjunctive.description&disjunctive.name,Open,Public buildings including police stations
+ON,Kitchener,http://open-kitchenergis.opendata.arcgis.com/datasets/emergency-services,Open,Public buildings including police stations
+ON,New Market,http://open.newmarket.ca/opendata/navigo/#/show/5d35a2d4806c2dd0?disp=D1555067E583,Open,Public buildings including police stations
+ON,Niagara Region,https://niagaraopendata.ca/dataset/city-of-niagara-falls-police-services,Open,
+ON,Toronto,https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#6c5c17a5-569a-f245-74d7-7fef49791e87,Open,
+QC,Province,https://www.donneesquebec.ca/recherche/dataset/desserte-surete-du-quebec/resource/48cb17de-3013-4147-846e-b602702a6c67,Open,Geocoded police stations
+QC,Gatineau,https://www.donneesquebec.ca/recherche/fr/dataset/vgat_1267315911,Open,Public buildings including police stations
+QC,Longueuil,https://www.donneesquebec.ca/recherche/fr/dataset/postes-de-police,Open,coordinates only
+QC,Montreal,https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-carte-postes-quartier,Open,
+QC,Quebec City,https://www.donneesquebec.ca/recherche/dataset/daa10606-5fdd-4c9b-b5ef-235081690b6e/resource/06faa019-50f1-4741-94a7-adb8729d24b9/download/vdq-lieupublic.csv,Open,Public buildings including police stations
+QC,Repentigny,https://www.donneesquebec.ca/recherche/fr/dataset/postes-de-police-et-casernes-de-pompiers,Open,Police and fire stations
+CAN,Canada,http://www.rcmp-grc.gc.ca/detach/en/d/*/kmlloc,???,Needs scraping

@@ -19,9 +19,11 @@ ON,York Region,http://insights-york.opendata.arcgis.com/datasets/02532059bb684e4
 ON,Mississauga,http://data.mississauga.ca/datasets/e84a2af2c2c6489cbd42086769df9b5e_0,Y,Y,,,
 ON,Niagara Falls,https://niagaraopendata.ca/dataset/city-of-niagara-falls-fire-services,N,Y,,,
 ON,Norfolk County,http://opendata.norfolkcounty.ca/datasets/fire-halls,Y,Y,,,
+QC,Province,https://www.donneesquebec.ca/recherche/dataset/casernes-de-pompiers/resource/7b22b7bc-66ae-4d9e-9afe-840e24e1e110,Y,Y,,,Geocoded fire stations
 QC,Gatineau,https://www.donneesquebec.ca/recherche/fr/dataset/vgat_1267315911,Y,Y,,,Public buildings including fire stations
 QC,Montreal,https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-casernes-pompiers,Y,Y,,,
 QC,Longueuil,https://www.donneesquebec.ca/recherche/fr/dataset/casernes-d-incendie,N,Y,,,
 QC,Laval,https://www.donneesquebec.ca/recherche/fr/dataset/lieux-et-edifices-municipaux,Y,Y,,,Public buildings including fire stations
 QC,Quebec City,https://www.donneesquebec.ca/recherche/fr/dataset/vque_14,Y,Y,,,Public buildings including fire stations
 QC,Repentigny,https://www.donneesquebec.ca/recherche/fr/dataset/postes-de-police-et-casernes-de-pompiers,Y,Y,,,Police and fire stations
+CAN,Canada,https://fire.fandom.com/wiki/Category:Canada,Y,Y,,,"Public wiki, can be scraped, partially geocoded"
