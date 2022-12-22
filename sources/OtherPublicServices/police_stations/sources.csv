@@ -3,6 +3,7 @@ AB,Calgary,https://data.calgary.ca/Health-and-Safety/Calgary-Police-Service-Offi
 AB,Edmonton,https://data.edmonton.ca/Facilities-and-Structures/Police-Stations/e7aq-scxv,Open,
 AB,Lethbridge,http://opendata.lethbridge.ca/datasets/49562195f8c14a26ae9908bc764bb324_0,Open,
 BC,Surrey,https://data.surrey.ca/dataset/places-of-interest,Open,Public buildings including police stations
+MB,Manitoba First Nations Police,https://www.mfnp.ca/detachments/,?,First Nations Police Service
 NB,Moncton,https://catalogue-moncton.opendata.arcgis.com/datasets/points-of-interest,Open,Public buildings including police stations
 ON,Province,https://www.opp.ca/index.php?id=119,Not Open,"All OPP stations, weblinks"
 ON,Province,https://data.ontario.ca/en/dataset/ontario-provincial-police-detachments-and-bureau-listing,Open,Ontario Provincial Police Detachments and Bureau Listing
@@ -17,6 +18,8 @@ ON,Kitchener,http://open-kitchenergis.opendata.arcgis.com/datasets/emergency-ser
 ON,New Market,http://open.newmarket.ca/opendata/navigo/#/show/5d35a2d4806c2dd0?disp=D1555067E583,Open,Public buildings including police stations
 ON,Niagara Region,https://niagaraopendata.ca/dataset/city-of-niagara-falls-police-services,Open,
 ON,Toronto,https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#6c5c17a5-569a-f245-74d7-7fef49791e87,Open,
+ON,Anishinabek Police Service,https://www.apscops.org/detachments/,?,First Nations Police Service
+ON,Treaty Three Police Service,http://www.t3ps.ca/,?,First Nations Police Service
 QC,Province,https://www.donneesquebec.ca/recherche/dataset/desserte-surete-du-quebec/resource/48cb17de-3013-4147-846e-b602702a6c67,Open,Geocoded police stations
 QC,Gatineau,https://www.donneesquebec.ca/recherche/fr/dataset/vgat_1267315911,Open,Public buildings including police stations
 QC,Longueuil,https://www.donneesquebec.ca/recherche/fr/dataset/postes-de-police,Open,coordinates only
