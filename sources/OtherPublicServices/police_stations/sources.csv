@@ -22,8 +22,10 @@ ON,Anishinabek Police Service,https://www.apscops.org/detachments/,?,First Natio
 ON,Treaty Three Police Service,http://www.t3ps.ca/,?,First Nations Police Service
 QC,Province,https://www.donneesquebec.ca/recherche/dataset/desserte-surete-du-quebec/resource/48cb17de-3013-4147-846e-b602702a6c67,Open,Geocoded police stations
 QC,Gatineau,https://www.donneesquebec.ca/recherche/fr/dataset/vgat_1267315911,Open,Public buildings including police stations
+QC,Gatineau,https://www.gatineau.ca/portail/default.aspx?p=guichet_municipal/police/communiquez_avec_nous/postes_police,Open?,Needs dynamic HTML scraping
 QC,Longueuil,https://www.donneesquebec.ca/recherche/fr/dataset/postes-de-police,Open,coordinates only
 QC,Montreal,https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-carte-postes-quartier,Open,
+QC,Montreal,https://spvm.qc.ca/fr/mapapi/getpdq,Open?,JSON data
 QC,Quebec City,https://www.donneesquebec.ca/recherche/dataset/daa10606-5fdd-4c9b-b5ef-235081690b6e/resource/06faa019-50f1-4741-94a7-adb8729d24b9/download/vdq-lieupublic.csv,Open,Public buildings including police stations
 QC,Repentigny,https://www.donneesquebec.ca/recherche/fr/dataset/postes-de-police-et-casernes-de-pompiers,Open,Police and fire stations
 CAN,Canada,http://www.rcmp-grc.gc.ca/detach/en/d/*/kmlloc,???,Needs scraping
