@@ -1,6 +1,6 @@
 # Scrapy for Fire Departments
 
-## Documentatation
+## Documentation
 
 - [https://docs.scrapy.org/en/latest/intro/tutorial.html](https://docs.scrapy.org/en/latest/intro/tutorial.html)
 
