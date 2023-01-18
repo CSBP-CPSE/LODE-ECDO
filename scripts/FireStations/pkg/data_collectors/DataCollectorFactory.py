@@ -1,6 +1,7 @@
 from .CsvDataCollector import CsvDataCollector
 from .JsonDataCollector import JsonDataCollector
 from .KmlDataCollector import KmlDataCollector
+from .SeleniumDataCollector import SeleniumDataCollector
 
 class DataCollectorFactory(object):
 
@@ -13,6 +14,8 @@ class DataCollectorFactory(object):
             return CsvDataCollector(cfg)
         elif data_type== "kml":
             return KmlDataCollector(cfg)
+        elif data_type== "esri":
+            return SeleniumDataCollector(cfg)
         elif data_type in ["json", "geojson", "topojson"]:
             return JsonDataCollector(cfg)
         else:

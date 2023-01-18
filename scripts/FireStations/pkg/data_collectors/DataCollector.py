@@ -23,5 +23,17 @@ class DataCollector(ABC):
         pass
 
     @abstractmethod
+    def set_output_dir(self):
+        pass
+
+    @abstractmethod
+    def set_output_file(self):
+        pass    
+
+    @abstractmethod
     def save_data(self):
+        pass
+
+    @abstractmethod
+    def set_logger(self, logger):
         pass
