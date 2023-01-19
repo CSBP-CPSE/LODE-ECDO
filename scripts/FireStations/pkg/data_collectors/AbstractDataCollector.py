@@ -1,5 +1,5 @@
 '''
-File:    DataCollector.py
+File:    AbstractDataCollector.py
 Author:  Marcello Barisonzi CSBP/CPSE <marcello.barisonzi@statcan.gc.ca>
 
 Purpose: Abstract class for data collectors
@@ -9,7 +9,7 @@ Created on: 2023-01-17
 
 from abc import ABC, abstractmethod
 
-class DataCollector(ABC):
+class AbstractDataCollector(ABC):
     """
     Abstract class for data collectors
     """

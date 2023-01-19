@@ -23,7 +23,7 @@ with open(os.path.join(os.path.dirname(__file__), "config.json"), "r") as f:
     logger.debug("Loaded config: %s" % cfg)
 
     # instantiate factory
-    fact = DataCollectorFactory()
+    fact = DataCollectorFactory(logger)
 
     for c in cfg:
         # skip data if it already exists:
@@ -36,8 +36,6 @@ with open(os.path.join(os.path.dirname(__file__), "config.json"), "r") as f:
             continue
 
         dc = fact.get_data_collector(c)
-
-        dc.set_logger(logger)
 
         if dc.get_data():
             dc.set_output_dir(out_path)
