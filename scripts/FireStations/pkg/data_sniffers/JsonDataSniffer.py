@@ -35,7 +35,13 @@ class JsonDataSniffer(AbstractDataSniffer):
         self._source = src
 
     def is_geojson(self):
-        return "type" in self._json_dct.keys() and self._json_dct["type"] == "FeatureCollection"
+        return self._json_dct.__class__ == dict.__class__ and \
+            "type" in self._json_dct.keys() and \
+            self._json_dct["type"] == "FeatureCollection"
 
     def get_attributes(self):
-        return list(self._json_dct["features"][0]["properties"].keys())
+        if not self.is_geojson():
+            self._logger.error("%s not GeoJSON data." % self)
+            return []
+        else:
+            return list(self._json_dct["features"][0]["properties"].keys())

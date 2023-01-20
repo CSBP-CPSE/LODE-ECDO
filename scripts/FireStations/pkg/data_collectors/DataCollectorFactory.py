@@ -8,8 +8,9 @@ Created on: 2023-01-17
 '''
 
 from .RequestsDataCollector import RequestsDataCollector
-from .EsriDataCollector import EsriDataCollector
+from .EsriDataCollector     import EsriDataCollector
 from .ZippedDataCollector   import ZippedDataCollector
+from .ScrapyDataCollector   import ScrapyDataCollector
 
 class DataCollectorFactory(object):
 
@@ -25,7 +26,9 @@ class DataCollectorFactory(object):
         elif data_delivery == "esri":
             instance = EsriDataCollector(cfg)
         elif data_delivery == "zipped":
-            instance = ZippedDataCollector(cfg)    
+            instance = ZippedDataCollector(cfg)   
+        elif data_delivery == "scrapy":
+            instance = ScrapyDataCollector(cfg) 
         else:
             raise Exception("Unknown data delivery: %s" % data_delivery)
 

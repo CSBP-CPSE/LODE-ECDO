@@ -28,7 +28,8 @@ with open(os.path.join(os.path.dirname(__file__), "config.json"), "r") as f:
     fact2 = DataSnifferFactory(logger)
 
     for c in cfg:
-        if c["data_type"] != "kml":
+        #if c["data_type"] != "kml":
+        if c["data_delivery"] != "scrapy":
             continue
 
         # skip data if it already exists:
