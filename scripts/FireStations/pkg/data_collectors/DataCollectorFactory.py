@@ -1,5 +1,5 @@
 from .RequestsDataCollector import RequestsDataCollector
-from .SeleniumDataCollector import SeleniumDataCollector
+from .EsriDataCollector import EsriDataCollector
 from .ZippedDataCollector   import ZippedDataCollector
 
 class DataCollectorFactory(object):
@@ -14,7 +14,7 @@ class DataCollectorFactory(object):
         if data_delivery == "direct":
             instance = RequestsDataCollector(cfg)
         elif data_delivery == "esri":
-            instance = SeleniumDataCollector(cfg)
+            instance = EsriDataCollector(cfg)
         elif data_delivery == "zipped":
             instance = ZippedDataCollector(cfg)    
         else:

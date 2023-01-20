@@ -3,4 +3,5 @@ from .RequestsDataCollector import RequestsDataCollector
 from .CsvDataCollector import CsvDataCollector
 from .JsonDataCollector import JsonDataCollector
 from .KmlDataCollector import KmlDataCollector
-from .SeleniumDataCollector import SeleniumDataCollector
+from .EsriDataCollector import EsriDataCollector
+from .ZippedDataCollector import ZippedDataCollector

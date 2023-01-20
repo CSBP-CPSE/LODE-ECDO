@@ -1,5 +1,5 @@
 '''
-File:    SeleniumDataCollector.py
+File:    EsriDataCollector.py
 Author:  Marcello Barisonzi CSBP/CPSE <marcello.barisonzi@statcan.gc.ca>
 
 Purpose: Selenium bot to download data from ESRI portals
@@ -16,9 +16,10 @@ from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import NoSuchElementException 
 
 
-class SeleniumDataCollector(AbstractDataCollector):
+class EsriDataCollector(AbstractDataCollector):
     """
     Selenium bot to download data from ESRI portals
     """
@@ -26,13 +27,14 @@ class SeleniumDataCollector(AbstractDataCollector):
     def __init__(self, cfg):
         self._url = cfg['url']
         self._reference = cfg["reference"]
+        self._data_type = cfg["data_type"]
 
         # initialise web driver
         # Edge is chosen by default
         # could be diversified at a later stage
         self._driver = webdriver.Edge()
         self._driver.maximize_window()
-        self._driver.implicitly_wait(30)
+        self._driver.implicitly_wait(20)
 
         return
 
@@ -59,19 +61,28 @@ class SeleniumDataCollector(AbstractDataCollector):
         # Click on the button to open panel
         dwld_button.click()
 
-        # Now the download tab has opened, parse it
+        # Now the download tab has opened, parse it to find "calcite cards"
         dwld_cards = self._driver.find_elements(By.CSS_SELECTOR, "div.dataset-download-card")
 
         w = WebDriverWait(self._driver, 10)
         w.until(EC.visibility_of(dwld_cards[0]))
 
-        dwld_btns = [self._find_download_button(e) for e in dwld_cards]
+        # Keep only the one with the desired datatype
+        calcite_card = list(filter(lambda x: x["data_type"].lower() == self._data_type,
+                                    [self._find_calcite_card(e) for e in dwld_cards]
+                        ))[0]["calcite-card"]
 
-        for btn in filter(lambda x: x["data_type"].lower() == "geojson", dwld_btns ):
-            ActionChains(self._driver)\
-                    .move_to_element(btn['button'])\
-                    .click()\
-                    .perform()
+        # scroll to bottom of side panel to keep content in sight
+        side_panel_dwld = list(filter(self._find_scrollable_element , 
+                                self._driver.find_elements(By.CSS_SELECTOR, "div.side-panel-content")))
+        
+        # if the side panel is scrollable, scroll to the bottom
+        if len(side_panel_dwld):                    
+            scroll_height = side_panel_dwld[0].get_attribute("scrollHeight")
+            self._driver.execute_script("arguments[0].scrollTo(0, arguments[1]);", side_panel_dwld[0], scroll_height)
+
+        push_button = self._find_download_button(calcite_card)
+        push_button.click()
 
         # Assume the download path is the standard one
         # TODO: get it from the driver?
@@ -109,38 +120,60 @@ class SeleniumDataCollector(AbstractDataCollector):
     def save_data(self):
         o_f = os.path.join(self._output_dir, self._output_file)
         self._logger.info("%s saving data to: %s" % (self, o_f))
-        #with open(os.path.join(self._output_dir, self._output_file), "w", encoding="utf8") as f:
-        f = open(os.path.join(self._output_dir, self._output_file), "w", encoding="utf8")
-        f.write(self._data)
+        with open(o_f, "w", encoding="utf8") as f:
+            f.write(self._data)
         self._logger.info("%s data saved." % self)
 
     def set_logger(self, logger):
         self._logger = logger
 
-    @staticmethod
-    def _find_download_button(element):
+    def _find_calcite_card(self, element):
         """
-        Find download button from download panel
+        Find "calcite" card that contains download info
         """
 
         # hub card has a shadow root
-        hub_card = element.find_element(By.XPATH, './/hub-download-card').shadow_root
-        
+        hub_card = element.find_element(By.XPATH, './/hub-download-card').shadow_root     
+
         # "calcite card contains button and data type"
         calcite_card = hub_card.find_element(By.CSS_SELECTOR, 'calcite-card')
         
+        ActionChains(self._driver)\
+            .move_to_element(calcite_card)\
+            .perform()
+
         data_type = calcite_card.find_element(By.XPATH, './/h3').text
+
+        return {'data_type': data_type, 'calcite-card': calcite_card}
+
+    def _find_download_button(self, element):
+                
+        # check if calcite card has calcite button for update & download
+        try:
+            calcite_button = element.find_element(By.XPATH, './/div/calcite-dropdown/calcite-button')
         
-        dwld_button = calcite_card.find_element(By.XPATH, './/div/calcite-button')
+            self._driver.execute_script("arguments[0].scrollIntoView(true);", calcite_button)
+
+            calcite_button.click()
+            
+            # select the immediate download span element
+            dwld_button = element.find_element(By.XPATH, './/div/calcite-dropdown/calcite-dropdown-group/calcite-dropdown-item[2]/span')
+        except NoSuchElementException:
+            # only one download button
+            dwld_button = element.find_element(By.XPATH, './/div/calcite-button')
         
-        return {'data_type': data_type, 'button': dwld_button}
+        return dwld_button
 
     @staticmethod
     def _wait_for_downloads(dwn_dir):
-        time.sleep(5)
+        time.sleep(2)
         while any([filename.endswith(".crdownload") for filename in 
                 os.listdir(dwn_dir)]):
             time.sleep(2)
+
+    @staticmethod
+    def _find_scrollable_element(x):
+        return int(x.get_attribute("scrollHeight")) > int(x.get_attribute("clientHeight"))
 
     def _getDownLoadedFileName(self):
         """
