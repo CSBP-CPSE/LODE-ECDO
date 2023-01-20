@@ -5,7 +5,8 @@
         "url": "https://data.edmonton.ca/api/views/b4y7-zhnz/rows.csv?accessType=DOWNLOAD",
         "reference": "https://data.edmonton.ca/Emergency-Services/Fire-Stations/b4y7-zhnz",
         "licence": "https://data.edmonton.ca/stories/s/City-of-Edmonton-Open-Data-Terms-of-Use/msh8-if28/",
-        "data_type": "csv"
+        "data_type": "csv",
+        "data_delivery": "direct"
     },
     {
         "province": "QC",
@@ -13,7 +14,8 @@
         "url": "https://geoegl.msp.gouv.qc.ca/apis/wss/incendie.fcgi?service=wfs&version=1.1.0&request=getfeature&typename=MSP_CASERNE_PUBLIC&outputformat=geojson&srsName=epsg:4326",
         "reference": "https://www.donneesquebec.ca/recherche/dataset/casernes-de-pompiers/resource/7b22b7bc-66ae-4d9e-9afe-840e24e1e110",
         "licence": "https://www.donneesquebec.ca/fr/licence/#cc-by",
-        "data_type": "geojson"
+        "data_type": "geojson",
+        "data_delivery": "direct"
     },
     {
         "province": "BC",
@@ -77,5 +79,104 @@
         "licence": "https://www.chilliwack.com/main/page.cfm?id=2391",
         "data_type": "json",
         "data_delivery": "zipped"
+    },
+    {
+        "province": "ON",
+        "area": "Peel Region",
+        "url": "https://geohub.brampton.ca/datasets/2c53a937c0494c2786f01b75d4339f0c_6/explore",
+        "reference": "https://geohub.brampton.ca/datasets/2c53a937c0494c2786f01b75d4339f0c_6/explore",
+        "licence": "https://creativecommons.org/licenses/by/4.0",
+        "data_type": "geojson",
+        "data_delivery": "esri"
+    },
+    {
+        "province": "ON",
+        "area": "Guelph",
+        "url": "http://data.open.guelph.ca/datafiles/gis/FireStations.geojson",
+        "reference": "http://data.open.guelph.ca/dataset/guelph-fire-stations",
+        "licence": "http://data.open.guelph.ca/pages/open-government-licence",
+        "data_type": "geojson",
+        "data_delivery": "direct"
+    },
+    {
+        "province": "ON",
+        "area": "Cambridge",
+        "url": "https://rowopendata-rmw.opendata.arcgis.com/datasets/cityofcambridge::emergency-services",
+        "reference": "https://rowopendata-rmw.opendata.arcgis.com/datasets/cityofcambridge::emergency-services",
+        "licence": "https://maps.cambridge.ca/images/opendata/Open%20data%20licence.pdf",
+        "data_type": "geojson",
+        "data_delivery": "esri"
+    },
+    {
+        "province": "ON",
+        "area": "Oshawa",
+        "url": "https://city-oshawa.opendata.arcgis.com/datasets/oshawa-fire-station-locations/explore",
+        "reference": "https://city-oshawa.opendata.arcgis.com/datasets/oshawa-fire-station-locations/explore",
+        "licence": "https://city-oshawa.opendata.arcgis.com/datasets/oshawa-fire-station-locations/explore",
+        "data_type": "geojson",
+        "data_delivery": "esri"
+    },
+    {
+        "province": "ON",
+        "area": "Hamilton",
+        "url": "http://open.hamilton.ca/datasets/dbb028cd6bcc4b218c607952b760fd04_5",
+        "reference": "http://open.hamilton.ca/datasets/dbb028cd6bcc4b218c607952b760fd04_5",
+        "licence": "http://open.hamilton.ca/datasets/dbb028cd6bcc4b218c607952b760fd04_5",
+        "data_type": "geojson",
+        "data_delivery": "esri"
+    },
+    {
+        "province": "ON",
+        "area": "Kingston",
+        "url": "https://opendatakingston.cityofkingston.ca/api/explore/v2.1/catalog/datasets/point-of-interest/exports/geojson?lang=en&timezone=America%2FNew_York",
+        "reference": "https://opendatakingston.cityofkingston.ca/explore/dataset/point-of-interest/information/?disjunctive.description&disjunctive.name",
+        "licence": "https://www.cityofkingston.ca/documents/10180/144997/CityofKingston_OpenDataLicense.pdf",
+        "data_type": "geojson",
+        "data_delivery": "direct"
+    },
+    {
+        "province": "ON",
+        "area": "Kitchener",
+        "url": "https://open-kitchenergis.opendata.arcgis.com/datasets/emergency-services/explore",
+        "reference": "https://open-kitchenergis.opendata.arcgis.com/datasets/emergency-services/explore",
+        "licence": "https://open-kitchenergis.opendata.arcgis.com/datasets/emergency-services/explore",
+        "data_type": "geojson",
+        "data_delivery": "esri"
+    },
+    {
+        "province": "ON",
+        "area": "Markham",
+        "url": "https://insights-york.opendata.arcgis.com/datasets/02532059bb684e40baa15313b8ab3bb3_0/explore",
+        "reference": "https://insights-york.opendata.arcgis.com/datasets/02532059bb684e40baa15313b8ab3bb3_0/explore",
+        "licence": "https://insights-york.opendata.arcgis.com/datasets/02532059bb684e40baa15313b8ab3bb3_0/explore",
+        "data_type": "geojson",
+        "data_delivery": "esri"
+    },
+    {
+        "province": "ON",
+        "area": "Missisauga",
+        "url": "https://data.mississauga.ca/datasets/e84a2af2c2c6489cbd42086769df9b5e_0/explore",
+        "reference": "https://data.mississauga.ca/datasets/e84a2af2c2c6489cbd42086769df9b5e_0/explore",
+        "licence": "https://data.mississauga.ca/datasets/e84a2af2c2c6489cbd42086769df9b5e_0/explore",
+        "data_type": "geojson",
+        "data_delivery": "esri"
+    },
+    {
+        "province": "BC",
+        "area": "Surrey",
+        "url": "https://cosmos.surrey.ca/geo_ref/Images/OpenDataArchives/places_of_interest_JSON.zip",
+        "reference": "https://data.surrey.ca/dataset/places-of-interest",
+        "licence": "https://data.surrey.ca/pages/open-government-licence-surrey",
+        "data_type": "json",
+        "data_delivery": "zipped"
+    },
+    {
+        "province": "ON",
+        "area": "Huron County",
+        "url": "https://data-huron.opendata.arcgis.com/datasets/66f26e1623c844b49cdfe6e92e79bcad_0/explore",
+        "reference": "https://data-huron.opendata.arcgis.com/datasets/66f26e1623c844b49cdfe6e92e79bcad_0/explore",
+        "licence": "https://data-huron.opendata.arcgis.com/datasets/66f26e1623c844b49cdfe6e92e79bcad_0/explore",
+        "data_type": "geojson",
+        "data_delivery": "esri"
     }
 ]
