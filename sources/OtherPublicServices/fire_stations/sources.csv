@@ -26,4 +26,5 @@ QC,Longueuil,https://www.donneesquebec.ca/recherche/fr/dataset/casernes-d-incend
 QC,Laval,https://www.donneesquebec.ca/recherche/fr/dataset/lieux-et-edifices-municipaux,Y,Y,,,Public buildings including fire stations
 QC,Quebec City,https://www.donneesquebec.ca/recherche/fr/dataset/vque_14,Y,Y,,,Public buildings including fire stations
 QC,Repentigny,https://www.donneesquebec.ca/recherche/fr/dataset/postes-de-police-et-casernes-de-pompiers,Y,Y,,,Police and fire stations
+SK,Saskatoon,http://opendata-saskatoon.cloudapp.net/DataBrowser/SaskatoonOpenDataCatalogueBeta/EmergencyFacility#param=NOFILTER--DataView--Results,Y,Y?,,,
 CAN,Canada,https://fire.fandom.com/wiki/Category:Canada,Y,Y,,,"Public wiki, can be scraped, partially geocoded"

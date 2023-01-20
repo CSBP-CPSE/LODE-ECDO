@@ -20,6 +20,7 @@ class RequestsDataCollector(AbstractDataCollector):
         self._url = cfg['url']
         self._reference = cfg["reference"]
         self._session = requests.Session()
+        self._data = None
         return
 
     def set_output_dir(self, d):
@@ -29,6 +30,20 @@ class RequestsDataCollector(AbstractDataCollector):
         self._output_file = f
 
     def get_data(self):
+        # Check if data has been read into memory
+        if self._data:
+            self._logger.info("%s data in memory." % self)
+            return True
+
+        # if not, check if data cache is availble
+        o_f = os.path.join(self._output_dir, self._output_file)
+        if os.path.exists(o_f):
+            self._logger.info("%s reading data from cache: %s" % (self, o_f))
+            with open(o_f, "r", encoding="utf8") as f:
+                self._data = f.read()
+                self._logger.info("%s data read." % self)
+                return True
+
         self._logger.info("%s collecting data from: %s" % (self, self._url))
 
         # fake user agent
@@ -37,6 +52,7 @@ class RequestsDataCollector(AbstractDataCollector):
 
         self._response = self._session.get(self._url, headers=headers)
         if self._response.ok:
+            self._data = self._response.text
             self._logger.info("%s data collected" % self)
         else:
             self._logger.info("%s request failed with response: %s" % (self, self._response))
@@ -49,7 +65,7 @@ class RequestsDataCollector(AbstractDataCollector):
         o_f = os.path.join(self._output_dir, self._output_file)
         self._logger.info("%s saving data to: %s" % (self, o_f))
         with open(os.path.join(self._output_dir, self._output_file), "w", encoding="utf8") as f:
-            f.write(self._response.text)
+            f.write(self._data)
             self._logger.info("%s data saved." % self)
 
     def set_logger(self, logger):

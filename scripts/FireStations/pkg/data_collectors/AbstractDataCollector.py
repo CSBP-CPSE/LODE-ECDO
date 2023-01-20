@@ -37,3 +37,6 @@ class AbstractDataCollector(ABC):
     @abstractmethod
     def set_logger(self, logger):
         pass
+
+    def pass_data(self):
+        return self._data

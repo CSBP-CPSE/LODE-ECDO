@@ -28,13 +28,7 @@ class EsriDataCollector(AbstractDataCollector):
         self._url = cfg['url']
         self._reference = cfg["reference"]
         self._data_type = cfg["data_type"]
-
-        # initialise web driver
-        # Edge is chosen by default
-        # could be diversified at a later stage
-        self._driver = webdriver.Edge()
-        self._driver.maximize_window()
-        self._driver.implicitly_wait(20)
+        self._data = None
 
         return
 
@@ -45,7 +39,29 @@ class EsriDataCollector(AbstractDataCollector):
         self._output_file = f
 
     def get_data(self):
+        # Check if data has been read into memory
+        if self._data:
+            self._logger.info("%s data in memory." % self)
+            return True
+
+        # if not, check if data cache is availble
+        o_f = os.path.join(self._output_dir, self._output_file)
+        if os.path.exists(o_f):
+            self._logger.info("%s reading data from cache: %s" % (self, o_f))
+            with open(o_f, "r", encoding="utf8") as f:
+                self._data = f.read()
+                self._logger.info("%s data read." % self)
+                return True
+
+        # otherwise download
         self._logger.info("%s collecting data from: %s" % (self, self._url))
+
+        # initialise web driver
+        # Edge is chosen by default
+        # could be diversified at a later stage
+        self._driver = webdriver.Edge()
+        self._driver.maximize_window()
+        self._driver.implicitly_wait(20)
 
         self._driver.get(self._url)
 
@@ -122,7 +138,7 @@ class EsriDataCollector(AbstractDataCollector):
         self._logger.info("%s saving data to: %s" % (self, o_f))
         with open(o_f, "w", encoding="utf8") as f:
             f.write(self._data)
-        self._logger.info("%s data saved." % self)
+            self._logger.info("%s data saved." % self)
 
     def set_logger(self, logger):
         self._logger = logger

@@ -1,3 +1,12 @@
+'''
+File:    DataCollectorFactory.py
+Author:  Marcello Barisonzi CSBP/CPSE <marcello.barisonzi@statcan.gc.ca>
+
+Purpose: Factory for DataCollectors
+
+Created on: 2023-01-17
+'''
+
 from .RequestsDataCollector import RequestsDataCollector
 from .EsriDataCollector import EsriDataCollector
 from .ZippedDataCollector   import ZippedDataCollector

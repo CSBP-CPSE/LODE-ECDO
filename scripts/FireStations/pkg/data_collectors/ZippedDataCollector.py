@@ -23,6 +23,20 @@ class ZippedDataCollector(RequestsDataCollector):
         self._data_type = cfg['data_type']
 
     def get_data(self):
+        # Check if data has been read into memory
+        if self._data:
+            self._logger.info("%s data in memory." % self)
+            return True
+
+        # if not, check if data cache is availble
+        o_f = os.path.join(self._output_dir, self._output_file)
+        if os.path.exists(o_f):
+            self._logger.info("%s reading data from cache: %s" % (self, o_f))
+            with open(o_f, "r", encoding="utf8") as f:
+                self._data = f.read()
+                self._logger.info("%s data read." % self)
+                return True
+
         self._logger.info("%s collecting data from: %s" % (self, self._url))
 
         # fake user agent
@@ -61,7 +75,7 @@ class ZippedDataCollector(RequestsDataCollector):
         zipf.extract(target_file, path=tempdir)
 
         with open(os.path.join(tempdir, target_file), "r") as f:
-            self._data =  f.read()
+            self._data = f.read()
 
         # cleanup
         shutil.rmtree(tempdir)

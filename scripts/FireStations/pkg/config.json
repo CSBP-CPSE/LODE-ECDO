@@ -178,5 +178,14 @@
         "licence": "https://data-huron.opendata.arcgis.com/datasets/66f26e1623c844b49cdfe6e92e79bcad_0/explore",
         "data_type": "geojson",
         "data_delivery": "esri"
+    },
+    {
+        "province": "SK",
+        "area": "Saskatoon",
+        "url": "http://opendata-saskatoon.cloudapp.net/DataBrowser/DownloadKml?container=SaskatoonOpenDataCatalogueBeta&entitySet=EmergencyFacility&filter=NOFILTER",
+        "reference": "http://opendata-saskatoon.cloudapp.net/DataBrowser/SaskatoonOpenDataCatalogueBeta/EmergencyFacility#param=NOFILTER--DataView--Results",
+        "licence": "http://opendata-saskatoon.cloudapp.net/TermsOfUse/TermsOfUse",
+        "data_type": "kml",
+        "data_delivery": "zipped"
     }
 ]
