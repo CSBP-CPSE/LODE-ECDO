@@ -8,19 +8,18 @@ Created on: 2023-01-23
 '''
 
 import pandas as pd
+import geopandas as gpd
+from shapely import Point
 from io import StringIO
 
-from .AbstractDataConverter import AbstractDataConverter
+from .DataConverter import DataConverter
 
-class FireWikiDataConverter(AbstractDataConverter):
+class FireWikiDataConverter(DataConverter):
     """
     Convert Scrapy-JSON to GeoJSON
     """
 
-    def __init__(self, cfg):
-        self._source = None
-        self._data = None
-        self._data_converted = False
+
 
     def get_data(self):
         # retrieving data from source
@@ -37,47 +36,60 @@ class FireWikiDataConverter(AbstractDataConverter):
         if not self._data:
             self.get_data()
 
-        # read json text into dataframe
-        fd = pd.read_json(StringIO(self._data))
+        try:
+            # read json text into dataframe
+            fd = pd.read_json(StringIO(self._data))
 
-        fd = fd.rename(columns={"title":"fire_department_name"})
+            fd = fd.rename(columns={"title":"fire_department_name"})
 
-        # get individual fire stations
-        fd = fd.explode("locations")
+            # get individual fire stations
+            fd = fd.explode("locations")
 
-        # remove points without map data
-        fd = fd[~fd.locations.isna()]
+            # remove points without map data
+            fd = fd[~fd.locations.isna()]
 
-        # add data from the Google map
-        fd = fd.join(fd.locations.apply(pd.Series))
+            # add data from the Google map
+            fd = fd.join(fd.locations.apply(pd.Series))
 
-        fd["title"] = fd["title"].str.strip()
-        fd = fd.rename(columns={"title":"fire_station_name"}) \
-               .drop(["locations", "link", "text", "icon"], axis=1)
+            fd["title"] = fd["title"].str.strip()
+            fd = fd.rename(columns={"title":"fire_station_name"}) \
+                .drop(["locations", "link", "text", "icon"], axis=1)
 
-        # check if department is is still active
-        fd["active"] = fd.categories.apply(lambda x : all([not i.lower().startswith("defunct") for i in x]))
+            # check if department is is still active
+            fd["active"] = fd.categories.apply(lambda x : all([not i.lower().startswith("defunct") for i in x]))
+            
+            # industrial vs public fire departments
+            fd["industrial"] = fd.categories.apply(lambda x : any([i.lower().find("industrial") >= 0  for i in x]))
+            
+            # first nations fire departments
+            fd["first_nations"] = fd.categories.apply(lambda x : any([i.lower().find("first nations") >= 0  for i in x]))
         
-        # industrial vs public fire departments
-        fd["industrial"] = fd.categories.apply(lambda x : any([i.lower().find("industrial") >= 0  for i in x]))
-        
-        # first nations fire departments
-        fd["first_nations"] = fd.categories.apply(lambda x : any([i.lower().find("first nations") >= 0  for i in x]))
-       
-        # find province
-        fd["pruid"] = fd.categories.apply(self._reverse_map_province)
+            # find province
+            fd["pruid"] = fd.categories.apply(self._reverse_map_province)
 
-        # now can drop categories
-        self._logger.debug("%s field names: %s" % (self, fd.columns))
-        fd.drop(["categories"], axis=1, inplace=True)
+            # now can drop categories
+            self._logger.debug("%s field names: %s" % (self, fd.columns))
+            fd.drop(["categories"], axis=1, inplace=True)
 
-        # remove duplicates
-        fd = fd.drop_duplicates(["fire_department_name", "fire_station_name", "lat", "lon"])
+            # remove duplicates
+            fd = fd.drop_duplicates(["fire_department_name", "fire_station_name", "lat", "lon"])
 
-        fd.reset_index()
+            # apply geometry
+            fd["geometry"] = fd[["lat", "lon"]].apply(lambda x: Point(x["lon"], x["lat"]), axis=1)
+            fd.drop(["lat", "lon"], axis=1, inplace=True)
 
-        # save to memory
-        self._data = fd
+            fd.reset_index()
+
+            # save to memory
+            self._data = gpd.GeoDataFrame(fd, geometry="geometry", crs="epsg:4326")
+
+            self._data_converted = True
+
+            return False
+
+        except:
+            self._logger.error("%s data conversion failed." % self)
+            return False
 
 
     @staticmethod

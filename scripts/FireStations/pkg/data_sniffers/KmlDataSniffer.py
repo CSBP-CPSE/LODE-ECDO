@@ -9,16 +9,15 @@ Created on: 2023-01-20
 
 from pykml import parser
 
-from .AbstractDataSniffer import AbstractDataSniffer
+from .DataSniffer import DataSniffer
 
-class KmlDataSniffer(AbstractDataSniffer):
+class KmlDataSniffer(DataSniffer):
     """
     Class for KML data sniffing
     """
 
     def __init__(self, cfg):
-        self._source = None
-        self._data = None
+        super().__init__(cfg)
         self._root = None
 
     def get_data(self):

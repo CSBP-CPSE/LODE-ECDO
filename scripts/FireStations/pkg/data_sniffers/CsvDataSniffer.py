@@ -9,16 +9,12 @@ Created on: 2023-01-20
 
 import csv
 
-from .AbstractDataSniffer import AbstractDataSniffer
+from .DataSniffer import DataSniffer
 
-class CsvDataSniffer(AbstractDataSniffer):
+class CsvDataSniffer(DataSniffer):
     """
     Class for CSV data sniffing
     """
-
-    def __init__(self, cfg):
-        self._source = None
-        self._data = None
 
     def get_data(self):
         # retrieving data from source

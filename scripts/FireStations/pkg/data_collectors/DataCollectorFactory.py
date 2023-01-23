@@ -7,17 +7,19 @@ Purpose: Factory for DataCollectors
 Created on: 2023-01-17
 '''
 
+import abstract_classes.PipelineElementFactory as PipelineElementFactory
+
 from .RequestsDataCollector import RequestsDataCollector
 from .EsriDataCollector     import EsriDataCollector
 from .ZippedDataCollector   import ZippedDataCollector
 from .FileDataCollector   import FileDataCollector
 
-class DataCollectorFactory(object):
+class DataCollectorFactory(PipelineElementFactory):
 
     def __init__(self, logger):
         self.__logger = logger
 
-    def get_data_collector(self, cfg):
+    def get_element(self, cfg):
         # switch types according to configuration
         data_delivery = cfg["data_delivery"].lower().strip() 
 

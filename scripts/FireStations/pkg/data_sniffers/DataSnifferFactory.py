@@ -7,16 +7,17 @@ Purpose: Factory for DataSniffers
 Created on: 2023-01-20
 '''
 
+import abstract_classes.PipelineElementFactory as PipelineElementFactory
 from .CsvDataSniffer  import CsvDataSniffer
 from .JsonDataSniffer import JsonDataSniffer
 from .KmlDataSniffer  import KmlDataSniffer
 
-class DataSnifferFactory(object):
+class DataSnifferFactory(PipelineElementFactory):
 
     def __init__(self, logger):
         self.__logger = logger
 
-    def get_data_sniffer(self, cfg):
+    def get_element(self, cfg):
         # switch types according to configuration
         data_type = cfg["data_type"].lower().strip() 
 

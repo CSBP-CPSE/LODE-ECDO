@@ -9,16 +9,15 @@ Created on: 2023-01-20
 
 import json
 
-from .AbstractDataSniffer import AbstractDataSniffer
+from .DataSniffer import DataSniffer
 
-class JsonDataSniffer(AbstractDataSniffer):
+class JsonDataSniffer(DataSniffer):
     """
     Class for JSON data sniffing
     """
 
     def __init__(self, cfg):
-        self._source = None
-        self._data = None
+        super().__init__(cfg)
         self._json_dct = None
 
     def get_data(self):

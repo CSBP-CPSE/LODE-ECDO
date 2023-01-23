@@ -1,5 +1,5 @@
 '''
-File:    AbstractDataSniffer.py
+File:    DataSniffer.py
 Author:  Marcello Barisonzi CSBP/CPSE <marcello.barisonzi@statcan.gc.ca>
 
 Purpose: Abstract class for data sniffers
@@ -8,12 +8,13 @@ Created on: 2023-01-20
 '''
 
 from abc import ABC, abstractmethod
+import abstract_classes.PipelineElement as PipelineElement
 
-class AbstractDataSniffer(ABC):
+class DataSniffer(PipelineElement, ABC):
 
-    @abstractmethod
-    def get_data(self):
-        pass
+    def __init__(self, cfg):
+        self._source = None
+        self._data = None
 
     @abstractmethod
     def get_attributes(self):
@@ -22,7 +23,7 @@ class AbstractDataSniffer(ABC):
         """
         pass
 
-    def set_data_source(self, src):
+    def set_source(self, src):
         self._source = src
 
     def pass_data(self):

@@ -7,14 +7,15 @@ Purpose: Factory for DataConverters
 Created on: 2023-01-23
 '''
 
+import abstract_classes.PipelineElementFactory as PipelineElementFactory
 from .FireWikiDataConverter import FireWikiDataConverter
 
-class DataConverterFactory(object):
+class DataConverterFactory(PipelineElementFactory):
 
     def __init__(self, logger):
         self.__logger = logger
 
-    def get_data_converter(self, cfg):
+    def get_element(self, cfg):
         # TODO: switch types according to configuration
         #data_type = cfg["data_type"].lower().strip() 
 

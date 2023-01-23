@@ -24,18 +24,12 @@ class ZippedDataCollector(RequestsDataCollector):
 
     def get_data(self):
         # Check if data has been read into memory
-        if self._data:
-            self._logger.info("%s data in memory." % self)
+        if self.check_data_loaded():
             return True
 
         # if not, check if data cache is availble
-        o_f = os.path.join(self._output_dir, self._output_file)
-        if os.path.exists(o_f):
-            self._logger.info("%s reading data from cache: %s" % (self, o_f))
-            with open(o_f, "r", encoding="utf8") as f:
-                self._data = f.read()
-                self._logger.info("%s data read." % self)
-                return True
+        if self.retrieve_cached_data():
+            return True
 
         self._logger.info("%s collecting data from: %s" % (self, self._url))
 
@@ -82,9 +76,4 @@ class ZippedDataCollector(RequestsDataCollector):
 
         return True
 
-    def save_data(self):
-        o_f = os.path.join(self._output_dir, self._output_file)
-        self._logger.info("%s saving data to: %s" % (self, o_f))
-        with open(os.path.join(self._output_dir, self._output_file), "w", encoding="utf8") as f:
-            f.write(self._data)
-            self._logger.info("%s data saved." % self)
+

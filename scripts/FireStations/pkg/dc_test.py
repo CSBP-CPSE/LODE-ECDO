@@ -25,9 +25,7 @@ with open(os.path.join(os.path.dirname(__file__), "config.json"), "r") as f:
     logger.debug("Loaded config: %s" % cfg)
 
     # instantiate factories
-    fact1 = DataCollectorFactory(logger)
-    fact2 = DataSnifferFactory(logger)
-    fact3 = DataConverterFactory(logger)
+    factories = [DataCollectorFactory(logger), DataSnifferFactory(logger), DataConverterFactory(logger)]
 
     for c in cfg:
         #if c["data_type"] != "kml":
@@ -43,21 +41,21 @@ with open(os.path.join(os.path.dirname(__file__), "config.json"), "r") as f:
         #if os.path.exists(os.path.join(out_path, out_file)):
         #    continue
 
-        dc = fact1.get_data_collector(c)
-        dc.set_output_dir(out_path)
-        dc.set_output_file(out_file)
+        dc = factories[0].get_element(c)
+        dc.set_cache_dir(out_path)
+        dc.set_cache_file(out_file)
 
-        ds = fact2.get_data_sniffer(c)
-        ds.set_data_source(dc)
+        ds = factories[1].get_element(c)
+        ds.set_source(dc)
 
-        dk = fact3.get_data_converter(c)
-        dk.set_data_source(ds)
+        dk = factories[2].get_element(c)
+        dk.set_source(ds)
 
         if dc.get_data():
             ds.get_data()
             logger.info(ds.get_attributes())
             dk.convert_data()
-            dk._data.to_json(r"I:\DEIL\Data\Prod\Projects\DEIL_ISC\4-Collection\Fire Protection Services\lode-v3\output\fire_wiki.json", orient="records")
+            dk._data.to_file(r"I:\DEIL\Data\Prod\Projects\DEIL_ISC\4-Collection\Fire Protection Services\lode-v3\output\fire_wiki.geojson", driver="GeoJSON")
         #    logger.info("Data read.")    
             #dc.save_data()
 

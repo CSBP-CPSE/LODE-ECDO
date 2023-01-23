@@ -9,41 +9,28 @@ Created on: 2023-01-18
 
 import requests, os
 
-from .AbstractDataCollector import AbstractDataCollector
+from .DataCollector import DataCollector
 
-class RequestsDataCollector(AbstractDataCollector):
+class RequestsDataCollector(DataCollector):
     """
     Base class for all requests-based collectors
     """
 
     def __init__(self, cfg):
-        self._url = cfg['url']
-        self._reference = cfg["reference"]
+        super().__init__(cfg)
+
         self._session = requests.Session()
-        self._data = None
         return
-
-    def set_output_dir(self, d):
-        self._output_dir = d
-
-    def set_output_file(self, f):
-        self._output_file = f
 
     def get_data(self):
         # Check if data has been read into memory
-        if self._data:
-            self._logger.info("%s data in memory." % self)
+        if self.check_data_loaded():
             return True
 
         # if not, check if data cache is availble
-        o_f = os.path.join(self._output_dir, self._output_file)
-        if os.path.exists(o_f):
-            self._logger.info("%s reading data from cache: %s" % (self, o_f))
-            with open(o_f, "r", encoding="utf8") as f:
-                self._data = f.read()
-                self._logger.info("%s data read." % self)
-                return True
-
+        if self.retrieve_cached_data():
+            return True
+            
         self._logger.info("%s collecting data from: %s" % (self, self._url))
 
         # fake user agent
@@ -57,16 +44,3 @@ class RequestsDataCollector(AbstractDataCollector):
         else:
             self._logger.info("%s request failed with response: %s" % (self, self._response))
         return self._response.ok
-
-    def get_reference(self):
-        return self._reference
-
-    def save_data(self):
-        o_f = os.path.join(self._output_dir, self._output_file)
-        self._logger.info("%s saving data to: %s" % (self, o_f))
-        with open(os.path.join(self._output_dir, self._output_file), "w", encoding="utf8") as f:
-            f.write(self._data)
-            self._logger.info("%s data saved." % self)
-
-    def set_logger(self, logger):
-        self._logger = logger

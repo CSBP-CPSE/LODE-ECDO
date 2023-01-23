@@ -9,7 +9,7 @@ Created on: 2023-01-18
 
 import os, time
 
-from .AbstractDataCollector import AbstractDataCollector
+from .DataCollector import DataCollector
 
 from selenium import webdriver
 from selenium.webdriver import ActionChains
@@ -19,39 +19,19 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException 
 
 
-class EsriDataCollector(AbstractDataCollector):
+class EsriDataCollector(DataCollector):
     """
     Selenium bot to download data from ESRI portals
     """
 
-    def __init__(self, cfg):
-        self._url = cfg['url']
-        self._reference = cfg["reference"]
-        self._data_type = cfg["data_type"]
-        self._data = None
-
-        return
-
-    def set_output_dir(self, d):
-        self._output_dir = d
-
-    def set_output_file(self, f):
-        self._output_file = f
-
     def get_data(self):
         # Check if data has been read into memory
-        if self._data:
-            self._logger.info("%s data in memory." % self)
+        if self.check_data_loaded():
             return True
 
         # if not, check if data cache is availble
-        o_f = os.path.join(self._output_dir, self._output_file)
-        if os.path.exists(o_f):
-            self._logger.info("%s reading data from cache: %s" % (self, o_f))
-            with open(o_f, "r", encoding="utf8") as f:
-                self._data = f.read()
-                self._logger.info("%s data read." % self)
-                return True
+        if self.retrieve_cached_data():
+            return True
 
         # otherwise download
         self._logger.info("%s collecting data from: %s" % (self, self._url))
@@ -129,19 +109,6 @@ class EsriDataCollector(AbstractDataCollector):
         os.remove(out_name)
 
         return succeed
-
-    def get_reference(self):
-        return self._reference
-
-    def save_data(self):
-        o_f = os.path.join(self._output_dir, self._output_file)
-        self._logger.info("%s saving data to: %s" % (self, o_f))
-        with open(o_f, "w", encoding="utf8") as f:
-            f.write(self._data)
-            self._logger.info("%s data saved." % self)
-
-    def set_logger(self, logger):
-        self._logger = logger
 
     def _find_calcite_card(self, element):
         """

@@ -1,5 +1,5 @@
 '''
-File:    AbstractDataConverter.py
+File:    DataConverter.py
 Author:  Marcello Barisonzi CSBP/CPSE <marcello.barisonzi@statcan.gc.ca>
 
 Purpose: Abstract class for data converters
@@ -8,21 +8,23 @@ Created on: 2023-01-23
 '''
 
 from abc import ABC, abstractmethod
+import abstract_classes.PipelineElement as PipelineElement
 
-class AbstractDataConverter(ABC):
+class DataConverter(PipelineElement, ABC):
     """
-    Abstract class for data converters
+    Base class for data converters
     """
 
-    @abstractmethod
-    def get_data(self):
-        pass
+    def __init__(self, cfg):
+        self._source = None
+        self._data = None
+        self._data_converted = False
 
     @abstractmethod
     def convert_data(self):
         pass
 
-    def set_data_source(self, src):
+    def set_source(self, src):
         self._source = src
 
     def set_logger(self, logger):
