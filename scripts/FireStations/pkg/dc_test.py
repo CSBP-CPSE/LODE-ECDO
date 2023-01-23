@@ -3,6 +3,7 @@ import logging
 
 from data_collectors import DataCollectorFactory
 from data_sniffers import DataSnifferFactory
+from data_converters import DataConverterFactory
 
 logger = logging.getLogger("dc_test_logger")
 logger.setLevel(logging.DEBUG)
@@ -26,10 +27,11 @@ with open(os.path.join(os.path.dirname(__file__), "config.json"), "r") as f:
     # instantiate factories
     fact1 = DataCollectorFactory(logger)
     fact2 = DataSnifferFactory(logger)
+    fact3 = DataConverterFactory(logger)
 
     for c in cfg:
         #if c["data_type"] != "kml":
-        if c["data_delivery"] != "scrapy":
+        if c["data_delivery"] != "file":
             continue
 
         # skip data if it already exists:
@@ -48,9 +50,14 @@ with open(os.path.join(os.path.dirname(__file__), "config.json"), "r") as f:
         ds = fact2.get_data_sniffer(c)
         ds.set_data_source(dc)
 
+        dk = fact3.get_data_converter(c)
+        dk.set_data_source(ds)
+
         if dc.get_data():
             ds.get_data()
             logger.info(ds.get_attributes())
+            dk.convert_data()
+            dk._data.to_json(r"I:\DEIL\Data\Prod\Projects\DEIL_ISC\4-Collection\Fire Protection Services\lode-v3\output\fire_wiki.json", orient="records")
         #    logger.info("Data read.")    
             #dc.save_data()
 

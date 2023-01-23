@@ -31,9 +31,6 @@ class JsonDataSniffer(AbstractDataSniffer):
 
         return self._data != None
 
-    def set_data_source(self, src):
-        self._source = src
-
     def is_geojson(self):
         return self._json_dct.__class__ == dict.__class__ and \
             "type" in self._json_dct.keys() and \

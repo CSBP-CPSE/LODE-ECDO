@@ -1,0 +1,10 @@
+digraph G {
+
+    node [shape=box];
+    
+    edge [label=" pass_data()" labelfloat=true];
+
+    DataCollector ->  DataSniffer -> DataConverter -> DataTabulator -> DataMerger -> DataDeduplicator;
+
+    DataSniffer:e ->  DataTabulator:e [label=" get_attributes()"];
+}

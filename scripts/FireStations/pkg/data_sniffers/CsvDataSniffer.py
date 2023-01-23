@@ -28,9 +28,6 @@ class CsvDataSniffer(AbstractDataSniffer):
 
         return self._data != None
 
-    def set_data_source(self, src):
-        self._source = src
-
     def get_attributes(self):
         r = csv.DictReader(self._data.split("\n"))
         return r.fieldnames

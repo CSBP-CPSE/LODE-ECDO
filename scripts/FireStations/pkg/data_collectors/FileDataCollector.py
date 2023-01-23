@@ -1,8 +1,8 @@
 '''
-File:    ScrapyDataCollector.py
+File:    FileDataCollector.py
 Author:  Marcello Barisonzi CSBP/CPSE <marcello.barisonzi@statcan.gc.ca>
 
-Purpose: Dummy collector to read data extracted by Scrapy
+Purpose: Collector to read data extracted on file, e.g. by Scrapy
 
 Created on: 2023-01-18
 '''
@@ -11,9 +11,9 @@ import os
 
 from .AbstractDataCollector import AbstractDataCollector
 
-class ScrapyDataCollector(AbstractDataCollector):
+class FileDataCollector(AbstractDataCollector):
     """
-    Dummy collector to read data extracted by Scrapy
+    Collector to read data extracted on file, e.g. by Scrapy
     """
 
     def __init__(self, cfg):

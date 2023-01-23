@@ -10,7 +10,7 @@ Created on: 2023-01-17
 from .RequestsDataCollector import RequestsDataCollector
 from .EsriDataCollector     import EsriDataCollector
 from .ZippedDataCollector   import ZippedDataCollector
-from .ScrapyDataCollector   import ScrapyDataCollector
+from .FileDataCollector   import FileDataCollector
 
 class DataCollectorFactory(object):
 
@@ -27,8 +27,8 @@ class DataCollectorFactory(object):
             instance = EsriDataCollector(cfg)
         elif data_delivery == "zipped":
             instance = ZippedDataCollector(cfg)   
-        elif data_delivery == "scrapy":
-            instance = ScrapyDataCollector(cfg) 
+        elif data_delivery == "file":
+            instance = FileDataCollector(cfg) 
         else:
             raise Exception("Unknown data delivery: %s" % data_delivery)
 

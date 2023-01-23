@@ -34,9 +34,6 @@ class KmlDataSniffer(AbstractDataSniffer):
 
         return self._data != None
 
-    def set_data_source(self, src):
-        self._source = src
-
     def get_attributes(self):
         # generic tag namespace
         ns = self._root.nsmap[None]
