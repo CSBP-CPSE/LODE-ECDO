@@ -38,4 +38,8 @@ class DataCollectorFactory(PipelineElementFactory):
 
         instance.set_logger(self.__logger)
 
+        # set cache path and file
+        instance.set_cache_dir(cfg["cache_dir"])
+        instance.set_cache_file(cfg["cache_file"])
+
         return instance

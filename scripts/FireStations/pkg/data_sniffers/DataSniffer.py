@@ -27,6 +27,8 @@ class DataSniffer(PipelineElement, ABC):
         self._source = src
 
     def pass_data(self):
+        if not self._data:
+            self.get_data()
         return self._data
 
     def set_logger(self, logger):
