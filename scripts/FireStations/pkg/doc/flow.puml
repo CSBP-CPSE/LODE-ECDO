@@ -1,0 +1,10 @@
+@startuml flow
+
+DataCollector ->  DataSniffer : pass_data 
+DataSniffer -> DataConverter : pass_data
+DataConverter -> DataFilter : pass_data
+DataFilter -> DataDecorator : pass_data
+DataDecorator -> DataMerger : pass_data
+DataMerger -> DataDeduplicator : pass_data
+
+@enduml

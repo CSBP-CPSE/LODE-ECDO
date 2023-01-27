@@ -29,7 +29,3 @@ class CachedElement(ABC):
     @abstractmethod
     def retrieve_cached_data(self):
         pass
-
-    @abstractmethod
-    def data_cache_exists(self):
-        pass

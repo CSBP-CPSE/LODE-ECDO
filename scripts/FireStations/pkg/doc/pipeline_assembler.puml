@@ -1,0 +1,53 @@
+@startuml assembler
+
+actor Anil 
+
+create PipelineConfigurator
+Anil -> PipelineConfigurator: new
+
+create PipelineAssembler
+Anil -> PipelineAssembler: new
+
+Anil -> PipelineAssembler ++ : get_pipeline()
+
+PipelineAssembler -> PipelineConfigurator ++ : get_config()
+PipelineConfigurator --> PipelineAssembler -- : return
+
+create AbstractPipelineElementFactory
+PipelineAssembler -> AbstractPipelineElementFactory: new
+
+create Pipeline
+PipelineAssembler -> Pipeline: new
+
+/'
+create PipelineConfig
+PipelineConfigurator -> PipelineConfig: new
+'/
+
+PipelineAssembler -> AbstractPipelineElementFactory ++ : get_factory()
+
+create PipelineElementFactory 
+AbstractPipelineElementFactory -> PipelineElementFactory: new
+PipelineElementFactory --> PipelineAssembler: return
+deactivate AbstractPipelineElementFactory
+
+
+PipelineAssembler -> PipelineElementFactory ++ : get_element()
+
+create PipelineElement
+PipelineElementFactory -> PipelineElement: new
+PipelineElement -> Pipeline: push_back()
+deactivate PipelineElementFactory
+
+PipelineAssembler -> Pipeline ++ : connect_elements()
+
+Pipeline -> PipelineElement: set_source()
+deactivate Pipeline
+
+PipelineAssembler --> Anil: return
+deactivate PipelineAssembler
+
+Anil -> Pipeline ++ : run()
+Pipeline -> PipelineElement ++ : pass_data()
+
+@enduml

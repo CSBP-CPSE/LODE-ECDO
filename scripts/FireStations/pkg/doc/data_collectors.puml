@@ -1,0 +1,54 @@
+@startuml data_collectors
+
+abstract PipelineElement {
+    {abstract} get_data()
+    {abstract} set_logger()
+    {abstract} set_source()
+    {abstract} pass_data()
+}
+
+abstract CachedElement {
+    {abstract} set_cache_dir()
+    {abstract} set_cache_file()
+    {abstract} cache_data()
+    {abstract} retrieve_cached_data()
+}
+
+abstract DataCollector {
+    set_logger()
+    set_source()
+    pass_data()
+    set_cache_dir()
+    set_cache_file()
+    cache_data()
+    retrieve_cached_data()
+}
+
+class EsriDataCollector { 
+    get_data() 
+}
+
+class FileDataCollector { 
+    get_data() 
+}
+
+class RequestsDataCollector { 
+    get_data() 
+}
+
+class ZippedDataCollector { 
+    get_data() 
+}
+
+
+PipelineElement <|-- DataCollector
+CachedElement <|-- DataCollector
+
+DataCollector <|-- EsriDataCollector
+DataCollector <|-- FileDataCollector
+DataCollector <|-- RequestsDataCollector
+DataCollector <|-- ZippedDataCollector
+
+
+
+@enduml

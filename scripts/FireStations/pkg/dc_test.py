@@ -32,8 +32,8 @@ with open(os.path.join(os.path.dirname(__file__), "config.json"), "r") as f:
 
     for c in cfg:
         #if c["data_type"] != "kml":
-        if c["data_delivery"] != "file":
-            continue
+        #if c["data_delivery"] != "file":
+        #    continue
 
         # configure pipeline environment
         c["cache_dir"]  = r"I:\DEIL\Data\Prod\Projects\DEIL_ISC\4-Collection\Fire Protection Services\lode-v3\collection"
@@ -48,7 +48,7 @@ with open(os.path.join(os.path.dirname(__file__), "config.json"), "r") as f:
 
     pipeline[-1].pass_data()
 
-    pipeline[-1]._data.to_file(r"I:\DEIL\Data\Prod\Projects\DEIL_ISC\4-Collection\Fire Protection Services\lode-v3\output\fire_wiki.geojson", driver="GeoJSON")
+    #pipeline[-1]._data.to_file(r"I:\DEIL\Data\Prod\Projects\DEIL_ISC\4-Collection\Fire Protection Services\lode-v3\output\fire_wiki.geojson", driver="GeoJSON")
 
 
 logger.info("Pipeline complete.")

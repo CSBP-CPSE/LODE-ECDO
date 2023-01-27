@@ -50,6 +50,7 @@ class DataCollector(PipelineElement, CachedElement):
     def data_cache_exists(self):
         return os.path.exists(os.path.join(self._cache_dir, self._cache_file))
 
+    # TODO: use parquet for data caching
     def cache_data(self):
         o_f = os.path.join(self._cache_dir, self._cache_file)
         self._logger.info("%s saving data to: %s" % (self, o_f))

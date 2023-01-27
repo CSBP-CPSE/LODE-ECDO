@@ -2,6 +2,8 @@
     {
         "province": "AB",
         "area": "Edmonton",
+        "geolevel": "CSD",
+        "geocode": 4811012,
         "url": "https://data.edmonton.ca/api/views/b4y7-zhnz/rows.csv?accessType=DOWNLOAD",
         "reference": "https://data.edmonton.ca/Emergency-Services/Fire-Stations/b4y7-zhnz",
         "licence": "https://data.edmonton.ca/stories/s/City-of-Edmonton-Open-Data-Terms-of-Use/msh8-if28/",
@@ -11,6 +13,8 @@
     {
         "province": "QC",
         "area": "Quebec",
+        "geolevel": "PR",
+        "geocode": 24,
         "url": "https://geoegl.msp.gouv.qc.ca/apis/wss/incendie.fcgi?service=wfs&version=1.1.0&request=getfeature&typename=MSP_CASERNE_PUBLIC&outputformat=geojson&srsName=epsg:4326",
         "reference": "https://www.donneesquebec.ca/recherche/dataset/casernes-de-pompiers/resource/7b22b7bc-66ae-4d9e-9afe-840e24e1e110",
         "licence": "https://www.donneesquebec.ca/fr/licence/#cc-by",
@@ -20,6 +24,8 @@
     {
         "province": "BC",
         "area": "Vancouver",
+        "geolevel": "CSD",
+        "geocode": 5915020,
         "url": "https://opendata.vancouver.ca/api/explore/v2.1/catalog/datasets/fire-halls/exports/geojson?lang=en&timezone=America%2FNew_York",
         "reference": "https://opendata.vancouver.ca/explore/dataset/fire-halls/information/",
         "licence": "https://opendata.vancouver.ca/pages/licence/",
@@ -29,6 +35,8 @@
     {
         "province": "ON",
         "area": "Niagara Falls",
+        "geolevel": "CSD",
+        "geocode": 3526043,
         "url": "https://niagaraopendata.ca/dataset/08cc9ac2-7c88-4b98-a34d-4b97e76eeaf3/resource/413dbdf6-7669-4752-a075-2e2edd531364/download/fire-services.kml",
         "reference": "https://niagaraopendata.ca/dataset/city-of-niagara-falls-fire-services",
         "licence": "https://opendefinition.org/od/2.1/en/",
@@ -38,6 +46,8 @@
     {
         "province": "NB",
         "area": "Moncton",
+        "geolevel": "CSD",
+        "geocode": 1307019,
         "url": "https://catalogue-moncton.opendata.arcgis.com/datasets/moncton::points-of-interest/explore?filters=eyJDQVRFR09SWSI6WyJFTUVSR0VOQ1kiXX0%3D",
         "reference": "https://catalogue-moncton.opendata.arcgis.com/datasets/moncton::points-of-interest/about",
         "licence": "https://www5.moncton.ca/docs/Open_Data_Terms_of_Use.pdf",
@@ -47,6 +57,8 @@
     {
         "province": "ON",
         "area": "Norfolk County",
+        "geolevel": "CSD",
+        "geocode": 3528052,
         "url": "http://opendata.norfolkcounty.ca/datasets/fire-halls",
         "reference": "https://opendata.norfolkcounty.ca/datasets/Norfolk::fire-halls/about",
         "licence": "https://opendata.norfolkcounty.ca/datasets/Norfolk::fire-halls/about",
@@ -56,6 +68,8 @@
     {
         "province": "BC",
         "area": "New Westminster",
+        "geolevel": "CSD",
+        "geocode": 5915029,
         "url": "https://opendata.newwestcity.ca/datasets/fire-halls/explore",
         "reference": "https://opendata.newwestcity.ca/datasets/fire-halls/explore",
         "licence": "https://opendata.newwestcity.ca/datasets/fire-halls/explore",
@@ -65,6 +79,8 @@
     {
         "province": "MB",
         "area": "Winnipeg",
+        "geolevel": "CSD",
+        "geocode": 4611040,
         "url": "https://data.winnipeg.ca/api/views/s9qh-5s77/rows.csv?accessType=DOWNLOAD",
         "reference": "https://data.winnipeg.ca/Fire-and-Rescue-Response/Fire-Paramedic-Station/s9qh-5s77",
         "licence": "https://data.winnipeg.ca/stories/s/Open-Data-Licence/rwzh-4ijx/",
@@ -74,6 +90,8 @@
     {
         "province": "BC",
         "area": "Chilliwack",
+        "geolevel": "CSD",
+        "geocode": 5909020,
         "url": "https://opendata.chilliwack.com/JSON/Firehalls_JSON.zip",
         "reference": "https://www.chilliwack.com/main/page.cfm?id=2331&odAction=viewItem&odID=147",
         "licence": "https://www.chilliwack.com/main/page.cfm?id=2391",
@@ -83,6 +101,8 @@
     {
         "province": "ON",
         "area": "Peel Region",
+        "geolevel": "CD",
+        "geocode": 3521,
         "url": "https://geohub.brampton.ca/datasets/2c53a937c0494c2786f01b75d4339f0c_6/explore",
         "reference": "https://geohub.brampton.ca/datasets/2c53a937c0494c2786f01b75d4339f0c_6/explore",
         "licence": "https://creativecommons.org/licenses/by/4.0",
@@ -92,6 +112,8 @@
     {
         "province": "ON",
         "area": "Guelph",
+        "geolevel": "CSD",
+        "geocode": 3523008,
         "url": "http://data.open.guelph.ca/datafiles/gis/FireStations.geojson",
         "reference": "http://data.open.guelph.ca/dataset/guelph-fire-stations",
         "licence": "http://data.open.guelph.ca/pages/open-government-licence",
@@ -101,6 +123,8 @@
     {
         "province": "ON",
         "area": "Cambridge",
+        "geolevel": "CSD",
+        "geocode": 3530010,
         "url": "https://rowopendata-rmw.opendata.arcgis.com/datasets/cityofcambridge::emergency-services",
         "reference": "https://rowopendata-rmw.opendata.arcgis.com/datasets/cityofcambridge::emergency-services",
         "licence": "https://maps.cambridge.ca/images/opendata/Open%20data%20licence.pdf",
@@ -110,6 +134,8 @@
     {
         "province": "ON",
         "area": "Oshawa",
+        "geolevel": "CSD",
+        "geocode": 3518013,
         "url": "https://city-oshawa.opendata.arcgis.com/datasets/oshawa-fire-station-locations/explore",
         "reference": "https://city-oshawa.opendata.arcgis.com/datasets/oshawa-fire-station-locations/explore",
         "licence": "https://city-oshawa.opendata.arcgis.com/datasets/oshawa-fire-station-locations/explore",
@@ -119,6 +145,8 @@
     {
         "province": "ON",
         "area": "Hamilton",
+        "geolevel": "CSD",
+        "geocode": 3525005,
         "url": "http://open.hamilton.ca/datasets/dbb028cd6bcc4b218c607952b760fd04_5",
         "reference": "http://open.hamilton.ca/datasets/dbb028cd6bcc4b218c607952b760fd04_5",
         "licence": "http://open.hamilton.ca/datasets/dbb028cd6bcc4b218c607952b760fd04_5",
@@ -128,15 +156,25 @@
     {
         "province": "ON",
         "area": "Kingston",
+        "geolevel": "CSD",
+        "geocode": 3510010,
         "url": "https://opendatakingston.cityofkingston.ca/api/explore/v2.1/catalog/datasets/point-of-interest/exports/geojson?lang=en&timezone=America%2FNew_York",
         "reference": "https://opendatakingston.cityofkingston.ca/explore/dataset/point-of-interest/information/?disjunctive.description&disjunctive.name",
         "licence": "https://www.cityofkingston.ca/documents/10180/144997/CityofKingston_OpenDataLicense.pdf",
         "data_type": "geojson",
-        "data_delivery": "direct"
+        "data_delivery": "direct",
+        "filter": {
+            "description": [
+                "fire station",
+                "fire department"
+            ]
+        }
     },
     {
         "province": "ON",
         "area": "Kitchener",
+        "geolevel": "CSD",
+        "geocode": 3530013,
         "url": "https://open-kitchenergis.opendata.arcgis.com/datasets/emergency-services/explore",
         "reference": "https://open-kitchenergis.opendata.arcgis.com/datasets/emergency-services/explore",
         "licence": "https://open-kitchenergis.opendata.arcgis.com/datasets/emergency-services/explore",
@@ -146,6 +184,8 @@
     {
         "province": "ON",
         "area": "Markham",
+        "geolevel": "CSD",
+        "geocode": 3519036,
         "url": "https://insights-york.opendata.arcgis.com/datasets/02532059bb684e40baa15313b8ab3bb3_0/explore",
         "reference": "https://insights-york.opendata.arcgis.com/datasets/02532059bb684e40baa15313b8ab3bb3_0/explore",
         "licence": "https://insights-york.opendata.arcgis.com/datasets/02532059bb684e40baa15313b8ab3bb3_0/explore",
@@ -155,6 +195,8 @@
     {
         "province": "ON",
         "area": "Missisauga",
+        "geolevel": "CSD",
+        "geocode": 3521005,
         "url": "https://data.mississauga.ca/datasets/e84a2af2c2c6489cbd42086769df9b5e_0/explore",
         "reference": "https://data.mississauga.ca/datasets/e84a2af2c2c6489cbd42086769df9b5e_0/explore",
         "licence": "https://data.mississauga.ca/datasets/e84a2af2c2c6489cbd42086769df9b5e_0/explore",
@@ -164,6 +206,8 @@
     {
         "province": "BC",
         "area": "Surrey",
+        "geolevel": "CSD",
+        "geocode": 5915004,
         "url": "https://cosmos.surrey.ca/geo_ref/Images/OpenDataArchives/places_of_interest_JSON.zip",
         "reference": "https://data.surrey.ca/dataset/places-of-interest",
         "licence": "https://data.surrey.ca/pages/open-government-licence-surrey",
@@ -173,6 +217,8 @@
     {
         "province": "ON",
         "area": "Huron County",
+        "geolevel": "CD",
+        "geocode": 3540,
         "url": "https://data-huron.opendata.arcgis.com/datasets/66f26e1623c844b49cdfe6e92e79bcad_0/explore",
         "reference": "https://data-huron.opendata.arcgis.com/datasets/66f26e1623c844b49cdfe6e92e79bcad_0/explore",
         "licence": "https://data-huron.opendata.arcgis.com/datasets/66f26e1623c844b49cdfe6e92e79bcad_0/explore",
@@ -182,10 +228,22 @@
     {
         "province": "SK",
         "area": "Saskatoon",
+        "geolevel": "CSD",
+        "geocode": 4711066,
         "url": "http://opendata-saskatoon.cloudapp.net/DataBrowser/DownloadKml?container=SaskatoonOpenDataCatalogueBeta&entitySet=EmergencyFacility&filter=NOFILTER",
         "reference": "http://opendata-saskatoon.cloudapp.net/DataBrowser/SaskatoonOpenDataCatalogueBeta/EmergencyFacility#param=NOFILTER--DataView--Results",
         "licence": "http://opendata-saskatoon.cloudapp.net/TermsOfUse/TermsOfUse",
         "data_type": "kml",
         "data_delivery": "zipped"
+    },
+    {
+        "province": "CA",
+        "area": "Canada",
+        "geolevel": "CA",
+        "file": "I:\\DEIL\\Data\\Prod\\Projects\\DEIL_ISC\\4-Collection\\Fire Protection Services\\lode-v3\\scraping\\fire_scrape_canada.json",
+        "reference": "https://fire.fandom.com/wiki/Category:Canada",
+        "licence": "https://www.fandom.com/licensing",
+        "data_type": "json",
+        "data_delivery": "file"
     }
 ]

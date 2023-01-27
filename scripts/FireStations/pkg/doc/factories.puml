@@ -1,0 +1,22 @@
+@startuml fdfd
+abstract PipelineElementFactory {
+    {abstract} get_element()
+}
+
+class DataCollectorFactory {
+    get_element()
+}
+
+class DataSnifferFactory {
+    get_element()
+}
+
+class DataConverterFactory {
+    get_element()
+}
+
+PipelineElementFactory <|-- DataCollectorFactory 
+PipelineElementFactory <|-- DataSnifferFactory 
+PipelineElementFactory <|-- DataConverterFactory 
+
+@enduml

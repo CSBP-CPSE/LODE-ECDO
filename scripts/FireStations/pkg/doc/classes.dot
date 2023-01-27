@@ -1,0 +1,17 @@
+digraph G {
+
+    node [shape=box];
+    
+    //edge [label=" pass_data()" labelfloat=true];
+
+    DataCollector1 ->  DataSniffer1 -> DataConverter1 -> OpenTabulateManager -> DataMerger -> DataDeduplicator;
+
+    DataCollectorN ->  DataSnifferN -> DataConverterN -> DataFilterN -> OpenTabulateManager; 
+
+    DataCollector2 ->  DataSniffer2 -> DataConverter2 ->  Transmogrifier2 -> OpenTabulateManager; 
+
+    
+    DataSniffer1:w ->  OpenTabulateManager:w [label=" get_attributes()"];
+    DataSniffer2:e ->  OpenTabulateManager:e [label=" get_attributes()"];
+    DataSnifferN:e ->  OpenTabulateManager:e [label=" get_attributes()"];
+}
