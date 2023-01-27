@@ -1,0 +1,31 @@
+[
+    {
+        "source_id": 1,
+        "coordinates": {
+            "x": "LONGITUDE",
+            "y": "LATITUDE"
+        }
+    },
+    {
+        "source_id": 8,
+        "coordinates": {
+            "regex": "\\((.+), (.+)\\)",
+            "var": "Location 1",
+            "order": [
+                2,
+                1
+            ]
+        }
+    },
+    {
+        "source_id": 15,
+        "filter": {
+            "type": "exact_match",
+            "field": "description",
+            "targets": [
+                "fire station",
+                "fire department"
+            ]
+        }
+    }
+]

@@ -29,6 +29,8 @@ class DataCollector(PipelineElement, CachedElement):
     def pass_data(self):
         if not self._data:
             self.get_data()
+        if self._data and (not self.data_cache_exists()):
+            self.cache_data()
         return self._data
 
     def set_logger(self, logger):

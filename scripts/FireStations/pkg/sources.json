@@ -1,5 +1,6 @@
 [
     {
+        "source_id": 1,
         "province": "AB",
         "area": "Edmonton",
         "geolevel": "CSD",
@@ -11,6 +12,7 @@
         "data_delivery": "direct"
     },
     {
+        "source_id": 2,
         "province": "QC",
         "area": "Quebec",
         "geolevel": "PR",
@@ -22,6 +24,7 @@
         "data_delivery": "direct"
     },
     {
+        "source_id": 3,
         "province": "BC",
         "area": "Vancouver",
         "geolevel": "CSD",
@@ -33,6 +36,7 @@
         "data_delivery": "direct"
     },
     {
+        "source_id": 4,
         "province": "ON",
         "area": "Niagara Falls",
         "geolevel": "CSD",
@@ -44,6 +48,7 @@
         "data_delivery": "direct"
     },
     {
+        "source_id": 5,
         "province": "NB",
         "area": "Moncton",
         "geolevel": "CSD",
@@ -55,6 +60,7 @@
         "data_delivery": "esri"
     },
     {
+        "source_id": 6,
         "province": "ON",
         "area": "Norfolk County",
         "geolevel": "CSD",
@@ -66,6 +72,7 @@
         "data_delivery": "esri"
     },
     {
+        "source_id": 7,
         "province": "BC",
         "area": "New Westminster",
         "geolevel": "CSD",
@@ -77,6 +84,7 @@
         "data_delivery": "esri"
     },
     {
+        "source_id": 8,
         "province": "MB",
         "area": "Winnipeg",
         "geolevel": "CSD",
@@ -88,6 +96,7 @@
         "data_delivery": "direct"
     },
     {
+        "source_id": 9,
         "province": "BC",
         "area": "Chilliwack",
         "geolevel": "CSD",
@@ -99,6 +108,7 @@
         "data_delivery": "zipped"
     },
     {
+        "source_id": 10,
         "province": "ON",
         "area": "Peel Region",
         "geolevel": "CD",
@@ -110,6 +120,7 @@
         "data_delivery": "esri"
     },
     {
+        "source_id": 11,
         "province": "ON",
         "area": "Guelph",
         "geolevel": "CSD",
@@ -121,6 +132,7 @@
         "data_delivery": "direct"
     },
     {
+        "source_id": 12,
         "province": "ON",
         "area": "Cambridge",
         "geolevel": "CSD",
@@ -132,6 +144,7 @@
         "data_delivery": "esri"
     },
     {
+        "source_id": 13,
         "province": "ON",
         "area": "Oshawa",
         "geolevel": "CSD",
@@ -143,6 +156,7 @@
         "data_delivery": "esri"
     },
     {
+        "source_id": 14,
         "province": "ON",
         "area": "Hamilton",
         "geolevel": "CSD",
@@ -154,6 +168,7 @@
         "data_delivery": "esri"
     },
     {
+        "source_id": 15,
         "province": "ON",
         "area": "Kingston",
         "geolevel": "CSD",
@@ -162,15 +177,10 @@
         "reference": "https://opendatakingston.cityofkingston.ca/explore/dataset/point-of-interest/information/?disjunctive.description&disjunctive.name",
         "licence": "https://www.cityofkingston.ca/documents/10180/144997/CityofKingston_OpenDataLicense.pdf",
         "data_type": "geojson",
-        "data_delivery": "direct",
-        "filter": {
-            "description": [
-                "fire station",
-                "fire department"
-            ]
-        }
+        "data_delivery": "direct"
     },
     {
+        "source_id": 16,
         "province": "ON",
         "area": "Kitchener",
         "geolevel": "CSD",
@@ -182,6 +192,7 @@
         "data_delivery": "esri"
     },
     {
+        "source_id": 17,
         "province": "ON",
         "area": "Markham",
         "geolevel": "CSD",
@@ -193,6 +204,7 @@
         "data_delivery": "esri"
     },
     {
+        "source_id": 18,
         "province": "ON",
         "area": "Missisauga",
         "geolevel": "CSD",
@@ -204,6 +216,7 @@
         "data_delivery": "esri"
     },
     {
+        "source_id": 19,
         "province": "BC",
         "area": "Surrey",
         "geolevel": "CSD",
@@ -215,6 +228,7 @@
         "data_delivery": "zipped"
     },
     {
+        "source_id": 20,
         "province": "ON",
         "area": "Huron County",
         "geolevel": "CD",
@@ -226,6 +240,7 @@
         "data_delivery": "esri"
     },
     {
+        "source_id": 21,
         "province": "SK",
         "area": "Saskatoon",
         "geolevel": "CSD",
@@ -237,6 +252,7 @@
         "data_delivery": "zipped"
     },
     {
+        "source_id": 22,
         "province": "CA",
         "area": "Canada",
         "geolevel": "CA",

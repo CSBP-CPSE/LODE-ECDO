@@ -1,9 +1,11 @@
-import json, os
+import json, os, sys
 import logging
+import pandas as pd
 
 from data_collectors import DataCollectorFactory
 from data_sniffers import DataSnifferFactory
 from data_converters import DataConverterFactory
+from pipelines import Pipeline
 
 logger = logging.getLogger("dc_test_logger")
 logger.setLevel(logging.DEBUG)
@@ -20,35 +22,36 @@ logger.addHandler(consoleHandler)
 
 logger.info("Starting Data Collection.")
 
-with open(os.path.join(os.path.dirname(__file__), "config.json"), "r") as f:
-    cfg = json.loads(f.read())
+# read sources
+sources = pd.read_json(os.path.join(os.path.dirname(__file__), "sources.json"), orient="records")
+configs = pd.read_json(os.path.join(os.path.dirname(__file__), "configs.json"), orient="records")
 
-    logger.debug("Loaded config: %s" % cfg)
+cfg_df = sources.merge(configs, how="left", on="source_id")
 
-    # instantiate factories
-    factories = [DataCollectorFactory(logger), DataSnifferFactory(logger), DataConverterFactory(logger)]
+# configure pipeline environment
+cfg_df["cache_dir"]  = r"I:\DEIL\Data\Prod\Projects\DEIL_ISC\4-Collection\Fire Protection Services\lode-v3\collection"
 
-    pipeline = []
+joint_cfg = cfg_df.to_dict(orient="records")
 
-    for c in cfg:
-        #if c["data_type"] != "kml":
-        #if c["data_delivery"] != "file":
-        #    continue
+logger.debug("Loaded config: %s" % joint_cfg)
 
-        # configure pipeline environment
-        c["cache_dir"]  = r"I:\DEIL\Data\Prod\Projects\DEIL_ISC\4-Collection\Fire Protection Services\lode-v3\collection"
-        c["cache_file"] =  "%(area)s_fd.%(data_type)s" % c
+# instantiate factories
+factories = [DataCollectorFactory(logger), DataConverterFactory(logger)]
 
-        for fact in factories:
-            pipeline.append(fact.get_element(c))
+for c in joint_cfg:
 
-    # connect pipeline elements together, and pass the data
-    for i in range(1, len(pipeline)):
-        pipeline[i].set_source(pipeline[i-1])
+    logger.debug("Config: %s" % c)
 
-    pipeline[-1].pass_data()
+    pipeline = Pipeline(c["area"], logger)
 
-    #pipeline[-1]._data.to_file(r"I:\DEIL\Data\Prod\Projects\DEIL_ISC\4-Collection\Fire Protection Services\lode-v3\output\fire_wiki.geojson", driver="GeoJSON")
+    # TODO: pass a template, and let the element figure it out?
+    c["cache_file"] =  "%(area)s_fd.%(data_type)s" % c
 
+    for fact in factories:
+        pipeline.push_back(fact.get_element(c))
 
-logger.info("Pipeline complete.")
+    pipeline.connect_elements()
+
+    pipeline.run()
+
+logger.info("Pipelines completed.")
