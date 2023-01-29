@@ -11,7 +11,14 @@ import geopandas as gpd
 from io import StringIO
 import fiona
 
-fiona.drvsupport.supported_drivers['KML'] = 'rw'
+# Supported KML drivers are "KML" and "LIBKML"
+# "LIBKML" seems to work better:
+# https://gis.stackexchange.com/questions/446036/reading-kml-with-geopandas
+# But it looks like it's not supported in the current () version of fiona:
+# https://stackoverflow.com/a/70681409
+KML_DRIVER = "KML"
+
+fiona.drvsupport.supported_drivers[KML_DRIVER] = 'rw'
 
 from .DataConverter import DataConverter
 
@@ -38,7 +45,7 @@ class KmlDataConverter(DataConverter):
         try:
             # read json text into dataframe
 
-            self._data = gpd.read_file(StringIO(self._data), driver='KML')
+            self._data = gpd.read_file(StringIO(self._data), driver=KML_DRIVER)
             self._data_converted = True
 
             self._logger.debug("%s attributes: %s" % (self, self._data.columns))
