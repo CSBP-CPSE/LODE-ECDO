@@ -1,5 +1,20 @@
 import scrapy, json, re
 
+prov_dict = {   "alberta"       : 48, 
+                "columbia"      : 59,
+                "manitoba"      : 46,
+                "newfoundland"  : 10,
+                "brunswick"     : 13,
+                "scotia"        : 12,
+                "northwest"     : 61,
+                "nunavut"       : 62,
+                "prince"        : 11,
+                "ontario"       : 35,
+                "québec"        : 24,
+                "saskatchewan"  : 47,
+                "yukon"         : 60
+            }
+
 class FireSpider(scrapy.Spider):
     name = "fire"
 
@@ -21,6 +36,8 @@ class FireSpider(scrapy.Spider):
                         "Saskatchewan",
                         "Yukon"
                     ]
+
+        categories = ["Prince_Edward_Island"]
 
         urls = [ "%sCategory:%s" % (base_url, c) for c in categories ]
 
@@ -49,11 +66,56 @@ class FireSpider(scrapy.Spider):
 
         if ptn.search(rlconf):
             categories = json.loads(ptn.findall(rlconf)[0])
+        else:
+            categories = []
+        
+        res_dct = { 'fire_department_name': response.xpath("//meta[@property='og:title']/@content").get(),
+                    'categories': categories}
 
-        yield { 'title': response.xpath("//meta[@property='og:title']/@content").get(),
-                'locations': locations,
-                'categories': categories}
+        res_dct["pruid"] = self._reverse_map_province(categories)
 
+        # check if department is is still active
+        res_dct["active"] = all([not i.lower().startswith("defunct") for i in categories])
+        
+        # industrial vs public fire departments
+        res_dct["industrial"] = any([i.lower().find("industrial") >= 0  for i in categories])
+        
+        # first nations fire departments
+        res_dct["first_nations"] = any([i.lower().find("first nations") >= 0  for i in categories])
+
+        for loc in locations:
+
+            res_dct['locations'] = loc 
+
+            res_dct['fire_station_name'] = loc['title'].strip()
+            res_dct['lat'] = loc['lat']
+            res_dct['lon'] = loc['lon']
+
+            yield res_dct
+
+    @staticmethod
+    def _reverse_map_province(x):
+    
+        prov_dict = {   "alberta"       : 48, 
+                        "columbia"      : 59,
+                        "manitoba"      : 46,
+                        "newfoundland"  : 10,
+                        "brunswick"     : 13,
+                        "scotia"        : 12,
+                        "northwest"     : 61,
+                        "nunavut"       : 62,
+                        "prince"        : 11,
+                        "ontario"       : 35,
+                        "québec"        : 24,
+                        "saskatchewan"  : 47,
+                        "yukon"         : 60
+                    }
+        
+        for k,v in prov_dict.items():
+            if any([i.lower().find(k) >= 0 for i in x]):
+                return v
+        
+        return -1
 
 
 

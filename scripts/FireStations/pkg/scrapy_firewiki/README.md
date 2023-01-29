@@ -6,6 +6,11 @@
 
 ## How to use
 
+Set environment:
+``` 
+$ conda activate lode-v3
+``` 
+
 To scrape all of Canada:
 ``` 
 $ scrapy crawl fire -O fire_scrape_canada.json
