@@ -4,9 +4,10 @@ import pandas as pd
 from numpy import nan
 
 from data_collectors import DataCollectorFactory
-from data_sniffers import DataSnifferFactory
 from data_converters import DataConverterFactory
 from data_tabulators import DataTabulatorFactory
+from data_fillers import DataFillerFactory
+from data_filters import DataFilterFactory
 from pipelines import Pipeline
 
 def main():
@@ -22,6 +23,10 @@ def main():
 
     # Add console handler to logger
     logger.addHandler(consoleHandler)
+
+    # Add file handler
+    fileHandler = logging.FileHandler(filename="main_process.log")
+    logger.addHandler(fileHandler)
 
     logger.info("Starting Data Collection.")
 
@@ -44,7 +49,7 @@ def main():
     logger.debug("Loaded config: %s" % joint_cfg)
 
     # instantiate factories
-    factories = [DataCollectorFactory(logger), DataConverterFactory(logger), DataTabulatorFactory(logger)]
+    factories = [DataCollectorFactory(logger), DataConverterFactory(logger), DataFillerFactory(logger), DataFilterFactory(logger), DataTabulatorFactory(logger)]
 
     pipelines = []
 
@@ -65,7 +70,9 @@ def main():
 
     all_data = pd.concat([p.run() for p in pipelines], axis=0, ignore_index=True)
 
-    #all_data.to_json(os.path.join(r"I:\DEIL\Data\Prod\Projects\DEIL_ISC\4-Collection\Fire Protection Services\lode-v3\collection", "miscuglione.json"))
+    logger.info("Null geometries: %s" % all_data.geometry.isnull().values.any())
+
+    all_data.to_file(os.path.join(r"I:\DEIL\Data\Prod\Projects\DEIL_ISC\4-Collection\Fire Protection Services\lode-v3\collection", "miscuglione.json"), driver="GeoJSON")
     all_data.to_csv(os.path.join(r"I:\DEIL\Data\Prod\Projects\DEIL_ISC\4-Collection\Fire Protection Services\lode-v3\collection", "miscuglione.csv"))
 
     logger.info("Pipelines completed.")

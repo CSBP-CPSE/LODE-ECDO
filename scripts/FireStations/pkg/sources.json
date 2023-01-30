@@ -256,6 +256,7 @@
         "province": "CA",
         "area": "Canada",
         "geolevel": "CA",
+        "geocode": 9999999,
         "file": "I:\\DEIL\\Data\\Prod\\Projects\\DEIL_ISC\\4-Collection\\Fire Protection Services\\lode-v3\\scraping\\fire_scrape_canada.json",
         "reference": "https://fire.fandom.com/wiki/Category:Canada",
         "licence": "https://www.fandom.com/licensing",

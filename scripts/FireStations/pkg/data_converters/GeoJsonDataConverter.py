@@ -35,6 +35,12 @@ class GeoJsonDataConverter(DataConverter):
         try:
             # read json text into dataframe
             self._data = gpd.GeoDataFrame.from_file(StringIO(self._data))
+
+            # if polygon, get centroid instead
+            if (self._data.geometry.geom_type == "Polygon").any():
+                self._logger.warn("%s extracting centroid from Polygon" % self)
+                self._data["geometry"] = self._data["geometry"].centroid
+
             self._data_converted = True
 
             self._logger.debug("%s attributes: %s" % (self, self._data.columns))

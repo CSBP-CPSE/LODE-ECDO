@@ -4,7 +4,7 @@ Author:  Marcello Barisonzi CSBP/CPSE <marcello.barisonzi@statcan.gc.ca>
 
 Purpose: Factory for DataTabulators
 
-Created on: 2023-01-20
+Created on: 2023-01-30
 '''
 
 import abstract_classes.PipelineElementFactory as PipelineElementFactory

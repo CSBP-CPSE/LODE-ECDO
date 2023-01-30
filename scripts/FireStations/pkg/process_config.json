@@ -5,8 +5,27 @@
             "columns": [
                 "fire_department_name",
                 "fire_station_name",
-                "full_address"
+                "full_address",
+                "active",
+                "industrial",
+                "first_nations"
+            ]
+        },
+        {
+            "schema_name": "area",
+            "columns": [
+                "source_id",
+                "pruid",
+                "area",
+                "geolevel",
+                "geocode"
             ]
         }
+    ],
+    "fill_ins": [
+        "source_id",
+        "area",
+        "geolevel",
+        "geocode"
     ]
 }

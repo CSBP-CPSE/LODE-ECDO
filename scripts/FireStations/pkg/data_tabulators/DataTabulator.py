@@ -16,6 +16,7 @@ class DataTabulator(PipelineElement):
         self._data = None
         self._schema = cfg["schema"]
         self._process_schema = cfg["process_schemas"]
+        self._fill_ins = cfg["fill_ins"] # TODO: add fill-ins to the schema
         self._data_tabulated = False
 
     def set_source(self, src):
@@ -49,7 +50,17 @@ class DataTabulator(PipelineElement):
 
         self._data.rename(columns=rename_dict, inplace=True)
 
-        drop_columns = [i for i in self._data.columns if i not in rename_dict.values()]
+        #drop_columns = [i for i in self._data.columns if i not in rename_dict.values()]
+
+        # protect columns from DataFillers
+        #drop_columns = [i for i in drop_columns if i not in self._fill_ins]
+        drop_columns = [i for i in self._data.columns]
+
+        for s in self._process_schema:
+            for v in s["columns"]:
+                if v in drop_columns:
+                    drop_columns.remove(v)
+
         drop_columns.remove("geometry")
 
         self._logger.debug("%s dropping columns: %s" % (self, drop_columns))

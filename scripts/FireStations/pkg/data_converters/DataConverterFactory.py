@@ -13,6 +13,7 @@ from .GeoJsonDataConverter import GeoJsonDataConverter
 from .DummyDataConverter import DummyDataConverter
 from .CsvDataConverter import CsvDataConverter
 from .KmlDataConverter import KmlDataConverter
+from .SaskatoonFireDataConverter import SaskatoonFireDataConverter
 
 class DataConverterFactory(PipelineElementFactory):
 
@@ -22,18 +23,25 @@ class DataConverterFactory(PipelineElementFactory):
     def get_element(self, cfg):
 
         data_type = cfg["data_type"].lower().strip() 
+        special_converter = cfg.get("special_converter", None)
 
-        if data_type == "csv":
-            instance = CsvDataConverter(cfg)
-        elif data_type == "geojson":
-            instance = GeoJsonDataConverter(cfg)
-        elif data_type == "kml":
-            instance = KmlDataConverter(cfg)    
+        # TODO: find a better way to instantiate "special" converters?
+        if special_converter is not None:
+            if special_converter == "firewiki":
+                instance = FireWikiDataConverter(cfg)
+            elif special_converter == "saskatoon_fire":
+                instance = SaskatoonFireDataConverter(cfg)
+            else:
+                raise Exception("Unknown converter type: %s" % special_converter)
         else:
-            instance = DummyDataConverter(cfg)
-        #    raise Exception("Unknown data type: %s" % data_type)
-
-        #instance = FireWikiDataConverter(cfg)
+            if data_type == "csv":
+                instance = CsvDataConverter(cfg)
+            elif data_type in ["json", "geojson"]:
+                instance = GeoJsonDataConverter(cfg)
+            elif data_type == "kml":
+                instance = KmlDataConverter(cfg)    
+            else:
+                instance = DummyDataConverter(cfg)
 
         self.__logger.info("%s created an instance of %s" % (self, instance.__class__))
 

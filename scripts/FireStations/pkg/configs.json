@@ -8,12 +8,12 @@
         "schema": {
             "fire_depts": {
                 "fire_station_name": "STATION_NAME",
-                "full_address": "ADDRESS"
-            },
-            "geocoordinates": {
-                "longitude": "LONGITUDE",
-                "latitude": "LATITUDE"
+                "full_address": "full_address"
             }
+        },
+        "address_pattern": {
+            "key": "full_address",
+            "pattern": "%(ADDRESS)s, %(area)s"
         }
     },
     {
@@ -27,25 +27,275 @@
         }
     },
     {
-            "source_id": 8,
-            "coordinates": {
-                "regex": "\\((.+), (.+)\\)",
-                "var": "Location 1",
-                "order": [
-                    2,
-                    1
-                ]
+        "source_id": 3,
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "name",
+                "full_address": "full_address"
             }
         },
-        {
-            "source_id": 15,
-            "filter": {
-                "type": "exact_match",
-                "field": "description",
-                "targets": [
-                    "fire station",
-                    "fire department"
-                ]
+        "address_pattern": {
+            "key": "full_address",
+            "pattern": "%(address)s, %(area)s"
+        }
+    },
+    {
+        "source_id": 5,
+        "filter_or": {
+            "SUBCATEGORY": [
+                "FIRE STATION"
+            ]
+        },
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "NAME",
+                "full_address": "ADDRESS"
             }
         }
-    ]
+    },
+    {
+        "source_id": 6,
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "Name",
+                "full_address": "Address"
+            }
+        }
+    },
+    {
+        "source_id": 7,
+        "schema": {
+            "fire_depts": {
+                "full_address": "full_address"
+            }
+        },
+        "address_pattern": {
+            "key": "full_address",
+            "pattern": "%(STRNUM)s %(STRNAM)s, %(area)s"
+        }
+    },
+    {
+        "source_id": 8,
+        "coordinates": {
+            "regex": "\\((.+), (.+)\\)",
+            "var": "Location 1",
+            "order": [
+                2,
+                1
+            ]
+        },
+        "filter_not": {
+            "Station Type": [
+                "Paramedic Only"
+            ]
+        },
+        "address_pattern": {
+            "key": "full_address",
+            "pattern": "%(Address)s, %(area)s"
+        },
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "Station Number",
+                "full_address": "full_address"
+            }
+        }
+    },
+    {
+        "source_id": 9,
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "HALL_NAME"
+            }
+        }
+    },
+    {
+        "source_id": 10,
+        "filter_or": {
+            "LM_TYPE": [
+                "Fire"
+            ]
+        },
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "LM_NAME",
+                "full_address": "full_address"
+            }
+        },
+        "address_pattern": {
+            "key": "full_address",
+            "pattern": "%(STR_ADDR)s, %(POSTAL)s %(MUN)s"
+        }
+    },
+    {
+        "source_id": 11,
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "STATION",
+                "full_address": "full_address"
+            }
+        },
+        "address_pattern": {
+            "key": "full_address",
+            "pattern": "%(ADDRESS)s, %(area)s"
+        }
+    },
+    {
+        "source_id": 12,
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "ADDRESS_POINT_NAME",
+                "full_address": "full_address"
+            }
+        },
+        "address_pattern": {
+            "key": "full_address",
+            "pattern": "%(HOUSE_NUMBER)s %(STREET_NAME)s, %(area)s"
+        }
+    },
+    {
+        "source_id": 13,
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "FULLNAME"
+            }
+        }
+    },
+    {
+        "source_id": 14,
+        "filter_or": {
+            "TYPE": [
+                "Career",
+                "Composite",
+                "Volunteer"
+            ]
+        },
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "NAME",
+                "full_address": "full_address"
+            }
+        },
+        "address_pattern": {
+            "key": "full_address",
+            "pattern": "%(ADDRESS)s, %(COMMUNITY)s"
+        }
+    },
+    {
+        "source_id": 15,
+        "filter_or": {
+            "description": [
+                "Twp Fire Station",
+                "Fire Station",
+                "Twp Fire Department"
+            ]
+        },
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "name",
+                "full_address": "address"
+            }
+        }
+    },
+    {
+        "source_id": 16,
+        "filter_or": {
+            "CATEGORY": [
+                "FIRE STATION"
+            ]
+        },
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "LANDMARK",
+                "full_address": "full_address"
+            }
+        },
+        "address_pattern": {
+            "key": "full_address",
+            "pattern": "%(CIVIC_NO)s %(STREET)s, %(SUBCATEGORY)s"
+        }
+    },
+    {
+        "source_id": 17,
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "NAME",
+                "full_address": "full_address"
+            }
+        },
+        "address_pattern": {
+            "key": "full_address",
+            "pattern": "%(ADDRESS)s, %(area)s"
+        }
+    },
+    {
+        "source_id": 18,
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "LANDMARKNA",
+                "full_address": "full_address"
+            }
+        },
+        "address_pattern": {
+            "key": "full_address",
+            "pattern": "%(STNO)s %(STNAME)s %(SUFFIX)s, %(CITY)s"
+        }
+    },
+    {
+        "source_id": 19,
+        "filter_or": {
+            "FACILITY_TYPE": [
+                "Fire"
+            ]
+        },
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "POINT_OF_INTEREST",
+                "full_address": "full_address"
+            }
+        },
+        "address_pattern": {
+            "key": "full_address",
+            "pattern": "%(LOCATION)s, %(area)s"
+        }
+    },
+    {
+        "source_id": 20,
+        "filter_or": {
+            "Type": [
+                "Fire Department"
+            ]
+        },
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "POI_Name",
+                "full_address": "Full_Address"
+            }
+        }
+    },
+    {
+        "source_id": 21,
+        "special_converter": "saskatoon_fire",
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "Facility_Name",
+                "full_address": "full_address"
+            }
+        },
+        "filter_or": {
+            "Emergency_Facility_Type": [
+                "Fire Hall"
+            ]
+        },
+        "address_pattern": {
+            "key": "full_address",
+            "pattern": "%(Address)s, %(area)s"
+        }
+    },
+    {
+        "source_id": 22,
+        "special_converter": "firewiki",
+        "schema": {
+            "fire_depts": {}
+        }
+    }
+]
