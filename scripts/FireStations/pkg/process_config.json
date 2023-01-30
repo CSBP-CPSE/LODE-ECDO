@@ -1,0 +1,12 @@
+{
+    "process_schemas": [
+        {
+            "schema_name": "fire_depts",
+            "columns": [
+                "fire_department_name",
+                "fire_station_name",
+                "full_address"
+            ]
+        }
+    ]
+}

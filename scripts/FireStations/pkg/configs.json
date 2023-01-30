@@ -4,28 +4,48 @@
         "coordinates": {
             "x": "LONGITUDE",
             "y": "LATITUDE"
+        },
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "STATION_NAME",
+                "full_address": "ADDRESS"
+            },
+            "geocoordinates": {
+                "longitude": "LONGITUDE",
+                "latitude": "LATITUDE"
+            }
         }
     },
     {
-        "source_id": 8,
-        "coordinates": {
-            "regex": "\\((.+), (.+)\\)",
-            "var": "Location 1",
-            "order": [
-                2,
-                1
-            ]
+        "source_id": 2,
+        "schema": {
+            "fire_depts": {
+                "fire_department_name": "nom_ssi",
+                "fire_station_name": "no_caserne",
+                "full_address": "adresse"
+            }
         }
     },
     {
-        "source_id": 15,
-        "filter": {
-            "type": "exact_match",
-            "field": "description",
-            "targets": [
-                "fire station",
-                "fire department"
-            ]
+            "source_id": 8,
+            "coordinates": {
+                "regex": "\\((.+), (.+)\\)",
+                "var": "Location 1",
+                "order": [
+                    2,
+                    1
+                ]
+            }
+        },
+        {
+            "source_id": 15,
+            "filter": {
+                "type": "exact_match",
+                "field": "description",
+                "targets": [
+                    "fire station",
+                    "fire department"
+                ]
+            }
         }
-    }
-]
+    ]

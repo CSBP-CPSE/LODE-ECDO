@@ -1,10 +1,12 @@
 import json, os, sys
 import logging
 import pandas as pd
+from numpy import nan
 
 from data_collectors import DataCollectorFactory
 from data_sniffers import DataSnifferFactory
 from data_converters import DataConverterFactory
+from data_tabulators import DataTabulatorFactory
 from pipelines import Pipeline
 
 def main():
@@ -27,17 +29,24 @@ def main():
     sources = pd.read_json(os.path.join(os.path.dirname(__file__), "sources.json"), orient="records")
     configs = pd.read_json(os.path.join(os.path.dirname(__file__), "configs.json"), orient="records")
 
-    cfg_df = sources.merge(configs, how="left", on="source_id")
+    cfg_df = sources.merge(configs, how="left", on="source_id").fillna(nan).replace([nan], [None])
 
     # configure pipeline environment
     cfg_df["cache_dir"]  = r"I:\DEIL\Data\Prod\Projects\DEIL_ISC\4-Collection\Fire Protection Services\lode-v3\collection"
 
+    # load main configuration, and join the two
+    main_cfg = json.loads(open(os.path.join(os.path.dirname(__file__), "process_config.json"), "r").read())
+
     joint_cfg = cfg_df.to_dict(orient="records")
+
+    [d.update(main_cfg) for d in joint_cfg]
 
     logger.debug("Loaded config: %s" % joint_cfg)
 
     # instantiate factories
-    factories = [DataCollectorFactory(logger), DataConverterFactory(logger)]
+    factories = [DataCollectorFactory(logger), DataConverterFactory(logger), DataTabulatorFactory(logger)]
+
+    pipelines = []
 
     for c in joint_cfg:
 
@@ -52,8 +61,12 @@ def main():
             pipeline.push_back(fact.get_element(c))
 
         pipeline.connect_elements()
+        pipelines.append(pipeline)
 
-        pipeline.run()
+    all_data = pd.concat([p.run() for p in pipelines], axis=0, ignore_index=True)
+
+    #all_data.to_json(os.path.join(r"I:\DEIL\Data\Prod\Projects\DEIL_ISC\4-Collection\Fire Protection Services\lode-v3\collection", "miscuglione.json"))
+    all_data.to_csv(os.path.join(r"I:\DEIL\Data\Prod\Projects\DEIL_ISC\4-Collection\Fire Protection Services\lode-v3\collection", "miscuglione.csv"))
 
     logger.info("Pipelines completed.")
 

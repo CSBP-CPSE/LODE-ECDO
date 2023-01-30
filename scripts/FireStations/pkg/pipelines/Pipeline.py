@@ -28,5 +28,7 @@ class Pipeline(object):
 
     def run(self):
         self._logger.info("%s [Pipeline: %s] started." % (self, self._name))
-        self._queue[-1].pass_data()
+        d = self._queue[-1].pass_data()
         self._logger.info("%s [Pipeline: %s] ended." % (self, self._name))
+
+        return d
