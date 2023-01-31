@@ -8,6 +8,7 @@ Created on: 2023-01-18
 '''
 
 import zipfile, tempfile, shutil, os, io
+import geopandas as gpd
 
 from .RequestsDataCollector import RequestsDataCollector
 
@@ -65,11 +66,15 @@ class ZippedDataCollector(RequestsDataCollector):
             shutil.rmtree(tempdir)
             return False
 
-        # read data
-        zipf.extract(target_file, path=tempdir)
+        # Extract data
+        zipf.extractall(path=tempdir)
 
-        with open(os.path.join(tempdir, target_file), "r") as f:
-            self._data = f.read()
+        # If data is shapefile, then auxiliary files must be read too
+        if self._data_type == "shp":
+            self._data = gpd.read_file(os.path.join(tempdir, target_file)).to_json()
+        else:
+            with open(os.path.join(tempdir, target_file), "r") as f:
+                self._data = f.read()
 
         # cleanup
         shutil.rmtree(tempdir)

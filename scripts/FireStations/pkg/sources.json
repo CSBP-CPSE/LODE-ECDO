@@ -41,11 +41,11 @@
         "area": "Niagara Falls",
         "geolevel": "CSD",
         "geocode": 3526043,
-        "url": "https://niagaraopendata.ca/dataset/08cc9ac2-7c88-4b98-a34d-4b97e76eeaf3/resource/413dbdf6-7669-4752-a075-2e2edd531364/download/fire-services.kml",
+        "url": "https://niagaraopendata.ca/dataset/08cc9ac2-7c88-4b98-a34d-4b97e76eeaf3/resource/992bd48e-5ffc-4057-9a20-be5c9935702a/download/fire-services-shp.zip",
         "reference": "https://niagaraopendata.ca/dataset/city-of-niagara-falls-fire-services",
         "licence": "https://opendefinition.org/od/2.1/en/",
-        "data_type": "kml",
-        "data_delivery": "direct"
+        "data_type": "shp",
+        "data_delivery": "zipped"
     },
     {
         "source_id": 5,

@@ -27,9 +27,9 @@ class DataCollector(PipelineElement, CachedElement):
         pass
 
     def pass_data(self):
-        if not self._data:
+        if self._data is None:
             self.get_data()
-        if self._data and (not self.data_cache_exists()):
+        if (self._data is not None) and (not self.data_cache_exists()):
             self.cache_data()
         return self._data
 
@@ -43,7 +43,7 @@ class DataCollector(PipelineElement, CachedElement):
         self._cache_file = f
 
     def check_data_loaded(self):
-        if self._data:
+        if self._data is not None:
             self._logger.info("%s data in memory." % self)
             return True
         else:

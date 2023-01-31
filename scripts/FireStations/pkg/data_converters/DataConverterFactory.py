@@ -36,7 +36,7 @@ class DataConverterFactory(PipelineElementFactory):
         else:
             if data_type == "csv":
                 instance = CsvDataConverter(cfg)
-            elif data_type in ["json", "geojson"]:
+            elif data_type in ["json", "geojson", "shp"]:
                 instance = GeoJsonDataConverter(cfg)
             elif data_type == "kml":
                 instance = KmlDataConverter(cfg)    

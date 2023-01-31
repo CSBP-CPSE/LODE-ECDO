@@ -40,8 +40,17 @@
         }
     },
     {
-        "__comment": "TODO: get shapefile instead of KML file",
-        "source_id": 4
+        "source_id": 4,
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "NAME",
+                "full_address": "full_address"
+            }
+        },
+        "address_pattern": {
+            "key": "full_address",
+            "pattern": "%(ADDRESS)s, %(area)s"
+        }
     },
     {
         "source_id": 5,
