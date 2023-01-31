@@ -1,4 +1,6 @@
 {
+    "cache_dir": "I:\\DEIL\\Data\\Prod\\Projects\\DEIL_ISC\\4-Collection\\Fire Protection Services\\lode-v3\\collection",
+    "csd_source": "I:\\DEIL\\Data\\Prod\\Projects\\DEIL_ISC\\5-Processing\\CSD Boundaries\\lcsd000b16a_e\\lcsd000b16a_e.shp",
     "process_schemas": [
         {
             "schema_name": "fire_depts",

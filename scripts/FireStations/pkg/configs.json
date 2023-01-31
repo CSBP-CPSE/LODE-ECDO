@@ -40,6 +40,10 @@
         }
     },
     {
+        "__comment": "TODO: get shapefile instead of KML file",
+        "source_id": 4
+    },
+    {
         "source_id": 5,
         "filter_or": {
             "SUBCATEGORY": [

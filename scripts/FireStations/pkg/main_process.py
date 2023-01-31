@@ -8,6 +8,7 @@ from data_converters import DataConverterFactory
 from data_tabulators import DataTabulatorFactory
 from data_fillers import DataFillerFactory
 from data_filters import DataFilterFactory
+from geocoders import GeocoderFactory
 from pipelines import Pipeline
 
 def main():
@@ -35,9 +36,6 @@ def main():
     configs = pd.read_json(os.path.join(os.path.dirname(__file__), "configs.json"), orient="records")
 
     cfg_df = sources.merge(configs, how="left", on="source_id").fillna(nan).replace([nan], [None])
-
-    # configure pipeline environment
-    cfg_df["cache_dir"]  = r"I:\DEIL\Data\Prod\Projects\DEIL_ISC\4-Collection\Fire Protection Services\lode-v3\collection"
 
     # load main configuration, and join the two
     main_cfg = json.loads(open(os.path.join(os.path.dirname(__file__), "process_config.json"), "r").read())
@@ -68,12 +66,28 @@ def main():
         pipeline.connect_elements()
         pipelines.append(pipeline)
 
-    all_data = pd.concat([p.run() for p in pipelines], axis=0, ignore_index=True)
+    #all_data.to_file(os.path.join(main_cfg["cache_dir"], "miscuglione.json"), driver="GeoJSON")
+    #all_data.to_csv(os.path.join(main_cfg["cache_dir"], "miscuglione.csv"))
 
-    logger.info("Null geometries: %s" % all_data.geometry.isnull().values.any())
+    # TODO: implement merger
+    class DummyMerger(object):
+        def __init__(self, pipelines) -> None:
+            self._data = None
+            self._pipelines = pipelines
 
-    all_data.to_file(os.path.join(r"I:\DEIL\Data\Prod\Projects\DEIL_ISC\4-Collection\Fire Protection Services\lode-v3\collection", "miscuglione.json"), driver="GeoJSON")
-    all_data.to_csv(os.path.join(r"I:\DEIL\Data\Prod\Projects\DEIL_ISC\4-Collection\Fire Protection Services\lode-v3\collection", "miscuglione.csv"))
+        def pass_data(self):
+            if self._data is None:
+                self._data = pd.concat([p.run() for p in self._pipelines], axis=0, ignore_index=True)
+
+            logger.info("%s null geometries: %s" % (self, self._data.geometry.isnull().values.any()))
+            logger.info("%s records: %d" % (self, len(self._data)))
+
+            return self._data
+
+    csd_finder = GeocoderFactory(logger).get_element(main_cfg)
+    csd_finder.set_source(DummyMerger(pipelines))
+
+    csd_finder.pass_data().to_file(os.path.join(main_cfg["cache_dir"], "miscuglione2.json"), driver="GeoJSON")
 
     logger.info("Pipelines completed.")
 
