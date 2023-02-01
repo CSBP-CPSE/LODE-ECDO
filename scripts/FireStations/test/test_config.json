@@ -1,0 +1,5 @@
+{
+    "input_file": "I:\\DEIL\\Data\\Prod\\Projects\\DEIL_ISC\\4-Collection\\Fire Protection Services\\lode-v3\\collection\\miscuglione2.json",
+    "sources": "C:\\Users\\barisma\\Documents\\LODE-ECDO\\scripts\\FireStations\\pkg\\sources.json",
+    "process_config": "C:\\Users\\barisma\\Documents\\LODE-ECDO\\scripts\\FireStations\\pkg\\process_config.json"
+}

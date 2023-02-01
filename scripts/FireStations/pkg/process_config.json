@@ -4,24 +4,26 @@
     "process_schemas": [
         {
             "schema_name": "fire_depts",
-            "columns": [
-                "fire_department_name",
-                "fire_station_name",
-                "full_address",
-                "active",
-                "industrial",
-                "first_nations"
-            ]
+            "columns": {
+                "fire_department_name": "object",
+                "fire_station_name": "object",
+                "full_address": "object",
+                "active": "object",
+                "industrial": "object",
+                "first_nations": "object"
+            }
         },
         {
             "schema_name": "area",
-            "columns": [
-                "source_id",
-                "pruid",
-                "area",
-                "geolevel",
-                "geocode"
-            ]
+            "columns": {
+                "source_id": "int",
+                "pruid": "int",
+                "area": "object",
+                "geolevel": "object",
+                "geocode": "int",
+                "CSDUID": "int",
+                "CSDNAME": "object"
+            }
         }
     ],
     "fill_ins": [
