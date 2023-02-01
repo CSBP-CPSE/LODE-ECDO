@@ -45,7 +45,8 @@
         "reference": "https://niagaraopendata.ca/dataset/city-of-niagara-falls-fire-services",
         "licence": "https://opendefinition.org/od/2.1/en/",
         "data_type": "shp",
-        "data_delivery": "zipped"
+        "data_delivery": "zipped",
+        "source_crs": "EPSG:32617"
     },
     {
         "source_id": 5,

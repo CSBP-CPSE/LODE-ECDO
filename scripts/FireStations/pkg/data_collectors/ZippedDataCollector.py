@@ -9,6 +9,7 @@ Created on: 2023-01-18
 
 import zipfile, tempfile, shutil, os, io
 import geopandas as gpd
+from pyproj import CRS
 
 from .RequestsDataCollector import RequestsDataCollector
 
@@ -16,9 +17,12 @@ class ZippedDataCollector(RequestsDataCollector):
     """
     Downloads data and extracts zip archive
     """
+    __target_crs = CRS("epsg:4326")
 
     def __init__(self, cfg):
         super().__init__(cfg)
+        if cfg.get("source_crs", None) is not None:
+            self._source_crs = CRS(cfg.get("source_crs", None))
 
         # need file type to do search inside zipfile
         self._data_type = cfg['data_type']
@@ -71,7 +75,17 @@ class ZippedDataCollector(RequestsDataCollector):
 
         # If data is shapefile, then auxiliary files must be read too
         if self._data_type == "shp":
-            self._data = gpd.read_file(os.path.join(tempdir, target_file)).to_json()
+            df = gpd.read_file(os.path.join(tempdir, target_file))
+
+            if df.crs is None:
+                self._logger.info("%s data has no CRS, setting to %s" % (self, self._source_crs))
+                df = df.set_crs(self._source_crs)
+            
+            if df.crs != self.__target_crs:
+                self._logger.info("%s data has CRS: %s, converting to %s" % (self, df.crs, self.__target_crs))
+                df = df.to_crs(self.__target_crs) 
+
+            self._data = df.to_json()
         else:
             with open(os.path.join(tempdir, target_file), "r") as f:
                 self._data = f.read()
