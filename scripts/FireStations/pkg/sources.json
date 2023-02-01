@@ -263,5 +263,77 @@
         "licence": "https://www.fandom.com/licensing",
         "data_type": "json",
         "data_delivery": "file"
+    },
+    {
+        "source_id": 23,
+        "province": "QC",
+        "area": "Gatineau",
+        "geolevel": "CSD",
+        "geocode": 2481017,
+        "url": "https://www.gatineau.ca/upload/donneesouvertes/LIEU_PUBLIC.json",
+        "reference": "https://www.donneesquebec.ca/recherche/fr/dataset/vgat_1267315911",
+        "licence": "https://www.donneesquebec.ca/fr/licence/#cc-by",
+        "data_type": "geojson",
+        "data_delivery": "direct"
+    },
+    {
+        "source_id": 24,
+        "province": "QC",
+        "area": "Longueuil",
+        "geolevel": "CSD",
+        "geocode": 2458227,
+        "url": "https://www3.longueuil.quebec/sites/longueuil/files/donnees_ouvertes/caserneincendie.json",
+        "reference": "https://www.donneesquebec.ca/recherche/fr/dataset/casernes-d-incendie",
+        "licence": "https://www.donneesquebec.ca/fr/licence/#cc-by",
+        "data_type": "geojson",
+        "data_delivery": "direct"
+    },
+    {
+        "source_id": 25,
+        "province": "QC",
+        "area": "Laval",
+        "geolevel": "CSD",
+        "geocode": 2465005,
+        "url": "https://www.donneesquebec.ca/recherche/dataset/fddf1658-248e-49d6-99ed-4899a737f14a/resource/f5ad512e-2451-4f2d-b6ff-1d5cc8b618f9/download/lieux.csv",
+        "reference": "https://www.donneesquebec.ca/recherche/fr/dataset/lieux-et-edifices-municipaux",
+        "licence": "https://www.donneesquebec.ca/fr/licence/#cc-by",
+        "data_type": "csv",
+        "data_delivery": "direct"
+    },
+    {
+        "source_id": 26,
+        "province": "QC",
+        "area": "Québec",
+        "geolevel": "CSD",
+        "geocode": 2423027,
+        "url": "https://www.donneesquebec.ca/recherche/dataset/daa10606-5fdd-4c9b-b5ef-235081690b6e/resource/8902c982-bbb6-4e84-814a-550d094c0bae/download/vdq-lieupublic.geojson",
+        "reference": "https://www.donneesquebec.ca/recherche/fr/dataset/vque_14",
+        "licence": "https://www.donneesquebec.ca/fr/licence/#cc-by",
+        "data_type": "geojson",
+        "data_delivery": "direct"
+    },
+    {
+        "source_id": 27,
+        "province": "QC",
+        "area": "Repentigny",
+        "geolevel": "CSD",
+        "geocode": 2460013,
+        "url": "https://www.donneesquebec.ca/recherche/dataset/1122db0f-97f1-4ed1-9d17-ba7a1895e593/resource/3c098c1f-a7e0-4145-95d7-2e3940b98a39/download/securitepublique.geojson",
+        "reference": "https://www.donneesquebec.ca/recherche/fr/dataset/postes-de-police-et-casernes-de-pompiers",
+        "licence": "https://www.donneesquebec.ca/fr/licence/#cc-by",
+        "data_type": "geojson",
+        "data_delivery": "direct"
+    },
+    {
+        "source_id": 28,
+        "province": "QC",
+        "area": "Montréal",
+        "geolevel": "CSD",
+        "geocode": 2466023        ,
+        "url": "https://data.montreal.ca/dataset/c69e78c6-e454-4bd9-9778-e4b0eaf8105b/resource/beff8ce0-7a61-4a82-95b5-96d89bafa671/download/casernes.geojson",
+        "reference": "https://www.donneesquebec.ca/recherche/fr/dataset/vmtl-casernes-pompiers",
+        "licence": "https://www.donneesquebec.ca/fr/licence/#cc-by",
+        "data_type": "geojson",
+        "data_delivery": "direct"
     }
 ]

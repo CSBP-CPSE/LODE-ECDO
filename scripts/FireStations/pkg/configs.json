@@ -310,5 +310,98 @@
         "schema": {
             "fire_depts": {}
         }
+    },
+    {
+        "source_id": 23,
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "NOM_TOPOGR",
+                "full_address": "full_address"
+            }
+        },
+        "filter_or": {
+            "TYPE": [
+                "Incendie"
+            ]
+        },
+        "address_pattern": {
+            "key": "full_address",
+            "pattern": "%(ADR_COMPLE)s, %(area)s"
+        }
+    },
+    {
+        "source_id": 24,
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "NOM"
+            }
+        }
+    },
+    {
+        "source_id": 25,
+        "coordinates": {
+            "x": "longitude",
+            "y": "latitude"
+        },
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "nom-commun",
+                "full_address": "full_address"
+            }
+        },
+        "filter_or": {
+            "type-commun": [
+                "Caserne de pompiers"
+            ]
+        },
+        "address_pattern": {
+            "key": "full_address",
+            "pattern": "%(no-civique)d %(voie)s, %(code-postal)s %(area)s"
+        }
+    },
+    {
+        "source_id": 26,
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "NOM_TOPOGRAPHIE",
+                "full_address": "full_address"
+            }
+        },
+        "filter_or": {
+            "DESCRIPTION": [
+                "Casernes de pompiers"
+            ]
+        },
+        "address_pattern": {
+            "key": "full_address",
+            "pattern": "%(NO_CIVIQUE)d %(RUE)s, %(area)s"
+        }
+    },
+    {
+        "source_id": 27,
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "NOM",
+                "full_address": "ADRESSE"
+            }
+        },
+        "filter_or": {
+            "CONTACT": [
+                "Poste d’incendie principal"
+            ]
+        }
+    },
+    {
+        "source_id": 28,
+        "schema": {
+            "fire_depts": {
+                "fire_station_name": "CASERNE",
+                "full_address": "full_address"
+            }
+        },
+        "address_pattern": {
+            "key": "full_address",
+            "pattern": "%(NO_CIVIQUE)d %(RUE)s, FIXME"
+        }
     }
 ]
