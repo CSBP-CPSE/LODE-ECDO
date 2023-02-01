@@ -44,5 +44,8 @@ class CSDFinder(Geocoder):
         self._data = gpd.sjoin(self._data, self.__class__.__csd_data, how="left", predicate="within") \
             .drop(columns="index_right")
 
+        # generate PRUID from CSDUID
+        self._data["pruid"] = self._data["CSDUID"] // 100000
+
         self._data_geocoded = True
         return True
