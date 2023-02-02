@@ -1,6 +1,6 @@
 @startuml LODE Data Sources Ontology
 
-title LODE Data Sources Ontology v0.0.1
+title LODE Data Sources Ontology v0.0.2
 
 class DataSource #Wheat {
 
@@ -80,5 +80,13 @@ HumanReadableResource --|> Resource
 Licence --|> HumanReadableResource
 
 DataSource "1" *-- "N" Resource
+
+class Organization {
+    UID: Integer
+    Name: String
+    Contact: String
+}
+
+DataSource "1" o-- "1" Organization
 
 @enduml
