@@ -44,7 +44,7 @@ class TestDataTypes(unittest.TestCase):
 
         for schema in self.schemas:
             for col, dt in schema["columns"].items():
-                print(col, dt, dtype(dt), dtypes[col])
+                #print(col, dt, dtype(dt), dtypes[col])
                 assert_that(dtype(dt).kind, equal_to(dtypes[col].kind))
 
 

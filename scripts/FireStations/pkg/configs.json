@@ -7,14 +7,20 @@
         },
         "schema": {
             "fire_depts": {
-                "fire_station_name": "STATION_NAME",
+                "fire_station_name": "fire_station_name",
                 "full_address": "full_address"
             }
         },
-        "address_pattern": {
-            "key": "full_address",
-            "pattern": "%(ADDRESS)s, %(area)s"
-        }
+        "fill_patterns": [
+            {
+                "key": "full_address",
+                "pattern": "%(ADDRESS)s, %(area)s"
+            },
+            {
+                "key": "fire_station_name",
+                "pattern": "Edmonton Fire Station %(STATION_NAME)s"
+            }
+        ]
     },
     {
         "source_id": 2,
@@ -30,14 +36,20 @@
         "source_id": 3,
         "schema": {
             "fire_depts": {
-                "fire_station_name": "name",
+                "fire_station_name": "fire_station_name",
                 "full_address": "full_address"
             }
         },
-        "address_pattern": {
-            "key": "full_address",
-            "pattern": "%(address)s, %(area)s"
-        }
+        "fill_patterns": [
+            {
+                "key": "full_address",
+                "pattern": "%(address)s, %(area)s"
+            },
+            {
+                "key": "fire_station_name",
+                "pattern": "Vancouver Fire Hall %(name)s"
+            }
+        ]
     },
     {
         "source_id": 4,
@@ -47,10 +59,12 @@
                 "full_address": "full_address"
             }
         },
-        "address_pattern": {
-            "key": "full_address",
-            "pattern": "%(ADDRESS)s, %(area)s"
-        }
+        "fill_patterns": [
+            {
+                "key": "full_address",
+                "pattern": "%(ADDRESS)s, %(area)s"
+            }
+        ]
     },
     {
         "source_id": 5,
@@ -82,10 +96,12 @@
                 "full_address": "full_address"
             }
         },
-        "address_pattern": {
-            "key": "full_address",
-            "pattern": "%(STRNUM)s %(STRNAM)s, %(area)s"
-        }
+        "fill_patterns": [
+            {
+                "key": "full_address",
+                "pattern": "%(STRNUM)s %(STRNAM)s, %(area)s"
+            }
+        ]
     },
     {
         "source_id": 8,
@@ -102,13 +118,19 @@
                 "Paramedic Only"
             ]
         },
-        "address_pattern": {
-            "key": "full_address",
-            "pattern": "%(Address)s, %(area)s"
-        },
+        "fill_patterns": [
+            {
+                "key": "full_address",
+                "pattern": "%(Address)s, %(area)s"
+            },
+            {
+                "key": "fire_station_name",
+                "pattern": "Winnipeg Fire Station %(Station Number)s"
+            }
+        ],
         "schema": {
             "fire_depts": {
-                "fire_station_name": "Station Number",
+                "fire_station_name": "fire_station_name",
                 "full_address": "full_address"
             }
         }
@@ -134,10 +156,12 @@
                 "full_address": "full_address"
             }
         },
-        "address_pattern": {
-            "key": "full_address",
-            "pattern": "%(STR_ADDR)s, %(POSTAL)s %(MUN)s"
-        }
+        "fill_patterns": [
+            {
+                "key": "full_address",
+                "pattern": "%(STR_ADDR)s, %(POSTAL)s %(MUN)s"
+            }
+        ]
     },
     {
         "source_id": 11,
@@ -147,10 +171,12 @@
                 "full_address": "full_address"
             }
         },
-        "address_pattern": {
-            "key": "full_address",
-            "pattern": "%(ADDRESS)s, %(area)s"
-        }
+        "fill_patterns": [
+            {
+                "key": "full_address",
+                "pattern": "%(ADDRESS)s, %(area)s"
+            }
+        ]
     },
     {
         "source_id": 12,
@@ -160,10 +186,12 @@
                 "full_address": "full_address"
             }
         },
-        "address_pattern": {
-            "key": "full_address",
-            "pattern": "%(HOUSE_NUMBER)s %(STREET_NAME)s, %(area)s"
-        }
+        "fill_patterns": [
+            {
+                "key": "full_address",
+                "pattern": "%(HOUSE_NUMBER)s %(STREET_NAME)s, %(area)s"
+            }
+        ]
     },
     {
         "source_id": 13,
@@ -188,10 +216,12 @@
                 "full_address": "full_address"
             }
         },
-        "address_pattern": {
-            "key": "full_address",
-            "pattern": "%(ADDRESS)s, %(COMMUNITY)s"
-        }
+        "fill_patterns": [
+            {
+                "key": "full_address",
+                "pattern": "%(ADDRESS)s, %(COMMUNITY)s"
+            }
+        ]
     },
     {
         "source_id": 15,
@@ -222,10 +252,12 @@
                 "full_address": "full_address"
             }
         },
-        "address_pattern": {
-            "key": "full_address",
-            "pattern": "%(CIVIC_NO)s %(STREET)s, %(SUBCATEGORY)s"
-        }
+        "fill_patterns": [
+            {
+                "key": "full_address",
+                "pattern": "%(CIVIC_NO)s %(STREET)s, %(SUBCATEGORY)s"
+            }
+        ]
     },
     {
         "source_id": 17,
@@ -235,10 +267,12 @@
                 "full_address": "full_address"
             }
         },
-        "address_pattern": {
-            "key": "full_address",
-            "pattern": "%(ADDRESS)s, %(area)s"
-        }
+        "fill_patterns": [
+            {
+                "key": "full_address",
+                "pattern": "%(ADDRESS)s, %(area)s"
+            }
+        ]
     },
     {
         "source_id": 18,
@@ -248,10 +282,12 @@
                 "full_address": "full_address"
             }
         },
-        "address_pattern": {
-            "key": "full_address",
-            "pattern": "%(STNO)s %(STNAME)s %(SUFFIX)s, %(CITY)s"
-        }
+        "fill_patterns": [
+            {
+                "key": "full_address",
+                "pattern": "%(STNO)s %(STNAME)s %(SUFFIX)s, %(CITY)s"
+            }
+        ]
     },
     {
         "source_id": 19,
@@ -266,10 +302,12 @@
                 "full_address": "full_address"
             }
         },
-        "address_pattern": {
-            "key": "full_address",
-            "pattern": "%(LOCATION)s, %(area)s"
-        }
+        "fill_patterns": [
+            {
+                "key": "full_address",
+                "pattern": "%(LOCATION)s, %(area)s"
+            }
+        ]
     },
     {
         "source_id": 20,
@@ -299,10 +337,12 @@
                 "Fire Hall"
             ]
         },
-        "address_pattern": {
-            "key": "full_address",
-            "pattern": "%(Address)s, %(area)s"
-        }
+        "fill_patterns": [
+            {
+                "key": "full_address",
+                "pattern": "%(Address)s, %(area)s"
+            }
+        ]
     },
     {
         "source_id": 22,
@@ -324,10 +364,12 @@
                 "Incendie"
             ]
         },
-        "address_pattern": {
-            "key": "full_address",
-            "pattern": "%(ADR_COMPLE)s, %(area)s"
-        }
+        "fill_patterns": [
+            {
+                "key": "full_address",
+                "pattern": "%(ADR_COMPLE)s, %(area)s"
+            }
+        ]
     },
     {
         "source_id": 24,
@@ -354,10 +396,12 @@
                 "Caserne de pompiers"
             ]
         },
-        "address_pattern": {
-            "key": "full_address",
-            "pattern": "%(no-civique)d %(voie)s, %(code-postal)s %(area)s"
-        }
+        "fill_patterns": [
+            {
+                "key": "full_address",
+                "pattern": "%(no-civique)d %(voie)s, %(code-postal)s %(area)s"
+            }
+        ]
     },
     {
         "source_id": 26,
@@ -372,10 +416,12 @@
                 "Casernes de pompiers"
             ]
         },
-        "address_pattern": {
-            "key": "full_address",
-            "pattern": "%(NO_CIVIQUE)d %(RUE)s, %(area)s"
-        }
+        "fill_patterns": [
+            {
+                "key": "full_address",
+                "pattern": "%(NO_CIVIQUE)d %(RUE)s, %(area)s"
+            }
+        ]
     },
     {
         "source_id": 27,
@@ -395,13 +441,19 @@
         "source_id": 28,
         "schema": {
             "fire_depts": {
-                "fire_station_name": "CASERNE",
+                "fire_station_name": "fire_station_name",
                 "full_address": "full_address"
             }
         },
-        "address_pattern": {
-            "key": "full_address",
-            "pattern": "%(NO_CIVIQUE)d %(RUE)s, FIXME"
-        }
+        "fill_patterns": [
+            {
+                "key": "full_address",
+                "pattern": "%(NO_CIVIQUE)s %(RUE)s, FIXME"
+            },
+            {
+                "key": "fire_station_name",
+                "pattern": "Caserne %(CASERNE)s"
+            }
+        ]
     }
 ]

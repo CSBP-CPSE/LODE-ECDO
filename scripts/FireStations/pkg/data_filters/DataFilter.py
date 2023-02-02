@@ -43,17 +43,17 @@ class DataFilter(PipelineElement):
         # filter or
         if self._filter_or:
             locat_or = pd.concat([self._data[k].isin(v) for k,v in self._filter_or.items()], axis=1).apply(any, axis=1)
-            self._data = self._data[locat_or]
+            self._data = self._data[locat_or].copy()
 
         # filter and
         if self._filter_and:
             locat_and = pd.concat([self._data[k].isin(v) for k,v in self._filter_and.items()], axis=1).apply(all, axis=1)
-            self._data = self._data[locat_and]
+            self._data = self._data[locat_and].copy()
 
         # filter not
         if self._filter_not:
             locat_not = pd.concat([~self._data[k].isin(v) for k,v in self._filter_not.items()], axis=1).apply(all, axis=1)
-            self._data = self._data[locat_not]
+            self._data = self._data[locat_not].copy()
 
         self._data_filtered = True
 

@@ -1,5 +1,5 @@
 '''
-File:    ColumnFiller.py
+File:    StaticColumnFiller.py
 Author:  Marcello Barisonzi CSBP/CPSE <marcello.barisonzi@statcan.gc.ca>
 
 Purpose: Base class for column Fillers
@@ -9,7 +9,7 @@ Created on: 2023-01-30
 
 from .DataFiller import DataFiller
 
-class ColumnFiller(DataFiller):
+class StaticColumnFiller(DataFiller):
 
     def __init__(self, cfg):
         super().__init__(cfg)

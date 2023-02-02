@@ -8,8 +8,8 @@ Created on: 2023-01-20
 '''
 
 import abstract_classes.PipelineElementFactory as PipelineElementFactory
-from .AddressFiller import AddressFiller
-from .ColumnFiller  import ColumnFiller 
+from .DynamicColumnFiller import DynamicColumnFiller
+from .StaticColumnFiller  import StaticColumnFiller 
 
 class DataFillerFactory(PipelineElementFactory):
 
@@ -18,10 +18,10 @@ class DataFillerFactory(PipelineElementFactory):
 
     def get_element(self, cfg):
 
-        if cfg.get("address_pattern", None):
-            instance = AddressFiller(cfg)
+        if cfg.get("fill_patterns", None):
+            instance = DynamicColumnFiller(cfg)
         else:
-            instance = ColumnFiller(cfg)
+            instance = StaticColumnFiller(cfg)
         
         self.__logger.info("%s created an instance of %s" % (self, instance.__class__))
 
