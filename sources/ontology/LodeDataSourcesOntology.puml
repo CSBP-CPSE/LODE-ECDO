@@ -1,0 +1,84 @@
+@startuml LODE Data Sources Ontology
+
+title LODE Data Sources Ontology v0.0.1
+
+class DataSource #Wheat {
+
+    UID: Integer
+    Name: String
+    Description: String
+    Availability: Boolean
+} 
+
+
+class GeoSpatialResource 
+
+MachineReadableResource <|-- GeoSpatialResource
+
+class StandardGeographicalClassification {
+    UID: Integer
+    Name: String
+}
+class Province
+class CensusDivision
+class CensusMetropolitanArea
+class CensusSubDivision
+
+Province --|> StandardGeographicalClassification
+CensusDivision --|> StandardGeographicalClassification
+CensusMetropolitanArea --|> StandardGeographicalClassification
+CensusSubDivision --|> StandardGeographicalClassification
+
+DataSource "1" o-- "N" StandardGeographicalClassification
+
+class CoordinateReferenceSystem {
+    EPSG ID: Integer
+}
+
+GeoSpatialResource "1" o-- "N" CoordinateReferenceSystem
+
+
+
+class Domain {
+    UID: Integer
+    Name: String
+}
+
+DataSource "1" o-- "N" Domain
+
+class Geometry
+class Point 
+class Line
+class Polygon 
+
+Geometry <|-- Point
+Geometry <|-- Line
+Geometry <|-- Polygon
+
+GeoSpatialResource "1" *-- "N" Geometry
+
+class Resource {
+    UID: Integer
+    Name: String
+    URL: String
+    Format: String
+    Creation Date: Date
+    Date of last Update: Date
+}
+
+class MachineReadableResource
+class HumanReadableResource
+
+class Licence {
+    Open Data: Boolean
+    Terms of Use: String
+    Attribution Statement: String
+}
+
+MachineReadableResource --|> Resource
+HumanReadableResource --|> Resource
+Licence --|> HumanReadableResource
+
+DataSource "1" *-- "N" Resource
+
+@enduml
