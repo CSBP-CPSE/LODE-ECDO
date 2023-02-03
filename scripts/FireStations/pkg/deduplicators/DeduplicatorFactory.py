@@ -17,13 +17,13 @@ class DeduplicatorFactory(PipelineElementFactory):
 
     def get_element(self, cfg):
 
-        #if (cfg.get("csd_source", None) is not None):
-        #    instance = CSDFinder(cfg)
-        #if 1: #else:
-        instance = GeographicDeduplicator(cfg)
-        
-        self.__logger.info("%s created an instance of %s" % (self, instance.__class__))
+        instance = None
 
-        instance.set_logger(self.__logger)
+        if (cfg.get("dedupe_config", None) is not None):
+            instance = GeographicDeduplicator(cfg["dedupe_config"])
+            
+            self.__logger.info("%s created an instance of %s" % (self, instance.__class__))
+
+            instance.set_logger(self.__logger)
 
         return instance

@@ -22,9 +22,18 @@ class GeographicDeduplicator(Deduplicator):
         super().__init__(cfg)
         # TODO: configurable deduplication parameters
         self._fields = cfg["dedupe_fields"]
+
         self._indexer = rl.Index()
         self._indexer.block(cfg["dedupe_block"])
+
+        self._distance_offset_km = cfg["distance_offset_m"] / 1e3
+        self._distance_scale_km  = cfg["distance_scale_m"]  / 1e3
+
         self._deduped_data_frame = None
+        sfx =  next(tempfile._get_candidate_names())
+        # create random suffixes to store temporary data used for matching
+        self._suffixes = {  "match": "_match_%s" % sfx, 
+                            "string": "_string_%s" % sfx}
 
     def dedupe_data(self):
         if self._data_deduped:
@@ -41,10 +50,11 @@ class GeographicDeduplicator(Deduplicator):
         dB = self._data[self._data.source_id != 22].copy()
 
         # add geometries
-        dA["x"] = dA.geometry.x
-        dA["y"] = dA.geometry.y
-        dB["x"] = dB.geometry.x
-        dB["y"] = dB.geometry.y
+        sfx = self._suffixes["string"]
+        dA["x%s" % sfx] = dA.geometry.x
+        dA["y%s" % sfx] = dA.geometry.y
+        dB["x%s" % sfx] = dB.geometry.x
+        dB["y%s" % sfx] = dB.geometry.y
 
         candidate_links = self._indexer.index(dA, dB)
 
@@ -65,7 +75,13 @@ class GeographicDeduplicator(Deduplicator):
 
         #self._data = self.__merge_matches(dA, dB, all_matches)
 
-        self._data = self.__merge_overwrite_data(dA, dB, all_matches)
+        overwrite_data = self.__merge_overwrite_data(dA, dB, all_matches)
+
+        # drop auxiliary columns
+        for sfx in self._suffixes.values():
+            overwrite_data = overwrite_data.drop(columns=[i for i in overwrite_data.columns if i.endswith(sfx)])
+
+        self._data = overwrite_data
 
         self._data_deduped = True
 
@@ -116,7 +132,7 @@ class GeographicDeduplicator(Deduplicator):
             .set_index(idx_lvl) 
 
         # create suffix 
-        sfx = "_match_%s" % next(tempfile._get_candidate_names())
+        sfx = self._suffixes["match"]
 
         change_data = change_data.join(mB, rsuffix=sfx)
 
@@ -124,24 +140,29 @@ class GeographicDeduplicator(Deduplicator):
         for i in self._fields:
             change_data.loc[change_data[i].isna(), i] = change_data.loc[change_data[i].isna(), "%s%s" % (i, sfx)]
 
-        # drop auxiliary columns
-        change_data.drop(columns=[i for i in change_data.columns if i.endswith(sfx)], inplace=True)
+        change_data.drop(columns=["index"] + [i for i in change_data.columns if i.endswith(sfx)], inplace=True)
 
         # join the two subsets, and the features
         return pd.concat([keep_data, change_data], axis=0, ignore_index=True)
 
     def __clean_strings(self):
+        # create random suffixes to store temporary data used for matching
+        sfx = self._suffixes["string"]
+
         self._logger.info("%s preprocessing data." % self)
         for i in self._fields:
-            self._data[i] = clean(self._data[i], strip_accents="unicode")
+            self._data["%s%s" % (i, sfx)] = clean(self._data[i], strip_accents="unicode")
 
     def __link_exact(self, links, dA, dB=None):
         self._logger.info("%s linking data (exact matches)." % self)
 
         compare = rl.Compare()
 
+        sfx = self._suffixes["string"]
+
         for i in self._fields:
-            compare.exact(i, i,  label='%s_ex' % i)
+            i_str = "%s%s" % (i, sfx)
+            compare.exact(i_str, i_str,  label='%s_ex' % i)
 
         features = compare.compute(links, dA, dB)
 
@@ -152,10 +173,20 @@ class GeographicDeduplicator(Deduplicator):
 
         compare = rl.Compare()
 
-        for i in self._fields:
-            compare.string(i, i, method='cosine',  label='%s_cs' % i)
+        sfx = self._suffixes["string"]
 
-        compare.geo("x", "y", "x", "y", method="gauss", label="gd_gauss", offset=.1, scale=.5)
+        for i in self._fields:
+            i_str = "%s%s" % (i, sfx)
+            compare.string(i_str, i_str, method='cosine',  label='%s_cs' % i)
+
+        x_str = "x%s" % sfx
+        y_str = "y%s" % sfx
+
+        compare.geo(x_str, y_str, x_str, y_str, 
+            method="gauss", 
+            label="gd_gauss", 
+            offset=self._distance_offset_km , 
+            scale=self._distance_scale_km)
 
         features = compare.compute(links, dA, dB)
 
