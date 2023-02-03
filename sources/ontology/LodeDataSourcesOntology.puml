@@ -1,6 +1,6 @@
 @startuml LODE Data Sources Ontology
 
-title LODE Data Sources Ontology v0.0.2
+title LODE Data Sources Ontology v0.0.4
 
 class DataSource #Wheat {
 
@@ -19,11 +19,13 @@ class StandardGeographicalClassification {
     UID: Integer
     Name: String
 }
+class Region
 class Province
 class CensusDivision
 class CensusMetropolitanArea
 class CensusSubDivision
 
+Region --|> StandardGeographicalClassification
 Province --|> StandardGeographicalClassification
 CensusDivision --|> StandardGeographicalClassification
 CensusMetropolitanArea --|> StandardGeographicalClassification
@@ -42,6 +44,7 @@ GeoSpatialResource "1" o-- "N" CoordinateReferenceSystem
 class Domain {
     UID: Integer
     Name: String
+    Taxonomy: Integer
 }
 
 DataSource "1" o-- "N" Domain
@@ -88,5 +91,13 @@ class Organization {
 }
 
 DataSource "1" o-- "1" Organization
+
+class DataGovernanceSupportProcess {
+    UID: Integer
+    Status: String
+    JIRA Ticket: String
+}
+
+DataSource "1" o-- "N"  DataGovernanceSupportProcess
 
 @enduml
