@@ -9,7 +9,7 @@ from data_tabulators import DataTabulatorFactory
 from data_fillers import DataFillerFactory
 from data_filters import DataFilterFactory
 from geocoders import GeocoderFactory
-from pipelines import Pipeline
+from pipelines import Pipeline, PipelineCollection, Merger
 
 def main():
     logger = logging.getLogger("main_process_logger")
@@ -49,13 +49,13 @@ def main():
     # instantiate factories
     factories = [DataCollectorFactory(logger), DataConverterFactory(logger), DataFillerFactory(logger), DataFilterFactory(logger), DataTabulatorFactory(logger)]
 
-    pipelines = []
+    pipelines = PipelineCollection()
 
     for c in joint_cfg:
 
         logger.debug("Config: %s" % c)
 
-        pipeline = Pipeline(c["area"], logger)
+        pipeline = Pipeline(c["area"])
 
         # TODO: pass a template, and let the element figure it out?
         c["cache_file"] =  "%(area)s_fd.%(data_type)s" % c
@@ -63,29 +63,20 @@ def main():
         for fact in factories:
             pipeline.push_back(fact.get_element(c))
 
+        pipeline.set_logger(logger)
         pipeline.connect_elements()
-        pipelines.append(pipeline)
+
+        pipelines.add_pipeline(pipeline)
 
     #all_data.to_file(os.path.join(main_cfg["cache_dir"], "miscuglione.json"), driver="GeoJSON")
     #all_data.to_csv(os.path.join(main_cfg["cache_dir"], "miscuglione.csv"))
 
-    # TODO: implement merger
-    class DummyMerger(object):
-        def __init__(self, pipelines) -> None:
-            self._data = None
-            self._pipelines = pipelines
-
-        def pass_data(self):
-            if self._data is None:
-                self._data = pd.concat([p.run() for p in self._pipelines], axis=0, ignore_index=True)
-
-            logger.info("%s null geometries: %s" % (self, self._data.geometry.isnull().values.any()))
-            logger.info("%s records: %d" % (self, len(self._data)))
-
-            return self._data
+    merger = Merger({})
+    merger.set_logger(logger)
+    merger.set_source(pipelines)
 
     csd_finder = GeocoderFactory(logger).get_element(main_cfg)
-    csd_finder.set_source(DummyMerger(pipelines))
+    csd_finder.set_source(merger)
 
     csd_finder.pass_data().to_file(os.path.join(main_cfg["cache_dir"], "miscuglione2.json"), driver="GeoJSON")
 
