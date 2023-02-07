@@ -445,10 +445,16 @@
                 "full_address": "full_address"
             }
         },
+        "coalesce": {
+            "vill_arr": [
+                "VILLE",
+                "area"
+            ]
+        },
         "fill_patterns": [
             {
                 "key": "full_address",
-                "pattern": "%(NO_CIVIQUE)s %(RUE)s, FIXME"
+                "pattern": "%(NO_CIVIQUE)s %(RUE)s, %(vill_arr)s"
             },
             {
                 "key": "fire_station_name",

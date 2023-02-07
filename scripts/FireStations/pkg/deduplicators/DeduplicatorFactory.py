@@ -9,6 +9,7 @@ Created on: 2023-02-03
 
 import abstract_classes.PipelineElementFactory as PipelineElementFactory
 from .GeographicDeduplicator import GeographicDeduplicator
+from .StringDeduplicator import StringDeduplicator
 
 class DeduplicatorFactory(PipelineElementFactory):
 
@@ -19,8 +20,13 @@ class DeduplicatorFactory(PipelineElementFactory):
 
         instance = None
 
-        if (cfg.get("dedupe_config", None) is not None):
-            instance = GeographicDeduplicator(cfg["dedupe_config"])
+        dd_cfg = cfg.get("dedupe_config", None)
+
+        if dd_cfg is not None:
+            if dd_cfg["type"].lower() != "string":
+                instance = GeographicDeduplicator(dd_cfg)
+            else:
+                instance = StringDeduplicator(dd_cfg)
             
             self.__logger.info("%s created an instance of %s" % (self, instance.__class__))
 

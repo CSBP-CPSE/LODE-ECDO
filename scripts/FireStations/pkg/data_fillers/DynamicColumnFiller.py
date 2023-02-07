@@ -2,14 +2,14 @@
 File:    DynamicColumnFiller.py
 Author:  Marcello Barisonzi CSBP/CPSE <marcello.barisonzi@statcan.gc.ca>
 
-Purpose: Base class for Address Fillers
+Purpose: Fill columns by pattern 
 
 Created on: 2023-01-30
 '''
 
-from .StaticColumnFiller import StaticColumnFiller
+from .CoalesceColumnFiller import CoalesceColumnFiller
 
-class DynamicColumnFiller(StaticColumnFiller):
+class DynamicColumnFiller(CoalesceColumnFiller):
 
     def __init__(self, cfg):
         super().__init__(cfg)

@@ -10,6 +10,7 @@ Created on: 2023-01-20
 import abstract_classes.PipelineElementFactory as PipelineElementFactory
 from .DynamicColumnFiller import DynamicColumnFiller
 from .StaticColumnFiller  import StaticColumnFiller 
+from .CoalesceColumnFiller import CoalesceColumnFiller
 
 class DataFillerFactory(PipelineElementFactory):
 
@@ -18,8 +19,11 @@ class DataFillerFactory(PipelineElementFactory):
 
     def get_element(self, cfg):
 
+
         if cfg.get("fill_patterns", None):
             instance = DynamicColumnFiller(cfg)
+        elif cfg.get("coalesce", None):
+            instance = CoalesceColumnFiller(cfg)
         else:
             instance = StaticColumnFiller(cfg)
         

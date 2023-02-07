@@ -11,7 +11,9 @@ from recordlinkage.standardise import clean
 import recordlinkage as rl
 import pandas as pd
 import tempfile
+
 from .Deduplicator import Deduplicator
+from .SameCSDDifferentSourceBlocker import SameCSDDifferentSourceBlocker
 
 class GeographicDeduplicator(Deduplicator):
     """
@@ -20,20 +22,17 @@ class GeographicDeduplicator(Deduplicator):
 
     def __init__(self, cfg):
         super().__init__(cfg)
-        # TODO: configurable deduplication parameters
+
         self._fields = cfg["dedupe_fields"]
 
         self._indexer = rl.Index()
-        self._indexer.block(cfg["dedupe_block"])
+        self._indexer.add(SameCSDDifferentSourceBlocker())
 
         self._distance_offset_km = cfg["distance_offset_m"] / 1e3
         self._distance_scale_km  = cfg["distance_scale_m"]  / 1e3
 
         self._deduped_data_frame = None
-        sfx =  next(tempfile._get_candidate_names())
-        # create random suffixes to store temporary data used for matching
-        self._suffixes = {  "match": "_match_%s" % sfx, 
-                            "string": "_string_%s" % sfx}
+        self._sfx = "_%s" % next(tempfile._get_candidate_names())
 
     def dedupe_data(self):
         if self._data_deduped:
@@ -44,44 +43,36 @@ class GeographicDeduplicator(Deduplicator):
 
         self.__clean_strings()
 
-        # split data into multiple parts
-        # TODO: make it configurable
-        dA = self._data[self._data.source_id == 22].copy()
-        dB = self._data[self._data.source_id != 22].copy()
+        dA = self._data.copy()
 
         # add geometries
-        sfx = self._suffixes["string"]
-        dA["x%s" % sfx] = dA.geometry.x
-        dA["y%s" % sfx] = dA.geometry.y
-        dB["x%s" % sfx] = dB.geometry.x
-        dB["y%s" % sfx] = dB.geometry.y
+        dA["x%s" % self._sfx] = dA.geometry.x
+        dA["y%s" % self._sfx] = dA.geometry.y
 
-        candidate_links = self._indexer.index(dA, dB)
+        candidate_links = self._indexer.index(dA)
 
-        self._logger.debug("%s running exact match on %d candidates." % (self, len(candidate_links)))
+        #self._logger.debug("%s running exact match on %d candidates." % (self, len(candidate_links)))
 
-        exact_matches = self.__link_exact(candidate_links, dA, dB)
+        #exact_matches = self.__link_exact(candidate_links, dA)
 
-        self._logger.debug("%s found %d exact matches." % (self, len(exact_matches)))
+        #self._logger.debug("%s found %d exact matches." % (self, len(exact_matches)))
 
         # drop exact matches from links
-        candidate_links = candidate_links[~(candidate_links.get_level_values(0).isin(exact_matches.index.get_level_values(0)) |\
-                                            candidate_links.get_level_values(1).isin(exact_matches.index.get_level_values(1)))] 
+        #candidate_links = candidate_links[~(candidate_links.get_level_values(0).isin(exact_matches.index.get_level_values(0)) |\
+        #                                    candidate_links.get_level_values(1).isin(exact_matches.index.get_level_values(1)))] 
+
         self._logger.debug("%s running fuzzy match on %d candidates." % (self, len(candidate_links)))
 
-        fuzzy_matches = self.__link_fuzzy(candidate_links, dA, dB)
+        fuzzy_matches = self.__link_fuzzy(candidate_links, dA)
 
-        all_matches  = pd.concat([exact_matches, fuzzy_matches], axis=0) 
+        all_matches  = fuzzy_matches #pd.concat([exact_matches, fuzzy_matches], axis=0) 
 
-        #self._data = self.__merge_matches(dA, dB, all_matches)
+        self._data = self.__merge_matches(dA, dA, all_matches)
 
-        overwrite_data = self.__merge_overwrite_data(dA, dB, all_matches)
+        #overwrite_data = self.__merge_overwrite_data(dA, dB, all_matches)
 
         # drop auxiliary columns
-        for sfx in self._suffixes.values():
-            overwrite_data = overwrite_data.drop(columns=[i for i in overwrite_data.columns if i.endswith(sfx)])
-
-        self._data = overwrite_data
+        self._data = self._data.drop(columns=[i for i in self._data.columns if self._sfx in i])
 
         self._data_deduped = True
 
@@ -132,55 +123,47 @@ class GeographicDeduplicator(Deduplicator):
             .set_index(idx_lvl) 
 
         # create suffix 
-        sfx = self._suffixes["match"]
-
-        change_data = change_data.join(mB, rsuffix=sfx)
+        change_data = change_data.join(mB, rsuffix=self._sfx)
 
         # Overwrite data if missing
         for i in self._fields:
-            change_data.loc[change_data[i].isna(), i] = change_data.loc[change_data[i].isna(), "%s%s" % (i, sfx)]
+            change_data.loc[change_data[i].isna(), i] = change_data.loc[change_data[i].isna(), "%s%s" % (i, self._sfx)]
 
-        change_data.drop(columns=["index"] + [i for i in change_data.columns if i.endswith(sfx)], inplace=True)
+        change_data.drop(columns=["index"])
 
         # join the two subsets, and the features
         return pd.concat([keep_data, change_data], axis=0, ignore_index=True)
 
     def __clean_strings(self):
-        # create random suffixes to store temporary data used for matching
-        sfx = self._suffixes["string"]
-
         self._logger.info("%s preprocessing data." % self)
         for i in self._fields:
-            self._data["%s%s" % (i, sfx)] = clean(self._data[i], strip_accents="unicode")
+            self._data["%s%s" % (i, self._sfx)] = clean(self._data[i], strip_accents="unicode")
 
     def __link_exact(self, links, dA, dB=None):
         self._logger.info("%s linking data (exact matches)." % self)
 
         compare = rl.Compare()
 
-        sfx = self._suffixes["string"]
-
         for i in self._fields:
-            i_str = "%s%s" % (i, sfx)
+            i_str = "%s%s" % (i, self._sfx)
             compare.exact(i_str, i_str,  label='%s_ex' % i)
 
         features = compare.compute(links, dA, dB)
 
-        return features[features.sum(axis=1) >= 1]
+        return features[features.sum(axis=1) > 0]
 
     def __link_fuzzy(self, links, dA, dB=None):
         self._logger.info("%s linking data (fuzzy matches)." % self)
 
         compare = rl.Compare()
 
-        sfx = self._suffixes["string"]
-
         for i in self._fields:
-            i_str = "%s%s" % (i, sfx)
+            i_str = "%s%s" % (i, self._sfx)
+            compare.exact(i_str, i_str, label='%s_ex' % i)
             compare.string(i_str, i_str, method='cosine',  label='%s_cs' % i)
 
-        x_str = "x%s" % sfx
-        y_str = "y%s" % sfx
+        x_str = "x%s" % self._sfx
+        y_str = "y%s" % self._sfx
 
         compare.geo(x_str, y_str, x_str, y_str, 
             method="gauss", 
@@ -190,5 +173,5 @@ class GeographicDeduplicator(Deduplicator):
 
         features = compare.compute(links, dA, dB)
 
-        return features[features.sum(axis=1) >= 1]
+        return features[features.sum(axis=1) > 0]
 

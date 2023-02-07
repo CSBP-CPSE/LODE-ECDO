@@ -2,7 +2,7 @@
 File:    StaticColumnFiller.py
 Author:  Marcello Barisonzi CSBP/CPSE <marcello.barisonzi@statcan.gc.ca>
 
-Purpose: Base class for column Fillers
+Purpose: Fill columns with metadata
 
 Created on: 2023-01-30
 '''
