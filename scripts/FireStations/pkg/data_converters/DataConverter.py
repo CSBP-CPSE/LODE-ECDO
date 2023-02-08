@@ -22,6 +22,8 @@ class DataConverter(PipelineElement, CachedElement, ABC):
         self._source = None
         self._data = None
         self._data_converted = False
+        self._source = None
+        self._sink = None
 
     @abstractmethod
     def convert_data(self):
@@ -29,6 +31,10 @@ class DataConverter(PipelineElement, CachedElement, ABC):
 
     def set_source(self, src):
         self._source = src
+        self._source.set_sink(self)
+
+    def set_sink(self, snk):
+        self._sink = snk
 
     def set_logger(self, logger):
         self._logger = logger

@@ -17,6 +17,7 @@ class Deduplicator(PipelineElement, ABC):
 
     def __init__(self, cfg):
         self._source = None
+        self._sink = None
         self._data = None
         self._data_processed = False
 
@@ -26,6 +27,10 @@ class Deduplicator(PipelineElement, ABC):
 
     def set_source(self, src):
         self._source = src
+        self._source.set_sink(self)
+
+    def set_sink(self, snk):
+        self._sink = snk
 
     def set_logger(self, logger):
         self._logger = logger

@@ -27,5 +27,15 @@ class PipelineElement(ABC):
         pass
 
     @abstractmethod
+    def set_sink(self, snk):
+        pass
+
+    def get_source(self):
+        return self._source
+
+    def get_sink(self):
+        return self._sink
+
+    @abstractmethod
     def pass_data(self):
         pass

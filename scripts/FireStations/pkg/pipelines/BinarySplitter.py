@@ -22,6 +22,9 @@ class _SplitterSlot(object):
     def set_data(self, data):
         self._data = data
 
+    def set_sink(self, snk):
+        self._parent.set_sink(snk)
+
     def pass_data(self):
         # if there is no data, call parent object to create it
         if self._data is None:
@@ -34,13 +37,22 @@ class BinarySplitter(PipelineElement):
         self._data = None
         self._data_split = False
         self._source = None
+        self._sink = []
         self._logger = None
         self._slot_0 = _SplitterSlot(self)
         self._slot_1 = _SplitterSlot(self)
+        self._slots = [self._slot_0, self._slot_1]
         self._split_condition = cfg["split_condition"]
 
     def set_source(self, src):
         self._source = src
+        self._source.set_sink(self)
+
+    def set_sink(self, snk):
+        if len(self._sink) >= len(self._slots):
+            raise Exception("%s available sinks exhausted." % self)
+        self._logger.debug("%s set sink %d -> %s" % (self, len(self._sink), snk))
+        self._sink.append(snk)
         
     def get_data(self):
         if self._data is None:

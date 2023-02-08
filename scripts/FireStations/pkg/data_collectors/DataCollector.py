@@ -21,10 +21,15 @@ class DataCollector(PipelineElement, CachedElement):
         self._url = cfg['url']
         self._data_type = cfg["data_type"]
         self._data = None
+        self._source = None
+        self._sink = None
 
     def set_source(self, src):
         # data collectors are prime sources
         pass
+
+    def set_sink(self, snk):
+        self._sink = snk
 
     def pass_data(self):
         if self._data is None:

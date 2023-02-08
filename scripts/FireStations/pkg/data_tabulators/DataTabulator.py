@@ -13,6 +13,7 @@ class DataTabulator(PipelineElement):
 
     def __init__(self, cfg):
         self._source = None
+        self._sink = None
         self._data = None
         self._schema = cfg["schema"]
         self._process_schema = cfg["process_schemas"]
@@ -21,6 +22,10 @@ class DataTabulator(PipelineElement):
 
     def set_source(self, src):
         self._source = src
+        self._source.set_sink(self)
+
+    def set_sink(self, snk):
+        self._sink = snk
 
     def get_data(self):
         self._data = self._source.pass_data()

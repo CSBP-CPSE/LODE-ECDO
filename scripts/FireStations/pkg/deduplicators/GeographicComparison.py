@@ -63,11 +63,13 @@ class GeographicComparison(Deduplicator):
         unmatched = self._data[ (~self._data.index.isin(merged_matches.index.get_level_values(0))) & 
                                 (~self._data.index.isin(merged_matches.index.get_level_values(1))) ].copy()
         unmatched["__DEDUPE_PROCESSING__"] = False
+        unmatched.set_crs(dA.crs)
 
         self._logger.debug("%s original data not in matched features: %d" % 
             (self, len(unmatched)))
 
         self._data = pd.concat([merged_matches, unmatched])
+        
         # drop auxiliary columns
         self._data = self._data.drop(columns=[i for i in self._data.columns if self._sfx in i])
 
@@ -97,7 +99,10 @@ class GeographicComparison(Deduplicator):
             .set_index(idx_lvl) 
 
         # join the two subsets, and the features
-        return mA.join(mB, lsuffix="_A", rsuffix="_B").join(matches)
+        out_data = mA.join(mB, lsuffix="_A", rsuffix="_B").join(matches)
+        out_data = out_data.set_geometry("geometry_A") # just to keep geopandas quiet
+        out_data.set_crs(dA.crs)
+        return out_data
 
     def __clean_strings(self):
         self._logger.info("%s preprocessing data." % self)

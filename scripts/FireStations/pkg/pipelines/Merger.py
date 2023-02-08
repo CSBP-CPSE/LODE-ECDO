@@ -16,12 +16,15 @@ class Merger(PipelineElement):
         self._data = None
         self._data_merged = False
         self._source = None
+        self._sink = None
         self._logger = None
 
     def set_source(self, src):
-        # Source can be a single element, or multiple
-        # TODO: verify
         self._source = src
+        self._source.set_sink(self)
+
+    def set_sink(self, snk):
+        self._sink = snk
         
     def get_data(self):
         if self._data is None:

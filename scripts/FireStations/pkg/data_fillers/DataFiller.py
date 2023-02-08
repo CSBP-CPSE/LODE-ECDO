@@ -16,11 +16,16 @@ class DataFiller(PipelineElement, ABC):
     def __init__(self, cfg):
         self._cfg = cfg
         self._source = None
+        self._sink = None
         self._data = None
         self._data_filled = False
 
     def set_source(self, src):
         self._source = src
+        self._source.set_sink(self)
+
+    def set_sink(self, snk):
+        self._sink = snk
 
     def get_data(self):
         self._data = self._source.pass_data()

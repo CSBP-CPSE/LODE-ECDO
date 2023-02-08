@@ -10,36 +10,45 @@ Created on: 2023-02-07
 from pandas import concat, MultiIndex
 from recordlinkage import ECMClassifier
 
-class DuplicateMerger(object):
+from .Deduplicator import Deduplicator
 
-    def __init__(self, fields, metrics) -> None:
-        self._fields = fields
-        self._metrics = metrics
+class DuplicateMerger(Deduplicator):
 
-    def predict_merge_features(self, df, threshold):
+    def __init__(self, cfg) -> None:
+        super().__init__(cfg)
+        self._fields = cfg["dedupe_fields"]
+        self._metrics = cfg["dedupe_metrics"]
+        self._threshold = cfg["threshold"]
+
+    def process_data(self):
+        self._data = self.predict_merge_features(self._data)
+
+        self._data_processed = True
+
+        return True
+
+    def predict_merge_features(self, df):
 
         # feature columns
         feature_cols = [i for i in df.columns if i[-2:] in ["_A", "_B"] or (i in self._metrics)]
         
         # keep away data not to be processed
-        no_features = df.loc[~df["__DEDUPE_PROCESSING__"], [i for i in df.columns if i not in feature_cols]].copy()
-        no_features["origin"] = "U"
-        no_features.drop("__DEDUPE_PROCESSING__", axis=1, inplace=True)
-        no_features.set_geometry("geometry")
+        no_features = self.__data_no_process(df, feature_cols)
         
         features    = df.loc[ df["__DEDUPE_PROCESSING__"], feature_cols].copy()
         features.index = MultiIndex.from_tuples(features.index)
 
+        # predict links from features
         test = features[self._metrics]
 
-        ec = ECMClassifier(binarize=threshold)
+        ec = ECMClassifier(binarize=self._threshold)
         predict_links = ec.fit_predict(test)
         
         print("Predicted links: %d" % len(predict_links))
                 
         # retain unmatched features, to skip merging
-        unmatch_A = self.__unmatched_features(features, predict_links, 0)
-        unmatch_B = self.__unmatched_features(features, predict_links, 1)
+        unmatch_A = self.__unmatched_features(features, predict_links, 0, df.crs)
+        unmatch_B = self.__unmatched_features(features, predict_links, 1, df.crs)
         
         merged_features = features.loc[predict_links, ].copy()
         merged_features.drop(columns=["index_A", "index_B"], inplace=True) 
@@ -62,7 +71,8 @@ class DuplicateMerger(object):
             
         merged_features.index = merged_features.index.get_level_values(0).rename("index")
         
-        merged_features.set_geometry("geometry")
+        merged_features = merged_features.set_geometry("geometry")
+        merged_features.set_crs(df.crs)
         
         merged_features["origin"] = "M"
                 
@@ -87,7 +97,7 @@ class DuplicateMerger(object):
             return b
         
     @staticmethod
-    def __unmatched_features(features, predict_links, side):
+    def __unmatched_features(df, predict_links, side, crs):
         if side == 0:
             letter = "A"
         elif side == 1:
@@ -95,12 +105,22 @@ class DuplicateMerger(object):
         else:
             raise ValueError("Unknown feature side %s" % side)
             
-        loc_A = ~(features.index.get_level_values(side).isin(predict_links.get_level_values(side)))
-        col_A = [i for i in features.columns if i.endswith("_%s" % letter)]
-        unmatch_A = features.loc[loc_A, col_A].rename(columns=dict([(i,i[:-2]) for i in col_A])).drop(columns="index")
+        loc_A = ~(df.index.get_level_values(side).isin(predict_links.get_level_values(side)))
+        col_A = [i for i in df.columns if i.endswith("_%s" % letter)]
+        unmatch_A = df.loc[loc_A, col_A].rename(columns=dict([(i,i[:-2]) for i in col_A])).drop(columns="index")
         unmatch_A["origin"] = letter
         unmatch_A.index = unmatch_A.index.get_level_values(side).rename("index")
         unmatch_A.drop_duplicates(inplace=True)
-        unmatch_A.set_geometry("geometry")
+        unmatch_A = unmatch_A.set_geometry("geometry")
+        unmatch_A.set_crs(crs)
  
         return unmatch_A
+
+    @staticmethod
+    def __data_no_process(df, feature_cols):
+        no_features = df.loc[~df["__DEDUPE_PROCESSING__"], [i for i in df.columns if i not in feature_cols]].copy()
+        no_features["origin"] = "U"
+        no_features.drop("__DEDUPE_PROCESSING__", axis=1, inplace=True)
+        no_features = no_features.set_geometry("geometry")
+        no_features.set_crs(df.crs)
+        return no_features
