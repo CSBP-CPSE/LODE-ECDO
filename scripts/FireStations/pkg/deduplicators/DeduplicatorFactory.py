@@ -8,8 +8,8 @@ Created on: 2023-02-03
 '''
 
 import abstract_classes.PipelineElementFactory as PipelineElementFactory
-from .GeographicDeduplicator import GeographicDeduplicator
-from .StringDeduplicator import StringDeduplicator
+from .GeographicComparison import GeographicComparison
+from .StringComparison import StringComparison
 
 class DeduplicatorFactory(PipelineElementFactory):
 
@@ -24,9 +24,9 @@ class DeduplicatorFactory(PipelineElementFactory):
 
         if dd_cfg is not None:
             if dd_cfg["type"].lower() != "string":
-                instance = GeographicDeduplicator(dd_cfg)
+                instance = GeographicComparison(dd_cfg)
             else:
-                instance = StringDeduplicator(dd_cfg)
+                instance = StringComparison(dd_cfg)
             
             self.__logger.info("%s created an instance of %s" % (self, instance.__class__))
 

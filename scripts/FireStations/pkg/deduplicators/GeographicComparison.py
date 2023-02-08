@@ -1,5 +1,5 @@
 '''
-File:    GeographicDeduplicator.py
+File:    GeographicComparison.py
 Author:  Marcello Barisonzi CSBP/CPSE <marcello.barisonzi@statcan.gc.ca>
 
 Purpose: Class for geography-based deduplication
@@ -15,7 +15,7 @@ import tempfile
 from .Deduplicator import Deduplicator
 from .SameCSDDifferentSourceBlocker import SameCSDDifferentSourceBlocker
 
-class GeographicDeduplicator(Deduplicator):
+class GeographicComparison(Deduplicator):
     """
     Class for geography-based deduplication
     """
@@ -51,16 +51,6 @@ class GeographicDeduplicator(Deduplicator):
 
         candidate_links = self._indexer.index(dA)
 
-        #self._logger.debug("%s running exact match on %d candidates." % (self, len(candidate_links)))
-
-        #exact_matches = self.__link_exact(candidate_links, dA)
-
-        #self._logger.debug("%s found %d exact matches." % (self, len(exact_matches)))
-
-        # drop exact matches from links
-        #candidate_links = candidate_links[~(candidate_links.get_level_values(0).isin(exact_matches.index.get_level_values(0)) |\
-        #                                    candidate_links.get_level_values(1).isin(exact_matches.index.get_level_values(1)))] 
-
         self._logger.debug("%s running fuzzy match on %d candidates." % (self, len(candidate_links)))
 
         fuzzy_matches = self.__link_fuzzy(candidate_links, dA)
@@ -68,8 +58,6 @@ class GeographicDeduplicator(Deduplicator):
         all_matches  = fuzzy_matches #pd.concat([exact_matches, fuzzy_matches], axis=0) 
 
         self._data = self.__merge_matches(dA, dA, all_matches)
-
-        #overwrite_data = self.__merge_overwrite_data(dA, dB, all_matches)
 
         # drop auxiliary columns
         self._data = self._data.drop(columns=[i for i in self._data.columns if self._sfx in i])
@@ -100,40 +88,6 @@ class GeographicDeduplicator(Deduplicator):
         # join the two subsets, and the features
         return mA.join(mB, lsuffix="_A", rsuffix="_B").join(matches)
 
-    def __merge_overwrite_data(self, dA, dB, matches):
-
-        # use some axis tricks to get named multilevel index
-        idx_lvl = ["level_0","level_1"]
-        matches = matches.reset_index()
-        m_index = matches[idx_lvl]
-        matches = matches.set_index(idx_lvl)
-
-        # only data in left index needs to be changed
-        keep_data = pd.concat([dA[~dA.index.isin(m_index["level_0"])], 
-                               dB[~dB.index.isin(m_index["level_1"])]], axis=0)
-
-        # keep data from first subset using left index
-        change_data = dA.reset_index()\
-            .merge(m_index, left_on="index", right_on="level_0")\
-            .set_index(idx_lvl) 
-
-        # keep data from second subset using right index
-        mB = dB.reset_index()\
-            .merge(m_index, left_on="index", right_on="level_1")\
-            .set_index(idx_lvl) 
-
-        # create suffix 
-        change_data = change_data.join(mB, rsuffix=self._sfx)
-
-        # Overwrite data if missing
-        for i in self._fields:
-            change_data.loc[change_data[i].isna(), i] = change_data.loc[change_data[i].isna(), "%s%s" % (i, self._sfx)]
-
-        change_data.drop(columns=["index"])
-
-        # join the two subsets, and the features
-        return pd.concat([keep_data, change_data], axis=0, ignore_index=True)
-
     def __clean_strings(self):
         self._logger.info("%s preprocessing data." % self)
         for i in self._fields:
@@ -150,7 +104,7 @@ class GeographicDeduplicator(Deduplicator):
 
         features = compare.compute(links, dA, dB)
 
-        return features[features.sum(axis=1) > 0]
+        return features
 
     def __link_fuzzy(self, links, dA, dB=None):
         self._logger.info("%s linking data (fuzzy matches)." % self)
@@ -159,7 +113,6 @@ class GeographicDeduplicator(Deduplicator):
 
         for i in self._fields:
             i_str = "%s%s" % (i, self._sfx)
-            compare.exact(i_str, i_str, label='%s_ex' % i)
             compare.string(i_str, i_str, method='cosine',  label='%s_cs' % i)
 
         x_str = "x%s" % self._sfx
@@ -173,5 +126,5 @@ class GeographicDeduplicator(Deduplicator):
 
         features = compare.compute(links, dA, dB)
 
-        return features[features.sum(axis=1) > 0]
+        return features
 

@@ -1,5 +1,5 @@
 '''
-File:    StringDeduplicator.py
+File:    StringComparison.py
 Author:  Marcello Barisonzi CSBP/CPSE <marcello.barisonzi@statcan.gc.ca>
 
 Purpose: Class for string-based deduplication
@@ -13,7 +13,7 @@ import pandas as pd
 import tempfile
 from .Deduplicator import Deduplicator
 
-class StringDeduplicator(Deduplicator):
+class StringComparison(Deduplicator):
     """
     Class for string-based deduplication
     """
@@ -104,7 +104,7 @@ class StringDeduplicator(Deduplicator):
 
         features = compare.compute(links, dA, dB)
 
-        return features[features.sum(axis=1) >= 1]
+        return features
 
     def __link_fuzzy(self, links, dA, dB=None):
         self._logger.info("%s linking data (fuzzy matches)." % self)
@@ -118,5 +118,5 @@ class StringDeduplicator(Deduplicator):
 
         features = compare.compute(links, dA, dB)
 
-        return features[features.sum(axis=1) >= 1]
+        return features
 
