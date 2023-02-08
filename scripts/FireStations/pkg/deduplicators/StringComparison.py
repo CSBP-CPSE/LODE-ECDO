@@ -29,8 +29,8 @@ class StringComparison(Deduplicator):
         self._deduped_data_frame = None
         self._sfx =  next(tempfile._get_candidate_names())
 
-    def dedupe_data(self):
-        if self._data_deduped:
+    def process_data(self):
+        if self._data_processed:
             return True
 
         if self._data is None:
@@ -60,7 +60,7 @@ class StringComparison(Deduplicator):
 
         self._data = self._data.drop(columns=[i for i in self._data.columns if self._sfx in i])
 
-        self._data_deduped = True
+        self._data_processed = True
 
         return True
 

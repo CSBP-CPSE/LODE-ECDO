@@ -31,11 +31,10 @@ class GeographicComparison(Deduplicator):
         self._distance_offset_km = cfg["distance_offset_m"] / 1e3
         self._distance_scale_km  = cfg["distance_scale_m"]  / 1e3
 
-        self._deduped_data_frame = None
         self._sfx = "_%s" % next(tempfile._get_candidate_names())
 
-    def dedupe_data(self):
-        if self._data_deduped:
+    def process_data(self):
+        if self._data_processed:
             return True
 
         if self._data is None:
@@ -57,12 +56,24 @@ class GeographicComparison(Deduplicator):
 
         all_matches  = fuzzy_matches #pd.concat([exact_matches, fuzzy_matches], axis=0) 
 
-        self._data = self.__merge_matches(dA, dA, all_matches)
+        merged_matches = self.__merge_matches(dA, dA, all_matches)
+        merged_matches["__DEDUPE_PROCESSING__"] = True
 
+        # keep data not matched
+        unmatched = self._data[ (~self._data.index.isin(merged_matches.index.get_level_values(0))) & 
+                                (~self._data.index.isin(merged_matches.index.get_level_values(1))) ].copy()
+        unmatched["__DEDUPE_PROCESSING__"] = False
+
+        self._logger.debug("%s original data not in matched features: %d" % 
+            (self, len(unmatched)))
+
+        self._data = pd.concat([merged_matches, unmatched])
         # drop auxiliary columns
         self._data = self._data.drop(columns=[i for i in self._data.columns if self._sfx in i])
 
-        self._data_deduped = True
+        # drop auxiliary columns
+
+        self._data_processed = True
 
         return True
 

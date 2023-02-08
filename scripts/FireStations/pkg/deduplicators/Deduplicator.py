@@ -18,10 +18,10 @@ class Deduplicator(PipelineElement, ABC):
     def __init__(self, cfg):
         self._source = None
         self._data = None
-        self._data_deduped = False
+        self._data_processed = False
 
     @abstractmethod
-    def dedupe_data(self):
+    def process_data(self):
         pass
 
     def set_source(self, src):
@@ -36,6 +36,6 @@ class Deduplicator(PipelineElement, ABC):
     def pass_data(self):
         if self._data is None:
             self.get_data()
-        if not self._data_deduped:
-            self.dedupe_data()
+        if not self._data_processed:
+            self.process_data()
         return self._data
