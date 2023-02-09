@@ -38,6 +38,6 @@ class DynamicColumnFiller(CoalesceColumnFiller):
     @staticmethod
     def __build_address_from_dict(x, ptn):
         try:
-            return ptn % x.to_dict()
+            return (ptn % x.to_dict()).strip()
         except:
             return ""    

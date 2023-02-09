@@ -129,7 +129,13 @@ def main():
     merger2.set_logger(logger)
     merger2.set_source(pipelines2)
 
-    merger2.pass_data().to_file(os.path.join(main_cfg["cache_dir"], "miscuglione3.json"), driver="GeoJSON")
+    geo_compare2 = DeduplicatorFactory(logger).get_element(main_cfg)
+    dup_merge2 = DuplicateMerger(main_cfg["dedupe_config"]) 
+
+    geo_compare2.set_source(merger2)
+    dup_merge2.set_source(geo_compare2)
+
+    dup_merge2.pass_data().to_file(os.path.join(main_cfg["cache_dir"], "miscuglione3.json"), driver="GeoJSON")
 
     logger.info("Pipelines completed.")
 

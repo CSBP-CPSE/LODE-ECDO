@@ -67,6 +67,7 @@ class DuplicateMerger(Deduplicator):
         # keep "longest" features, hopefully it contains more information
         for i in self._fields:
             merged_features[i] = merged_features[["%s_A" % i, "%s_B" % i]]\
+                .fillna("")\
                 .apply(self.__copy_longest_string, raw=True, axis=1)
             
         merged_features.index = merged_features.index.get_level_values(0).rename("index")
@@ -77,6 +78,8 @@ class DuplicateMerger(Deduplicator):
         merged_features["origin"] = "M"
                 
         out_data = concat([no_features, unmatch_A, unmatch_B, merged_features], axis=0)
+
+        out_data.drop_duplicates(inplace=True)
 
         # drop merged columns
         drop_cols = [i for i in out_data.columns if i.endswith("_A") or i.endswith("_B")]
@@ -91,10 +94,14 @@ class DuplicateMerger(Deduplicator):
     def __copy_longest_string(x):
         a = x[0]
         b = x[1]
-        if (a is None) or (type(a) != str) or (len(a) > len(b)):
+        try:
+            if (a is None) or (type(a) != str) or (len(a) > len(b)):
+                return a
+            else:
+                return b
+        except:
+            print("typeA: %s valueA: %s typeB: %s valueB: %s" % (type(a), a, type(b), b))
             return a
-        else:
-            return b
         
     @staticmethod
     def __unmatched_features(df, predict_links, side, crs):

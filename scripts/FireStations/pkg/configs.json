@@ -27,10 +27,16 @@
         "schema": {
             "fire_depts": {
                 "fire_department_name": "nom_ssi",
-                "fire_station_name": "no_caserne",
+                "fire_station_name": "fire_station_name",
                 "full_address": "adresse"
             }
-        }
+        },
+        "fill_patterns": [
+            {
+                "key": "fire_station_name",
+                "pattern": "Caserne %(no_caserne)s"
+            }
+        ]
     },
     {
         "source_id": 3,

@@ -39,7 +39,7 @@
         "distance_offset_m": 100,
         "distance_scale_m": 500,
         "dedupe_metrics": ["fire_department_name_cs", "fire_station_name_cs", "full_address_cs", "gd_gauss"],
-        "threshold": 0.9
+        "threshold": 0.925
     },
     "split_condition": {"column": "source_id", "condition": "equal_to", "value": 22}
 }
