@@ -37,7 +37,7 @@ class FireSpider(scrapy.Spider):
                         "Yukon"
                     ]
 
-        categories = ["Prince_Edward_Island"]
+        #categories = ["Saskatchewan"]
 
         urls = [ "%sCategory:%s" % (base_url, c) for c in categories ]
 
@@ -47,6 +47,17 @@ class FireSpider(scrapy.Spider):
         
 
     def parse(self, response):
+
+        # if category is spread out over multiple pages, follow those too
+        if "Category" in response.url:
+            ptn_mw = re.compile('(%s\?from=.+)' % response.url)
+            # select body links
+            links = response.xpath("//a/@href").getall()
+
+            for l in links:
+                if ptn_mw.search(l):
+                    self.logger.debug("Found pagination link: %s" % ptn_mw.findall(l))
+                    yield from response.follow_all(ptn_mw.findall(l), callback=self.parse)
 
         # follow up on other category pages
         yield from response.follow_all(xpath="//a[contains(@class, 'category-page__member-link')]", callback=self.parse)
