@@ -29,6 +29,7 @@ cryptography=39.0.1=py39hb6bd5e6_0
 cssselect=1.2.0=pyhd8ed1ab_0
 curl=7.88.1=h68f0423_0
 cycler=0.11.0=pyhd8ed1ab_0
+et_xmlfile=1.1.0=pyhd8ed1ab_0
 exceptiongroup=1.1.0=pyhd8ed1ab_0
 expat=2.5.0=h1537add_0
 filelock=3.9.0=pyhd8ed1ab_0
@@ -64,6 +65,7 @@ incremental=22.10.0=pyhd8ed1ab_0
 intel-openmp=2023.0.0=h57928b3_25922
 itemadapter=0.7.0=pyhd8ed1ab_0
 itemloaders=1.0.6=pyhd8ed1ab_0
+jellyfish=0.9.0=py39ha55989b_2
 jinja2=3.1.2=pyhd8ed1ab_1
 jmespath=1.0.1=pyhd8ed1ab_0
 joblib=1.2.0=pyhd8ed1ab_0
@@ -118,8 +120,11 @@ msys2-conda-epoch=20160418=1
 munch=2.5.0=py_0
 munkres=1.1.4=pyh9f0ad1d_0
 networkx=3.0=pyhd8ed1ab_0
+nomkl=1.0=h5ca1d4c_0
+numexpr=2.8.3=py39hdba7acd_101
 numpy=1.24.2=py39h16ffa76_0
 openjpeg=2.5.0=ha2aaf27_2
+openpyxl=3.1.1=py39ha55989b_0
 openssl=3.0.8=hcfcfb64_0
 outcome=1.2.0=pyhd8ed1ab_0
 packaging=23.0=pyhd8ed1ab_0
@@ -151,6 +156,7 @@ python_abi=3.9=3_cp39
 pytz=2022.7.1=pyhd8ed1ab_0
 pywin32=304=py39h99910a6_2
 queuelib=1.6.2=pyhd8ed1ab_0
+recordlinkage=0.14=pyhd8ed1ab_0
 requests=2.28.2=pyhd8ed1ab_0
 requests-file=1.5.1=pyh9f0ad1d_0
 rtree=1.0.1=py39h09fdee3_1
