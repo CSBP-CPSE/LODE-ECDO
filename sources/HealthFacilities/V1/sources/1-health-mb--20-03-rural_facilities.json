@@ -1,0 +1,17 @@
+{
+    "localfile": "1-health-mb--20-03-rural_facilities.csv",
+    "database_type": "hospital",
+    "source": "https://services.arcgis.com/mMUesHYPkXjaFGfS/ArcGIS/rest/services/Rural_Health_Care_Facilities_in_Manitoba/FeatureServer/0",
+    "provider": "Province of Manitoba",
+    "encoding": "cp1252",
+    "format": {
+	"type": "csv",
+	"delimiter": ",",
+	"quote": "\""
+    },
+    "schema": {
+	"hospital_name": "Name",
+	"longitude": "Longitude",
+	"latitude": "Latitude"
+    }
+}

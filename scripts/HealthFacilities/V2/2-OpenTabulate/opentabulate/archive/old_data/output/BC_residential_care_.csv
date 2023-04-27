@@ -1,0 +1,926 @@
+idx,facility_name,facility_type,health_authority,alternative_name,number_beds,longitude,latitude,street_addr,city,postal_code,phone,provider
+0,Bethesda Christian Association,Community Living,Vancouver Coastal Health,Bethesda - West Richmond Home,,-123.1809197,49.1399135,10120 No. 1 Road,Richmond,V7E 1S2,(604) 241-9757,Province of British Columbia
+1,Vancouver Coastal Health,Mental Health,Vancouver Coastal Health,The Richmond Bridge House,,-123.1107626,49.1625389,10220 Granville Ave,Richmond,V6Y 1R4,(604) 244-7840,Province of British Columbia
+2,Greater Vancouver Community Services Society,Community Living,Vancouver Coastal Health,GVCSS - Steveston Group Home,,-123.1096721,49.1337709,10351 Steveston Hwy,Richmond,V7A 1N3,(604) 277-4485,Province of British Columbia
+3,Horizon Facilities Inc,Mental Health,Vancouver Coastal Health,Horizon House,,-123.1089233,49.1934431,10355 McLeod Court,Richmond,V6X 3L3,(604) 303-0972,Province of British Columbia
+4,Thompson Community Services,Community Living,Vancouver Coastal Health,Milford Home,,-123.1151772,49.1391079,10420 Milford Dr,Richmond,V7A 4J7,(604) 277-9599,Province of British Columbia
+5,Marineview Housing Society,Mental Health,Vancouver Coastal Health,Boulevard House,,-123.0580719,49.3175905,1053 Grand Blvd,North Vancouver,V7L 3X1,604-971-1530,Province of British Columbia
+6,Jewish Home for the Aged of BC,Long Term Care,Vancouver Coastal Health,Louis Brier Home,145,-123.1293368,49.2340704,1055 W 41st Ave,Vancouver,V6M 1W9,(604) 261-9376,Province of British Columbia
+7,Marineview Housing Society,Mental Health,Vancouver Coastal Health,Cloverley House,,-123.0461745,49.3130596,1057 Cloverley St,North Vancouver,V7L 1N4,604-980-6243,Province of British Columbia
+8,Western Human Resource Corp,Community Living,Vancouver Coastal Health,Richfield Group Home,,-123.107216,49.1477141,10591 Bissett Dr,Richmond,V7A 4K8,(604) 271-2802,Province of British Columbia
+9,North Shore Private Hospital (1985) Ltd.,Long Term Care,Vancouver Coastal Health,Lynn Valley Care Centre,92,-123.0446964,49.3340774,1070 Lynn Valley Road,North Vancouver,V7J 1Z8,604-988-4181,Province of British Columbia
+10,Thompson Community Services Inc,Community Living,Vancouver Coastal Health,No. 5 Road Group Home,,-123.0926533,49.1340511,10731 No. 5 Road,Richmond,V7A 4E6,(604) 271-0873,Province of British Columbia
+11,Community Living Society,Community Living,Vancouver Coastal Health,Frederick Road,,-123.0440175,49.3416966,1075 Frederick Road,North Vancouver,V7K 1H9,604-986-9238,Province of British Columbia
+12,Nassreen Filsoof,Mental Health,Vancouver Coastal Health,Britannia Lodge,,-123.0652695,49.2751821,1090 Victoria Dr,Vancouver,V5L 4G2,(604) 255-3711,Province of British Columbia
+13,Classic Care Homes Ltd,Acquired Injury,Vancouver Coastal Health,Connect Richmond,,-123.1221356,49.1340419,10971 Mortfield Gate,Richmond,V7A 2V7,(604) 330-8160,Province of British Columbia
+14,Bethesda Christian Association,Community Living,Vancouver Coastal Health,Bethesda South Richmond Home,,-123.1915368,49.1340291,10984 Springmont Gate,Richmond,V7E 1Y4,(604) 241-2770,Province of British Columbia
+15,Yaletown House Society,Long Term Care,Vancouver Coastal Health,Yaletown House,130,-123.1194831,49.2753454,1099 Cambie St,Vancouver,V6B 5A8,(604) 689-0022,Province of British Columbia
+16,Dr. Peter AIDS Foundation,Long Term Care,Vancouver Coastal Health,Dr. Peter AIDS Foundation (Residence),24,-123.1296119,49.2817581,1110 Comox St,Vancouver,V6E 1K5,(604) 331-3455,Province of British Columbia
+17,Residences for Independent Living Society,Long Term Care,Vancouver Coastal Health,Steveston Residence,10,-123.1824083,49.1327544,11119 No. 1 Rd,Richmond,V7E 1S6,(604) 241-3933,Province of British Columbia
+18,Mennonite Intermediate Care Home Society,Long Term Care,Vancouver Coastal Health,Pinegrove Place,76,-123.0984471,49.1867925,11331 Mellis Dr,Richmond,V6X 1L8,(604) 278-1296,Province of British Columbia
+19,Residences for Independent Living Society,Long Term Care,Vancouver Coastal Health,False Creek Residence,24,-123.1291889,49.2672813,1167 Forge Walk,Vancouver,V6H 3R1,(604) 731-0401,Province of British Columbia
+20,547727 BC Ltd,Mental Health,Vancouver Coastal Health,Westminster House,,-123.0929868,49.1898883,11675 Bird Rd,Richmond,V6X 1N7,(604) 270-9510,Province of British Columbia
+21,Canadian Mental Health Association NWV,Mental Health,Vancouver Coastal Health,Harold House,,-123.041008,49.3383988,1198 Harold Rd,North Vancouver,V7K 1G3,(604) 971-1613,Province of British Columbia
+22,Vancouver Coastal Health Authority,Long Term Care,Vancouver Coastal Health,Cedarview Lodge,89,-123.0400524,49.3264386,1200 Cedar Village Close,North Vancouver,V7J 3P3,604-904-6400,Province of British Columbia
+23,Bernard C. Vinge & Associates (HCS) Ltd.,Community Living,Vancouver Coastal Health,1220 East 14th,,-123.0404142,49.3209903,1220 14th St E,North Vancouver,V7J 1K2,(604) 926-8570,Province of British Columbia
+24,Coast Foundation Society (1974),Mental Health,Vancouver Coastal Health,Highland Manor,,-123.1322017,49.2576605,1232 W 15th Ave,Vancouver,V6H 1R8,(604) 731-7310,Province of British Columbia
+25,Haro Park Centre Society,Long Term Care,Vancouver Coastal Health,Haro Park Centre,154,-123.1284501,49.2856281,1233 Haro St,Vancouver,V6E 3Y5,(604) 687-5584,Province of British Columbia
+26,North Shore Connexions Society,Community Living,Vancouver Coastal Health,Barlynn House,,-123.0398716,49.3286223,1240 Barlynn Crescent,North Vancouver,V7J 1P6,604-988-2685,Province of British Columbia
+27,Coast Foundation Society (1974),Mental Health,Vancouver Coastal Health,Ananda House,,-123.0783121,49.263592,1249 E 8th Ave,Vancouver,V5T 1V3,(604) 872-7134,Province of British Columbia
+28,Broadway Pentecoastal Care Association,Long Term Care,Vancouver Coastal Health,Broadway Pentecostal Lodge,114,-123.1343725,49.2674371,1377 Lamey's Mill Rd,Vancouver,V6H 3S9,(604) 733-1441,Province of British Columbia
+29,Western Human Resource Corp.,Community Living,Vancouver Coastal Health,Woodvan,,-123.0777711,49.214385,1384 E 61st Ave,Vancouver,V5X 2C7,(604) 325-9765,Province of British Columbia
+30,"MPA - Motivation, Power & Achievement Society",Mental Health,Vancouver Coastal Health,Berman House,,-123.0614952,49.2718547,1400 Lakewood Dr,Vancouver,V5L 4M8,(604) 254-6065,Province of British Columbia
+31,North Shore Connexions Society,Community Living,Vancouver Coastal Health,Kilmer House,,-123.0341251,49.3463883,1434 Kilmer Road,North Vancouver,V7K 1R2,604-985-4599,Province of British Columbia
+32,Coast Mental Health,Mental Health,Vancouver Coastal Health,Bridge House,,-123.074661,49.2537377,1435 E 19th Ave,Vancouver,V5N 2H9,(604) 872-3794,Province of British Columbia
+33,Coast Foundation - AP Department,Mental Health,Vancouver Coastal Health,Emerald Place,,-123.0445436,49.2845069,15 Renfrew St,Vancouver,V5K 4A5,(604) 255-3034,Province of British Columbia
+34,North Shore Connexions Society,Community Living,Vancouver Coastal Health,Lynn Valley House,,-123.0310686,49.340396,1525/1527 Lynn Valley Road,North Vancouver,V7J 2B1,604-990-0835,Province of British Columbia
+35,Creekstone Care Centre Limited Partnership,Long Term Care,Vancouver Coastal Health,Creekstone Care Centre,180,-123.0313431,49.3062759,1526 Oxford St,North Vancouver,V7J 1E5,(778) 729-0270,Province of British Columbia
+36,Canadian Mental Health Association NWV,Mental Health,Vancouver Coastal Health,Arborlynn House,,-123.0321152,49.322564,1573 Arborlynn Dr,North Vancouver,V7J 2V7,(604) 971-1612,Province of British Columbia
+37,North Shore Disability Resource Centre,Community Living,Vancouver Coastal Health,Kerrstead Place,,-123.0302386,49.3381035,1608 Kerrstead Pl,North Vancouver,V7J 3T4,(604) 987-6295,Province of British Columbia
+38,Major Development Ltd./Fairway Properties Ltd./503394 BC Inc.,Long Term Care,Vancouver Coastal Health,South Granville Park Lodge,120,-123.1426813,49.2592356,1645 W 14th Ave,Vancouver,V6J 2J4,(604) 732-8633,Province of British Columbia
+39,Canadian Mental Health Association NWV,Mental Health,Vancouver Coastal Health,Lillian House,,-123.0691321,49.3338691,167 E 27th St,North Vancouver,V7N 1B3,(604) 971-2740,Province of British Columbia
+40,Greater Vancouver Community Services Society,Community Living,Vancouver Coastal Health,Coleman Street Group Home,,-123.0254987,49.3504115,1693 Coleman St,North Vancouver,V7K 1X2,(604) 984-4236,Province of British Columbia
+41,Andre Chevrier,Mental Health,Vancouver Coastal Health,Melody House,,-123.1681556,49.2705781,1730 Macdonald St,Vancouver,V6K 3X8,(604) 733-4997,Province of British Columbia
+42,"MPA - Motivation, Power & Achievement Society",Mental Health,Vancouver Coastal Health,Virginia House,,-123.1447641,49.2615516,1754 W 11th Ave,Vancouver,V6J 2C3,(604) 739-3207,Province of British Columbia
+43,Developmental Disabilities Association of Vancouver-Richmond,Community Living,Vancouver Coastal Health,47th Avenue Residence,,-123.070041,49.2279307,1759 E 47th Ave,Vancouver,V5P 1P6,(604) 325-0210,Province of British Columbia
+44,Saltgrass Health Inc.,Acquired Injury,Vancouver Coastal Health,Leaside Place,,-123.068935,49.2121813,1807 E 64th Ave,Vancouver,V5P 2M9,(604) 323-9117,Province of British Columbia
+45,C & E Home Care Inc.,Mental Health,Vancouver Coastal Health,C & E Home,,-123.0892214,49.3255315,1818 Westview Dr,North Vancouver,V7M 3A8,(604) 985-5683,Province of British Columbia
+46,Waterloo Rest Home Ltd.,Mental Health,Vancouver Coastal Health,Waterloo Rest Home Ltd,,-123.1799944,49.2697647,1835 Waterloo St,Vancouver,V6R 3G5,(604) 731-5959,Province of British Columbia
+47,Renfrew Seniors Village 3 LLP,Long Term Care,Vancouver Coastal Health,Renfrew Care Centre,106,-123.0437771,49.2678578,1880 Renfrew St,Vancouver,V5M 3H9,(604) 255-7723,Province of British Columbia
+48,North Shore Connexions Society,Community Living,Vancouver Coastal Health,Peters Road House,,-123.0222214,49.341873,1904 Peters Road,North Vancouver,V7J 1Y9,(604) 987-2221,Province of British Columbia
+49,North Shore Connexions Society,Community Living,Vancouver Coastal Health,Padwick House,,-123.0811369,49.3267725,1924 Jones Avenue,North Vancouver,V7M 2W5,604-984-2238,Province of British Columbia
+50,North Shore Connexions Society,Community Living,Vancouver Coastal Health,Larson House,,-123.0869418,49.3272173,1945 Larson Rd,North Vancouver,V7M 2Z8,(604) 988-1295,Province of British Columbia
+51,German Canadian Benevolent Society of B.C.,Long Term Care,Vancouver Coastal Health,German Canadian Care Home,137,-123.0651145,49.2098792,2010 Harrison Dr,Vancouver,V5P 2P6,(604) 713-6500,Province of British Columbia
+52,Coast Mental Health,Mental Health,Vancouver Coastal Health,Crossroads,,-123.1833749,49.2679435,2046 Dunbar St,Vancouver,V6R 3M4,(604) 730-2855,Province of British Columbia
+53,HCN-Revera Lessee (Hollyburn House) LP,Long Term Care,Vancouver Coastal Health,Hollyburn House,38,-123.167157,49.3299082,2095 Marine Dr,West Vancouver,V7V 4V5,604-922-7616,Province of British Columbia
+54,L & T Services Ltd.,Acquired Injury,Vancouver Coastal Health,Gladstone House ( L & T Services),,-123.0635011,49.2429944,2182 E 30th Ave,Vancouver,V5N 3A6,(604) 431-2960,Province of British Columbia
+55,Vancouver Coastal Health,Mental Health,Vancouver Coastal Health,Venture,,-123.1002884,49.2590505,220 E 13th Ave,Vancouver,V5T 2K4,(604) 675-3620,Province of British Columbia
+56,Strive Living Society,Community Living,Vancouver Coastal Health,Windridge House,,-123.0142042,49.3097667,2209 Windridge Dr,North Vancouver,V7H 1B6,(604) 929-5176,Province of British Columbia
+57,Finnish Canadian Rest Home Association,Long Term Care,Vancouver Coastal Health,Finnish Home,64,-123.0607974,49.2082752,2288 Harrison Dr,Vancouver,V5P 2P6,(604) 325-8241,Province of British Columbia
+58,Helios Learning Point Society,Community Living,Vancouver Coastal Health,Bridgit House,,-123.0766187,49.3290462,229 22nd St W,North Vancouver,V7M 2A2,(604) 986-4888,Province of British Columbia
+59,Hamilton High Street Residence Inc.,Long Term Care,Vancouver Coastal Health,Hamilton High Street Residence,12,-122.9677753,49.1782749,23100 Garripie Ave,Richmond,V6V 0B9,(604) 214-5700,Province of British Columbia
+60,Hamilton Village Care Centre Limited Partnership,Long Term Care,Vancouver Coastal Health,Hamilton Village Care Centre,135,-122.9669384,49.1784127,23111 Garripie Ave,Richmond,V6V 1B8,(778) 326-0104,Province of British Columbia
+61,Bernard C. Vinge & Associates (HCS) Ltd.,Community Living,Vancouver Coastal Health,2333 East 8th,,-123.0577226,49.2633118,2333 E 8th Ave,Vancouver,V5N 5R7,(604) 251-5249,Province of British Columbia
+62,North Shore Disability Resource Society Association,Community Living,Vancouver Coastal Health,Wilding Way,,-123.0534125,49.3307307,2412 Wilding Way,North Vancouver,V7N 4J4,(604) 986-1260,Province of British Columbia
+63,Point Grey Private Hospital Ltd,Long Term Care,Vancouver Coastal Health,Point Grey Seniors Care,80,-123.1603599,49.2729248,2423 Cornwall Ave,Vancouver,V6K 1B9,(604) 733-7133,Province of British Columbia
+64,Vancouver Coastal Health,Long Term Care,Vancouver Coastal Health,Berkley Care Centre,189,-123.0060474,49.312135,2444 Burr Pl,North Vancouver,V7H 3A5,(604) 924-8356,Province of British Columbia
+65,North Shore Connexions Society,Community Living,Vancouver Coastal Health,Edgemont House,,-123.0948838,49.3328531,2490 Edgemont Blvd,North Vancouver,V7R 2M8,(604) 984-9321,Province of British Columbia
+66,North Shore Connexions Society,Community Living,Vancouver Coastal Health,Carnation House,,-123.0045886,49.3183186,2524 Carnation Street,North Vancouver,V7H 1H5,604-929-0636,Province of British Columbia
+67,Coast Mental Health,Mental Health,Vancouver Coastal Health,Pender House,,-123.0522329,49.2798711,2596 E Pender St,Vancouver,V5K 2B5,(604) 253-9534,Province of British Columbia
+68,North Shore Connexions Society,Community Living,Vancouver Coastal Health,Walpole House,,-123.0014172,49.3216264,2597 Walpole Crescent,North Vancouver,V7H 1K6,604-929-1457,Province of British Columbia
+69,Sea to Sky Community Services,Community Living,Vancouver Coastal Health,Our House,,-123.0257809,49.3323066,2620 Hoskins Road,North Vancouver,V7J 3A3,(604) 904-1020,Province of British Columbia
+70,Developmental Disabilities Association of Vancouver-Richmond,Community Living,Vancouver Coastal Health,East 45th Group Home,,-123.0525228,49.2296872,2639 E 45th Ave,Vancouver,V5R 3B9,(604) 437-0933,Province of British Columbia
+71,Strive Living Society,Community Living,Vancouver Coastal Health,Blueridge House,,-123.0002634,49.3249991,2669 Standish Dr,North Vancouver,V7H 1M9,(604) 924-1656,Province of British Columbia
+72,posAbilities Association of BC,Community Living,Vancouver Coastal Health,Rosemont House,,-123.0496436,49.2194742,2702 Rosemont Dr,Vancouver,V5S 2C5,(604) 451-8405,Province of British Columbia
+73,VRS Communities Society,Acquired Injury,Vancouver Coastal Health,Duke House,,-123.0497683,49.2393317,2707 Duke St,Vancouver,V5R 4S8,(604) 439-0980,Province of British Columbia
+74,Health and Home Care Society,Long Term Care,Vancouver Coastal Health,Health and Home Care Society of British Columbia,12,-123.050944,49.2248112,2711 E 49th Ave,Vancouver,V5S 1K3,(604) 327-9525,Province of British Columbia
+75,Fair Haven Homes Society,Long Term Care,Vancouver Coastal Health,Fair Haven Homes Vancouver Lodge,101,-123.0513694,49.2253678,2720 E 48th Ave,Vancouver,V5S 1G7,(604) 433-2939,Province of British Columbia
+76,posAbilities Association of BC,Community Living,Vancouver Coastal Health,Trillium House,,-122.9980666,49.3206867,2749 Wyat Pl,North Vancouver,V7H 1K5,(604) 987-3558,Province of British Columbia
+77,"HCN - Revera Lessee (Crofton Manor) LP by its general partner, HCN-Revera Lessee (Crofton Manor) GP Inc.",Long Term Care,Vancouver Coastal Health,Crofton Manor,90,-123.1680041,49.2354933,2803 W 41st Ave,Vancouver,V6N 4B4,(604) 263-0921,Province of British Columbia
+78,"MPA - Motivation, Power & Achievement Society",Mental Health,Vancouver Coastal Health,Winston Manor,,-123.1686393,49.2660447,2805 W 7th Ave,Vancouver,V6K 1Z5,(604) 742-1536,Province of British Columbia
+79,Coast Foundation Society (1974),Mental Health,Vancouver Coastal Health,Champlain House,,-123.0483817,49.2227007,2810 E 51st Ave,Vancouver,V5S 1R3,(604) 435-1300,Province of British Columbia
+80,WJS Canada,Community Living,Vancouver Coastal Health,Our Place,,-123.0993326,49.2407212,287 E 33rd Ave,Vancouver,V5V 2Z7,(604) 874-3120,Province of British Columbia
+81,Three Links Care Society,Long Term Care,Vancouver Coastal Health,Three Links Care Centre,90,-123.0429307,49.2503144,2934 E 22nd Ave,Vancouver,V5M 2Y4,(604) 434-7211,Province of British Columbia
+82,Community Living Society,Community Living,Vancouver Coastal Health,Newmarket Drive,,-123.1026853,49.3365841,2985 Newmarket Dr,North Vancouver,V7R 2T7,604-984-8058,Province of British Columbia
+83,Villa Carital Society,Long Term Care,Vancouver Coastal Health,Villa Carital,81,-123.0521465,49.2565839,3050 Penticton St,Vancouver,V5M 4W2,(604) 434-0995,Province of British Columbia
+84,Community Living Society,Community Living,Vancouver Coastal Health,Paisley House,,-123.1080939,49.3365668,3091 Paisley Rd,North Vancouver,V7R 1C7,604-984-9685,Province of British Columbia
+85,"MPA - Motivation, Power & Achievement Society",Mental Health,Vancouver Coastal Health,Tilikum House,,-123.0383714,49.2578371,3126 Grandview Hwy,Vancouver,V5M 2E8,(604) 419-1883,Province of British Columbia
+86,M. Kopernik (Nicolaus Copernicus) Foundation,Long Term Care,Vancouver Coastal Health,Kopernik Lodge,88,-123.0391962,49.2154568,3150 Rosemont Dr,Vancouver,V5S 2C9,(604) 438-2474,Province of British Columbia
+87,Community Living Society,Community Living,Vancouver Coastal Health,East Keith Road House,,-123.0670847,49.3136203,317 Keith Road E,North Vancouver,V7L 1V6,604-980-4849,Province of British Columbia
+88,Vancouver Coastal Health Authority,Hospice,Vancouver Coastal Health,North Shore Hospice,,-123.0649066,49.3206496,319 14th St E,North Vancouver,V7L 2N6,604-904-6178,Province of British Columbia
+89,Amica Lions Gate Inc,Long Term Care,Vancouver Coastal Health,Amica at Edgemont Village,40,-123.1009669,49.3385374,3225 Highland Blvd,North Vancouver,V7R 0A3,(604) 929-6361,Province of British Columbia
+90,VRS Communities Society,Acquired Injury,Vancouver Coastal Health,East 36th House,,-123.0986843,49.2383527,325 E 36th Ave,Vancouver,V5W 1C5,(604) 321-1661,Province of British Columbia
+91,Cascadia Society for Social Working,Community Living,Vancouver Coastal Health,Kaspar House,,-123.0797408,49.3260052,325 W 19th St,North Vancouver,V7M 1X7,(604) 988-3970,Province of British Columbia
+92,Calling Foundation,Long Term Care,Vancouver Coastal Health,Blenheim Lodge,98,-123.1791189,49.2572761,3263 Blenheim St,Vancouver,V6L 2X7,(604) 732-8717,Province of British Columbia
+93,Little Mountain Residential Care and Housing Society,Long Term Care,Vancouver Coastal Health,Little Mountain Place,117,-123.0998532,49.2376635,330 E 36th Ave,Vancouver,V5W 3Z4,(604) 325-2298,Province of British Columbia
+94,Coast Mental Health,Mental Health,Vancouver Coastal Health,Journeys,,-123.0330655,49.2682034,3318 E 2nd Ave,Vancouver,V5M 1G5,(604) 254-5538,Province of British Columbia
+95,The Bloom Group Community Services Society,Hospice,Vancouver Coastal Health,May's Place,,-123.0968604,49.2831721,333 Powell St,Vancouver,V6A 1G5,(604) 606-0380,Province of British Columbia
+96,Vancouver Coastal Health,Mental Health,Vancouver Coastal Health,Vista,,-123.0709056,49.2548939,3360 Fleming St,Vancouver,V5N 3V5,(604) 736-9931,Province of British Columbia
+97,Developmental Disabilities Association of Vancouver-Richmond,Community Living,Vancouver Coastal Health,Charles Street Group Home,,-123.0314326,49.2735361,3363 Charles St,Vancouver,V5K 3C3,(604) 251-1701,Province of British Columbia
+98,Developmental Disabilities Association of Vancouver-Richmond,Community Living,Vancouver Coastal Health,3381 Worthington,,-123.0327623,49.2551157,3381 Worthington Dr,Vancouver,V5M 3X8,(604) 432-9377,Province of British Columbia
+99,VRS Communities Society,Acquired Injury,Vancouver Coastal Health,Tanner House,,-123.0313165,49.2442212,3402 E 29th Ave,Vancouver,V5R 1W7,(604) 436-3894,Province of British Columbia
+100,Coast Foundation Society (1974),Mental Health,Vancouver Coastal Health,Renfrew House,,-123.0301071,49.254322,3402 Worthington Dr,Vancouver,V5M 3X8,(604) 437-5587,Province of British Columbia
+101,Greater Vancouver Community Services Society,Community Living,Vancouver Coastal Health,Mount Seymour Parkway House,,-122.9773545,49.3153533,3403 Mt Seymour Pkwy,North Vancouver,V7H 1G4,(604) 929-3238,Province of British Columbia
+102,Coast Mental Health,Mental Health,Vancouver Coastal Health,Coast West,,-123.1806513,49.2694106,3436 W 3rd Ave,Vancouver,V6R 1L5,(604) 733-0504,Province of British Columbia
+103,Cathryn Helen Jordan,Community Living,Vancouver Coastal Health,Grief Point Residence,,-124.523903,49.8094775,3463 Marine Avenue,Powell River,V8A 2H4,604-485-2468,Province of British Columbia
+104,The Bloom Group Community Services Society,Mental Health,Vancouver Coastal Health,Victory House,,-123.096363,49.2824812,353 E Cordova St,Vancouver,V6A 1L4,(604) 606-0331,Province of British Columbia
+105,posAbilities Association of BC,Community Living,Vancouver Coastal Health,Lakeside House,,-123.0604877,49.250461,3597 Gladstone St,Vancouver,V5N 4Y8,(604) 874-5838,Province of British Columbia
+106,Greater Vancouver Community Services Society,Community Living,Vancouver Coastal Health,Fourth And Alma,,-123.1845142,49.2688649,3625 W 4th Ave,Vancouver,V6R 1P2,(604) 731-4304,Province of British Columbia
+107,L & T Services Ltd.,Acquired Injury,Vancouver Coastal Health,Collingwood House,,-123.026247,49.2393253,3626 Monmouth Ave,Vancouver,V5R 5S3,(604) 454-0637,Province of British Columbia
+108,Community Living Society,Community Living,Vancouver Coastal Health,Norwood House,,-123.0767595,49.3429472,3636 Norwood Ave,North Vancouver,V7N 3P7,604-986-0718,Province of British Columbia
+109,Community Living Society,Community Living,Vancouver Coastal Health,Maginnis Avenue,,-123.034142,49.342687,3660 Maginnis Avenue,North Vancouver,V7K 2L6,604-983-3660,Province of British Columbia
+110,VRS Communities Society,Community Living,Vancouver Coastal Health,West 63rd Home,,-123.1139356,49.2134497,369 W 63rd Ave,Vancouver,V5X 2J1,(604) 322-0994,Province of British Columbia
+111,Sea to Sky Community Services,Community Living,Vancouver Coastal Health,Newport House,,-123.156384,49.6982341,37948 3rd Ave,Squamish,V8B 0A7,(604) 892-6336,Province of British Columbia
+112,Vancouver Coastal Health Authority,Hospice,Vancouver Coastal Health,Whistler Blackcomb Sea to Sky Community Hospice,,-123.1405798,49.6986038,38146 Behrner Dr,Squamish,V8B 0C8,(604) 892-9337,Province of British Columbia
+113,Vancouver Coastal Health Authority,Long Term Care,Vancouver Coastal Health,Hilltop House,86,-123.1405798,49.6986038,38146 Behrner Dr,Squamish,V8B 0C8,(604) 892-9337,Province of British Columbia
+114,Sea to Sky Community Services,Community Living,Vancouver Coastal Health,Harmony House,,-123.1307199,49.6983807,38183 Guilford Dr,Squamish,V8B 0X4,(604) 567-8288,Province of British Columbia
+115,Saint Elizabeth Health Care,Community Living,Vancouver Coastal Health,Khyaht Ayahm,,-123.0237407,49.3445718,3895 Phyllis Rd,North Vancouver,V7K 2T7,(604) 980-0765,Province of British Columbia
+116,North Shore Disability Resource Centre,Community Living,Vancouver Coastal Health,Loraine Avenue,,-123.1065884,49.3445872,3908 Loraine Ave,North Vancouver,V7R 4B8,(604) 984-6190,Province of British Columbia
+117,Inclusion Powell River Society,Community Living,Vancouver Coastal Health,Joyce Avenue Residence,,-124.5201111,49.8240785,4000 Joyce Avenue,Powell River,V8A 2Z5,604-485-4567,Province of British Columbia
+118,Coast Foundation - AP Department,Mental Health,Vancouver Coastal Health,Birchwood House,,-123.1513116,49.2504475,4002 Maple Crescent,Vancouver,V6J 4B2,(604) 733-8276,Province of British Columbia
+119,North Shore Disability Resource Centre,Community Living,Vancouver Coastal Health,Shone House,,-122.9593032,49.318792,4060 Shone Rd,North Vancouver,V7G 2N4,(604) 924-1963,Province of British Columbia
+120,VRS Communities Society,Acquired Injury,Vancouver Coastal Health,Carolina House,,-123.0917117,49.2488301,4096 Carolina St,Vancouver,V5V 4B7,(604) 874-5433,Province of British Columbia
+121,"MPA - Motivation, Power & Achievement Society",Mental Health,Vancouver Coastal Health,Banyan House,,-123.0333789,49.24762,4134 Rupert St,Vancouver,V5R 2H4,(604) 451-3441,Province of British Columbia
+122,City Centre Care Society,Long Term Care,Vancouver Coastal Health,Central City Lodge,100,-123.1119351,49.2831331,415 W Pender St,Vancouver,V6B 1V2,(604) 681-9111,Province of British Columbia
+123,Inclusion Powell River Society,Community Living,Vancouver Coastal Health,Scotia Place,,-124.5216544,49.8326712,4314 Scotia Place,Powell River,V8A 2X2,(604) 485-0925,Province of British Columbia
+124,Care Pacific Holdings Ltd.,Long Term Care,Vancouver Coastal Health,OPAL by Element,31,-123.1133124,49.2486447,438 W King Edward Ave,Vancouver,V5Y 2J4,(778) 488-0637,Province of British Columbia
+125,North Shore Connexions Society,Community Living,Vancouver Coastal Health,Capilano House,,-123.1072561,49.3510806,4410 Capilano Road,North Vancouver,V7R 4J9,(604) 980-5117,Province of British Columbia
+126,Richmond Society for Community Living,Community Living,Vancouver Coastal Health,Muscroft House,,-123.1746239,49.1486039,4433 Francis Rd,Richmond,V7C 1J8,(604) 275-2390,Province of British Columbia
+127,Vancouver Coastal Health,Mental Health,Vancouver Coastal Health,Chapman House,,-123.7179765,49.4405122,4491 Sunshine Coast Highway,Sechelt,V0N 3A1,604-885-3632,Province of British Columbia
+128,,Community Living,Vancouver Coastal Health,Capilano Road,,-123.1074121,49.3532103,4537 Capilano Rd North,Vancouver,V7R 4K2,604-980-3582,Province of British Columbia
+129,Inclusion Powell River Society,Community Living,Vancouver Coastal Health,Golden Avenue Residence,,-124.5216509,49.8396688,4574 Golden Avenue,Powell River,V8A 2X5,604-485-0358,Province of British Columbia
+130,posAbilities Association of BC,Community Living,Vancouver Coastal Health,38th Avenue Group Home,,-123.0949439,49.2364685,461 E 38th Ave,Vancouver,V5W 1H8,(604) 322-9001,Province of British Columbia
+131,Vancouver Hospice Society,Hospice,Vancouver Coastal Health,Vancouver Hospice,,-123.1397858,49.2442606,4615 Granville St,Vancouver,V6H 3M1,(604) 737-3339,Province of British Columbia
+132,Inclusion Powell River Society,Community Living,Vancouver Coastal Health,Redonda Crescent Residence,,-124.5131271,49.8440055,4728 Redonda Avenue,Powell River,V8A 5C9,604-485-7948,Province of British Columbia
+133,posAbilities Association of BC,Community Living,Vancouver Coastal Health,Broadway House,,-123.0656713,49.2421166,4755 Victoria Dr,Vancouver,V5N 4P2,(604) 872-7796,Province of British Columbia
+134,Greater Vancouver Community Services Society,Community Living,Vancouver Coastal Health,GVCSS - Williams Road Home,,-123.1724487,49.1413308,4811 Williams Rd,Richmond,V7E 1J7,(604) 275-2489,Province of British Columbia
+135,"MPA - Motivation, Power & Achievement Society",Mental Health,Vancouver Coastal Health,Sophia House,,-123.0982494,49.2415748,4824 Sophia St,Vancouver,V5V 3W6,(604) 876-7461,Province of British Columbia
+136,Greater Vancouver Community Services Society,Mental Health,Vancouver Coastal Health,Railway House,,-123.1705359,49.1486767,4851 Francis Rd,Richmond,V7C 4R5,(604) 370-5875,Province of British Columbia
+137,Coast Foundation Society (1974),Mental Health,Vancouver Coastal Health,Shaw Place,,-123.0949923,49.2326234,488 E 41st Ave,Vancouver,V5W 1P2,(604) 322-4678,Province of British Columbia
+138,Cathryn Helen Jordan,Community Living,Vancouver Coastal Health,Bowness Residence,,-124.5073983,49.8491442,4909 Bowness Avenue,Powell River,V8A 3S6,604-485-2291,Province of British Columbia
+139,Providence Health Care,Long Term Care,Vancouver Coastal Health,Youville Residence,42,-123.1198493,49.2404603,4950 Heather St,Vancouver,V5Z 3L9,(604) 806-9640,Province of British Columbia
+140,Vancouver Coastal Health,Long Term Care,Vancouver Coastal Health,Willingdon Creek Village,102,-124.5187515,49.8497932,4980 Kiwanis Avenue,Powell River,V8A 5H5,(604) 485-9868,Province of British Columbia
+141,Coast Foundation - AP Department,Mental Health,Vancouver Coastal Health,Camille House,,-123.1054368,49.2577745,5 W 15th Ave,Vancouver,V5Y 1X7,(604) 675-3502,Province of British Columbia
+142,Vancouver Coastal Health,Long Term Care,Vancouver Coastal Health,Dogwood Lodge,83,-123.117928,49.2183308,500 W 57th Ave,Vancouver,V6P 6E8,(604) 324-6882,Province of British Columbia
+143,Western Human Resource Corp,Community Living,Vancouver Coastal Health,Birch Station,,-123.1682267,49.1553184,5100 Blundell Rd,Richmond,V7C 1H4,(604) 278-9751,Province of British Columbia
+144,Revera Long Term Care,Long Term Care,Vancouver Coastal Health,Capilano Care Centre,148,-123.130122,49.3290301,525 Clyde Avenue,West Vancouver,V7T 1C4,604-926-6856,Province of British Columbia
+145,Coast Mental Health,Mental Health,Vancouver Coastal Health,Chester House,,-123.0889024,49.2366929,5328 Chester St,Vancouver,V5W 3A9,(604) 322-3071,Province of British Columbia
+146,Inclusion Powell River Society,Community Living,Vancouver Coastal Health,Cranberry Creek,,-124.5208725,49.8624767,5402 Dale,Avenue Powell River,V8A 3W3,(604) 485-7948,Province of British Columbia
+147,WJS Canada,Community Living,Vancouver Coastal Health,Gladstone Street Group Home,,-123.0623051,49.2356383,5425 Gladstone St,Vancouver,V5P 4S1,(604) 321-4289,Province of British Columbia
+148,"MPA - Motivation, Power & Achievement Society",Mental Health,Vancouver Coastal Health,Byron House,,-123.0926041,49.2567269,551 E 16th Ave,Vancouver,V5T 2V1,(604) 737-8441,Province of British Columbia
+149,Sunshine Coast Association for Community Living,Community Living,Vancouver Coastal Health,Rosecliffe Residence,,-123.7649643,49.4728987,5527 Shorncliffe Ave,Sechelt,V0N 3A7,(604) 885-7492,Province of British Columbia
+150,Inclusion Powell River Society,Community Living,Vancouver Coastal Health,Nelson Residence,,-124.5253194,49.8660534,5534 Nelson Avenue,Powell River,V8A 4C8,(604) 483-3293,Province of British Columbia
+151,S.U.C.C.E.S.S. Multi-Level Care Society,Long Term Care,Vancouver Coastal Health,S.U.C.C.E.S.S. Simon K.Y. Lee Seniors Care Home,114,-123.1048487,49.2797458,555 Carrall St,Vancouver,V6B 2J8,(604) 608-8800,Province of British Columbia
+152,Richmond Society for Community Living,Community Living,Vancouver Coastal Health,Woodwards Home,,-123.1592847,49.1437498,5728 Woodwards Road,Richmond,V7E 1H1,(604) 277-1976,Province of British Columbia
+153,North Shore Disability Resource Centre,Community Living,Vancouver Coastal Health,Nancy Greene Way,,-123.100531,49.3687958,5793 Nancy Greene Way,North Vancouver,V7R 4W4,(604) 980-5987,Province of British Columbia
+154,Sunshine Coast Association for Community Living,Community Living,Vancouver Coastal Health,Medusa Street Residence,,-123.7650971,49.4749988,5832 Medusa Street,Sechelt,V0N 3A3,604-885-8823,Province of British Columbia
+155,Vancouver Coastal Health,Long Term Care,Vancouver Coastal Health,Shorncliffe,59,-123.7655306,49.4745937,5847 Medusa Street,Sechelt,V0N 3A3,604-885-5126,Province of British Columbia
+156,The Good Samaritan Society,Long Term Care,Vancouver Coastal Health,Christenson Village,80,-123.5202772,49.4044948,585 Shaw Road,Gibsons,V0N 1V8,(604) 886-8747,Province of British Columbia
+157,Sunshine Coast Association for Community Living,Community Living,Vancouver Coastal Health,Turnstone,,-123.7681431,49.4827669,5910 Turnstone Crescent,Sechelt,V0N 3A6,(604) 885-7457,Province of British Columbia
+158,VRS Communities Society,Community Living,Vancouver Coastal Health,Larch House,,-123.163241,49.2323326,5953 Larch St,Vancouver,V6M 4E5,(604) 261-0729,Province of British Columbia
+159,VRS Communities Society,Community Living,Vancouver Coastal Health,Yew Residence,,-123.1590853,49.2300253,6191 Yew St,Vancouver,V6M 3Z1,(604) 569-1857,Province of British Columbia
+160,Richmond Intermediate Care Society,Long Term Care,Vancouver Coastal Health,Rosewood Manor,156,-123.1553156,49.1551041,6260 Blundell Rd,Richmond,V7C 5C4,(604) 271-3590,Province of British Columbia
+161,Providence Health Care,Hospice,Vancouver Coastal Health,St. John Hospice,,-123.2474225,49.2551898,6389 Stadium Rd,Vancouver,V6T 2J9,(604) 806-9686,Province of British Columbia
+162,The Salvation Army,Hospice,Vancouver Coastal Health,Rotary Hospice House,,-123.1132486,49.1655515,6460 No. 4 Rd,Richmond,V6Y 2S9,(604) 207-1212,Province of British Columbia
+163,posAbilities Association of BC,Community Living,Vancouver Coastal Health,East 61st Community House,,-123.0920388,49.2146808,648 E 61st Ave,Vancouver,V5X 2B9,(604) 321-8501,Province of British Columbia
+164,The Bloom Group Community Services Society,Hospice,Vancouver Coastal Health,Cottage Hospice,,-123.0506165,49.2910232,650 N Penticton St,Vancouver,V5K 3L8,(604) 606-0440,Province of British Columbia
+165,Developmental Disabilities Association of Vancouver-Richmond,Community Living,Vancouver Coastal Health,Azure Group Home,,-123.1552752,49.163382,6531 Azure Rd,Richmond,V7C 2S1,(604) 271-3338,Province of British Columbia
+166,Amica Senior Lifestyles Inc.,Long Term Care,Vancouver Coastal Health,Amica West Vancouver,36,-123.1332044,49.3285715,659 Clyde Ave,West Vancouver,V7T 1C8,(604) 921-9181,Province of British Columbia
+167,Developmental Disabilities Association of Vancouver-Richmond,Community Living,Vancouver Coastal Health,Camsell House,,-123.1558957,49.1698214,6631 Camsell Cres,Richmond,V7C 2M9,(604) 241-9477,Province of British Columbia
+168,Veronica Sindayen,Community Living,Vancouver Coastal Health,Starburst Home Care,,-123.0909955,49.2468922,665 E 27th Ave,Vancouver,V5V 2K7,(604) 565-5158,Province of British Columbia
+169,Developmental Disabilities Association,Community Living,Vancouver Coastal Health,6655a and 6655b Arlington Street,,-123.0293827,49.2227283,6655 Arlington St,Vancouver,V5S 3P1,(604) 435-7308,Province of British Columbia
+170,Developmental Disabilities Association of Vancouver-Richmond,Community Living,Vancouver Coastal Health,6699 Arlington,,-123.028809,49.2228275,6699 Arlington St,Vancouver,V5S 3P1,(604) 435-5713,Province of British Columbia
+171,Greater Vancouver Community Services Society,Community Living,Vancouver Coastal Health,Doman House,,-123.0371915,49.2203848,6985 Doman St,Vancouver,V5S 3H9,(604) 439-7910,Province of British Columbia
+172,Amica Senior Living Management Inc.,Long Term Care,Vancouver Coastal Health,Amica Lions Gate,99,-123.1349848,49.3308811,701 Keith Rd,West Vancouver,V7T 1M2,(778) 280-8540,Province of British Columbia
+173,Columbus Long Term Care Society,Long Term Care,Vancouver Coastal Health,Columbus Residence,76,-123.1210099,49.2089096,704 W 69th Ave,Vancouver,V6P 2W3,(604) 321-4405,Province of British Columbia
+174,Inclusion Powell River Society,Community Living,Vancouver Coastal Health,Nootka Street Residence,,-124.5182516,49.8209862,7050 Nootka Street,Powell River,V8A 5E5,604-485-6346,Province of British Columbia
+175,Courtyard Gardens Holdings Ltd.,Long Term Care,Vancouver Coastal Health,Courtyard Gardens,31,-123.1441684,49.162097,7051 Moffatt Rd,Richmond,V6Y 3W2,(604) 273-1225,Province of British Columbia
+176,Vancouver Coastal Health,Mental Health,Vancouver Coastal Health,Magnolia House,,-123.0538386,49.3242483,720 E 17th St,North Vancouver,V7L 2W8,604-984-2789,Province of British Columbia
+177,Baptist Housing (Baptist Housing Oak Bay Care Society),Long Term Care,Vancouver Coastal Health,Inglewood Care Centre,137,-123.1356688,49.3354367,725 Inglewood Ave,West Vancouver,V7T 1X5,(604) 922-9394,Province of British Columbia
+178,650603 BC Ltd,Mental Health,Vancouver Coastal Health,Granville House,,-123.1145231,49.1600362,7315 No. 4 Rd,Richmond,V6Y 2T4,(604) 276-0602,Province of British Columbia
+179,Western Human Resource Corp.,Community Living,Vancouver Coastal Health,Woodrich,,-123.1584481,49.1592407,7360 No. 2 Rd,Richmond,V7C 3L9,(604) 274-8945,Province of British Columbia
+180,Bethesda Christian Association,Community Living,Vancouver Coastal Health,Bethesda Richmond Home,,-123.1400007,49.1598783,7540 Acheson Road,Richmond,V6Y 1M9,(604) 244-3133,Province of British Columbia
+181,Coast Foundation Society (1974),Mental Health,Vancouver Coastal Health,Coast Magnolia House,,-123.0886298,49.2539535,755 E 19th Ave,Vancouver,V5V 1K4,(604) 708-9624,Province of British Columbia
+182,Developmental Disabilities Association of Vancouver-Richmond,Community Living,Vancouver Coastal Health,Langton Road,,-123.1606944,49.1570208,7611 Langton Rd,Richmond,V7C 4B4,(604) 275-4944,Province of British Columbia
+183,Developmental Disabilities Association,Community Living,Vancouver Coastal Health,Curzon House,,-123.1511773,49.1559856,7671 Curzon St,Richmond,V7C 4H8,(604) 241-0528,Province of British Columbia
+184,Royal Arch Masonic Homes Society,Long Term Care,Vancouver Coastal Health,Royal Arch Masonic Home,151,-123.0288043,49.2135327,7850 Champlain Cres,Vancouver,V5S 4C7,(604) 437-7343,Province of British Columbia
+185,Jasper Crescent Care Home Ltd.,Acquired Injury,Vancouver Coastal Health,Jasper Crescent Care Home,,-123.0665302,49.2122329,7887 Jasper Cres,Vancouver,V5P 3T2,(604) 324-9111,Province of British Columbia
+186,St. Jude's Anglican Home Society,Long Term Care,Vancouver Coastal Health,St. Jude's Anglican Home,55,-123.1227326,49.2468877,810 W 27th Ave,Vancouver,V5Z 2G7,(604) 874-3200,Province of British Columbia
+187,Cheshire Homes Society of B.C.,Acquired Injury,Vancouver Coastal Health,King Edward House,,-123.0870448,49.2483529,820 E King Edward Ave,Vancouver,V5V 2E4,(604) 872-1120,Province of British Columbia
+188,Western Human Resource Corp.,Community Living,Vancouver Coastal Health,Williams Road Group Home,,-123.1314438,49.1406059,8380 Williams Rd,Richmond,V7A 1G6,(604) 271-1322,Province of British Columbia
+189,Developmental Disabilities Association of Vancouver-Richmond,Community Living,Vancouver Coastal Health,Robinson Group Home,,-123.1303718,49.1490998,8400 Robinson Rd,Richmond,V6Y 1B5,(604) 275-5854,Province of British Columbia
+190,Little Mountain Residential Care and Housing Society,Long Term Care,Vancouver Coastal Health,Adanac Park Lodge,76,-123.0245958,49.2770771,851 Boundary Rd,Vancouver,V5K 4T2,(604) 299-7567,Province of British Columbia
+191,650600 BC Ltd,Mental Health,Vancouver Coastal Health,Francis House,,-123.1472723,49.1497112,8640 Cruickshank Dr,Richmond,V6Y 2X6,(604) 241-0972,Province of British Columbia
+192,Milieu Family Services Inc,Community Living,Vancouver Coastal Health,Richmond House,,-123.1593858,49.1492749,8691 No. 2 Rd,Richmond,V7C 3M4,(604) 271-2297,Province of British Columbia
+193,Windermere Care Centre Inc.,Long Term Care,Vancouver Coastal Health,Windermere Care Centre,210,-123.1252814,49.2602777,900 W 12th Ave,Vancouver,V5Z 1N3,(604) 736-8676,Province of British Columbia
+194,Vancouver Coastal Health,Long Term Care,Vancouver Coastal Health,Richmond Lions Manor - Bridgeport,88,-123.1251457,49.1915261,9020 Bridgeport Rd,Richmond,V6X 1S1,(604) 675-2590,Province of British Columbia
+195,Bernard C. Vinge & Associates (HCS) Ltd.,Community Living,Vancouver Coastal Health,9511 Steveston Highway,,-123.1212091,49.1337379,9511 Steveston Hwy,Richmond,V7A 1M7,(604) 275-2470,Province of British Columbia
+196,Richmond Society for Community Living,Community Living,Vancouver Coastal Health,Pendleton House,,-123.1772907,49.1448542,9580 Pendleton Road,Richmond,V7E 4N1,(604) 275-3337,Province of British Columbia
+197,Fraserview Retirement Community Ltd.,Long Term Care,Vancouver Coastal Health,Fraserview Retirement Community Ltd.,199,-123.1174766,49.1398092,9580 Williams Road,Richmond,V7A 1H2,(604) 274-3510,Province of British Columbia
+198,Villa Cathay Care Home Society,Long Term Care,Vancouver Coastal Health,Villa Cathay Care Home,134,-123.0833778,49.276979,970 Union St,Vancouver,V6A 3V1,(604) 254-5621,Province of British Columbia
+199,Thompson Community Services,Community Living,Vancouver Coastal Health,Plymouth House,,-122.9920303,49.3147181,972 Plymouth Dr,North Vancouver,V7H 2J1,(604) 929-8468,Province of British Columbia
+200,Ventas SS L Ontario II Inc,Long Term Care,Vancouver Coastal Health,Sunrise of Lynn Valley,114,-123.0472914,49.3326532,980 Lynn Valley Rd,North Vancouver,V7J 3V7,(604) 904-1226,Province of British Columbia
+201,Marineview Housing Society,Mental Health,Vancouver Coastal Health,Parkview House,,-123.0464839,49.3135994,990 E Keith Rd,North Vancouver,V7L 1X2,(778) 340-1081,Province of British Columbia
+202,Ventas SS L Ontario II Inc,Long Term Care,Vancouver Coastal Health,Sunrise of Vancouver,106,-123.1278011,49.2195761,999 W 57th Ave,Vancouver,V6P 6Y9,(604) 261-5799,Province of British Columbia
+203,Delta Community Living Society,Residential Care,Fraser Health,11A Home,,-123.0812712,49.0241528,5145 11A Ave,Delta,V4M 1Z7,(604)943-2581,Province of British Columbia
+204,Arcus Community Resources Ltd.,Residential Care,Fraser Health,122nd Avenue Home,,-122.6062374,49.2244181,22229 122nd Ave,Maple Ridge,V2X 3X8,(604)467-8828,Province of British Columbia
+205,Younghusband Resources Ltd.,Residential Care,Fraser Health,123rd Home,,-122.6427073,49.2259116,20878 123rd Ave,Maple Ridge,V2X 4B2,(604)463-5484,Province of British Columbia
+206,Semiahmoo House Society,Residential Care,Fraser Health,12698 - 25th Avenue,,-122.8701789,49.0479336,12698 25th Ave,Surrey,V4A 2K4,(604)535-2514,Province of British Columbia
+207,Semiahmoo House Society,Residential Care,Fraser Health,13330 - 20A Avenue,,-122.8529028,49.0396693,13330 20A Ave,Surrey,V4A 9K2,(604)538-1587,Province of British Columbia
+208,Semiahmoo House Society,Residential Care,Fraser Health,13333 - 20th Avenue,,-122.8527109,49.0386634,13333 20th Ave,Surrey,V4A 1Z3,(604)538-1635,Province of British Columbia
+209,Community Living Society,Residential Care,Fraser Health,216A Street,,-122.6236643,49.1658526,8983 216A St,Langley,V1M 4C7,(604)293-0284,Province of British Columbia
+210,Younghusband Resources Ltd.,Residential Care,Fraser Health,227th Home,,-122.5944504,49.234607,12775 227th St,Maple Ridge,V2X 6K5,(604)463-0202,Province of British Columbia
+211,Community Living Society,Residential Care,Fraser Health,48B,,-123.0890958,49.0853658,4515 48B St,Delta,V4K 2R9,(604)940-1372,Province of British Columbia
+212,H.O.M.E. Society,Residential Care,Fraser Health,58th Avenue Home,,-122.4158806,49.1057393,29172 58th Ave,Abbotsford,V4X 2G1,(604)856-3278,Province of British Columbia
+213,Semiahmoo House Society,Residential Care,Fraser Health,5960 Angus Place,,-122.7472302,49.1107603,5960 Angus Pl,Surrey,V3S 4W7,(604)576-0823,Province of British Columbia
+214,Semiahmoo House Society,Residential Care,Fraser Health,5984 - 191A Street,,-122.691835,49.1106832,5984 191A St,Surrey,V3S 7N1,(604)574-7229,Province of British Columbia
+215,Fraser Health,Residential Care,Fraser Health,7550 Rosewood,178,-122.9440186,49.2237295,7550 Rosewood St,Burnaby,V5E 3Z3,(236)888-9726,Province of British Columbia
+216,Communitas Supportive Care Society,Residential Care,Fraser Health,88th,,-122.5823423,49.1623586,23124 88th Ave,Fort Langley,V1M 2R4,(604)217-2108,Province of British Columbia
+217,Kinsight Community Society,Residential Care,Fraser Health,917 Foster,,-122.8710548,49.2565374,917 Foster Ave,Coquitlam,V3J 2L8,(604)937-0609,Province of British Columbia
+218,Pioneer Community Living Association,Residential Care,Fraser Health,Adrian House,,-122.9834531,49.275764,948 Howard Ave,Burnaby,V5B 3R6,(604)299-4985,Province of British Columbia
+219,Agassiz Seniors Community Partnership,Residential Care,Fraser Health,Agassiz Seniors Community,68,-121.7681608,49.2335015,1525 Mackay Cres,Agassiz,V0M 1A3,(604)796-3886,Province of British Columbia
+220,Western Human Resource Corp.,Residential Care,Fraser Health,Alice Lake Place Group Home,,-122.813081,49.2551287,2724 Alice Lake Pl,Coquitlam,V3C 5W8,(604)941-4918,Province of British Columbia
+221,posAbilities Association of British Columbia,Residential Care,Fraser Health,Altesse,,-123.0214555,49.2343916,3762 Thurston St,Burnaby,V5H 1H7,(604)439-1772,Province of British Columbia
+222,Prime Time (Abby Lane) Inc.,Residential Care,Fraser Health,Amica White Rock,64,-122.7979723,49.0313216,15333 16th Ave,Surrey,V4A 1R6,(778)545-8800,Province of British Columbia
+223,The Ridge Meadows Association For Community Living,Residential Care,Fraser Health,Arborwynd,,-122.4709799,49.2051507,27136 112th Ave,Maple Ridge,V2W 1P8,(604)462-0968,Province of British Columbia
+224,Sources Community Resources Society,Residential Care,Fraser Health,Archway House,,-122.7568634,49.1102944,5933 168th St,Surrey,V3S 3X5,(604)576-2455,Province of British Columbia
+225,Argyll Lodge Ltd,Residential Care,Fraser Health,Argyll Lodge,,-122.8178181,49.1958776,14590 106A Ave,Surrey,V3R 1T4,(604)581-4174,Province of British Columbia
+226,Communitas Supportive Care Society,Residential Care,Fraser Health,Ashley Home,,-122.3133731,49.0426844,32885 Ashley Way,Abbotsford,V2S 5W3,(604)853-8429,Province of British Columbia
+227,Milieu Family Services Inc.,Residential Care,Fraser Health,Aster House,,-122.789732,49.0372219,15625 Aster Rd,Surrey,V4A 1Y4,(604)538-0439,Province of British Columbia
+228,Augustine House Society,Residential Care,Fraser Health,Augustine House,13,-123.0769909,49.0730448,3820 Arthur Dr,Delta,V4K 5E6,(604)940-6005,Province of British Columbia
+229,Community Living Society,Residential Care,Fraser Health,Ayling,,-122.738152,49.2840615,4024 Ayling St,Port Coquitlam,V3B 5W4,(604)540-7308,Province of British Columbia
+230,Surrey Association For Community Living,Residential Care,Fraser Health,Bakerview Court,,-122.6986506,49.1157771,18919 62A Ave,Surrey,V3S 8S4,(604)576-1255,Province of British Columbia
+231,Mission Association For Community Living,Residential Care,Fraser Health,Bannister Drive Residence,,-122.296432,49.1580908,8590 Bannister Dr,Mission,V2V 5X4,(604)807-0104,Province of British Columbia
+232,Azimuth Health Program Management Ltd.,Residential Care,Fraser Health,Barberry Lodge,,-122.75463,49.264882,1440 Barberry Dr,Port Coquitlam,V3B 1G3,(604)941-9022,Province of British Columbia
+233,New Vision Development Inc.,Residential Care,Fraser Health,Barclay Care Home Ltd.,,-122.7686171,49.2698335,1948 Grant Ave,Port Coquitlam,V3B 1P7,(604)942-0473,Province of British Columbia
+234,Communitas Supportive Care Society,Residential Care,Fraser Health,Bayshore Home,,-121.9947057,49.1007392,44419 Bayshore Ave,Chilliwack,V2R 0A5,(604)824-5955,Province of British Columbia
+235,"MPA - Motivation, Power & Achievement Society",Residential Care,Fraser Health,Beckman House,,-122.6220496,49.2212835,12032 216th St,Maple Ridge,V2X 5J3,(604)466-3370,Province of British Columbia
+236,Inclusion Langley Society,Residential Care,Fraser Health,Belmont Residence,,-122.6645126,49.0741503,3975 202nd St,Langley,V3A 1R9,(604)534-9950,Province of British Columbia
+237,Milieu Family Services Inc.,Residential Care,Fraser Health,Bethayne House,,-122.7402073,49.1085651,17412 58A Ave,Surrey,V3S 1M8,(604)574-2484,Province of British Columbia
+238,Bethesda Christian Association,Residential Care,Fraser Health,Bethesda Abbotsford Home,,-122.3077081,49.0363142,1895 Jackson St,Abbotsford,V2S 2Z8,(604)858-4211,Province of British Columbia
+239,Bethesda Christian Association,Residential Care,Fraser Health,Bethesda Chilcotin Home,,-122.3183114,49.0710888,32704 Chilcotin Dr,Abbotsford,V2T 5S5,(604)744-5274,Province of British Columbia
+240,Bethesda Christian Association,Residential Care,Fraser Health,Bethesda Clearbrook Home,,-122.3221005,49.0477168,32553 Willingdon Cres,Abbotsford,V2T 1S1,(604)853-0042,Province of British Columbia
+241,Bethesda Christian Association,Residential Care,Fraser Health,Bethesda Langley Home,,-122.6550127,49.1727066,20477 93A Ave,Langley,V1M 1B8,(604)882-7492,Province of British Columbia
+242,Bethesda Christian Association,Residential Care,Fraser Health,Bethesda Matsqui Home,,-122.3166859,49.0416172,32768 Bevan Ave,Abbotsford,V2S 1T1,(604)850-3499,Province of British Columbia
+243,Bethesda Christian Association,Residential Care,Fraser Health,Bethesda Surrey Home,,-122.770158,49.1989643,16321 108th Ave,Surrey,V3R 6C5,(604)581-1858,Province of British Columbia
+244,Bethesda Christian Association,Residential Care,Fraser Health,Bethesda West Clearbrook Home,,-122.339746,49.0446238,2339 Arbutus St,Abbotsford,V2T 2V8,(604)850-7311,Province of British Columbia
+245,Trillium Communities,Residential Care,Fraser Health,Bevan Village,115,-122.2992395,49.0413325,33386 Bevan Ave,Abbotsford,V2S 5G6,(604)850-5416,Province of British Columbia
+246,H.O.M.E. Society,Residential Care,Fraser Health,Bradner House,,-122.4244815,49.058856,3098 Bradner Rd,Abbotsford,V4X 1K2,(604)856-1892,Province of British Columbia
+247,Sienna-Baltic (Brookside) Inc,Residential Care,Fraser Health,Brookside Lodge,103,-122.6809464,49.1141416,19550 Fraser Hwy,Surrey,V3S 6K5,(604)530-6595,Province of British Columbia
+248,Wayne R. Mills,Residential Care,Fraser Health,Brookswood Court,,-122.6690447,49.0716323,3830 200th St,Langley,V3A 1K2,(604)534-3996,Province of British Columbia
+249,Classic Care Homes Ltd.,Residential Care,Fraser Health,Brydon House,,-122.6782902,49.1035697,19665 55A Ave,Langley,V3A 3X1,(604)532-1769,Province of British Columbia
+250,posAbilities Association of British Columbia,Residential Care,Fraser Health,Buckingham House,,-122.9510065,49.2268552,7516 Imperial St,Burnaby,V5E 1P6,(604)540-7717,Province of British Columbia
+251,Achpang Residential Services Ltd,Residential Care,Fraser Health,Buena Vista Lodge Ltd,,-122.803626,49.0242352,15109 Buena Vista Ave,White Rock,V4B 1Y2,(604)536-6752,Province of British Columbia
+252,Delta Community Living Society,Residential Care,Fraser Health,Cabeldu,,-122.9062557,49.1204814,6473 Cabeldu Cres,Delta,V4E 1R2,(604)590-4988,Province of British Columbia
+253,Bethesda Christian Association,Residential Care,Fraser Health,Cameron Home,,-122.2561441,49.04751,2484 Cameron Cres,Abbotsford,V3G 2A9,(604)854-6762,Province of British Columbia
+254,Younghusband Resources Ltd.,Residential Care,Fraser Health,Campbell Home,,-122.6634862,49.2254665,20139 Telep Ave,Maple Ridge,V2X 3M4,(604)460-1225,Province of British Columbia
+255,Ridge Meadows Association For Community Living,Residential Care,Fraser Health,Campbell House,,-122.629491,49.2241205,21351 Campbell Ave,Maple Ridge,V2X 7G6,(604)463-7101,Province of British Columbia
+256,0729187 BC Ltd,Residential Care,Fraser Health,Carlton Gardens Care Centre,128,-123.0128497,49.2550436,4108 Norfolk St,Burnaby,V5G 0B4,(604)419-3000,Province of British Columbia
+257,Burnaby Association For Community Inclusion,Residential Care,Fraser Health,Carson House,,-122.9894056,49.2096827,5155 Carson St,Burnaby,V5J 2Z1,(604)435-8904,Province of British Columbia
+258,Cartier House Care Centre Partnership,Residential Care,Fraser Health,Cartier House Care Centre,78,-122.8528962,49.2417119,1419 Cartier Ave,Coquitlam,V3K 2C6,(604)939-4654,Province of British Columbia
+259,Jubilee Multi Generational Housing Society,Residential Care,Fraser Health,Cascade Gardens,60,-123.0127488,49.2540499,3460 Kalyk Ave,Burnaby,V5G 3B2,(604)434-2666,Province of British Columbia
+260,posAbilities Association of British Columbia,Residential Care,Fraser Health,Catherine House,,-122.8758933,49.2701637,809 Catherine Ave,Coquitlam,V3J 4L6,(604)298-4606,Province of British Columbia
+261,Ridge Meadows Association For Community Living,Residential Care,Fraser Health,Cedarvale (East),,-122.5669671,49.2169929,23635 118th Ave,Maple Ridge,V4R 2C9,(604)467-7509,Province of British Columbia
+262,Celebration and Rainbow Manor Ltd,Residential Care,Fraser Health,Celebration & Rainbow Manor,,-122.77992,49.186408,10130 159A St,Surrey,V4N 2P8,(604)582-0790,Province of British Columbia
+263,Chilliwack Society For Community Living,Residential Care,Fraser Health,Chadsey House,,-121.9733436,49.1367191,7400 Sunshine Dr,Chilliwack,V2R 1H6,(604)858-4331,Province of British Columbia
+264,Charlford House Society for Women,Residential Care,Fraser Health,Charlford House,,-122.9623947,49.2718494,6845 Kitchener St,Burnaby,V5B 2J8,(604)420-6601,Province of British Columbia
+265,Chelsey House (2003) Ltd,Residential Care,Fraser Health,Chelsey House 2003 Ltd,,-122.6241638,49.0849489,4544 216th St,Langley,V3A 2M4,(604)530-0352,Province of British Columbia
+266,Cherington Intercare Inc,Residential Care,Fraser Health,Cherington Place,75,-122.8492989,49.2054882,13453 111A Ave,Surrey,V3R 2C5,(604)581-2885,Province of British Columbia
+267,Sources Community Resources Society,Residential Care,Fraser Health,Chestnut House,,-123.0685534,49.0860238,4576 55B St,Delta,V4K 3W5,(604)946-0401,Province of British Columbia
+268,Chilliwack Lifestyles Holdings (2006) Ltd.,Residential Care,Fraser Health,Chilliwack Lifestyles Willow Manor,,-121.959427,49.1289839,6980 Vedder Rd,Chilliwack,V2R 4E1,(604)846-0031,Province of British Columbia
+269,Milieu Family Services Inc.,Residential Care,Fraser Health,Christel House,,-122.8972743,49.1524706,11753 82nd Ave,Delta,V4C 2C3,(604)597-1286,Province of British Columbia
+270,Classic Care Homes Ltd.,Residential Care,Fraser Health,Classic Homestead - South,,-122.6791882,49.0634283,3364 196th St,Langley,V3A 4T7,(604)533-6904,Province of British Columbia
+271,Kinsight Community Society,Residential Care,Fraser Health,Cochrane House,,-122.8878045,49.2521842,567 Cochrane Ave,Coquitlam,V3J 2A3,(604)931-5148,Province of British Columbia
+272,posAbilities Association of British Columbia,Residential Care,Fraser Health,Columbia House,,-122.8939774,49.2258399,319 Keary St,New Westminster,V3L 3L2,(604)522-8405,Province of British Columbia
+273,Community Living Society,Residential Care,Fraser Health,Community Living Society - Neville House,,-122.9808733,49.2136422,5678 Neville St,Burnaby,V5J 2H9,(604)432-6567,Province of British Columbia
+274,posAbilities Association of British Columbia,Residential Care,Fraser Health,Como Lake House,,-122.8514678,49.2637783,1433 Como Lake Ave,Coquitlam,V3J 3P5,(604)931-3272,Province of British Columbia
+275,The Ridge Meadows Association For Community Living,Residential Care,Fraser Health,Cook Avenue,,-122.6343005,49.2199006,21181 Cook Ave,Maple Ridge,V2X 7P7,(604)466-8218,Province of British Columbia
+276,Community Living Society,Residential Care,Fraser Health,Coopershawk Court,,-122.8285401,49.1503589,8041 Coopershawk Ct,Surrey,V3W 0V1,(604)590-3901,Province of British Columbia
+277,Lookout Emergency Aid Society,Residential Care,Fraser Health,"Crawford Manor (""A"")",,-122.8673672,49.184599,10008 128th St,Surrey,V3T 2Y9,(604)255-0340,Province of British Columbia
+278,Lookout Emergency Aid Society,Residential Care,Fraser Health,"Crawford Manor (""B"")",,-122.8673891,49.1846808,10010 128th St,Surrey,V3T 2Y9,(604)317-3319,Province of British Columbia
+279,L'Arche Greater Vancouver,Residential Care,Fraser Health,Creation House,,-123.0121079,49.216008,4103 Irmin St,Burnaby,V5J 1X6,(604)435-9544,Province of British Columbia
+280,0729187 BC Ltd,Residential Care,Fraser Health,Crescent Gardens,75,-122.7667834,49.0244562,1222 King George Blvd,Surrey,V4A 9W6,(604)541-8861,Province of British Columbia
+281,Fraser Health,Residential Care,Fraser Health,CRESST,,-122.2903273,49.0451989,33720 Mcdougall Ave,Abbotsford,V2S 1W4,(604)870-7583,Province of British Columbia
+282,Fraser Health,Residential Care,Fraser Health,CRESST - South Fraser,,-122.8476199,49.1806892,13525 98th Ave,Surrey,V3T 1B9,(604)587-4220,Province of British Columbia
+283,Crestlene Lodge Ltd,Residential Care,Fraser Health,Crestlene Lodge Ltd,,-122.8997933,49.1593007,11660 86th Ave,Delta,V4C 2X6,(604)591-3773,Province of British Columbia
+284,Gilda Ingco,Residential Care,Fraser Health,Cristina Home,,-122.825176,49.1626941,14336 88th Ave,Surrey,V3W 3L7,(604)599-9575,Province of British Columbia
+285,The Crossroads Hospice Society & Fraser Health,Residential Care,Fraser Health,Crossroads Inlet Centre Hospice,,-122.8279927,49.2847749,101 Noons Creek Dr,Port Moody,V3H 5J1,(604)949-2270,Province of British Columbia
+286,Burnaby Association For Community Inclusion,Residential Care,Fraser Health,Cumberland House,,-122.9185116,49.2320214,7533 Cumberland St,Burnaby,V3N 3X6,(604)522-0596,Province of British Columbia
+287,Dania Home Society,Residential Care,Fraser Health,Dania Home,102,-122.9758858,49.2472395,4175 Norland Ave,Burnaby,V4G 3Z6,(604)299-2414,Province of British Columbia
+288,The Ridge Meadows Association For Community Living,Residential Care,Fraser Health,Davison,,-122.6830557,49.2277193,19425 Davison Rd,Pitt Meadows,V3Y 1A7,(604)465-8545,Province of British Columbia
+289,Younghusband Resources Ltd.,Residential Care,Fraser Health,Decaire House,,-122.8503737,49.2487284,498 Decaire St,Coquitlam,V3K 5A3,(604)939-6106,Province of British Columbia
+290,Burnaby Association For Community Inclusion,Residential Care,Fraser Health,Deer Lake House,,-122.9643376,49.2285196,6098 Sperling Ave,Burnaby,V5E 2T9,(604)520-0656,Province of British Columbia
+291,Arcus Community Resources Ltd.,Residential Care,Fraser Health,Delta House,,-122.9004883,49.1377685,7415 116A St,Delta,V2X 2Z3,(604)543-0201,Province of British Columbia
+292,Delta Lodge Ltd,Residential Care,Fraser Health,Delta Lodge,,-122.9145102,49.1699317,11030 River Rd,Delta,V4C 2S2,(604)951-9415,Province of British Columbia
+293,Community Living Society,Residential Care,Fraser Health,Duthie Avenue,,-122.9538731,49.2748071,1055 Duthie Ave,Burnaby,V5A 2R3,(604)420-1745,Province of British Columbia
+294,Community Living Society,Residential Care,Fraser Health,Eastlawn,,-122.9903615,49.273921,1190 Eastlawn Dr,Burnaby,V5B 3H1,(604)298-7721,Province of British Columbia
+295,Fraser Valley Care Centre (2003) Holdings Ltd.,Residential Care,Fraser Health,Eden Care Centre,89,-121.9419001,49.1672383,9100 Charles St,Chilliwack,V2P 5K6,(604)792-8166,Province of British Columbia
+296,Burnaby Association For Community Inclusion,Residential Care,Fraser Health,Edmonds House,,-122.9412436,49.2252183,7731 Wedgewood St,Burnaby,V5E 2E5,(604)521-7857,Province of British Columbia
+297,Thompson Community Services Inc,Residential Care,Fraser Health,Eightieth Avenue House,,-122.9055563,49.1483031,11448 80th Ave,Delta,V4C 1X3,(604)597-0437,Province of British Columbia
+298,H.O.M.E. Society,Residential Care,Fraser Health,Eleanor House,,-122.266435,49.0392857,2052 Eleanor Ave,Abbotsford,V2S 4L6,(604)859-2907,Province of British Columbia
+299,Milieu Family Services Inc.,Residential Care,Fraser Health,Elgin House,,-122.8230638,49.0555527,2942 144th St,Surrey,V4P 1P6,(604)541-0944,Province of British Columbia
+300,L'Arche Greater Vancouver,Residential Care,Fraser Health,Emily House,,-122.9979473,49.2136236,4672 Neville St,Burnaby,V5J 2H1,(604)430-4594,Province of British Columbia
+301,Delta Community Living Society,Residential Care,Fraser Health,English Bluff,,-123.0898037,49.0260605,4836 13th Ave,Delta,V4M 2B8,(604)943-5173,Province of British Columbia
+302,Evergreen Cottages Corp.,Residential Care,Fraser Health,Evergreen Hamlets at Fleetwood,33,-122.789853,49.1552129,8382 156th St,Surrey,V3S 3R7,(604)597-7906,Province of British Columbia
+303,posAbilities Association of BC,Residential Care,Fraser Health,Evergreen House,,-122.8848789,49.2662975,638 Kemsley Ave,Coquitlam,V3J 3Z3,(604)931-0974,Province of British Columbia
+304,Communitas Supportive Care Society,Residential Care,Fraser Health,Evergreen Residence,,-122.3451117,49.0538305,2841 Evergreen St,Abbotsford,V2T 2S2,(604)850-2818,Province of British Columbia
+305,Fair Haven Vancouver,Residential Care,Fraser Health,Fair Haven Burnaby Lodge,100,-123.0058287,49.2152662,7557 Sussex Ave,Burnaby,V5J 3V6,(604)435-0525,Province of British Columbia
+306,Communitas Supportive Care Society,Residential Care,Fraser Health,Ferguson Home,,-122.3275505,49.0552956,32375 George Ferguson Way,Abbotsford,V2T 2L2,(604)850-1055,Province of British Columbia
+307,0701743 BC Ltd,Residential Care,Fraser Health,Fernridge Place,,-122.6708662,49.0403965,2107 200th St,Langley,V2Z 1Z6,(604)533-2235,Province of British Columbia
+308,Pacific Coast Community Resources Inc,Residential Care,Fraser Health,Fifty Fourth Avenue Home,,-122.8684278,49.1000582,12780 54th Ave,Surrey,V3X 3C2,(604)599-6348,Province of British Columbia
+309,Inclusion Langley Society,Residential Care,Fraser Health,Five Corners Residence,,-122.6283675,49.0915519,21451 Old Yale Rd,Langley,V3A 4M6,(604)533-9332,Province of British Columbia
+310,Thompson Community Services Inc.,Residential Care,Fraser Health,Fleet Street Group Home,,-122.8114257,49.2634222,2994 Fleet St,Coquitlam,V3C 3R8,(604)944-0408,Province of British Columbia
+311,Fleetwood Place Holdings Ltd,Residential Care,Fraser Health,Fleetwood Place,108,-122.7779843,49.153786,16011 83rd Ave,Surrey,V4N 0N2,(604)590-6860,Province of British Columbia
+312,Arcus Community Resources Ltd.,Residential Care,Fraser Health,Fletcher 1,,-122.5919793,49.2216885,12062 Fletcher St,Maple Ridge,V2X 6K9,(604)463-7118,Province of British Columbia
+313,Arcus Community Resources Ltd.,Residential Care,Fraser Health,Fletcher 2,,-122.5919765,49.2219137,12076 Fletcher St,Maple Ridge,V2X 6K9,(604)463-7444,Province of British Columbia
+314,Coast Foundation Society (1974),Residential Care,Fraser Health,Forglen 5450,,-122.9922138,49.2349763,5450 Forglen Dr,Burnaby,V5H 3K7,(604)435-4110,Province of British Columbia
+315,Coast Foundation Society (1974),Residential Care,Fraser Health,Forglen 5452,,-122.9922138,49.2349763,5452 Forglen Dr,Burnaby,V5H 3K7,(604)435-4110,Province of British Columbia
+316,Societe Du Foyer Maillard,Residential Care,Fraser Health,Foyer Maillard,125,-122.8662457,49.2392628,1010 Alderson Ave,Coquitlam,V3K 1W1,(604)937-5578,Province of British Columbia
+317,W J Stelmaschuk and Associates Ltd,Residential Care,Fraser Health,Fraser Supported Community Living,,-122.6516108,49.0887548,4723 206A St,Langley City,V3A 6N7,(604)533-5531,Province of British Columbia
+318,Fraserside Community Services Society,Residential Care,Fraser Health,Fraserside Residence,,-122.9715652,49.2134801,7738 Gilley Ave,Burnaby,V5J 4Y2,(604)439-3045,Province of British Columbia
+319,Milieu Family Services Inc.,Residential Care,Fraser Health,Gemini House,,-122.7803914,49.254239,2244 Pitt River Rd,Port Coquitlam,V3C 1R6,(604)552-3305,Province of British Columbia
+320,George Derby Care Society,Residential Care,Fraser Health,George Derby Centre,300,-122.9153375,49.235363,7550 Cumberland St,Burnaby,V3N 3X5,(604)521-2676,Province of British Columbia
+321,Sources Community Resources Society,Residential Care,Fraser Health,Georgia House,,-123.0876367,49.0905341,4812 Georgia St,Delta,V4K 2S9,(604)940-9517,Province of British Columbia
+322,Community Living Society,Residential Care,Fraser Health,Gilley House,,-122.9733811,49.2089907,8275 Gilley Ave,Burnaby,V5J 4Y8,(604)432-9446,Province of British Columbia
+323,Glenwood Seniors Community Partnership,Residential Care,Fraser Health,Glenwood Seniors Community,47,-121.7581786,49.2308549,1458 Glenwood Dr,Agassiz,V0M 1A0,(604796-9202),Province of British Columbia
+324,posAbilities Association of British Columbia,Residential Care,Fraser Health,Goodlad House,,-122.9407555,49.2297089,7912 Goodlad St,Burnaby,V5E 2H9,(604)521-0947,Province of British Columbia
+325,Mission Association For Community Living,Residential Care,Fraser Health,Goundrey Home,,-122.2780236,49.1588258,8645 Goundrey St,Mission,V2V 6V5,(604)820-0310,Province of British Columbia
+326,Angel Wing Connections Ltd,Residential Care,Fraser Health,Graceland Gates,,-122.5659069,49.1216231,6587 238th St,Langley,V2Y 2H5,(604)510-4283,Province of British Columbia
+327,Communitas Supportive Care Society,Residential Care,Fraser Health,Grant St. East,,-122.343495,49.0451392,2364 Grant St,Abbotsford,V2T 2M7,(604)864-2205,Province of British Columbia
+328,Communitas Supportive Care Society,Residential Care,Fraser Health,Grant St. West,,-122.3443139,49.0453384,2375 Grant St,Abbotsford,V2T 2M8,(604)864-6448,Province of British Columbia
+329,Vancouver Resource Society,Residential Care,Fraser Health,Gray House,,-123.0000315,49.2206633,6957 Gray Ave,Burnaby,V5J 3Y9,(604)436-3970,Province of British Columbia
+330,The Ridge Meadows Association For Community Living,Residential Care,Fraser Health,Greystone,,-122.6854977,49.2271727,19342 Davison Rd,Pitt Meadows,V3Y 1A2,(604)465-0798,Province of British Columbia
+331,Guildford Seniors Village 3 LLP,Residential Care,Fraser Health,Guildford Seniors Village,98,-122.8183459,49.1925775,14568 104A Ave,Surrey,V3R 1R3,(604)582-0808,Province of British Columbia
+332,AgeCare Investments (BC) Ltd,Residential Care,Fraser Health,Harmony Court Care Centre,80,-122.9418045,49.2246262,7195 Canada Way,Burnaby,V5E 3R7,(604)527-3300,Province of British Columbia
+333,Elim Christian Care Society,Residential Care,Fraser Health,Harrison at Elim Village,193,-122.7813251,49.1669154,9025 160th St,Surrey,V4N 2X7,(604)583-3546,Province of British Columbia
+334,Hazelmere Lodge Ltd. (Atkins),Residential Care,Fraser Health,Hazelmere Lodge Ltd.,,-122.6834676,49.0312779,19475 16th Ave,Surrey,V3Z 9V2,(604)535-2724,Province of British Columbia
+335,Hilton Villa Care Centre Partnership,Residential Care,Fraser Health,Hilton Villa Care Centre,155,-122.8470467,49.202278,13525 Hilton Rd,Surrey,V3R 5J3,(604)588-3424,Province of British Columbia
+336,Community Living Society,Residential Care,Fraser Health,Holly,,-122.9478826,49.2227939,7473 Holly St,Burnaby,V5E 2C3,(604)526-5216,Province of British Columbia
+337,Strive Living Society,Residential Care,Fraser Health,Holly Park House,6,-122.8187217,49.1941023,14557 105A Ave,Surrey,V3R 1S2,(604)581-0606,Province of British Columbia
+338,Fraser Health - End of Life Care,Residential Care,Fraser Health,Holmberg House Hospice,,-122.316119,49.0381015,32780 Marshall Rd,Abbotsford,V2S 1J7,(604)852-7070,Province of British Columbia
+339,Delta Community Living Society,Residential Care,Fraser Health,House 4,,-123.0199383,49.0715134,3800 72nd St,Delta,V4K 3N2,(604)946-0051,Province of British Columbia
+340,Inclusion Langley Society,Residential Care,Fraser Health,Hunter Park Residence,,-122.669698,49.0848918,19977 45A Ave,Langley City,V3A 8C7,(604)220-4526,Province of British Columbia
+341,MVS Quality Care Inc,Residential Care,Fraser Health,Hylan Home,,-122.3317257,49.0486682,32223 Hylan Ave,Abbotsford,V2T 1S8,(604)850-8122,Province of British Columbia
+342,Innervisions Recovery Society Of B.C.,Residential Care,Fraser Health,Innervisions Recovery Society - 2,,-122.7678473,49.2714141,1933 Prairie Ave,Port Coquitlam,V3B 1V5,(604)468-2032,Province of British Columbia
+343,Innervisions Recovery Society Of B.C.,Residential Care,Fraser Health,Innervisions Recovery Society - 3,,-122.7679845,49.2714182,1937 Prairie Ave,Port Coquitlam,V3B 1V5,(604)942-0517,Province of British Columbia
+344,Innervisions Recovery Society,Residential Care,Fraser Health,Innervisions Recovery Society Hannah House,,-122.6312954,49.2202573,11982 Laity St,Maple Ridge,V2X 5A6,(604)466-4215,Province of British Columbia
+345,Fraser Health Authority,Residential Care,Fraser Health,Irene Thomas Hospice,,-123.0596797,49.0871726,4635 Clarence Taylor Cres,Delta,V4K 4L8,(604)946-1121,Province of British Columbia
+346,Aldergrove Lions Seniors Housing Society,Residential Care,Fraser Health,Jackman Manor,88,-122.4630403,49.0538232,27477 28th Ave,Aldergrove,V4W 3L9,(604)856-4161,Province of British Columbia
+347,Classic Care Homes Ltd.,Residential Care,Fraser Health,Jans Place,,-122.6608285,49.0921329,20290 49A Ave,Langley,V3A 3S3,(604)765-4755,Province of British Columbia
+348,Arcus Community Resources,Residential Care,Fraser Health,Keary Street Home,,-122.8937034,49.225832,313 Keary St,New Westminster,V3L 3L2,(604)522-4032,Province of British Columbia
+349,Strive Living Society,Residential Care,Fraser Health,Kerrywood House,,-122.9381034,49.2484798,7782 Kerrywood Cres,Burnaby,V5A 2G1,(604)444-4351,Province of British Columbia
+350,484017 BC Ltd,Residential Care,Fraser Health,Kimbelee Place,,-122.8640986,49.1773411,12935 96th Ave,Surrey,V3V 7K6,(604)585-4309,Province of British Columbia
+351,Kinghaven Peardonville House Society,Residential Care,Fraser Health,Kinghaven Treatment Centre,,-122.358792,49.0307485,31250 King Rd,Abbotsford,V2T 6C2,(604)864-0039,Province of British Columbia
+352,Milieu Family Services Inc.,Residential Care,Fraser Health,Kings House,,-122.7675172,49.1576441,8512 164th St,Surrey,V4N 1E5,(604)597-0783,Province of British Columbia
+353,Whalley & District Senior Citizens Housing Society,Residential Care,Fraser Health,Kinsmen Lodge,157,-122.8417995,49.1777345,9650 137A St,Surrey,V3T 4H9,(604)588-0445,Province of British Columbia
+354,KinVillage Association,Residential Care,Fraser Health,KinVillage,101,-123.073648,49.0214852,5410 10th Ave,Delta,V4M 3X8,(604)943-0155,Province of British Columbia
+355,Kiwanis Care Society (1979) of New Westminster,Residential Care,Fraser Health,Kiwanis Care Centre,75,-122.9150878,49.2232118,35 Clute St,New Westminster,V3L 1Z5,(604)525-6471,Province of British Columbia
+356,ALAJ Holdings Ltd.,Residential Care,Fraser Health,La Rosa de Matsqui,,-122.4285973,49.0178327,28711 Huntingdon Rd,Abbotsford,V4X 1A8,(604)856-1555,Province of British Columbia
+357,Arcus Community Resources Ltd.,Residential Care,Fraser Health,Ladner 1,,-123.0760699,49.099275,5281 Westminster Ave,Delta,V4K 2J4,(604)940-1290,Province of British Columbia
+358,Arcus Community Resources,Residential Care,Fraser Health,Ladner 2,,-123.0812386,49.0939104,5010 Westminster Ave,Delta,V4K 2H9,(604)940-1061,Province of British Columbia
+359,CSH (Langley Gardens) Inc,Residential Care,Fraser Health,Langley Gardens,92,-122.6598375,49.1654942,8888 202nd St,Langley,V1M 4A7,(604)888-0228,Province of British Columbia
+360,Langley Care Society,Residential Care,Fraser Health,Langley Lodge,139,-122.6573035,49.1015672,5451 204th St,Langley,V3A 5M9,(604)530-2305,Province of British Columbia
+361,Cheshire Homes Society of BC,Residential Care,Fraser Health,Larkin House,,-122.7851203,49.2777859,2583 Larkin Ave,Port Coquitlam,V3B 2H8,(604)944-6885,Province of British Columbia
+362,Kinsight Community Society,Residential Care,Fraser Health,Larkspur House,,-122.7510197,49.2660077,1310 Larkspur Ave,Port Coquitlam,V3B 1G7,(604)942-5481,Province of British Columbia
+363,Last Door Recovery House,Residential Care,Fraser Health,Last Door Recovery Centre,,-122.9191564,49.2078235,323 8th St,New Westminster,V3M 3R3,(604)525-9771,Province of British Columbia
+364,Laurel Place Care Centre Partnership,Residential Care,Fraser Health,Laurel Place Care Centre,175,-122.8417804,49.1784187,9688 137A St,Surrey,V3T 4H9,(604)582-1135,Province of British Columbia
+365,Fraser Health,Residential Care,Fraser Health,Laurel Place Hospice,,-122.8417804,49.1784187,9688 137A St,Surrey,V3T 4H9,(604)930-6808,Province of British Columbia
+366,Maplewood Care Society,Residential Care,Fraser Health,M.S.A. Manor,34,-122.3144389,49.0475441,2510 Gladwin Rd,Abbotsford,V2T 3N9,(604)853-5831,Province of British Columbia
+367,Bria Communities Limited Partnership,Residential Care,Fraser Health,Magnolia Gardens,40,-122.6494693,49.1082447,5840 Glover Rd,Langley,V3A 9K3,(604)514-1210,Province of British Columbia
+368,Kinsight Community Society,Residential Care,Fraser Health,Manning House,,-122.7578008,49.2680766,1560 Manning Ave,Port Coquitlam,V3B 1K5,(604)945-8548,Province of British Columbia
+369,Canadian Reformed Senior Citizen Home Society,Residential Care,Fraser Health,Manoah Manor,15,-122.6608587,49.101831,20265 54A Ave,Langley City,V3A 3W6,(604)530-9895,Province of British Columbia
+370,Western Human Resource Corp.,Residential Care,Fraser Health,Manuel House,,-122.5828916,49.0324939,1709 232nd St,Langley,V2Z 1K7,(604)514-0146,Province of British Columbia
+371,posAbilities Association of BC,Residential Care,Fraser Health,Maple Ridge House,,-122.5783552,49.2245368,12210 232A St,Maple Ridge,V2X 0R2,(604)466-3241,Province of British Columbia
+372,Maple Ridge Seniors Village 3 LLP,Residential Care,Fraser Health,Maple Ridge Seniors Village,108,-122.6084592,49.2193789,22141 119th Ave,Maple Ridge,V2X 2Y7,(604)466-3053,Province of British Columbia
+373,Fraser Health,Residential Care,Fraser Health,Maple Ridge Treatment Centre,,-122.6051618,49.2137784,22269 Callaghan Ave,Maple Ridge,V2X 2E2,(604)467-3471,Province of British Columbia
+374,Maplewood Care Society,Residential Care,Fraser Health,Maplewood House,78,-122.3091484,49.0366071,1919 Jackson St,Abbotsford,V2S 2Z8,(604)853-5585,Province of British Columbia
+375,Sherwood Crescent Manor Ltd.,Residential Care,Fraser Health,Mayfair (The),84,-122.2976893,49.039494,33433 Marshall Rd,Abbotsford,V2S 1K8,(604)855-7217,Province of British Columbia
+376,Milieu Family Services Inc.,Residential Care,Fraser Health,McLean House,,-122.7584245,49.2685908,1587 Manning Ave,Port Coquitlam,V3B 1K6,(604)582-1811,Province of British Columbia
+377,Arcus Community Resources,Residential Care,Fraser Health,Meadowbrook,,-122.635215,49.2279306,12412 Meadowbrook Pl,Maple Ridge,V4R 2H6,(604)460-1235,Province of British Columbia
+378,Mennonite Benevolent Society,Residential Care,Fraser Health,Menno Place - Menno Home,196,-122.3120543,49.0400757,32910 Brundige Ave,Abbotsford,V2S 1N2,(604)853-2411,Province of British Columbia
+379,Community Living Society,Residential Care,Fraser Health,Mentmore,,-122.8702195,49.2503872,523 Mentmore St,Coquitlam,V3J 4P5,(604)931-6551,Province of British Columbia
+380,MSA Society For Community Living,Residential Care,Fraser Health,Mill Lake Residence,,-122.3077854,49.0481178,33056 Mill Lake Rd,Abbotsford,V2S 2A3,(604)854-2911,Province of British Columbia
+381,Pioneer Community Living Association,Residential Care,Fraser Health,Millers Way,,-122.9356156,49.2204279,7710 15th Ave,Burnaby,V3N 1W5,(604)526-8311,Province of British Columbia
+382,posAbilities Association of British Columbia,Residential Care,Fraser Health,Montgomery House,,-122.8392463,49.2368532,227 Montgomery St,Coquitlam,V3K 5E7,(604)936-3171,Province of British Columbia
+383,Morgan Place Holdings Ltd,Residential Care,Fraser Health,Morgan Place,141,-122.7899563,49.0613721,3288 156A St,Surrey,V3Z 9T1,(604)535-7328,Province of British Columbia
+384,Skipton Holdings Ltd,Residential Care,Fraser Health,Mountain View Home,,-122.0814539,49.0955256,5133 Boundary Rd,Abbotsford,V3G 2N4,(604)823-6712,Province of British Columbia
+385,Fraserside Community Services Society,Residential Care,Fraser Health,Mundy Street Residence,,-122.8345635,49.2400763,316 Mundy St,Coquitlam,V3K 5M4,(604)931-7123,Province of British Columbia
+386,Murrayville Manor Specialized Adult Care Facility Ltd.,Residential Care,Fraser Health,Murrayville Manor,,-122.6236844,49.085807,21616 46th Ave,Langley,V3A 3J4,(604)530-9033,Province of British Columbia
+387,L'Arche Greater Vancouver,Residential Care,Fraser Health,Nazirah House,,-123.0007978,49.2215495,4560 Imperial St,Burnaby,V5J 1B6,(604)438-6579,Province of British Columbia
+388,Community Living Society,Residential Care,Fraser Health,Nelson Avenue,,-122.9945668,49.2192049,7077 Nelson Ave,Burnaby,V5J 4B9,(604)438-4488,Province of British Columbia
+389,Burnaby Association For Community Inclusion,Residential Care,Fraser Health,Neville House,,-122.9810592,49.2141609,5675 Neville St,Burnaby,V5J 2J1,(604)435-2558,Province of British Columbia
+390,posAbilities Association of British Columbia,Residential Care,Fraser Health,New Britton House,,-122.9478861,49.2168932,7478 Britton St,Burnaby,V3N 3A5,(604)526-8841,Province of British Columbia
+391,Invicta Enterprises Inc.,Residential Care,Fraser Health,New Greenwood Lodge,,-122.8560394,49.1772682,13227 96th Ave,Surrey,V3V 1Y5,(604)585-2498,Province of British Columbia
+392,The New Vista Society,Residential Care,Fraser Health,New Vista Care Home,240,-122.9454294,49.2239857,7232 New Vista Pl,Burnaby,V5E 3Z3,(604)521-7764,Province of British Columbia
+393,Inclusion Langley Society,Residential Care,Fraser Health,Newlands Residence,,-122.6436136,49.0965714,20935 51B Ave,Langley City,V3A 5W3,(604)220-4526,Province of British Columbia
+394,Arcus Community Resources Ltd.,Residential Care,Fraser Health,Newton Place,,-122.8236008,49.1319666,7109 144th St,Surrey,V3W 5S1,(604)543-1408,Province of British Columbia
+395,Coast Mental Health dba Coast Foundation Society (1974),Residential Care,Fraser Health,NG Nair Place,,-122.5757681,49.0857337,23390 47th Ave,Langley,V2Z 2S3,(604)532-1003,Province of British Columbia
+396,Baltic Properties (Nicola) Ltd.,Residential Care,Fraser Health,Nicola Lodge,230,-122.737963,49.2560726,2240 Hawkins St,Port Coquitlam,V3B 0M2,(604)945-0058,Province of British Columbia
+397,Community Living Society,Residential Care,Fraser Health,Ninety Fifth Avenue House,,-122.7984217,49.175111,15293 95th Ave,Surrey,V3R 9C5,(604)589-3653,Province of British Columbia
+398,Community Living Society,Residential Care,Fraser Health,Ninety Sixth Avenue Home,,-122.7884266,49.177057,15659 96th Ave,Surrey,V4N 2T6,(604)589-2225,Province of British Columbia
+399,Norwegian Old People's Home Association,Residential Care,Fraser Health,Normanna Rest Home II,100,-122.9276938,49.2221123,7725 4th St,Burnaby,V3N 5B6,(604)522-5812,Province of British Columbia
+400,Northcrest Care Centre,Residential Care,Fraser Health,Northcrest Care Centre Ltd.,106,-122.8911054,49.126442,6771 120th St,Delta,V4E 2A7,(604)597-7878,Province of British Columbia
+401,Burnaby Association For Community Inclusion,Residential Care,Fraser Health,Oakland,,-122.9643356,49.2283394,6110 Sperling Ave,Burnaby,V5E 2T9,(604)525-9772,Province of British Columbia
+402,Thompson Community Services Inc,Residential Care,Fraser Health,One Hundred & Forty Three A Street Home,,-122.8248963,49.1607667,8689 143A St,Surrey,V3W 0K4,(604)597-6952,Province of British Columbia
+403,Community Living Society,Residential Care,Fraser Health,One Hundred And Fifty Eight A Street,,-122.7829494,49.1953555,10607 158A St,Surrey,V4N 3J2,(604)581-5613,Province of British Columbia
+404,Pacific Coast Community Resources Inc,Residential Care,Fraser Health,One Hundred And Fifty Four Street Group Home,,-122.7954223,49.0322188,1660 154th St,Surrey,V4A 4R9,(604)541-1660,Province of British Columbia
+405,Pacific Coast Community Resources Inc,Residential Care,Fraser Health,One Hundred And Thirty First Street Home,,-122.8597598,49.1780255,9643 131st St,Surrey,V3T 3P4,(604)583-8791,Province of British Columbia
+406,Burnaby Association For Community Inclusion,Residential Care,Fraser Health,Orchard Heights,,-123.0070684,49.2343626,5538 Chaffey Ave,Burnaby,V5H 2S2,(604)299-3083,Province of British Columbia
+407,Ilapogu Investments Inc.,Residential Care,Fraser Health,Oriole Lodge,,-122.3230039,49.0572495,32539 Oriole Cres,Abbotsford,V2T 4C7,(604)504-7549,Province of British Columbia
+408,Milieu Family Services Inc.,Residential Care,Fraser Health,Orion House,,-122.6586376,49.0785912,20395 42nd Ave,Langley,V3A 3A6,(778)386-5982,Province of British Columbia
+409,Communitas Supportive Care Society,Residential Care,Fraser Health,Osprey Home,,-122.3712483,49.057665,30772 Osprey Dr,Abbotsford,V2T 5J4,(604)850-8692,Province of British Columbia
+410,Pacific Developmental Pathways Ltd.,Residential Care,Fraser Health,Pacifica House,,-121.9500919,49.1262974,46110 Collins Dr,Chilliwack,V2R 2G2,(604)858-3378,Province of British Columbia
+411,Fraser Health Authority,Residential Care,Fraser Health,PAH Foundation Lodge (The),112,-122.7909004,49.0321648,15575 16A Ave,Surrey,V4A 1T2,(778)545-6200,Province of British Columbia
+412,Bernard C. Vinge & Associates (HCS) Ltd,Residential Care,Fraser Health,Parklandview,,-122.7846172,49.1635267,8833 158th St,Surrey,V4N 2Y7,(604)582-9915,Province of British Columbia
+413,Milieu Family Services Inc.,Residential Care,Fraser Health,Parktree House,,-122.8849992,49.1161554,12229 Parktree Cres,Surrey,V3X 1Z9,(604)572-1062,Province of British Columbia
+414,Hardev Randhawa,Residential Care,Fraser Health,Path To Freedom Treatment Centre Ltd.,,-122.6955133,49.1042086,19030 56th Ave,Surrey,V3S 4N7,(604)576-6466,Province of British Columbia
+415,Peace Portal Seniors Village 3 LLP,Residential Care,Fraser Health,Peace Portal Seniors Village,84,-122.7945296,49.0312819,15441 16th Ave,Surrey,V4A 8T8,(604)535-2273,Province of British Columbia
+416,Kinghaven Peardonville House Society,Residential Care,Fraser Health,Peardonville House Treatment Centre,,-122.4065114,49.0177352,825 Peardonville Rd,Abbotsford,V4X 2K3,(604)856-3966,Province of British Columbia
+417,Phoenix Drug and Alcohol Recovery and Education Society,Residential Care,Fraser Health,Phoenix Center Quibble Creek,,-122.8437601,49.1745123,13670 94A Ave,Surrey,V3V 1N1,(604)583-7166,Province of British Columbia
+418,Phoenix Drug and Alcohol Recovery and Education Society,Residential Care,Fraser Health,Phoenix House,,-122.8702674,49.1832868,9942 127A St,Surrey,V3V 2 X7,(604)583-7166,Province of British Columbia
+419,Pioneer Community Living Association,Residential Care,Fraser Health,Pioneer House,,-122.8881385,49.2273382,220 Sherbrooke St,New Westminster,V3L 3M2,(604)521-1205,Province of British Columbia
+420,"Pleasant View Housing Society, 1980",Residential Care,Fraser Health,Pleasant View (Pleasant View Housing Society),,-122.3316098,49.138258,7530 Hurd St,Mission,V2V 3H9,(604)826-2154,Province of British Columbia
+421,Younghusband Resources Ltd.,Residential Care,Fraser Health,Porter Lane,,-122.8613039,49.2638036,1107 Como Lake Ave,Coquitlam,V3J 3N9,(604)939-5047,Province of British Columbia
+422,Sources Community Resources Society,Residential Care,Fraser Health,Primrose Centre for Community Living,,-123.088506,49.0904225,4807 Georgia St,Delta,V4K 2T1,(604)946-0401,Province of British Columbia
+423,Community Living Society,Residential Care,Fraser Health,Quadling House A,,-122.8749883,49.2405616,820 Quadling Ave,Coquitlam,V3K 2A4,(604)936-8456,Province of British Columbia
+424,Community Living Society,Residential Care,Fraser Health,Quadling House B,,-122.8749883,49.2405616,820 Quadling Ave,Coquitlam,V3K 2A4,(604)931-3673,Province of British Columbia
+425,Mei Enterprise Ltd,Residential Care,Fraser Health,Rainbow Lodge,,-122.9332902,49.2238392,7510 6th St,Burnaby,V3N 3M1,(604)526-9579,Province of British Columbia
+426,Celebration and Rainbow Manor Ltd,Residential Care,Fraser Health,Rainbow Manor,,-122.7797588,49.1863581,10118 159A St,Surrey,V4N 2P9,(604)583-3194,Province of British Columbia
+427,Arcus Community Resources,Residential Care,Fraser Health,Rainbow Ridge Special Care Home,,-122.4497887,49.1959651,10666 277th St,Maple Ridge,V2W 1M7,(604)462-9824,Province of British Columbia
+428,posAbilities Association of British Columbia,Residential Care,Fraser Health,Randall House,,-122.9716122,49.2239136,6610 Gilley Ave,Burnaby,V5C 5T5,(604)434-2559,Province of British Columbia
+429,posAbilities Association of British Columbia,Residential Care,Fraser Health,Raven House,,-122.8474036,49.2653533,841 Levis St,Coquitlam,V3J 6A2,(604)931-1547,Province of British Columbia
+430,Renaissance Place Ltd.,Residential Care,Fraser Health,Renaissance Place,,-122.3146268,49.1448164,32849 12th Ave,Mission,V2V 2M5,(604)826-3248,Province of British Columbia
+431,Morgan Heights Care Ltd,Residential Care,Fraser Health,Residence at Morgan Heights,116,-122.7798803,49.0511752,15955 27th Ave,Surrey,V3S 3W3,(604)535-1118,Province of British Columbia
+432,Pacific Coast Community Resources Inc,Residential Care,Fraser Health,River Road Residence,,-122.6403965,49.2117379,20972 River Rd,Maple Ridge,V2X 1Z9,(604)466-0457,Province of British Columbia
+433,Rosemary Heights Seniors Village 3 LLP,Residential Care,Fraser Health,Rosemary Heights Seniors Village,90,-122.8006006,49.0635552,15240 34th Ave,Surrey,V3Z 2J9,(778)545-5000,Province of British Columbia
+434,Community Living Society,Residential Care,Fraser Health,Rosewood,,-122.9377938,49.227778,7916 Rosewood St,Burnaby,V5E 2H3,(604)526-2062,Province of British Columbia
+435,AXR Operating (BC) GP Inc.,Residential Care,Fraser Health,Royal City Manor,165,-122.8951618,49.2153152,77 Jamieson Ct,New Westminster,V3L 5P8,(604)522-6699,Province of British Columbia
+436,Ruby Willows Health Care Ltd,Residential Care,Fraser Health,Ruby Willows Health Care Ltd,,-122.5663169,49.124421,6721 238th St,Langley,V2Y 2H5,(604)510-7829,Province of British Columbia
+437,Saint Elizabeth Health Services,Residential Care,Fraser Health,Sakura House,,-122.8527005,49.2531027,566 Schoolhouse St,Coquitlam,V3J 5P3,(604)939-4342,Province of British Columbia
+438,Community Living Society,Residential Care,Fraser Health,Sardis House,,-123.0029902,49.2339431,4521 Sardis St,Burnaby,V5H 1K8,(604)436-1376,Province of British Columbia
+439,Burnaby Association For Community Inclusion,Residential Care,Fraser Health,Sardis New Chaffey,,-122.9968143,49.2336902,4751 Sardis St,Burnaby,V5H 1L4,(604)439-7635,Province of British Columbia
+440,Mission Association For Community Living,Residential Care,Fraser Health,Seventh Avenue Residence,,-122.3136156,49.1399323,32886 7th Ave,Mission,V2V 2C4,(604)826-5459,Province of British Columbia
+441,Genarch & Francis Enterprises Ltd,Residential Care,Fraser Health,Sharondale Lodge,,-122.7287659,49.1059196,17826 57th Ave,Surrey,V3S 1H3,(778)571-9609,Province of British Columbia
+442,Shaughnessy Care Centre Partnership,Residential Care,Fraser Health,Shaughnessy Care Centre,66,-122.7799085,49.2606032,2250 Wilson Ave,Port Coquitlam,V3C 1Z5,(604)468-4856,Province of British Columbia
+443,Pacific Coast Community Resources Inc,Residential Care,Fraser Health,Shaw House,,-122.8877652,49.2437598,560 Shaw Ave,Coquitlam,V3K 2R1,(604)931-5603,Province of British Columbia
+444,Community Living Society,Residential Care,Fraser Health,Sidley Street,,-122.9932027,49.2171669,4942 Sidley St,Burnaby,V5J 1T5,(604)430-5898,Province of British Columbia
+445,"M.P.A. Motivation, Power & Achievement Society",Residential Care,Fraser Health,Skyline Lodge,,-122.3063657,49.0377195,33134 Marshall Rd,Abbotsford,V2S 1K5,(604)746-7797,Province of British Columbia
+446,Community Living Society,Residential Care,Fraser Health,Southern Place,,-122.3563942,49.0565308,2957 Southern Pl,Abbotsford,V2T 5H7,(604)850-0955,Province of British Columbia
+447,Sources Community Resources Society,Residential Care,Fraser Health,Stayte House,,-122.7789675,49.0253904,1290 160th St,Surrey,V4A 4W8,(604)538-8224,Province of British Columbia
+448,Suncreek Developments Ltd,Residential Care,Fraser Health,Suncreek Village,120,-122.8428221,49.1156372,13687 62nd Ave,Surrey,V3X 0B5,(604)591-5177,Province of British Columbia
+449,Manor Care (White Rock) Inc.,Residential Care,Fraser Health,Suncrest Retirement Community,55,-122.7977862,49.0485655,2567 King George Blvd,Surrey,V4P 1H5,(604)542-6200,Province of British Columbia
+450,H.O.M.E. Society,Residential Care,Fraser Health,Swensson House,,-122.4532155,49.0498844,27830 Swensson,Abbotsford,V4X 1H4,(604)857-4942,Province of British Columbia
+451,Tabor Home Society,Residential Care,Fraser Health,Tabor Home,118,-122.3385041,49.0466984,31944 Sunrise Cres,Abbotsford,V2T 1N5,(604)859-8715,Province of British Columbia
+452,Inclusion Langley Society,Residential Care,Fraser Health,Tall Timbers Residence,,-122.5551354,49.1035236,24156 56th Ave,Langley,V2Z 2N9,(604)220-4526,Province of British Columbia
+453,Mission Association For Community Living,Residential Care,Fraser Health,Tavernier Home,,-122.2959622,49.1440221,7815 Tavernier Terr,Mission,V2V 6Z5,(604)820-0265,Province of British Columbia
+454,Sienna-Baltic (Cascades) Inc.,Residential Care,Fraser Health,The Cascades,109,-121.9629698,49.160818,45586 Mcintosh Dr,Chilliwack,V2P 7W8,(604)795-2500,Province of British Columbia
+455,VCPC Holdings LTD,Residential Care,Fraser Health,The Chrysalis 22,,-122.8309787,49.2075008,14122 113th Ave,Surrey,V3R 7H1,(604)583-9564,Province of British Columbia
+456,VCPC Holdings LTD,Residential Care,Fraser Health,The Chrysalis 24,,-122.8309787,49.2075008,14124 113th Ave,Surrey,V3R 7H1,(604)367-7248,Province of British Columbia
+457,Classic Care Homes Ltd.,Residential Care,Fraser Health,The Classic Homestead - East,,-122.6558169,49.1365595,20445 73A Ave,Langley,V2Y1V1,(604)723-0497,Province of British Columbia
+458,Classic Care Homes Ltd,Residential Care,Fraser Health,The Classic Homestead - West,,-122.6563377,49.1365577,20433 73A Ave,Langley,V2Y 1V1,(604)723-0497,Province of British Columbia
+459,L'Arche Greater Vancouver,Residential Care,Fraser Health,The Crossing House,,-122.9953723,49.233695,4845 Sardis St,Burnaby,V5H 1L4,(604)438-5594,Province of British Columbia
+460,Elizabeth Fry Society Of Greater Vancouver,Residential Care,Fraser Health,The Ellendale Treatment Program - Liz's Place,,-122.8118462,49.2061255,11187 Ellendale Dr,Surrey,V3R 0A3,(604)583-2502,Province of British Columbia
+461,Sherwood Crescent Manor Ltd.,Residential Care,Fraser Health,The Oxford - Senior Living and Care,84,-122.3349739,49.0418105,32073 Sherwood Cr,Abbotsford,V2T 1C1,(604)853-7854,Province of British Columbia
+462,Phoenix Drug and Alcohol Recovery and Education Society,Residential Care,Fraser Health,The Phoenix Centre,,-122.843306,49.1745351,13686 94A Ave,Surrey,V3V 1N1,(604)583-7166,Province of British Columbia
+463,Clayton Heights Care Holdings Ltd,Residential Care,Fraser Health,The Residence At Clayton Heights,116,-122.7026815,49.1317702,18788 71st Ave,Surrey,V4N 6L9,(604)576-2273,Province of British Columbia
+464,Fraser Health,Residential Care,Fraser Health,The Residence in Mission,200,-122.3299205,49.1351717,7324 Hurd St,Mission,V2V 3H5,(604)814-6707,Province of British Columbia
+465,The Governing Council Of The Salvation Army Canada & Bermuda,Residential Care,Fraser Health,The Salvation Army Buchanan Lodge,112,-122.8979893,49.2288743,409 Blair Ave,New Westminster,V3L 4A4,(604)522-7033,Province of British Columbia
+466,Evergreen Baptist Care Society,Residential Care,Fraser Health,The Terraces at Evergreen,252,-122.8107662,49.0295667,1550 Oxford St,White Rock,V4B 3R5,(604)536-3344,Province of British Columbia
+467,Bria Communities Limited Partnership,Residential Care,Fraser Health,The Waterford,38,-123.0701603,49.027184,1345 56th St,Delta,V4L 2P9,(604)943-5954,Province of British Columbia
+468,Mission Association For Community Living,Residential Care,Fraser Health,Third Avenue Residence,,-122.294644,49.1366484,33593 3rd Ave,Mission,V2V 1P8,(604)826-9080,Province of British Columbia
+469,Ridge Meadows Association For Community Living,Residential Care,Fraser Health,Thornton,,-122.5310159,49.2195002,11960 249A St,Maple Ridge,V4R 2E3,(604)463-5188,Province of British Columbia
+470,Communitas Supportive Care Society,Residential Care,Fraser Health,Topaz Place,,-121.9679091,49.1394637,45438 Knight Rd,Chilliwack,V2R 5E6,(604)824-6164,Province of British Columbia
+471,Community Living Society,Residential Care,Fraser Health,Twelfth Avenue,,-122.9329777,49.2190106,7755 12th Ave,Burnaby,V3N 2K6,(604)353-2843,Province of British Columbia
+472,Communitas Supportive Care Society,Residential Care,Fraser Health,Twenty Sixth Avenue Home,,-122.4728834,49.0492254,27134 26th Ave,Aldergrove,V4W 3N6,(604)856-6097,Province of British Columbia
+473,Tabor Home Society,Residential Care,Fraser Health,Valhaven Rest Home,26,-122.3857153,49.0789671,4212 Balmoral St,Abbotsford,V4X 1Y5,(604)856-2812,Province of British Columbia
+474,Valleyhaven Retirement Community Ltd,Residential Care,Fraser Health,Valleyhaven,101,-121.9664606,49.1659618,45450 Menholm Rd,Chilliwack,V2P 1M2,(604)792-0037,Province of British Columbia
+475,Chilliwack Society For Community Living,Residential Care,Fraser Health,Vanmar Place,,-121.9439663,49.1240738,6699 Vanmar St,Chilliwack,V2R 2M1,(604)792-7726,Province of British Columbia
+476,Angela Hung Tsun Wei Hsiao,Residential Care,Fraser Health,Victoria Rest Home Ltd.,,-122.9164561,49.2055029,731 Queens Ave,New Westminster,V3M 1L7,(604)525-2048,Province of British Columbia
+477,"Diversicare Canada Management Services Co., Inc.",Residential Care,Fraser Health,Village Langley (The),26,-122.6729662,49.0732499,3920 198th St,Langley,V3A 1C8,(604)427-3755,Province of British Columbia
+478,posAbilities Association of British Columbia,Residential Care,Fraser Health,Vista House,,-122.9745099,49.2135718,6108 Neville St,Burnaby,V5J 2J6,(604)439-9290,Province of British Columbia
+479,Communitas Supportive Care Society,Residential Care,Fraser Health,Walker,,-122.2638329,49.0374461,34691 Walker Cres,Abbotsford,V2S 1J4,(604)852-5195,Province of British Columbia
+480,Waverly Seniors Village 3 LLP,Residential Care,Fraser Health,Waverly Seniors Village,53,-121.9530152,49.1557196,8445 Young Rd,Chilliwack,V2P 4P2,(604)792-6340,Province of British Columbia
+481,Kinsight Community Society,Residential Care,Fraser Health,Wellington Street Group Home,,-122.7620924,49.2788453,3719 Wellington St,Port Coquitlam,V3B 3Y9,(604)464-3912,Province of British Columbia
+482,West Shore Laylum Management Ltd.,Residential Care,Fraser Health,West Shore Laylum,55,-122.7977862,49.0485655,2567 King George Blvd,Surrey,V4P 0E9,(604)946-2822,Province of British Columbia
+483,GRM Care Corp,Residential Care,Fraser Health,Westminster House,140,-122.8363832,49.0324337,1653 140th St,Surrey,V4A 4H1,(604)538-5291,Province of British Columbia
+484,Westminster House Society,Residential Care,Fraser Health,Westminster House,,-122.9160062,49.2073189,228 7th St,New Westminster,V3M 3K3,(604)524-5633,Province of British Columbia
+485,White Rock Seniors Village 3 LLP,Residential Care,Fraser Health,White Rock Seniors Village,71,-122.7894036,49.0237713,15628 Buena Vista Ave,White Rock,V4B 1Z4,(604)541-4663,Province of British Columbia
+486,HCN-Revera Lessee (Whitecliff) GP Inc,Residential Care,Fraser Health,Whitecliff Retirement Residence,35,-122.7930809,49.0312747,15501 16th Ave,Surrey,V4A 9M5,(604)538-7227,Province of British Columbia
+487,Chartwell Seniors Housing Reit,Residential Care,Fraser Health,Willow Manor Care Centre,35,-122.6019985,49.2253028,12275 224th St,Maple Ridge,V2X 6H5,(604)466-8602,Province of British Columbia
+488,Chilliwack Society For Community Living,Residential Care,Fraser Health,Wilmada Place,,-121.9325709,49.1713039,46660 Cedar St,Chilliwack,V2P 2H6,(604)792-8680,Province of British Columbia
+489,Western Human Resource Corp,Residential Care,Fraser Health,Wingate House,,-122.8582941,49.2536711,1234 Winslow Ave,Coquitlam,V3J 2G2,(604)931-3802,Province of British Columbia
+490,Milieu Family Services Inc.,Residential Care,Fraser Health,Yale House,,-122.8586626,49.1883729,13107 Old Yale Rd,Surrey,V3T 3C3,(604)588-8992,Province of British Columbia
+491,Lutheran Senior Citizens Housing Society,Residential Care,Fraser Health,Zion Park Manor,112,-122.7239974,49.1100459,5939 180th St,Surrey,V3S 4L2,(604)576-2891,Province of British Columbia
+492,Dawson Creek Society for Community Living,Residential Care,Northern Health,115th Residence,,-120.2501096,55.7455893,1629 115 Ave,Dawson Creek,V1G 3C7,(250)782-3277,Province of British Columbia
+493,Dawson Creek Society for Community Living,Residential Care,Northern Health,1416 Residence,,-120.242284,55.7598837,1416 102 Ave,Dawson Creek,V1G2C9,(250)782-2611,Province of British Columbia
+494,Fort St. John Association For Community Living,Residential Care,Northern Health,92A Street House,,-120.8340087,56.2337165,8704 92A St,Fort St. John,V1J 3J6,(250)787-0684,Province of British Columbia
+495,Northern Health Authority - Prince Rupert,Residential Care,Northern Health,Acropolis Manor,61,-130.3300842,54.3043492,1325 Summit Ave,Prince Rupert,V8J 4C1,(250)622-6461,Province of British Columbia
+496,High Road Services Society,Residential Care,Northern Health,Alfred Adult Residential,,-127.1714404,54.7766473,3668 Alfred Ave,Smithers,V0J 2N0,(250)847-2956,Province of British Columbia
+497,Birchview Holdings Ltd.,Residential Care,Northern Health,Birchview Residences,20,-122.8005719,54.0012107,7780 Hart Hwy,Prince George,V2K 3B3,(778)415-9790,Province of British Columbia
+498,Northern Health Authority - Terrace and Kitimat,Residential Care,Northern Health,Birchwood Place,8,-128.5451759,54.5163628,3183 Kofoed Dr,Thornhill,V8G 3P8,(250)635-2171,Province of British Columbia
+499,Northern Health Authority - Smithers,Residential Care,Northern Health,Bulkley Lodge,70,-127.1577223,54.7792679,3668 11th Ave,Smithers,V0J 2N0,(250)847-4443,Province of British Columbia
+500,AIMHI Prince George Association For Community Living,Residential Care,Northern Health,Burden Residential Home,,-122.7675849,53.9085567,1680 Burden St,Prince George,V2M 2J8,(250)564-0509,Province of British Columbia
+501,AIMHI Prince George Association For Community Living,Residential Care,Northern Health,Campbell,,-122.7972598,53.9002453,4057 Campbell Ave,Prince George,V2M 5A3,(250)612-0433,Province of British Columbia
+502,Dawson Creek Society for Community Living,Residential Care,Northern Health,Canalta Residence,,-120.2572876,55.7506542,1908 110 Ave,Dawson Creek,V1G 2W7,(250)782-2221,Province of British Columbia
+503,South Peace Community Resources Society,Residential Care,Northern Health,City View,,-120.2316298,55.7679178,1020 95 Ave,Dawson Creek,V1G 1J1,(250)782-0744,Province of British Columbia
+504,Thompson Community Services Inc.,Residential Care,Northern Health,Corless Crescent,,-122.8061227,53.9299629,238 Corless Cres,Prince George,V2M 5X9,(250)319-3503,Province of British Columbia
+505,Northern Health Authority,Residential Care,Northern Health,Davis Drive,,-122.7828575,53.8754284,4237 Davis Rd,Prince George,V2N 6M6,(250)964-9744,Province of British Columbia
+506,Terrace & District Community Services Society,Residential Care,Northern Health,Davis Residence,,-128.5919849,54.5198173,4650 Davis Ave,Terrace,V8G 1X7,(250)635-9447,Province of British Columbia
+507,Northern Health Authority,Residential Care,Northern Health,Dunrovin Park Lodge,,-122.4873449,52.9794961,900 St Laurent Ave,Quesnel,V2J 3S3,(250)985-5800,Province of British Columbia
+508,Burns Lake Christian Supportive Society,Residential Care,Northern Health,Eighth Avenue Group Home,,-125.7581811,54.2341002,210 8th Ave,Burns Lake,V0J 1E0,(250)692-7810,Province of British Columbia
+509,AIMHI Prince George Association For Community Living,Residential Care,Northern Health,Flamingo Road,,-122.8207467,54.0057977,8244 Flamingo Rd,Prince George,V2N 2J1,(250)962-5853,Province of British Columbia
+510,Fort St. John Association For Community Living,Residential Care,Northern Health,FSJ ACL Four-Plex,8,-120.8571513,56.2481382,10519 102 Ave,Fort St. John,V1J 2E7,(250)787-7437,Province of British Columbia
+511,Northern Health Authority,Residential Care,Northern Health,Gateway Lodge Complex Care,120,-122.7534096,53.905646,1488 20th Ave,Prince George,V2L 0A5,(250)645-6100,Province of British Columbia
+512,AIMHI Prince George Association For Community Living,Residential Care,Northern Health,Gorse Street Residence,,-122.7382844,53.9059101,1945 Gorse St,Prince George,V2L 1G7,(250)564-7511,Province of British Columbia
+513,"Gorbahn, Dana",Residential Care,Northern Health,GPAR # 1,,-127.1670837,54.7904779,1377 Driftwood Cres,Smithers,V0J 2N0,(250)847-4204,Province of British Columbia
+514,Northern Health Authority,Residential Care,Northern Health,Haida Gwaii Hospital and Health Centre,8,-132.0705826,53.2548117,3209 Oceanview Dr,Queen Charlotte,VOT 1SO,(250)622-6298,Province of British Columbia
+515,Western Human Resource Corporation,Residential Care,Northern Health,Hazelton Residence,,-122.7379268,53.8974329,2554 Hazelton St,Prince George,V2L 1H2,(250)960-1499,Province of British Columbia
+516,Northern Health Authority - Houston Health Centre,Residential Care,Northern Health,Houston Health Centre,7,-126.6524369,54.3961409,3202 14th St,Houston,V0J 1Z0,(250)845-5950,Province of British Columbia
+517,Thompson Community Services Inc.,Residential Care,Northern Health,Kalum Home,,-128.5871766,54.5202329,3315 Kalum St,Terrace,V8G 4B1,(250)635-4701,Province of British Columbia
+518,Thompson Community Services Inc.,Residential Care,Northern Health,Leonard Place,,-122.8102968,53.9386839,4761 Leonard Pl,Prince George,V2M 6Z5,(250)319-3503,Province of British Columbia
+519,AIMHI Prince George Association For Community Living,Residential Care,Northern Health,Lisgar Residence,,-122.7835666,53.8980237,2471 Lisgar Cres,Prince George,V2N 1C4,(250)596-0419,Province of British Columbia
+520,Northern Health Authority - Terrace and Kitimat,Residential Care,Northern Health,Mountain View Lodge Complex & Long Term Care Unit,36,-128.6474501,54.0504911,920 Lahakas Blvd,Kitimat,V8C 2S3,(250)632-2121,Province of British Columbia
+521,Northern Health Authority,Residential Care,Northern Health,Nechako Center - Adult,,-122.7661852,53.9122146,1308 Alward St,Prince George,V2M 7B1,(250)649-7573,Province of British Columbia
+522,AIMHI Prince George Association For Community Living,Residential Care,Northern Health,Ospika Residence,,-122.7886112,53.8936018,2690 Ospika Blvd S,Prince George,V2N 2L8,(250)562-0861,Province of British Columbia
+523,Northern Health Authority,Residential Care,Northern Health,Parkside Intermediate Care Home,61,-122.7947754,53.9178042,788 Ospika Blvd,Prince George,V2M 6W5,(250)563-1916,Province of British Columbia
+524,Northern Health Authority,Residential Care,Northern Health,Peace Villa,124,-120.8161127,56.2560541,8407 112 Ave,Fort St. John,V1J 0J5,(250)774-8100,Province of British Columbia
+525,Prince George Brain Injured Group,Residential Care,Northern Health,Quince Street Residence,,-122.7533517,53.9052139,2012 Quince St,Prince George,V2L 5B4,(250)562-6265,Province of British Columbia
+526,Quesnel Community Living,Residential Care,Northern Health,Racing Residence,,-122.4493146,52.9849645,464 Racing Rd,Quesnel,V2J 5G9,(250)747-0025,Province of British Columbia
+527,AIMHI Prince George Association For Community Living,Residential Care,Northern Health,Radcliffe Residence,,-122.7934182,53.9284596,501 Radcliffe Dr,Prince George,V2M 3N5,(250)562-6407,Province of British Columbia
+528,Northern Health Authority,Residential Care,Northern Health,Rainbow Lodge,19,-122.7897305,53.9156786,1000 Liard Dr,Prince George,V2M 3Z3,(250)645-64253,Province of British Columbia
+529,Prince George Hospice Society,Residential Care,Northern Health,Rotary Hospice House,,-122.7554609,53.8895469,3089 Clapperton St,Prince George,V2L 5N4,(250)563-2481,Province of British Columbia
+530,Northern Health Authority,Residential Care,Northern Health,Rotary Manor,115,-120.2357358,55.77296,1121 90 Ave,Dawson Creek,V1G 5A3,(250)719-3480,Province of British Columbia
+531,Thompson Community Services Inc.,Residential Care,Northern Health,Scott Home,,-128.603921,54.5235442,4830 Scott Ave,Terrace,V8G 2B6,(250)635-9800,Province of British Columbia
+532,South Peace Community Resources Society,Residential Care,Northern Health,Serenity House,,-120.2391598,55.7561362,1311 106 Ave,Dawson Creek,V1G 2P2,(250)782-9174 ext 227,Province of British Columbia
+533,AIMHI Prince George Association For Community Living,Residential Care,Northern Health,St Catherine's Community Home,,-122.7795462,53.8600556,6899 O'Grady Rd,Prince George,V2N 4Z1,(250)964-2033,Province of British Columbia
+534,Northern Health Authority,Residential Care,Northern Health,Stuart Nechako Manor,53,-124.0092728,54.0287172,3277 Hospital Rd,Vanderhoof,V0J 3A0,(250)567-2013,Province of British Columbia
+535,Northern Health Authority - Terrace and Kitimat,Residential Care,Northern Health,Terraceview Lodge,99,-128.5941273,54.5328427,4707 Kerby Ave,Terrace,V8G 2W2,(250)631-4180,Province of British Columbia
+536,Connexus Community Resources,Residential Care,Northern Health,Valley View Residence,,-124.009737,54.0105665,143 5th St W,Vanderhoof,V0J 3A0,(250)567-9205,Province of British Columbia
+537,Bradley Smith,Residential Care,Interior Health,Hall St. Residence,,-117.2925683,49.4953759,"#203 & #204 205 Hall St, Nelson BC V1L 5X4",Nelson,V1L 5X4,(250) 354-1267,Province of British Columbia
+538,Ivana Pavlic,Residential Care,Interior Health,Lake Country Lodge,49,-119.3982882,50.0295396,"100 10163 Konschuh Road, Lake Country BC V4V 2M2",Lake Country,V4V 2M2,(250) 766-3007,Province of British Columbia
+539,,Residential Care,Interior Health,Coronation Home,,-119.4793851,49.8923387,"1009 Coronation Ave, Kelowna BC V1Y 7A8",Kelowna,V1Y 7A8,(250) 861-7133,Province of British Columbia
+540,Ken Wright,Residential Care,Interior Health,Sage Health Centre,,-120.3388827,50.6712201,"101 Columbia St W, Kamloops BC V2C 2S7",Kamloops,V2C 2S7,(250) 374-6551,Province of British Columbia
+541,Sunshine Latimer,Residential Care,Interior Health,Prince Avenue Home,,-117.6732208,49.3290404,"101 Prince Ave, Castlegar BC V1N 1C7",Castlegar,V1N 1C7,(250) 365-2770,Province of British Columbia
+542,Jamie McGregor,Residential Care,Interior Health,Youth Recovery House,,-119.4790031,49.8824008,"1024 Laurier Avenue, Kelowna BC V1Y 6B1",Kelowna,V1Y 6B1,(250) 763-0456,Province of British Columbia
+543,Vic Klassen,Residential Care,Interior Health,The Hamlets at Penticton,89,-119.5897419,49.4840615,"103 Duncan Ave, Penticton BC V2A 2Y3",Penticton,V2A 2Y3,(250) 490-8503,Province of British Columbia
+544,Heather Dorsey,Residential Care,Interior Health,Columbia House,35,-116.0333453,50.5065288,"1030 10 St, Invermere BC V0A 1K0",Invermere,V0A 1K0,(250) 342-2329,Province of British Columbia
+545,Tawnya Steil,Residential Care,Interior Health,Middleton House,,-119.2363884,50.2347983,"10306 Middleton Dr, Vernon BC V1T 2K6",Vernon,V1T 2K6,(250) 545-7495,Province of British Columbia
+546,Jade Louise Burt,Residential Care,Interior Health,Prairie Valley Lodge,9,-119.6835172,49.5979602,"10312 Prairie Valley Rd, Summerland BC V0H 1Z0",Summerland,V0H 1Z0,(250) 404-0203,Province of British Columbia
+547,Brad Novak,Residential Care,Interior Health,Gaumont Residence,,-120.3829343,50.7086211,"1070 North Glen Dr, Kamloops BC V2B 5C1",Kamloops,V2B 5C1,(250) 376-3942,Province of British Columbia
+548,Michelle McLeod,Residential Care,Interior Health,Oriole House,,-120.3889523,50.7091406,"1080 Holt St, Kamloops BC V2B 5H2",Kamloops,V2B 5H2,(250) 312-1825,Province of British Columbia
+549,Nafisha Whitely,Residential Care,Interior Health,Highridge House,,-120.383846,50.7091717,"1099 Singh St, Kamloops BC V2B 5E2",Kamloops,V2B 5E2,(778) 470-5552,Province of British Columbia
+550,Kyla Doyle,Residential Care,Interior Health,Murray House (P.D.S.C.L.),,-119.5904134,49.4684904,"110 Murray Dr, Penticton BC V2A 7E4",Penticton,V2A 7E4,(250) 493-4947,Province of British Columbia
+551,Anita Grywacheski,Residential Care,Interior Health,Selkirk Family Care Home,,-120.3710336,50.7035692,"1120 Selkirk Ave, Kamloops BC V2B 1V6",Kamloops,V2B 1V6,(250) 376-3306,Province of British Columbia
+552,Tereena Donahue,Residential Care,Interior Health,Jubilee House,,-122.1412297,52.130257,"113 4 Ave N, Williams Lake BC V2G 2C8",Williams Lake,V2G 2C8,(250) 398-7736,Province of British Columbia
+553,Netanya Hanley,Residential Care,Interior Health,Kootenay Columbia House,,-117.6630835,49.3279642,"114 10 Ave, Castlegar BC V1N 1Y4",Castlegar,V1N 1Y4,(250) 365-0943,Province of British Columbia
+554,Mark Fleming,Residential Care,Interior Health,Connect Lake Country,,-119.4039766,50.0484009,"11438 Bottom Wood Lake Rd, Lake Country BC V4V 1V4",Lake Country,V4V 1V4,(250) 469-9358,Province of British Columbia
+555,Debra Koecher,Residential Care,Interior Health,South Canoe Home,,-119.2028411,50.6912155,"1180 70 St SE, Salmon Arm BC V1E 1X8",Salmon Arm,V1E 1X8,(250) 832-7698,Province of British Columbia
+556,Jessica Milaney,Residential Care,Interior Health,Mt. Cartier Court,46,-118.1904797,50.9773376,"1200 Newlands Rd, Revelstoke BC V0E 2S0",Revelstoke,V0E 2S0,(250) 814-2224,Province of British Columbia
+557,Linda Keats,Residential Care,Interior Health,30th Street Group Home,,-119.2511272,50.708592,"1201 30 St NE, Salmon Arm BC V1E 2B6",Salmon Arm,V1E 2B6,(778) 489-5661,Province of British Columbia
+558,Lisa Robitaille,Residential Care,Interior Health,Kamloops Seniors Village,114,-120.3729788,50.6499607,"1220 Hugh Allan Dr, Kamloops BC V1S 2B3",Kamloops,V1S 2B3,(250) 571-1800,Province of British Columbia
+559,Laura McKinnon,Residential Care,Interior Health,1250 Guisachan Road,,-119.472311,49.8730249,"1250 Guisachan Road, Kelowna BC V1T 7X5",Kelowna,V1T 7X5,(250) 763-4837,Province of British Columbia
+560,Linda Rowley,Residential Care,Interior Health,Eagle Crescent,,-122.1625031,52.1190374,"128 Eagle Crescent, Williams Lake BC V2G 5K2",Williams Lake,V2G 5K2,(778) 412-9903,Province of British Columbia
+561,Christy Baker,Residential Care,Interior Health,Summerland Seniors Village,112,-119.6687918,49.6000554,"12803 Atkinson Rd, Summerland BC V0H 1Z4",Summerland,V0H 1Z4,(250) 404-4400,Province of British Columbia
+562,Sandi Lautrup,Residential Care,Interior Health,Down's Residence,,-119.2501227,50.2743371,"1304 43 Avenue, Vernon BC V1T 8B2",Vernon,V1T 8B2,(250) 545-1837,Province of British Columbia
+563,Cathy Hall,Residential Care,Interior Health,Pioneer Lodge,,-115.7666091,49.5087914,"133 11 Avenue South, Cranbrook BC V1C 2P4",Cranbrook,V1C 2P4,(250) 426-2651,Province of British Columbia
+564,Michele Villeneuve-Timbury,Residential Care,Interior Health,Villeneuve House,,-119.4605542,49.8882962,"1400 Cherry Crescent E, Kelowna BC V1Y 3Y3",Kelowna,V1Y 3Y3,(250) 764-0254,Province of British Columbia
+565,Tina Quo Vadis,Residential Care,Interior Health,Noric House,85,-119.282595,50.251034,"1400 Mission Rd, Vernon BC V1T 9C3",Vernon,V1T 9C3,(250) 545-9167,Province of British Columbia
+566,Leanne Power,Residential Care,Interior Health,Waddington Group Home,,-120.33799,50.6536649,"141 Waddington Dr, Kamloops BC V2E 1P7",Kamloops,V2E 1P7,(250) 372-2110,Province of British Columbia
+567,Emily Bronson,Residential Care,Interior Health,Dufferin Group Home,,-120.3843445,50.6590596,"1423 Mt Dufferin Dr, Kamloops BC V2E 1A1",Kamloops,V2E 1A1,(250) 372-2584,Province of British Columbia
+568,Shannon Blanleil,Residential Care,Interior Health,Three Links Manor,82,-119.4669195,49.883268,"1449 Kelglen Crescent, Kelowna BC V1Y 8P4",Kelowna,V1Y 8P4,(250) 763-2585,Province of British Columbia
+569,Tammy Deausy,Residential Care,Interior Health,Williams Lake Seniors Village,113,-122.1593926,52.1520084,"1455 Western Ave, Williams Lake BC V2G 5N1",Williams Lake,V2G 5N1,(250) 305-3302,Province of British Columbia
+570,Kyla Doyle,Residential Care,Interior Health,Bruce House,,-119.5894259,49.4780038,"146 Bruce Court, Penticton BC V2A 6C4",Penticton,V2A 6C4,(250) 486-5952,Province of British Columbia
+571,Kristina Pidskalny,Residential Care,Interior Health,Alexis Home,,-120.3833093,50.701098,"1561 Alexis Ave, Kamloops BC V2B 4L1",Kamloops,V2B 4L1,(250) 376-9801,Province of British Columbia
+572,Diane Alcorn,Residential Care,Interior Health,Smithson Place Home,,-119.4624632,49.8996441,"1615 Smithson Pl, Kelowna BC V1Y 8N5",Kelowna,V1Y 8N5,(250) 860-1852,Province of British Columbia
+573,Andrea Russell,Residential Care,Interior Health,Avonlea Care Centre Ltd,,-119.4617277,49.8937576,"1658 Blondeaux Crescent, Kelowna BC V1Y 4J7",Kelowna,V1Y 4J7,(250) 762-4378,Province of British Columbia
+574,Jessica Degeorgio,Residential Care,Interior Health,ALPHA House,,-117.7047808,49.0939058,"1681 Bay Ave, Trail BC V1R 4R7",Trail,V1R 4R7,(250) 368-9145,Province of British Columbia
+575,Matt Stubbings,Residential Care,Interior Health,Gillis House,49,-120.7861348,50.1075263,"1699 Tutill Court, Merritt BC V1K 1C6",Merritt,V1K 1C6,(250) 378-3271,Province of British Columbia
+576,Kim Gordon,Residential Care,Interior Health,F.W. Green Memorial Home,60,-115.7573544,49.5052761,"1700 4th Street S, Cranbrook BC V1C 6E1",Cranbrook,V1C 6E1,(250) 426-3710,Province of British Columbia
+577,Elaine Phipps,Residential Care,Interior Health,Axis House Williams Lake,,-122.1000214,52.1100783,"1700 Renner Rd, Williams Lake BC V2G 3B3",Williams Lake,V2G 3B3,(250) 392-1800,Province of British Columbia
+578,Lisa Danby,Residential Care,Interior Health,Moog and Friends Hospice House,,-119.5717821,49.4798794,"1701 Government St, Penticton BC V2A 3G6",Penticton,V2A 3G6,(250) 492-9071,Province of British Columbia
+579,Shawn Jacklin,Residential Care,Interior Health,Joseph Creek Care Village,102,-115.7460108,49.5268727,"1701 Willowbrook Dr N, Cranbrook BC V1C 0A5",Cranbrook,V1C 0A5,(250) 489-0060,Province of British Columbia
+580,Dianne Klassen,Residential Care,Interior Health,Roslin House,,-119.4585279,49.8922927,"1733 Highland Dr N, Kelowna BC V1Y 4K9",Kelowna,V1Y 4K9,(250) 763-1953,Province of British Columbia
+581,David Parmenter,Residential Care,Interior Health,Willowview,,-119.2705047,50.2550268,"1808 30 St, Vernon BC V1T 5C5",Vernon,V1T 5C5,(250) 542-4890,Province of British Columbia
+582,Mindy Mears,Residential Care,Interior Health,Fruitvale House,,-117.5437064,49.1124272,"1889 Columbia Gardens Rd, Fruitvale BC V0G 1L0",Fruitvale,V0G 1L0,(250) 367-2174,Province of British Columbia
+583,Shannon Blanleil,Residential Care,Interior Health,McGivney Manor,6,-119.4213894,49.8810045,"1898 Parkview Crescent, Kelowna BC V1X 7G6",Kelowna,V1X 7G6,(250) 868-2123,Province of British Columbia
+584,Kathleen Mills,Residential Care,Interior Health,Pine Acres Home,63,-119.5947911,49.8394585,"1902 Pheasant Ln, Westbank BC V4T 2H4",Westbank,V4T 2H4,(250) 768-7676,Province of British Columbia
+585,Cathy Hall,Residential Care,Interior Health,Purcell Place,,-115.7416204,49.5276644,"1906 Kelowna Cres, Cranbrook BC V1C 6E5",Cranbrook,V1C 6E5,(250) 426-7588,Province of British Columbia
+586,Crystal Clark,Residential Care,Interior Health,Brocklehurst Gemstone Care Centre,130,-120.4000066,50.6997309,"1955 Tranquille Rd, Kamloops BC V2B 3M4",Kamloops,V2B 3M4,(778) 470-2596,Province of British Columbia
+587,"Nicole Wasyliuk, RN, BScN",Residential Care,Interior Health,Central Okanagan Hospice House,,-119.4818967,49.8775979,"2035 Ethel St, Kelowna BC V1Y 2Z6",Kelowna,V1Y 2Z6,(250) 862-4126,Province of British Columbia
+588,Gurleen Gill,Residential Care,Interior Health,Brandt's Creek Mews,102,-119.4354247,49.920084,"2081 Cross Rd, Kelowna BC V1V 2G2",Kelowna,V1V 2G2,(778) 478-8800,Province of British Columbia
+589,Sabrina Baergen,Residential Care,Interior Health,Willow House,,-119.1862301,50.4437163,"2200 Fletcher Ave, Armstrong BC V0E 1B1",Armstrong,V0E 1B1,(250) 542-2374,Province of British Columbia
+590,Chris Lyon,Residential Care,Interior Health,Teshi House,,-117.291627,49.4739294,"2206 Perrier Lane, Nelson BC V1L 7C3",Nelson,V1L 7C3,(250) 352-0595,Province of British Columbia
+591,Tim Reichelt,Residential Care,Interior Health,Rote Scheune Acres,,-119.4395524,49.8231878,"2222 Saucier Rd, Kelowna BC V1W 4B8",Kelowna,V1W 4B8,(250) 764-0390,Province of British Columbia
+592,Trina Heerschop,Residential Care,Interior Health,Van Kleeck Home,,-119.1874782,50.4386477,"2275 Van Kleeck Ave, Armstrong BC V0E 1B1",Armstrong,V0E 1B1,(250) 546-3466,Province of British Columbia
+593,Shannon Kenning,Residential Care,Interior Health,Castleview Care Centre,61,-117.6624447,49.2881064,"2300 14 Ave, Castlegar BC V1N 4A6",Castlegar,V1N 4A6,(250) 365-7277,Province of British Columbia
+594,Cathy Hall,Residential Care,Interior Health,4th Street Home,,-115.748711,49.5159284,"2304 4 St N, Cranbrook BC V1C 5V9",Cranbrook,V1C 5V9,(250) 426-2223,Province of British Columbia
+595,Gloria Kron,Residential Care,Interior Health,Lakeview Lodge,114,-119.623777,49.8370173,"2337 Butt Road, West Kelowna BC V4T 3L3",West Kelowna,V4T 3L3,(250) 768-3802,Province of British Columbia
+596,Martin Edgington,Residential Care,Interior Health,Silver Kettle Village,42,-118.4650845,49.0240875,"2350 72nd Avenue, Grand Forks BC V0H 1H0",Grand Forks,V0H 1H0,(250) 442-0667,Province of British Columbia
+597,Elizabeth Scott,Residential Care,Interior Health,Braemore Lodge,,-119.5812088,49.4712603,"2402 S Main St, Penticton BC V2A 5H9",Penticton,V2A 5H9,(250) 492-2969,Province of British Columbia
+598,Serena Burdick,Residential Care,Interior Health,The Village at Smith Creek,139,-119.6267443,49.8431243,"2425 Orlin Rd, West Kelowna BC V4T 3C7",West Kelowna,V4T 3C7,(250) 768-0488 x 5,Province of British Columbia
+599,Kathy Charlesworth,Residential Care,Interior Health,Wallace Road Duplex,,-119.3835351,49.9056937,"250-254 Wallace Rd, Kelowna BC V1X 4T1",Kelowna,V1X 4T1,(250) 491-0815,Province of British Columbia
+600,Ashley Parsons,Residential Care,Interior Health,Axis House Castlegar,,-117.6513971,49.2826636,"2528 Columbia Ave, Castlegar BC V1N 2X5",Castlegar,V1N 2X5,(778) 460-1901,Province of British Columbia
+601,Denise Malsbury,Residential Care,Interior Health,Victoria House,,-120.515888,49.4591878,"262 Poplar Street, Princeton BC V0X 1W0",Princeton,V0X 1W0,(250) 295-7688,Province of British Columbia
+602,Jamie Dale Walters,Residential Care,Interior Health,Ozanam House,,-119.4877827,49.8667968,"2629 Richter St, Kelowna BC V1Y 2R3",Kelowna,V1Y 2R3,(250) 762-4673,Province of British Columbia
+603,Gary Tamblyn,Residential Care,Interior Health,Good Samaritan Canada Village by the Station,100,-119.5957868,49.4844104,"270 Hastings Avenue, Penticton BC V2A 2V6",Penticton,V2A 2V6,(250) 490-4949 x 31222,Province of British Columbia
+604,Amanda McCarthy,Residential Care,Interior Health,Hearthstone Manor,16,-119.2899179,50.2622598,"2800 40 St, Vernon BC V1T 6J7",Vernon,V1T 6J7,(250) 546-6636,Province of British Columbia
+605,Angel Schultz,Residential Care,Interior Health,Mulberry Place,,-119.2869228,50.2628808,"2803 39 St, Vernon BC V1T 6J3",Vernon,V1T 6J3,(250) 549-7080,Province of British Columbia
+606,Laurie Williams,Residential Care,Interior Health,Hillside Village,112,-119.252111,50.7112233,"2891 15 Avenue Northeast, Salmon Arm BC V1E 1G9",Salmon Arm,V1E 1G9,(250) 833-5877 x 34222,Province of British Columbia
+607,Bev Cocco,Residential Care,Interior Health,Columbia View Lodge,76,-117.6793694,49.09953,"2920 Laburnum Dr, Trail BC V1R 4N2",Trail,V1R 4N2,(250) 364-1271,Province of British Columbia
+608,Rachel Danielsen,Residential Care,Interior Health,Felix Road,,-119.3907555,49.9018861,"295 Felix Rd, Kelowna BC V1X 6X8",Kelowna,V1X 6X8,(250) 491-1229,Province of British Columbia
+609,Kylie Beckett,Residential Care,Interior Health,Sandalwood Adult Intensive Care Facility,,-120.3486356,50.7582036,"2965 Westsyde Rd, Kamloops BC V2B 7E7",Kamloops,V2B 7E7,(250) 579-9201,Province of British Columbia
+610,Steve Soglo,Residential Care,Interior Health,25th Avenue Group Home,,-119.2509537,50.7178574,"2980 25 Ave NE, Salmon Arm BC V1E 3C7",Salmon Arm,V1E 3C7,(778) 489-5634,Province of British Columbia
+611,Lorraine Brownlee,Residential Care,Interior Health,Westsyde Care Residence,,-120.3491989,50.7589259,"2980 Westsyde Rd, Kamloops BC V2B 7E9",Kamloops,V2B 7E9,(250) 579-7675,Province of British Columbia
+612,Lorraine Brownlee,Residential Care,Interior Health,Westsyde Care Annex,,-120.3491989,50.7589259,"2980 Westsyde Road, Kamloops BC V2B 7E9",Kamloops,V2B 7E9,(250) 579-7675,Province of British Columbia
+613,Iwona Sienko,Residential Care,Interior Health,The Gateby,75,-119.2816047,50.2644344,"3000 Gateby Pl, Vernon BC V1T 8V8",Vernon,V1T 8V8,(250) 545-4456,Province of British Columbia
+614,Mark Massar,Residential Care,Interior Health,The Hamlets at Vernon,103,-119.2714963,50.2628515,"3050 29 Ave, Vernon BC V1T 9Y9",Vernon,V1T 9Y9,(236) 426-1488,Province of British Columbia
+615,Karen Elliott,Residential Care,Interior Health,Delbruck House,,-117.2877274,49.4813964,"307 Delbruck St, Nelson BC V1L 5L2",Nelson,V1L 5L2,(250) 352-0324,Province of British Columbia
+616,Tannis Gamble,Residential Care,Interior Health,"Good Samaritan Canada, Mountainview Village",90,-119.4638895,49.8620908,"3070 Burtch Rd, Kelowna BC V1W 5G2",Kelowna,V1W 5G2,(250) 717-3918 x 36222,Province of British Columbia
+617,Isabel Withler,Residential Care,Interior Health,Mission Creek Landing Ltd.,104,-119.4282439,49.8715374,"3081 Hall Rd, Kelowna BC V1W 2R5",Kelowna,V1W 2R5,(250) 860-2330,Province of British Columbia
+618,Deborah Frasca,Residential Care,Interior Health,Pine Grove Care Centre Partnership,75,-120.3507604,50.6876294,"313 McGowan Ave, Kamloops BC V2B 2N8",Kamloops,V2B 2N8,(250) 376-5701,Province of British Columbia
+619,Jasper Bailey,Residential Care,Interior Health,Knutsford Group Home,,-120.3104439,50.603467,"3161 Merritt Princeton Highway 5A, Knutsford BC V0E 2A0",Knutsford,V0E 2A0,(250) 372-5214,Province of British Columbia
+620,Cathy Hall,Residential Care,Interior Health,7th Street Residence,,-115.7749328,49.5021716,"322 7 Street S, Cranbrook BC V1C 1M7",Cranbrook,V1C 1M7,(250) 426-0151,Province of British Columbia
+621,Heather Cryer,Residential Care,Interior Health,Orchard Manor at Hawthorn Park,46,-119.4853357,49.8600993,"3221 Casorso Rd, Kelowna BC V1Y 3J5",Kelowna,V1Y 3J5,(250) 861-6636,Province of British Columbia
+622,Kerryann Allen,Residential Care,Interior Health,Orchard View Group Home,,-119.2509645,50.7233533,"3231 30 St NE, Salmon Arm BC V1E 3L1",Salmon Arm,V1E 3L1,(250) 832-0501,Province of British Columbia
+623,Ivana Pavlic,Residential Care,Interior Health,Glenmore Lodge,118,-119.4400778,49.9163179,"325 Drysdale Blvd, Kelowna BC V1V 1P5",Kelowna,V1V 1P5,(236) 420-1717,Province of British Columbia
+624,Bob Attfield,Residential Care,Interior Health,The Hamlets at Westsyde,162,-120.3413596,50.7709541,"3255 Overlander Drive, Kamloops BC V2B 0A5",Kamloops,V2B 0A5,(250) 579-9061,Province of British Columbia
+625,Tammy Williams,Residential Care,Interior Health,Dobie House,,-119.2651516,50.2665626,"3307 26 St, Vernon BC V1T 4V2",Vernon,V1T 4V2,(250) 542-8746,Province of British Columbia
+626,Jessica Blankenship,Residential Care,Interior Health,Castlegar House,,-117.6459263,49.2682638,"3405 4 Ave, Castlegar BC V1N 2T4",Castlegar,V1N 2T4,(250) 365-3306,Province of British Columbia
+627,Rhea Heinrichs,Residential Care,Interior Health,Mariposa Court,,-119.4391121,49.8590963,"3419 Mariposa Court, Kelowna BC V1X 2S9",Kelowna,V1X 2S9,(250) 862-8521,Province of British Columbia
+628,Leslie Murphy,Residential Care,Interior Health,North Okanagan Hospice House,,-119.281435,50.261499,"3506 27 Ave, Vernon BC V1T 1S4",Vernon,V1T 1S4,(250) 503-1800,Province of British Columbia
+629,Shanon Shore,Residential Care,Interior Health,Juniper Place Group Home,,-119.2801154,50.2729382,"3508 42 Ave, Vernon BC V1T 3J9",Vernon,V1T 3J9,(250) 558-3515,Province of British Columbia
+630,Kathy Yaciw,Residential Care,Interior Health,Ord Road Group Home,,-120.4640376,50.7157882,"3510 Ord Road, Kamloops BC V2B 8B6",Kamloops,V2B 8B6,(250) 376-0318,Province of British Columbia
+631,Moises Castro,Residential Care,Interior Health,Spring Valley Care Centre,151,-119.4171222,49.8852086,"355 Terai Court, Kelowna BC V1X 5X6",Kelowna,V1X 5X6,(250) 979-6000,Province of British Columbia
+632,Dennis Pighin,Residential Care,Interior Health,Willow Place,,-117.7478953,49.0925154,"355 Willow Dr, Trail BC V1R 2M8",Trail,V1R 2M8,(250) 364-2033,Province of British Columbia
+633,Trina Heerschop,Residential Care,Interior Health,Warner House,,-119.2073575,50.4434268,"3665 Warner Ave, Armstrong BC V0E 1B2",Armstrong,V0E 1B2,(250) 546-8851,Province of British Columbia
+634,Sean Rathwell,Residential Care,Interior Health,White Heather Manor,3,-119.4776144,49.8506754,"3728 Casorso Rd, Kelowna BC V1W 4M8",Kelowna,V1W 4M8,(250) 763-6554,Province of British Columbia
+635,Kim Gordon,Residential Care,Interior Health,Kimberley Special Care Home,55,-115.9896466,49.6899978,"386 2 Ave, Kimberley BC V1A 2Z6",Kimberley,V1A 2Z6,(250) 427-4807,Province of British Columbia
+636,Melinda Hambly,Residential Care,Interior Health,Heritage Square,50,-119.26823,50.270687,"3904 27 St, Vernon BC V1T 4X7",Vernon,V1T 4X7,(250) 545-2060,Province of British Columbia
+637,Katlyn-Grace Matuschewski,Residential Care,Interior Health,Gateway Crisis Stabilization Unit,,-122.1441684,52.1374158,"3rd Floor 517 6 Ave N, Williams Lake BC V2G 2G8",Williams Lake,V2G 2G8,(250) 302-3261,Province of British Columbia
+638,Charlene Corwallis-Bate,Residential Care,Interior Health,Slocan Community Health Centre,28,-117.3740924,49.9842253,"401 Galena Ave, New Denver BC V0G 1S0",New Denver,V0G 1S0,(250) 358-7911,Province of British Columbia
+639,Terri Wong,Residential Care,Interior Health,29th Street House,,-117.6461235,49.2759644,"404 29 St, Castlegar BC V1N 3T8",Castlegar,V1N 3T8,(250) 365-3547,Province of British Columbia
+640,,Residential Care,Interior Health,The Florentine,20,-120.7634019,50.1246261,"4100 Belshaw St, Merritt BC V1K 0A5",Merritt,V1K 0A5,(250) 378-5300,Province of British Columbia
+641,Shannon Coco,Residential Care,Interior Health,Haven Hill Retirement Centre,152,-119.5810859,49.496982,"415 Haven Hill Rd, Penticton BC V2A 4E9",Penticton,V2A 4E9,(250) 492-2600,Province of British Columbia
+642,Laryssa Wolansky,Residential Care,Interior Health,Steller's Jay House,,-119.255483,50.2739341,"4200 17 St, Vernon BC V1T 8R7",Vernon,V1T 8R7,(778) 475-4807,Province of British Columbia
+643,Thea Palmer,Residential Care,Interior Health,Hawthorn House,,-119.3020415,50.2529045,"4217 16 Ave, Vernon BC V1T 6P2",Vernon,V1T 6P2,(250) 260-6254,Province of British Columbia
+644,Evadene Lovell,Residential Care,Interior Health,Eso Court,,-119.4779984,49.8273629,"4225 Eso Ct, Kelowna BC V1W 4A4",Kelowna,V1W 4A4,(250) 764-8622,Province of British Columbia
+645,Ailie Kerr,Residential Care,Interior Health,Ponderosa Lodge,124,-120.331943,50.6709571,"425 Columbia St, Kamloops BC V2C 2T4",Kamloops,V2C 2T4,(250) 374-5671,Province of British Columbia
+646,Brooke Budge,Residential Care,Interior Health,Eckhardt Home,,-119.5966022,49.4923903,"429 Eckhardt Ave W, Penticton BC V2A 2B3",Penticton,V2A 2B3,(604) 551-6084,Province of British Columbia
+647,Laryssa Wolansky,Residential Care,Interior Health,Kingfisher Place,,-119.2445371,50.2761526,"4328 Crystal Drive, Vernon BC V1T 8V5",Vernon,V1T 8V5,(250) 503-2892,Province of British Columbia
+648,Tatania Black,Residential Care,Interior Health,Dixon Place Home,,-119.22541,50.2790503,"4649 Bolduc Rd, Vernon BC V1B 3J1",Vernon,V1B 3J1,(250) 545-2503,Province of British Columbia
+649,Christina (Tina) Keyes,Residential Care,Interior Health,Hilltop House,,-120.3573526,50.6901083,"470 Hilltop Ave, Kamloops BC V2B 2S3",Kamloops,V2B 2S3,(250) 376-3788,Province of British Columbia
+650,Amy Harink,Residential Care,Interior Health,Mountain View,,-119.2424448,50.2325338,"470 Middleton Way, Vernon BC V1B 3Z7",Vernon,V1B 3Z7,(778) 475-2075,Province of British Columbia
+651,Shannon Qiodravu,Residential Care,Interior Health,Lynndale Lodge,,-119.340954,50.6919774,"4820 10 Ave SW, Salmon Arm BC V1E 3B5",Salmon Arm,V1E 3B5,(250) 832-3072,Province of British Columbia
+652,Jennifer Johnson,Residential Care,Interior Health,Terry's Place,,-120.1290278,51.1768447,"485 Carlstrom Rd, Barriere BC V0E 1E0",Barriere,V0E 1E0,(250) 672-9470,Province of British Columbia
+653,Victoria Wilson,Residential Care,Interior Health,Good Samaritan Canada Heron Grove,76,-119.259139,50.2830685,"4900 20 St, Vernon BC V1T 9W3",Vernon,V1T 9W3,(250) 717-4001,Province of British Columbia
+654,Emily Stubbs,Residential Care,Interior Health,Forrest Place,,-117.7476346,49.0941358,"491 Forrest Dr, Warfield BC V1R 2H1",Warfield,V1R 2H1,(250) 368-3511,Province of British Columbia
+655,Melanie Wright-Day,Residential Care,Interior Health,Nelson Jubilee Manor,39,-117.2989961,49.4795673,"500 Beasley Street West, Nelson BC V1L 6G9",Nelson,V1L 6G9,(250) 352-7011,Province of British Columbia
+656,Al Procure,Residential Care,Interior Health,Rittich Road,,-119.3636615,49.9567506,"5120 Rittich Rd, Kelowna BC V1X 7V6",Kelowna,V1X 7V6,(250) 878-2234,Province of British Columbia
+657,Rani Jaison,Residential Care,Interior Health,Rosemont House,,-117.2995948,49.480368,"529 West Houston Street, Nelson BC V1L 6C9",Nelson,V1L 6C9,(250) 354-4734,Province of British Columbia
+658,Thomas Bittorff,Residential Care,Interior Health,Cedar House,,-119.3073001,50.262306,"5304 Bella Vista Rd, Vernon BC V1H 1A4",Vernon,V1H 1A4,(250) 542-2374,Province of British Columbia
+659,Misty Pagilaro,Residential Care,Interior Health,Purcell Place,,-116.504221,49.089596,"535 18 Ave S, Creston BC V0B 1G3",Creston,V0B 1G3,(250) 428-2958,Province of British Columbia
+660,Jadine Wakefield,Residential Care,Interior Health,Spartan Place,,-119.2508847,50.2870774,"5393 Spartan Rd, Vernon BC V1B 3K9",Vernon,V1B 3K9,(250) 545-2506,Province of British Columbia
+661,Marisa Hunter,Residential Care,Interior Health,Caramillo Heights,,-119.4621133,49.9086172,"547 Caramillo Ct, Kelowna BC V1V 2K9",Kelowna,V1V 2K9,(250) 808-9706,Province of British Columbia
+662,Deanna Friesen,Residential Care,Interior Health,Rocky Mountain Care Village,62,-115.0666592,49.4923848,"55 Cokato Rd, Fernie BC V0B 1M0",Fernie,V0B 1M0,(250) 423-4214,Province of British Columbia
+663,Norman Major,Residential Care,Interior Health,McCulloch Residence,,-119.3486466,49.8396118,"5500 McCulloch Rd, Kelowna BC V1W 4G1",Kelowna,V1W 4G1,(250) 762-2566,Province of British Columbia
+664,Jessica Witala,Residential Care,Interior Health,Fischer Place,28,-121.2928598,51.6393044,"555 Cedar Ave, 100 Mile House BC V0K 2E1",100 Mile House,V0K 2E1,(250) 395-7690,Province of British Columbia
+665,Simone Mark,Residential Care,Interior Health,Roalshary,,-118.4413512,49.0313592,"558 73 Ave, Grand Forks BC V0H 1H0",Grand Forks,V0H 1H0,(250) 442-0797,Province of British Columbia
+666,Susan daCosta,Residential Care,Interior Health,Main Street Home,,-119.5552282,49.1730632,"5760 Main Street, Oliver BC V0H 1T0",Oliver,V0H 1T0,(778) 439-2026,Province of British Columbia
+667,Korene McLauchlan,Residential Care,Interior Health,River House,,-120.3465711,50.7525844,"611 Enzo Rd, Kamloops BC V2B 0E6",Kamloops,V2B 0E6,(778) 472-5263,Province of British Columbia
+668,Tara-Lee Calhoun,Residential Care,Interior Health,Creekside Landing,70,-119.3223493,50.2465633,"6190 Okanagan Landing Rd, Vernon BC V1H 1M3",Vernon,V1H 1M3,(250) 549-9550,Province of British Columbia
+669,Kyle Piscopo,Residential Care,Interior Health,Kootenay Street Village,36,-115.7581811,49.5182374,"620 Kootenay St N, Cranbrook BC V1C 3T9",Cranbrook,V1C 3T9,(250) 489-0393,Province of British Columbia
+670,Ana Beresford,Residential Care,Interior Health,Nelson Avenue Residence,,-117.2789603,49.5042318,"620 Nelson Ave, Nelson BC V1L 2N6",Nelson,V1L 2N6,(250) 352-7337,Province of British Columbia
+671,Angela Hodgkiss,Residential Care,Interior Health,Bissette,,-120.3440301,50.7616555,"625 Bissette Road, Kamloops BC V2B 6L3",Kamloops,V2B 6L3,(250) 579-8641,Province of British Columbia
+672,Dean Wichmann,Residential Care,Interior Health,Garden Manor Rest Home,,-120.3408427,50.6729058,"63 Nicola St W, Kamloops BC V2C 1J5",Kamloops,V2C 1J5,(250) 374-7612,Province of British Columbia
+673,Misty Pagilaro,Residential Care,Interior Health,25th Avenue,,-116.4952898,49.0886024,"635 25th Avenue S, Creston BC V0B 1G0",Creston,V0B 1G0,(250) 428-2001,Province of British Columbia
+674,Craig Hilker,Residential Care,Interior Health,Cariboo House,,-122.1271118,52.1311493,"64 Windmill Crescent, Williams Lake BC V2G 1A9",Williams Lake,V2G 1A9,(250) 392-9581,Province of British Columbia
+675,Deanne Gray,Residential Care,Interior Health,Park Drive Home,,-119.5418863,49.1872753,"6499 Park Drive, Oliver BC V0H 1T4",Oliver,V0H 1T4,(250) 498-2926,Province of British Columbia
+676,Elizabeth Andrews,Residential Care,Interior Health,Lamton Home,,-119.2547159,50.2318418,"650 Middleton Way, Coldstream BC V1B 2V5",Coldstream,V1B 2V5,(250) 503-2333,Province of British Columbia
+677,Laura Raycraft,Residential Care,Interior Health,Sunnybank Centre,51,-119.5401017,49.1878369,"6553 Park Dr, Oliver BC V0H 1T0",Oliver,V0H 1T0,(250) 498-4951,Province of British Columbia
+678,Melanie Wright-Day,Residential Care,Interior Health,Victorian Community Health Centre of Kaslo,20,-116.9138752,49.9132105,"673 A Ave, Kaslo BC V0G 1M0",Kaslo,V0G 1M0,(250) 353-2211,Province of British Columbia
+679,Leah Homeniuk,Residential Care,Interior Health,Bryden House,,-119.2358482,50.3066134,"6780 Bryden Rd, Vernon BC V1B 3T3",Vernon,V1B 3T3,(250) 542-1436,Province of British Columbia
+680,Erika Robinson,Residential Care,Interior Health,Orchard Haven,38,-119.8326764,49.2045297,"700 3 St, Keremeos BC V0X 1N0",Keremeos,V0X 1N0,(250) 499-3030,Province of British Columbia
+681,Walter Greaser,Residential Care,Interior Health,Sun Pointe Village in Rutland,100,-119.3878245,49.896263,"700 Rutland Rd N, Kelowna BC V1X 7W8",Kelowna,V1X 7W8,(250) 491-1400,Province of British Columbia
+682,Tina Quo Vadis,Residential Care,Interior Health,Parkview Place,31,-119.1410122,50.546665,"707 3 Avenue, Enderby BC V0E 1V0",Enderby,V0E 1V0,(250) 838-2470,Province of British Columbia
+683,Stacey Thin,Residential Care,Interior Health,Talarico Place,60,-117.6614243,49.3149692,"709 10 St, Castlegar BC V1N 2H7",Castlegar,V1N 2H7,(250) 365-7221,Province of British Columbia
+684,Wendy Marlow,Residential Care,Interior Health,Marjorie Willoughby Snowden Memorial Hospice Home,,-120.3374527,50.6588194,"72 Whiteshield Crescent S, Kamloops BC V2E 2S9",Kamloops,V2E 2S9,(250) 372-1336,Province of British Columbia
+685,Todd Mallen,Residential Care,Interior Health,The Vineyards Residence,84,-119.4510545,49.9024917,"726 Valley, Rd Kelowna BC V1V 0E9",Rd Kelowna,V1V 0E9,(236) 420-4400,Province of British Columbia
+686,Derek Murray,Residential Care,Interior Health,Birch Lodge,,-119.1493654,50.2203238,"7446 Highway 6, Coldstream BC V1B 3H4",Coldstream,V1B 3H4,(250) 545-6849,Province of British Columbia
+687,Ann Ungaro,Residential Care,Interior Health,Trinity Centre,75,-119.5822885,49.464404,"75 Green Ave W, Penticton BC V2A 7N6",Penticton,V2A 7N6,(250) 493-6601,Province of British Columbia
+688,Donna Jefferson,Residential Care,Interior Health,Mount Nelson Place,,-116.0282627,50.507667,"750 6th Avenue, Invermere BC V0A 1K0",Invermere,V0A 1K0,(250) 342-3699,Province of British Columbia
+689,Brenda Epp,Residential Care,Interior Health,Withdrawal Management Services,,-119.4009594,49.8895254,"760 Highway 33 W, Kelowna BC V1X 1Y4",Kelowna,V1X 1Y4,(250) 763-0456,Province of British Columbia
+690,Lee Begg,Residential Care,Interior Health,Hardy View Lodge,80,-118.4687473,49.0296242,"7649 22 St, Grand Forks BC V0H 1H0",Grand Forks,V0H 1H0,(250) 443-2100,Province of British Columbia
+691,Tanya Knighton,Residential Care,Interior Health,Springridge Group Home,,-120.3602463,50.6582015,"788 Springridge Pl, Kamloops BC V2E 1C8",Kamloops,V2E 1C8,(250) 372-2125,Province of British Columbia
+692,Jasper Bailey,Residential Care,Interior Health,McArthur Home,,-120.3482057,50.7625069,"794-796 McArthur Drive, Kamloops BC V2B 8L9",Kamloops,V2B 8L9,(778) 472-2205,Province of British Columbia
+693,Allison Donovan,Residential Care,Interior Health,Quatro Home,,-120.3487029,50.7571077,"797-799 Settlement Road, Kamloops BC V2B 6J4",Kamloops,V2B 6J4,(778) 472-4455,Province of British Columbia
+694,Wayne Walters,Residential Care,Interior Health,Columbia Garden Care Village,34,-116.0331677,50.5076471,"800 10 Ave, Invermere BC V0A 1K0",Invermere,V0A 1K0,(250) 341-3350,Province of British Columbia
+695,Ben Bellows,Residential Care,Interior Health,Crest View Care Village,32,-116.5157147,49.1043599,"800 Cavell Street, Creston BC V0B 1G4",Creston,V0B 1G4,(250) 428-9986,Province of British Columbia
+696,Heather Dorsey,Residential Care,Interior Health,Henry M. Durand Manor,28,-116.9648163,51.2979129,"803 9 Ave S, Golden BC V0A 1H0",Golden,V0A 1H0,(250) 344-3042,Province of British Columbia
+697,Jesse Fowlie,Residential Care,Interior Health,Community Connections Second Street Home,,-118.2035386,51.0028573,"804 2 St W, Revelstoke BC V0E 2S0",Revelstoke,V0E 2S0,(250) 837-2061,Province of British Columbia
+698,Kim Donn,Residential Care,Interior Health,Solly Court,,-119.3828911,49.898764,"810 Solly Court, Kelowna BC V1X 5W8",Kelowna,V1X 5W8,(250) 765-3721,Province of British Columbia
+699,Arlene DeWilde,Residential Care,Interior Health,Rose Wood Village,46,-117.6366632,49.0929297,"8125 Devito Dr, Trail BC V1R 4X9",Trail,V1R 4X9,(250) 364-3150,Province of British Columbia
+700,Kendra Kruger,Residential Care,Interior Health,Swan Valley Lodge-30,30,-116.5153237,49.0979122,"818 Vancouver St, Creston BC V0B 1G0",Creston,V0B 1G0,(250) 428-2283,Province of British Columbia
+701,Charlotte Robertson,Residential Care,Interior Health,Piccadilly Care Center,59,-119.2955552,50.6929509,"821 10 Ave SW, Salmon Arm BC V1E 1T2",Salmon Arm,V1E 1T2,(250) 804-1676,Province of British Columbia
+702,Valerie Hruschak,Residential Care,Interior Health,Top of the World Ranch Treatment Centre,,-115.6682155,49.6909063,"8350 Holmes Rd, Fort Steele BC V0B 1N0",Fort Steele,V0B 1N0,(250) 426-6306,Province of British Columbia
+703,Nikki Malakoff,Residential Care,Interior Health,Silverbirch House,,-117.6669025,49.3176591,"839 Silverbirch Lane, Castlegar BC V1N 1E6",Castlegar,V1N 1E6,(250) 365-2776,Province of British Columbia
+704,Heather Bryan,Residential Care,Interior Health,Orcrest Group Home,,-120.3438216,50.7750075,"860 Orcrest Dr, Kamloops BC V2B 6T2",Kamloops,V2B 6T2,(250) 579-9354,Province of British Columbia
+705,Nicole Knight,Residential Care,Interior Health,"880 Elder Road, Kamloops",,-120.3533734,50.7606871,"880 Elder Road, Kamloops BC V2B 6K8",Kamloops,V2B 6K8,(778) 765-2284,Province of British Columbia
+706,Billie-Jo Askeland,Residential Care,Interior Health,Mariposa Gardens,109,-119.4770583,49.034727,"8816 97 St, Osoyoos BC V0H 1V5",Osoyoos,V0H 1V5,(250) 495-8124,Province of British Columbia
+707,Ken Vaughn-Evans,Residential Care,Interior Health,Orchard House,,-116.5139028,49.0876669,"901 Erickson St, Creston BC V0B 1G3",Creston,V0B 1G3,(250) 428-2718,Province of British Columbia
+708,Trina Heerschop,Residential Care,Interior Health,35th Avenue Home,,-119.2444167,50.2672433,"902 35 Ave, Vernon BC V1T 2R3",Vernon,V1T 2R3,(250) 308-4383,Province of British Columbia
+709,Jesse Fowlie,Residential Care,Interior Health,Community Connections Eighth Street Home,,-118.1896244,50.9881554,"904 8 St, Revelstoke BC V0E 2S0",Revelstoke,V0E 2S0,(250) 837-4427,Province of British Columbia
+710,Tami Turner,Residential Care,Interior Health,Mountain Lake Seniors Community Ltd.,92,-117.2656912,49.5085719,"908 11 Street, Nelson BC V1L 7A6",Nelson,V1L 7A6,(250) 352-2600,Province of British Columbia
+711,Kristin Lockhart,Residential Care,Interior Health,McKim Cottage,,-117.2672021,49.5083042,"916 11 St, Nelson BC V1L 7A6",Nelson,V1L 7A6,(250) 352-2022,Province of British Columbia
+712,Aimee Droder,Residential Care,Interior Health,Ridgeview Lodge,129,-120.3931349,50.7034311,"920 Desmond Street, Kamloops BC V2B 5K6",Kamloops,V2B 5K6,(250) 376-3131,Province of British Columbia
+713,Sian Lewis,Residential Care,Interior Health,Phoenix Centre,,-120.3363635,50.6693527,"922 3 Ave, Kamloops BC V2C 6W5",Kamloops,V2C 6W5,(250) 374-4634,Province of British Columbia
+714,Anne Winters,Residential Care,Interior Health,David Lloyd Jones Home,64,-119.4815286,49.8869221,"934 Bernard Ave, Kelowna BC V1Y 6P8",Kelowna,V1Y 6P8,(250) 762-2706,Province of British Columbia
+715,Megan Delf,Residential Care,Interior Health,Mountain View Lodge,22,-121.9396427,50.689413,"951 Murray Street, Lillooet BC V0K 1V0",Lillooet,V0K 1V0,(250) 256-1312,Province of British Columbia
+716,Michele Myers,Residential Care,Interior Health,A New Tomorrow,,-120.367559,50.7030602,"966 966 10th St, Kamloops BC V2B 1V2",Kamloops,V2B 1V2,(778) 257-6007,Province of British Columbia
+717,Angie Dambrowitz,Residential Care,Interior Health,Country Squire Retirement Villa,,-119.4731812,49.0422212,"9705 87 Street N, Osoyoos BC V0H 1V2",Osoyoos,V0H 1V2,(250) 495-6568,Province of British Columbia
+718,Erika Robinson,Residential Care,Interior Health,Ridgewood Lodge,37,-120.5264897,49.4543189,"98 Ridgewood Dr, Princeton BC V0X 1W0",Princeton,V0X 1W0,(250) 295-3233,Province of British Columbia
+719,Shannon Ballas,Residential Care,Interior Health,iRecover Okanagan,,-119.1081637,50.2331662,"9816 School Rd, Coldstream BC V1B 3C7",Coldstream,V1B 3C7,(250) 545-3617,Province of British Columbia
+720,Laryssa Wolansky,Residential Care,Interior Health,Cardinal House,,-119.2953338,50.2622284,"A & B 4212 28 Ave, Vernon BC V1T 1X6",Vernon,V1T 1X6,(250) 558-0349,Province of British Columbia
+721,Thompson Community Services,Residential Care,Island Health,1985 Treelane,,-125.2737183,50.0257667,1985 Treelane Rd,Campbell River,V9W 4G1,(250-287-8883),Province of British Columbia
+722,Thompson Community Services,Residential Care,Island Health,1990 Treelane,,-125.2737796,50.0262975,1990 Treelane Rd,Campbell River,V9W 4E8,(250)287-8883,Province of British Columbia
+723,Pacific Coast Community Resources,Residential Care,Island Health,619 Anderton,,-124.9354547,49.6857448,619 Anderton Rd,Comox,V9M 2J1,(236)269-2038,Province of British Columbia
+724,Valley Integration To Active Living (V.I.T.A.L.),Residential Care,Island Health,Abbott House,,-123.7143617,48.8502463,7109 Westholme Rd,Duncan,V9L 6B4,(250)748-9958,Province of British Columbia
+725,Acacia Ty Mawr Holdings Ltd.,Residential Care,Island Health,Acacia Ty Mawr,35,-123.6241103,48.6494501,2655 Shawnigan Lake Rd E,Shawnigan Lake,V0R 2W0,(250)743-2124,Province of British Columbia
+726,Mary Marcoux,Residential Care,Island Health,Amadeus Residence,,-123.5382256,48.392344,842 Pears Rd,Victoria,V9C 4A2,(250)474-8852,Province of British Columbia
+727,Kardel Consulting Services Inc.,Residential Care,Island Health,Amelia House,,-123.4037832,48.6589243,2316 Amelia Ave,Sidney,V8L 2H9,(250)655-9111,Province of British Columbia
+728,Amica Mature Lifestyles,Residential Care,Island Health,Amica Douglas House,39,-123.369556,48.4106234,50 Douglas St,Victoria,V8V 2N8,(250)383-6258,Province of British Columbia
+729,Amica on the Gorge Inc.,Residential Care,Island Health,Amica On The Gorge,78,-123.4194668,48.4533074,994 Gorge Rd W,Victoria,V9A 1P2,(250)220-8000,Province of British Columbia
+730,Rebecca M. de Aro,Residential Care,Island Health,Apple Gate Respite Home,,-125.2254014,49.9616451,710 Applegate Rd,Campbell River,V9W 7A2,(250)923-8519,Province of British Columbia
+731,J. Garnons Williams Ltd.,Residential Care,Island Health,Applecross,,-124.0428252,49.2418921,6408 Dover Rd,Nanaimo,V9V 1A7,(250)390-0580,Province of British Columbia
+732,Shekinah Homes Society,Residential Care,Island Health,Arc En Ciel,,-123.3854005,48.4473049,3114 Irma St,Victoria,V9A 1S8,(250)595-2451,Province of British Columbia
+733,Arrowsmith Health Care ( 2011) Society,Residential Care,Island Health,Arrowsmith Lodge,75,-124.3236216,49.3161292,266 Moilliet St,Parksville,V9P 1M9,(250)248-4331,Province of British Columbia
+734,Nanaimo Memory Care Partnership,Residential Care,Island Health,Avenir Memory Care At Nanaimo,83,-124.0252648,49.2145964,4989 Wills Rd,Nanaimo,V9T 2K4,(250)585-3788,Province of British Columbia
+735,Sooke Elderly Citizens Housing Society,Residential Care,Island Health,Ayre Manor,31,-123.7275791,48.3772565,6764 Ayre Rd,Sooke,V9Z 1K1,(250)642-1750,Province of British Columbia
+736,Beacon Hill Seniors Village 3 LLP,Residential Care,Island Health,Beacon Hill Villa,80,-123.3670916,48.4180655,635 Superior St,Victoria,V8V 1V1,(250)383-5447,Province of British Columbia
+737,Broadmead Care Society,Residential Care,Island Health,Beckley Farm Lodge,65,-123.3724403,48.4150329,530 Simcoe St,Victoria,V8V 4W4,(250)381-4421,Province of British Columbia
+738,Independent Living Housing Society,Residential Care,Island Health,Bed & Breakfast,,-123.3677228,48.4607815,910 Easter Rd,Victoria,V8X 2Z8,(250)475-2182,Province of British Columbia
+739,Berwick Investments Ltd.,Residential Care,Island Health,Berwick House,41,-123.3336487,48.4755032,4062 Shelbourne St,Victoria,V8N 3E6,(250)721-4062,Province of British Columbia
+740,Berwick Investments Ltd.,Residential Care,Island Health,Berwick On The Lake,36,-124.0036075,49.2100736,3201 Ross Rd,Nanaimo,V9T 6L9,(250)729-7995,Province of British Columbia
+741,Berwick Retirement Royal Oak Ltd.,Residential Care,Island Health,Berwick Royal Oak,28,-123.3874866,48.5031019,4680 Elk Lake Dr,Victoria,V8Z 0B4,(250)386-4680,Province of British Columbia
+742,Pacific Coast Community Resources Inc.,Residential Care,Island Health,Blenkinsop Home,,-123.3503798,48.4659403,3924 Blenkinsop Rd,Victoria,V8P 3P5,(250)590-4436,Province of British Columbia
+743,Beacon Community Association,Residential Care,Island Health,Brentwood House,17,-123.4509233,48.5794251,1167 Stelly's Cross Rd,Brentwood Bay,V8M 1H4,(250)652-0634,Province of British Columbia
+744,Victoria Association for Community Living,Residential Care,Island Health,Brock Home,,-123.5100651,48.4545558,1015 Springboard Pl,Victoria,V9B 3E2,(250)478-9197,Province of British Columbia
+745,Barrett and Mak Programs Inc.,Residential Care,Island Health,Burde Street Residence,,-124.7788388,49.2416144,3338 Burde St,Port Alberni,V9Y 0A5,(250)724-1607,Province of British Columbia
+746,Victoria Association for Community Living,Residential Care,Island Health,Burnside Home,,-123.3707565,48.4426579,595 Burnside Rd W,Victoria,V8Z 1M7,(250)727-9534,Province of British Columbia
+747,Clements Centre Society,Residential Care,Island Health,Campbell Street Group Home,,-123.6883723,48.7777614,346 Campbell St,Duncan,V9L 3H8,(250)748-5219,Province of British Columbia
+748,BeConnected Support Services Ltd.,Residential Care,Island Health,Carey House,,-123.4007389,48.4825801,4241 Carey Rd,Victoria,V8Z 4H1,(250)727-0545,Province of British Columbia
+749,Iona Sadlemyer,Residential Care,Island Health,Cartref,,-123.3428769,48.4737691,4024 Livingstone Ave N,Victoria,V8N 5Z5,(250)721-2620,Province of British Columbia
+750,Nanaimo Association For Community Living,Residential Care,Island Health,Caspers Way Home,,-123.977657,49.1776058,1647 Caspers Way,Nanaimo,V9S 1K2,(250)741-0214,Province of British Columbia
+751,0732029 BC Limited,Residential Care,Island Health,Cedars At Cobble Hill,,-123.6024013,48.6969509,3741 Holland Ave,Cobble Hill,V0R 1L0,(250)733-2006,Province of British Columbia
+752,Pacific Coast Community Resources Inc.,Residential Care,Island Health,Central Saanich House,,-123.4030704,48.5632637,6661 Central Saanich Rd,Saanichton,V8Z 5V1,(250)652-6434,Province of British Columbia
+753,Cerwydden Care Centre Partnership,Residential Care,Island Health,Cerwydden Care Centre,56,-123.7330884,48.7901287,3243 Cowichan Lake Rd,Duncan,V9L 4B8,(250)746-4432,Province of British Columbia
+754,CSH (Malaspina Gardens) LP,Residential Care,Island Health,Chartwell Malaspina Care Residence,136,-123.9248236,49.1298634,100 Eleventh St,Nanaimo,V9R 6R6,(250)754-7711,Province of British Columbia
+755,Roberta Schenker,Residential Care,Island Health,Chestnut House,,-123.5982066,48.7309792,4504 Chestnut Rd,Cowichan Bay,V0R 1N2,(250)748-6103,Province of British Columbia
+756,Thompson Community Services Inc.,Residential Care,Island Health,Clayton House,,-123.4621866,48.6804434,875 Clayton Rd,North Saanich,V8L 5M3,(778)351-0565,Province of British Columbia
+757,Clover Point Lodge Ltd.,Residential Care,Island Health,Clover Point Care,16,-123.3542325,48.4096733,90 Linden Ave,Victoria,V8V 4C8,(250)590-7885,Province of British Columbia
+758,Communitas Supportive Care Society,Residential Care,Island Health,Colwyn House,,-125.2430433,50.0164341,517 Colwyn St,Campbell River,V9W 2W8,(250)287-3677,Province of British Columbia
+759,Courtenay Seniors Village 3LLP,Residential Care,Island Health,Comox Valley Seniors Village,136,-124.9930277,49.7023661,4640 Headquarters Rd,Courtenay,V9N 7J3,(250)331-1183,Province of British Columbia
+760,Vancouver Island Health Authority,Residential Care,Island Health,Cowichan Hospice House,,-123.7110724,48.7849551,250 Cairnsmore St,Duncan,V9L 4H2,(250)709-3080,Province of British Columbia
+761,Craigdarroch Care Home Ltd.,Residential Care,Island Health,Craigdarroch Care Home,18,-123.3453412,48.4229423,1048 Craigdarroch Rd,Victoria,V8W 3C8,(250)595-3813,Province of British Columbia
+762,The Cridge Centre For The Family,Residential Care,Island Health,"Cridge Brain Injury Residence, The",,-123.4145897,48.4750919,1251 Santa Rosa Ave,Victoria,V8Z 2V5,(250)479-5299,Province of British Columbia
+763,Vancouver Island Health Authority,Residential Care,Island Health,Cumberland Lodge,66,-125.0311371,49.6216348,2696 Windermere Ave,Cumberland,V0R 1S0,(250)331-8505,Province of British Columbia
+764,Evelyn Carruthers,Residential Care,Island Health,Cummings Home,6,-124.9536777,49.6903919,1926 Cummings Rd,Courtenay,V9N 9G6,(250)897-0075,Province of British Columbia
+765,Deertrail Cottage Inc.,Residential Care,Island Health,Deertrail Cottage,9,-123.6499628,48.8385328,1711 Escarpment Way,Duncan,V9L 5W7,(250)746-9641,Province of British Columbia
+766,Discovery Harbour Care Centre Partnership,Residential Care,Island Health,Discovery Harbour Care Centre,142,-125.2537651,50.0297507,850 14th Ave,Campbell River,V9W 4H4,(250)287-7166,Province of British Columbia
+767,Valley Integration To Active Living (V.I.T.A.L.),Residential Care,Island Health,Dogwood House,,-123.7178739,48.7812258,353 Dogwood Pl,Duncan,V9L 1H5,(250)748-7112,Province of British Columbia
+768,Niagara Care Community Ltd.,Residential Care,Island Health,Douglas Care Community,28,-123.3702758,48.4110201,657 Niagara St,Victoria,V8V 1J1,(250)383-9011,Province of British Columbia
+769,Vancouver Island Autistic Homes Society,Residential Care,Island Health,Douglas House,,-123.3853288,48.4795951,4171 Douglas St,Victoria,V8X 3Y7,(778)430-5337,Province of British Columbia
+770,Dover Home Care Inc.,Residential Care,Island Health,Dover House Intermediate Care Facility,24,-124.0339629,49.234142,6155 Hammond Bay Rd,Nanaimo,V9T 5M4,(250)756-4222,Province of British Columbia
+771,Kardel Consulting Services Inc.,Residential Care,Island Health,Dustin House,,-123.3766182,48.5150696,4967 Dustin Crt,Victoria,V8Y 3B5,(250)658-1491,Province of British Columbia
+772,Dwelling Place Health Care Services Ltd.,Residential Care,Island Health,Dwelling Place,14,-124.0151831,49.1998154,2630 Labieux Rd,Nanaimo,V9T 3N1,(250)756-3008,Province of British Columbia
+773,Island Community Mental Health Association,Residential Care,Island Health,Eagle Rock Heights,,-123.3682653,48.4665573,972 Greenridge Cres,Victoria,V8X 3B9,(250)727-0241,Province of British Columbia
+774,Nanaimo Travellers Lodge Society,Residential Care,Island Health,Eden Gardens,130,-123.9831258,49.1918276,1917 Northfield Rd,Nanaimo,V9S 3B6,(250)758-4676,Province of British Columbia
+775,Edgewood Holdings 2013 Ltd.,Residential Care,Island Health,Edgewood,,-123.9974744,49.189754,2121 Boxwood Rd,Nanaimo,V9S 4L2,(250)751-0111,Province of British Columbia
+776,Shekinah Homes Society,Residential Care,Island Health,Elivan,,-123.3844489,48.4471822,3127 Irma St,Victoria,V9A 1S9,(778)433-5626,Province of British Columbia
+777,Evergreen Seniors Home Inc.,Residential Care,Island Health,Evergreen Seniors Home,70,-125.2480244,50.0071448,635 Evergreen Rd,Campbell River,V9W 3R7,(250)286-7274,Province of British Columbia
+778,Integra Support Services Ltd.,Residential Care,Island Health,Fairway Home,,-123.4937434,48.4461636,670 Fairway Ave,Victoria,V9B 2R5,(250)478-9863,Province of British Columbia
+779,Independent Living Housing Society,Residential Care,Island Health,Feltham,,-123.3258787,48.4758034,1765 Feltham Rd,Victoria,V8N 2A4,(250)477-6648,Province of British Columbia
+780,Alberni Clayoquot Continuing Care Society,Residential Care,Island Health,Fir Park Village,66,-124.7955959,49.2600306,4411 Wallace St,Port Alberni,V9Y 7Y5,(250)724-6541,Province of British Columbia
+781,BeConnected Support Services Ltd.,Residential Care,Island Health,Forrester House,,-123.3221765,48.4438946,1998 Forrester St,Victoria,V8R 3H1,(250)592-4461,Province of British Columbia
+782,Gate House Adult Care Ltd.,Residential Care,Island Health,Gate House Adult Care,4,-123.5978302,48.681255,3380 Cobble Hill Rd,Cobble Hill,V0R 1L0,(250)743-4913,Province of British Columbia
+783,Future Focus Program Services,Residential Care,Island Health,Gatehouse,,-124.9862519,49.7129894,2847 Gatehouse Pl,Courtenay,V9N 8S1,(250)871-2244,Province of British Columbia
+784,Columbian Centre Society,Residential Care,Island Health,Gateway House,,-123.9993665,49.1967586,2356 Rosstown Rd,Nanaimo,V9T 3R7,(250)758-8711,Province of British Columbia
+785,Port Alberni Association For Community Living,Residential Care,Island Health,Gilley Residence,,-124.380275,49.3419689,1357 Gilley Cres,Parksville,V2P 1X2,(250)594-0071,Province of British Columbia
+786,Glacier View Lodge Society,Residential Care,Island Health,Glacier View Lodge,102,-124.9618356,49.6886798,2450 Back Rd,Courtenay,V9N 9G8,(250)338-1451,Province of British Columbia
+787,The Ita Wegman Association of B.C.,Residential Care,Island Health,Glenora Farm - Farm House,,-123.7788194,48.7430774,4766 Waters Rd,Duncan,V9L 6S9,(250)715-1559,Province of British Columbia
+788,The Ita Wegman Association of B.C.,Residential Care,Island Health,Glenora Farm 1 (Big House),,-123.7788194,48.7430774,4766 Waters Rd,Duncan,V9L 6S9,(250)715-1559,Province of British Columbia
+789,The Ita Wegman Association of B.C.,Residential Care,Island Health,Glenora Farm 2 (Helios House),,-123.7788194,48.7430774,4766 Waters Rd,Duncan,V9L 6S9,(250)715-1559,Province of British Columbia
+790,The Ita Wegman Association of B.C.,Residential Care,Island Health,Glenora Farm 3 (Corwyn House),,-123.7788194,48.7430774,4766 Waters Rd,Duncan,V9L 6S9,(250)715-1559,Province of British Columbia
+791,1175722 B.C. Ltd,Residential Care,Island Health,Golden Grove Care Facility,6,-125.206101,49.9486851,130 Strathcona Way,Campbell River,V9H 0B1,(250)923-7049,Province of British Columbia
+792,Victoria Association for Community Living,Residential Care,Island Health,Gorge View Home,,-123.3923411,48.4465291,2972 Wascana St,Victoria,V9H 1V7,(250)595-2821,Province of British Columbia
+793,Thompson Community Services Inc.,Residential Care,Island Health,Grant House,,-123.7478277,48.3742721,7134 Grant Rd,Sooke,V9Z 0N6,(778)352-0223,Province of British Columbia
+794,Vancouver Island Autistic Homes Society,Residential Care,Island Health,Greenlea Group Home,,-123.3933629,48.4948246,758 Greenlea Dr,Victoria,V8Z 3E6,(250)744-1334,Province of British Columbia
+795,Island Community Mental Health Association,Residential Care,Island Health,Greenridge Place,,-123.3686344,48.4664763,970 Greenridge Cres,Victoria,V8X 3B9,(250)727-3227,Province of British Columbia
+796,Greenwoods Eldercare Society,Residential Care,Island Health,Greenwoods,51,-123.5099952,48.8619107,133 Blain Rd,Salt Spring Island,V8K 1Z9,(250)537-5561,Province of British Columbia
+797,Pacific Coast Community Resources Inc.,Residential Care,Island Health,Grosvenor House,,-123.3466776,48.4424101,2825 Grosvenor Rd,Victoria,V8M 3M8,(250)383-9175,Province of British Columbia
+798,Thompson Community Services Inc.,Residential Care,Island Health,Haida House,,-123.5031964,48.4243482,3311 Haida Dr,Victoria,V9C 3V1,(778)265-2580,Province of British Columbia
+799,Carmichael Enterprises Youth Residential Program Ltd.,Residential Care,Island Health,Hammond Place,,-123.9864367,49.2315533,4930 Hammond Bay Rd,Nanaimo,V9T 5B4,(250)751-8773,Province of British Columbia
+800,Shekinah Homes Society,Residential Care,Island Health,Happy Rock,,-123.3941232,48.4492152,3034 Donald St,Victoria,V9A 1Y2,(250)592-2863,Province of British Columbia
+801,HD Management Inc.,Residential Care,Island Health,Harmony House,4,-124.0021768,49.1667893,2316 Arbot Rd,Nanaimo,V9R 6S8,(250)753-2316,Province of British Columbia
+802,Hart House Inc.,Residential Care,Island Health,Hart House,22,-123.325381,48.4154053,1961 Fairfield Rd,Victoria,V8W 3C8,(250)598-3542,Province of British Columbia
+803,Independent Living Housing Society,Residential Care,Island Health,Hawthorne,,-123.3304573,48.4877589,1610 Hawthorne St,Victoria,V8N 2M4,(250)721-4065,Province of British Columbia
+804,Kardel Consulting Services Inc.,Residential Care,Island Health,Henry House,,-123.4012506,48.6534717,2374 Henry Ave,Sidney,V8L 2B5,(250)655-3330,Province of British Columbia
+805,Pacific Coast Community Resources,Residential Care,Island Health,Hillside House,,-124.0018651,49.2171006,3509 Hillside Ave,Nanaimo,V9T 2Y9,(250),Province of British Columbia
+806,Homewood Health Inc.,Residential Care,Island Health,Homewood Ravensview,,-123.4377416,48.6244458,1515 Mctavish Rd,North Saanich,V8L 3Y3,(250)510-9092,Province of British Columbia
+807,Campbell River & District Association for Community Living,Residential Care,Island Health,Hoover Rd. Home,,-125.1426609,49.8730957,2429 Hoover Rd,Campbell River,V9W 1C5,(250)923-6901,Province of British Columbia
+808,1222424 BC Ltd.,Residential Care,Island Health,Island View Place Care,19,-123.4029657,48.5730254,7013 E Saanich Rd,Saanichton,V8M 1Y3,(250)652-1706,Province of British Columbia
+809,KDJ Alliances Holdings Ltd.,Residential Care,Island Health,Island Way Group Home,,-124.0033172,49.1983176,201 Burlwood Pl,Nanaimo,V9T 4N2,(250)756-9756,Province of British Columbia
+810,AXR Operating (BC) GP Inc.,Residential Care,Island Health,James Bay Care Centre,115,-123.376914,48.4173083,336 Simcoe St,Victoria,V8V 1L2,(250)388-6457,Province of British Columbia
+811,Western Human Resource Corp.,Residential Care,Island Health,Jedburgh Group Home,,-123.4424864,48.4582572,29 Jedburgh Rd,Victoria,V9B 1K7,(250)727-2872,Province of British Columbia
+812,Victoria Association for Community Living,Residential Care,Island Health,Jeffree Home,,-123.4222562,48.601164,1867 Jeffree Rd,Saanichton,V8M 1K5,(250)652-1876,Province of British Columbia
+813,Pacific Coast Community Resources Inc.,Residential Care,Island Health,Jersey Road Home,,-123.3720978,48.5253631,5191 Jersey Rd,Victoria,V8Y 2G9,(250)658-0297,Province of British Columbia
+814,Campbell River & District Association for Community Living,Residential Care,Island Health,Jesmar Place Group Home,,-125.2443005,50.005402,435 Jesmar Pl,Campbell River,V9W 5J9,(250)830-0887,Province of British Columbia
+815,Nanaimo Association For Community Living,Residential Care,Island Health,Jinglepot Residence,,-124.0255624,49.2053366,4224 Jingle Pot Rd,Nanaimo,V9T 5P5,(250)756-2599,Province of British Columbia
+816,L'Arche Comox Valley,Residential Care,Island Health,Jubilee House,,-124.9906283,49.6803686,534 19th St,Courtenay,V9N 2B1,(250)334-3774,Province of British Columbia
+817,J. Garnons Williams Ltd.,Residential Care,Island Health,Kaitlyn's Way Home,,-124.0369436,49.2131709,5244 Kaitlyns Way,Nanaimo,V9T 5W1,(250)756-4352,Province of British Columbia
+818,Keeping House Care Facility Ltd.,Residential Care,Island Health,Keeping House,10,-123.99689,49.1714997,2263 Jingle Pot Rd,Nanaimo,V9R 6W2,(250)716-1920,Province of British Columbia
+819,Nanaimo Association For Community Living,Residential Care,Island Health,Kennedy Home,,-123.9446498,49.1612043,407 Kennedy St,Nanaimo,V9R 2J4,(250)754-2255,Province of British Columbia
+820,Nanaimo District Senior Citizens Housing Development Society,Residential Care,Island Health,Kiwanis Village Lodge,75,-123.9679068,49.1861839,1221 Kiwanis Cres,Nanaimo,V9S 5Y1,(250)753-6471,Province of British Columbia
+821,Kardel Consulting Services Inc.,Residential Care,Island Health,Lakes Road Home,,-123.6830845,48.7989678,6284 Lakes Rd,Duncan,V9L 4S6,(250)715-0609,Province of British Columbia
+822,Western Human Resource Corp.,Residential Care,Island Health,Lands End Home,,-123.4175001,48.6856879,1995 Lands End Rd,North Saanich,V8L 5J2,(250)656-0777,Province of British Columbia
+823,Campbell River & District Association for Community Living,Residential Care,Island Health,Lannan Road Residence,,-124.9361976,49.7087168,2046 Lannan Rd,Comox,V9M 3Z6,(250)339-6802,Province of British Columbia
+824,Victoria Association for Community Living,Residential Care,Island Health,Lindsay Home,,-123.3952548,48.4911471,754 Lindsay St,Victoria,V8Z 3E1,(250)479-2478,Province of British Columbia
+825,Estelle Brilling & Bernie Brilling,Residential Care,Island Health,"Little Mountain Manor, Inc.",8,-124.3286943,49.297904,959 Little Mountain Rd,Parksville,V9P 2C3,(250)248-4591,Province of British Columbia
+826,Integra Support Services Ltd.,Residential Care,Island Health,Lucas Home,,-123.373936,48.4779969,909 Lucas Ave,Victoria,V8X 4M7,(250)590-3172,Province of British Columbia
+827,Luther Court Society,Residential Care,Island Health,Luther Court,60,-123.3364271,48.4619202,1525 Cedar Hill X Rd,Victoria,V8P 5M1,(250)477-7241,Province of British Columbia
+828,Thompson Community Services Inc.,Residential Care,Island Health,Luxton Home,,-123.5341518,48.419041,3522 Luxton Rd,Victoria,V9C 0K6,(778)440-5850,Province of British Columbia
+829,Western Human Resource Corp.,Residential Care,Island Health,Mainwaring,,-123.4154788,48.6249708,8950 Mainwaring Rd,North Saanich,V8L 1J7,(250)655-1215,Province of British Columbia
+830,Malaspina Community Resources Services Ltd.,Residential Care,Island Health,Malaspina Residence,,-124.9927014,49.6786877,2028 Cedar Cres,Courtenay,V9N 3B6,(250)334-9996,Province of British Columbia
+831,Port Alberni Association For Community Living,Residential Care,Island Health,Maple Street Residence,,-124.8084067,49.2711362,5537 Maple St,Port Alberni,V9Y 8H4,(250)724-7340,Province of British Columbia
+832,Clements Centre Society,Residential Care,Island Health,Marchmont Place,,-123.7247109,48.7929963,6124 Ryall Rd,Duncan,V9L 2H7,(250)746-5124,Province of British Columbia
+833,Victoria Association for Community Living,Residential Care,Island Health,Marin Park,,-123.4513407,48.5714563,1166 Marin Park Dr,Brentwood Bay,V8M 1E8,(250)652-9996,Province of British Columbia
+834,Victoria Association for Community Living,Residential Care,Island Health,Mariposa,,-123.4147008,48.4779982,4133 Mariposa Heights,Victoria,V8Z 6P5,(250)727-9784,Province of British Columbia
+835,Kardel Consulting Services Inc.,Residential Care,Island Health,Maryland House,,-123.4063757,48.6401828,9496 Maryland Dr,Sidney,V8L 2R6,(250)656-6039,Province of British Columbia
+836,Nanaimo Association For Community Living,Residential Care,Island Health,Maxey Road Home,,-124.0026688,49.1856453,2278 Maxey Rd,Nanaimo,V9S 5V5,(250)591-2820,Province of British Columbia
+837,Island Community Mental Health Association,Residential Care,Island Health,Mccauley Lodge,,-123.4064626,48.426802,1037 Lyall St,Victoria,V9A 5G1,(250)385-6122,Province of British Columbia
+838,Victoria Association for Community Living,Residential Care,Island Health,Mckenzie Home,,-123.3554095,48.4151589,1112 Mckenzie St,Victoria,V8V 2W2,(250)382-8310,Province of British Columbia
+839,Communitas Supportive Care Society,Residential Care,Island Health,Milford,,-125.235307,49.9676848,2575 Milford Rd,Campbell River,V9W 5H3,(250)923-4775,Province of British Columbia
+840,Shekinah Homes Society,Residential Care,Island Health,Millgrove Home,,-123.3931465,48.448569,3028 Millgrove St,Victoria,V9A 1X5,(250)595-1511,Province of British Columbia
+841,Michael and Tracey Storrier,Residential Care,Island Health,Mina Care Home,,-123.4107798,48.4664865,1061 Mina Ave,Victoria,V8Z 6P8,(250)727-9636,Province of British Columbia
+842,J. Garnons Williams Ltd.,Residential Care,Island Health,Mountainview Group Home,,-124.0270392,49.2060839,4195 Jingle Pot Rd,Nanaimo,V9T 5P7,(250)751-2088,Province of British Columbia
+843,Nanaimo Seniors Village 3 LLP,Residential Care,Island Health,Nanaimo Seniors Village,150,-124.0386077,49.2364583,6085 Uplands Dr,Nanaimo,V9V 1T8,(250)729-9524,Province of British Columbia
+844,Broadmead Care Society,Residential Care,Island Health,Nigel House,,-123.3729904,48.4580807,846 Nigel Ave,Victoria,V8X 4E5,(250)475-2050,Province of British Columbia
+845,Campbell River & District Association for Community Living,Residential Care,Island Health,Nikola Road Group Home,,-125.2803703,50.0119468,280 Nikola Rd,Campbell River,V9W 6H9,(250)287-4558,Province of British Columbia
+846,Port Alberni Association For Community Living,Residential Care,Island Health,Ninth Avenue Residence,,-124.7988037,49.2299654,2787 Ninth Ave,Port Alberni,V9Y 2M6,(250)723-4664,Province of British Columbia
+847,Western Human Resource Corp.,Residential Care,Island Health,Normandy House,,-123.391928,48.5000102,575 Normandy Rd,Victoria,V8Z 3J3,(250)479-9594,Province of British Columbia
+848,Carmichael Enterprises Youth Residential Program Ltd.,Residential Care,Island Health,Oceanside Place,,-124.0264813,49.2356879,6039 Brickyard Rd,Nanaimo,V9V 1M6,(250)729-8226,Province of British Columbia
+849,Yan Wang (Jennifer Wang),Residential Care,Island Health,Oceanview Seniors Manor,6,-123.8033523,48.9696545,468 Battie Dr,Ladysmith,V9G 1V9,(250)245-900,Province of British Columbia
+850,BeConnected Support Services Ltd.,Residential Care,Island Health,Onyx House,,-123.3327607,48.4417088,1725 Pearl St,Victoria,V8R 2Z4,(250)592-8073,Province of British Columbia
+851,Origin at Longwood Holdings Ltd.,Residential Care,Island Health,Origin At Longwood (Astoria Suites),30,-124.0321766,49.2207915,6205 Oliver Rd,Nanaimo,V9T 6T1,(250)751-7755,Province of British Columbia
+852,Victoria Association for Community Living,Residential Care,Island Health,Orillia House,,-123.3959333,48.4482137,2965 Orillia St,Victoria,V9A 1Y6,(250)384-4356,Province of British Columbia
+853,Oyster Harbour Seniors Community Partnership,Residential Care,Island Health,Oyster Harbour Seniors Community,87,-123.8287358,48.9966463,1127 4th Ave,Ladysmith,V9G 1A6,(250)245-3318,Province of British Columbia
+854,Integra Support Services Ltd.,Residential Care,Island Health,Paddock Home,,-123.4394017,48.4613658,124 Paddock Pl,Victoria,V9B 5G1,(250)658-8142,Province of British Columbia
+855,Vancouver Island Health Authority,Residential Care,Island Health,Panama House,,-123.3994305,48.4771467,4148 Carey Rd,Victoria,V8Z 4G8,(250)704-1141,Province of British Columbia
+856,BeConnected Support Services Ltd.,Residential Care,Island Health,Parkside House,,-123.3286197,48.4762964,1740 Feltham Rd,Victoria,V8N 2A3,(250)477-7760,Province of British Columbia
+857,HCN-Revera Lessee (Parkwood Court) LP,Residential Care,Island Health,Parkwood Court,81,-123.3338227,48.4441794,3000 Shelbourne St,Victoria,V8R 4M8,(250)598-1575,Province of British Columbia
+858,Kardel Consulting Services Inc.,Residential Care,Island Health,Paskin Home,,-123.3925704,48.4935157,761 Paskin Way,Victoria,V8Z 6N4,(250)479-4774,Province of British Columbia
+859,Kardel Consulting Services Inc.,Residential Care,Island Health,Patterson Home,,-123.4153745,48.5967597,7882 Patterson Rd,Saanichton,V8M 1L5,(250)544-1114,Province of British Columbia
+860,BeConnected Support Services Ltd.,Residential Care,Island Health,Pearl House,,-123.3327607,48.4417088,1727 Pearl St,Victoria,V8X 5L3,(250)595-8072,Province of British Columbia
+861,Valley Integration To Active Living (V.I.T.A.L.),Residential Care,Island Health,Peruzzo House - V.I.T.A.L.S.,,-123.7093632,48.7770875,D-156 Government St,Duncan,V9L 1A2,(250)701-1954,Province of British Columbia
+862,Island Health Home and Community Care,Residential Care,Island Health,Piercy Respite Hotel,12,-123.342568,48.4425235,1454 Hillside Ave,Victoria,V8T 2B7,(250)370-5629,Province of British Columbia
+863,Nanaimo Association For Community Living,Residential Care,Island Health,Portsmouth Road Home,,-124.0464381,49.2398597,6510 Portsmouth Rd,Nanaimo,V9V 1A3,(250)390-3961,Province of British Columbia
+864,Beverly Preuss,Residential Care,Island Health,Prema Place,,-123.5009172,48.4248445,3273 Mary Anne Cres,Victoria,V9C 3M3,(250)474-3328,Province of British Columbia
+865,Qualicum Manor Ltd.,Residential Care,Island Health,Qualicum Manor,59,-124.4405245,49.3449157,124 Fourth Ave E,Qualicum Beach,V9K 1N6,(250)752-1262,Province of British Columbia
+866,Bonaventure Support Services,Residential Care,Island Health,Quarterway Place,,-124.0121423,49.1990931,2573 Labieux Rd,Nanaimo,V9T 3M8,(250)756-2771,Province of British Columbia
+867,Victoria Association for Community Living,Residential Care,Island Health,Redfern Home,,-123.3238702,48.4223205,937 Redfern St,Victoria,V8S 4E7,(250)595-8615,Province of British Columbia
+868,Broadmead Care Society,Residential Care,Island Health,Rest Haven Lodge,73,-123.4047815,48.654838,2281 Mills Rd,Sidney,V8L 2C3,(250)656-0717,Province of British Columbia
+869,Thompson Community Services Inc.,Residential Care,Island Health,Royal Oak House,,-123.3852606,48.4937595,780 Royal Oak Ave,Victoria,V8X 3T1,(778)433-0602,Province of British Columbia
+870,Clements Centre Society,Residential Care,Island Health,Ryall Road Residence,,-123.7247109,48.7929963,6124 Ryall Rd,Duncan,V9L 2H7,(250)746-1691,Province of British Columbia
+871,Dawn Davies,Residential Care,Island Health,Saanich House,,-123.379479,48.4981163,958 Falaise Cres,Victoria,V8Y 1A3,(250)727-3995,Province of British Columbia
+872,Pacific Coast Community Resources Inc.,Residential Care,Island Health,San Miguel,,-123.3166363,48.4799073,1860 San Miguel Rd,Victoria,V8N 6G8,(250)479-7625,Province of British Columbia
+873,Integra Support Services Ltd.,Residential Care,Island Health,Seamount Home,,-123.4142669,48.5782057,2056 Seamount Pl,Victoria,V8M 1M7,(250)544-4341,Province of British Columbia
+874,Selkirk Seniors Village 3 LLP,Residential Care,Island Health,Selkirk Seniors Village,217,-123.3784494,48.4421823,385 Waterfront Cres,Victoria,V8T 0A7,(250)940-1028,Province of British Columbia
+875,Integra Support Services Ltd.,Residential Care,Island Health,Selkirk Waterfront,,-123.3779177,48.4413034,390 Waterfront Cres,Victoria,V8T 5K3,(778)265-8402,Province of British Columbia
+876,Kardel Consulting Services Inc.,Residential Care,Island Health,Sentinel House,,-123.4302095,48.6157358,8598 Sentinel Pl,North Saanich,V8L 4Z7,(250)655-9303,Province of British Columbia
+877,Shelmarie Rest Home (1994) Inc.,Residential Care,Island Health,Shelmarie Rest Home,,-123.3248355,48.4190892,630 Foul Bay Rd,Victoria,V8S 4H3,(250)598-3212,Province of British Columbia
+878,All Care Canada Inc.,Residential Care,Island Health,Sidney All Care Residence,88,-123.4053777,48.6548435,2269 Mills Rd,Sidney,V8L 2C3,(778)351-2505,Province of British Columbia
+879,MJT Management Ltd.,Residential Care,Island Health,Sidney Care Home,54,-123.4010229,48.6512125,9888 Fifth St,Sidney,V8L 2X3,(250)656-0121,Province of British Columbia
+880,Campbell River & District Association for Community Living,Residential Care,Island Health,Simms Road Group Home,,-125.2234204,49.9748754,163 Simms Rd,Campbell River,V9W 1N9,(250)923-3203,Province of British Columbia
+881,Pacific Coast Community Resources Inc.,Residential Care,Island Health,Six Mile House,,-123.4606471,48.4569717,295 Six Mile Rd,Victoria,V9B 5G8,(250)478-2594,Province of British Columbia
+882,Communitas Supportive Care Society,Residential Care,Island Health,Sixth Street Residence,,-125.0049995,49.6877509,743 6th St,Courtenay,V9N 1M8,(250)897-1320,Province of British Columbia
+883,Thompson Community Services Inc.,Residential Care,Island Health,Sj Willis Home,,-123.3605735,48.4413144,2860 Quadra St,Victoria,V8T 4E7,(250)590-6015,Province of British Columbia
+884,Beacon Community Association,Residential Care,Island Health,Sluggett House,16,-123.4431413,48.5726657,1336 Marchant Rd,Brentwood Bay,V8M 1G5,(250)544-0925,Province of British Columbia
+885,Rockland Care Services Ltd.,Residential Care,Island Health,St. Charles Manor,55,-123.3394703,48.4241747,1006 St. Charles St,Victoria,V8S 3P6,(250)595-4255,Province of British Columbia
+886,Valley Integration To Active Living (V.I.T.A.L.),Residential Care,Island Health,Stamps House - V.I.T.A.L.,,-123.6628588,48.8138191,1918 Stamps Rd,Duncan,V9L 5W1,(250)746-1939,Province of British Columbia
+887,Stanford Seniors Village 3 LLP,Residential Care,Island Health,Stanford Seniors Village,178,-124.3111913,49.3163287,250 Craig St,Parksville,V9P 1M2,(250)951-0811,Province of British Columbia
+888,Sunrise North Senior Living Ltd.,Residential Care,Island Health,Sunrise Of Victoria,106,-123.3604557,48.4187659,920 Humboldt St,Victoria,V8V 4W7,(250)383-1366,Province of British Columbia
+889,Governing Council Of Salvation Army Canada West,Residential Care,Island Health,Sunset Lodge - Salvation Army,108,-123.3933671,48.4418741,952 Arm St,Victoria,V9A 4G7,(250)385-3422,Province of British Columbia
+890,Alex Stephen,Residential Care,Island Health,Tait Street,,-123.3908108,48.4710735,585 Tait St,Victoria,V8Z 2E1,(250)479-4696,Province of British Columbia
+891,BeConnected Support Services Ltd.,Residential Care,Island Health,Tamarack House,,-123.4742507,48.4459531,390 Tamarack Rd,Victoria,V9B 2R3,(250)478-5050,Province of British Columbia
+892,Test Physical,Residential Care,Island Health,Test,1,-123.3646745,48.4344675,2345 Douglas St,Victoria,V4H 9K6,(250),Province of British Columbia
+893,Sunridge Seniors Community Partnership,Residential Care,Island Health,The Arbours At Sunridge Place,160,-123.6975203,48.7777428,361 Bundock Ave,Duncan,V9L 3P1,(250)748-8048,Province of British Columbia
+894,The Gardens at Qualicum Beach Senior Living LP,Residential Care,Island Health,The Gardens At Qualicum Beach,102,-124.437858,49.3481266,650 Berwick Rd,Qualicum Beach,V2K 2T8,(250)752-2818,Province of British Columbia
+895,The Hamlets at Duncan Residence Inc.,Residential Care,Island Health,The Hamlets At Duncan Residence Inc.,38,-123.6994439,48.7856333,2591 Beverly St,Duncan,V9L 5A5,(250),Province of British Columbia
+896,BeConnected Support Services Ltd.,Residential Care,Island Health,The Heights,,-123.4125089,48.477079,1236 Mariposa Ave,Victoria,V8Z 6P4,(250)475-0143,Province of British Columbia
+897,Baptist Housing Care Home Society,Residential Care,Island Health,The Heights At Mount View,260,-123.3816896,48.4594684,3814 Carey Rd,Victoria,V8Z 4C4,(250)384-1313,Province of British Columbia
+898,Oak Bay Kiwanis Health Care Society,Residential Care,Island Health,The Kiwanis Pavilion,122,-123.3466688,48.4464139,3034 Cedar Hill Rd,Victoria,V8T 3J3,(250)598-2022,Province of British Columbia
+899,Vancouver Island Health Authority,Residential Care,Island Health,The Styles Apartments,,-123.3891447,48.4389024,1230 Styles St,Victoria,V9A 3Z5,(250)920-4111,Province of British Columbia
+900,Vancouver Island Health Authority,Residential Care,Island Health,The Summit Care Residence At Quadra Village,320,-123.3607358,48.4386491,955 Hillside Ave,Victoria,V8T 1Z9,(250)519-3750,Province of British Columbia
+901,Providence Living Society,Residential Care,Island Health,The Views At St. Joseph's,165,-124.9414219,49.6738839,2137 Comox Ave,Comox,V9N 4B1,(604)806-9448,Province of British Columbia
+902,Valley Integration To Active Living (V.I.T.A.L.),Residential Care,Island Health,Thorpe Rd. House (V.I.T.A.L.),,-124.9684232,49.7007329,1213 Thorpe Rd,Courtenay,V9N 7K7,(250)871-5897,Province of British Columbia
+903,Western Human Resource Corp.,Residential Care,Island Health,Tillicum Group Home,,-123.3885393,48.4598809,3715 Tillicum Rd,Victoria,V8Z 4H9,(250)380-9511,Province of British Columbia
+904,Milieu Family Services Inc.,Residential Care,Island Health,Timberline House,,-125.239438,49.9648633,835 Timberline Dr,Campbell River,V9H 0C8,(778)418-1063,Province of British Columbia
+905,Thompson Community Services Inc.,Residential Care,Island Health,Treebank Home,,-123.4187966,48.4495127,1381 Treebank Rd W,Victoria,V9A 6Y7,(250)590-2965,Province of British Columbia
+906,VIHA,Residential Care,Island Health,Trillium Lodge,43,-124.3245737,49.3107939,401 Moiliet St,Parksville,V9P 2G9,(250)947-8230,Province of British Columbia
+907,Westcoast Native Health Care Society,Residential Care,Island Health,Tsawaayuus (Rainbow Gardens),45,-124.8475784,49.2695361,6151 Russell Pl,Port Alberni,V9Y 7W3,(250)724-5655,Province of British Columbia
+908,Nanaimo Association For Community Living,Residential Care,Island Health,Turner Connection,,-124.0418876,49.2214905,5745 Metral Dr,Nanaimo,V9T 2L5,(250)933-5733,Province of British Columbia
+909,Victoria Community Resources Society,Residential Care,Island Health,Twin Oaks,,-123.3578157,48.5034579,1216 Royal Oak Dr,Victoria,V8X 3T8,(250)590-4933,Province of British Columbia
+910,Vancouver Island Health Authority - Home & Community Care,Residential Care,Island Health,Ty Watson House,,-124.8086038,49.2276256,2649 2nd Ave,Port Alberni,V9Y 1Z8,(250)723-4478,Province of British Columbia
+911,Victoria Association for Community Living,Residential Care,Island Health,Tyndall Home,,-123.3182761,48.490283,4482 Tyndall Ave,Victoria,V8N 3S6,(250)381-4557,Province of British Columbia
+912,Salt Spring and Southern Gulf Islands Community Services Society,Residential Care,Island Health,Vesuvius Home,,-123.5587108,48.8745588,143 Scotton Pl,Salt Spring Island,V8K 1J3,(250)931-7381,Province of British Columbia
+913,Victoria Chinatown Care Society,Residential Care,Island Health,Victoria Chinatown Care Centre,31,-123.3676465,48.4299112,555 Herald St,Victoria,V8W 1S5,(250)381-4322,Province of British Columbia
+914,Integra Support Services Ltd.,Residential Care,Island Health,Viewmont House,,-123.3869422,48.4963348,4541 Viewmont Ave,Victoria,V8Z 5L3,(778)265-7511,Province of British Columbia
+915,Vancouver Island Health Authority,Residential Care,Island Health,Wascana House,,-123.3852909,48.4531908,110 Hampton Rd,Victoria,V8Z 1G7,(250)475-4937,Province of British Columbia
+916,Valley Integration To Active Living (V.I.T.A.L.),Residential Care,Island Health,Westholme Road Group Home,,-123.7158369,48.8501427,7105 Westholme Rd,Westholme,V9L 6B4,(250)746-9805,Province of British Columbia
+917,Port Alberni Association For Community Living,Residential Care,Island Health,Westporte Residence,,-124.8466434,49.2734596,5563 Woodland Cres E,Port Alberni,V9Y 8E6,(250)724-5854,Province of British Columbia
+918,J. Garnons Williams Ltd.,Residential Care,Island Health,Westwood Group Home,,-124.0150163,49.1722585,2610 Jingle Pot Rd,Nanaimo,V9R 5K3,(250)753-3017,Province of British Columbia
+919,Wexford Creek Seniors Community Partnership,Residential Care,Island Health,Wexford Creek,110,-123.9240416,49.1317395,80 10th St,Nanaimo,V9R 0A8,(250)753-4044,Province of British Columbia
+920,Vancouver Island Health Authority - Duncan Mental Health and Addictions,Residential Care,Island Health,Wicks Road Group Home,,-123.6862341,48.7982431,6276 Wicks Rd,Duncan,V9L 5C3,(250)748-6250,Province of British Columbia
+921,Victoria Association for Community Living,Residential Care,Island Health,Wilcox Home,,-123.3977046,48.5567761,2476 Wilcox Terr,Victoria,V8Z 5R6,(250)652-9877,Province of British Columbia
+922,Vancouver Island Health Authority - Duncan Mental Health and Addictions,Residential Care,Island Health,Wisteria House Group Home,,-123.730587,48.7825422,5834 Upland Ave,Duncan,V9L 1L8,(250)748-4213,Province of British Columbia
+923,Woodgrove Manor Ltd,Residential Care,Island Health,Woodgrove Manor,43,-124.0433343,49.229161,6304 Metral Dr,Nanaimo,V9T 2L8,(250)390-1036,Province of British Columbia
+924,Vancouver Island Health Authority,Residential Care,Island Health,Yucalta Lodge,95,-125.2466752,50.011109,555 Second Ave,Campbell River,V9W 3V1,(250)850-2900,Province of British Columbia

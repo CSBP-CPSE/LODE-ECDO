@@ -1,0 +1,111 @@
+,idx,facility_name,longitude,latitude,street_addr,city,province,postal_code,phone,website,provider,filename
+0,0,North Whitby Medical Centre,-78.9472654774827,43.91725589096912,3975 Garden St,Whitby,ON,L1H 7K5,905-430-2400,,Durham,ON_Durham_healthcare_facilities.csv
+1,1,Grandview Children's Centre,-78.95485678713393,44.10518220931092,451 Paxton St,Scugog,ON,L9L 1L9,905-985-7321 x5568,,Durham,ON_Durham_healthcare_facilities.csv
+2,2,Oshawa Clinic Centre for Sleep Medicine,-78.85853183866739,43.89819029210495,13 Charles St,Oshawa,ON,L1H 4X5,905-721-4052,,Durham,ON_Durham_healthcare_facilities.csv
+3,3,Provax Travel and Immunization Clinic,-78.8989678678601,43.92796304415911,604 Taunton Rd W,Oshawa,ON,L1H 7K4,877-977-6829,,Durham,ON_Durham_healthcare_facilities.csv
+4,4,Oshawa Clinic Foot Care Centre,-78.85958614470167,43.89808648152822,111 King St E,Oshawa,ON,L1H 1B8,905-721-3567,,Durham,ON_Durham_healthcare_facilities.csv
+5,5,Baywood After Hours Medical Centre,-79.02121662882327,43.8428126696876,"75 Bayly St W, Unit 5",Ajax,ON,L1S 7K7,905-428-6495,,Durham,ON_Durham_healthcare_facilities.csv
+6,6,Lakeridge Health Oshawa Eating Disorders Clinic,-78.8951399615131,43.89162741050964,850 King St W,Oshawa,ON,L1G 4W4,905-576-8711 x4622,,Durham,ON_Durham_healthcare_facilities.csv
+7,7,King Street Medical Clinic,-78.8414595294991,43.90347398079318,600 King St E Unit 17,Oshawa,ON,L1H 1G6,905-432-1017,,Durham,ON_Durham_healthcare_facilities.csv
+8,8,Oshawa Phychological & Counselling Services,-78.85913305527988,43.89839707149708,117 King St E,Oshawa,ON,L1H 1B8,905-721-7723,,Durham,ON_Durham_healthcare_facilities.csv
+9,9,Lakeridge Health Regional Evaluation Centre,-78.87585856394593,43.92401320808471,1000 Simcoe St N,Oshawa,ON,L1G 4W4,905-433-4350,,Durham,ON_Durham_healthcare_facilities.csv
+10,10,Lakeridge Health Base Hospital,-78.86177257733613,43.8946691174676,115 Simcoe St S,Oshawa,ON,L1G 4W4,905-433-4350 x4370,,Durham,ON_Durham_healthcare_facilities.csv
+11,11,Port Perry Imaging,-78.95389107315313,44.10413756972536,462 Paxton St,Scugog,ON,L9L 1L9,905-985-9727,,Durham,ON_Durham_healthcare_facilities.csv
+12,12,Bowmanville Urgent Care Clinic (After Hours Clinic),-78.6769769336872,43.91160870550831,222 King St E,Clarington,ON,L1C 1P6,905-623-6458,,Durham,ON_Durham_healthcare_facilities.csv
+13,13,The Airport Dental Centre,-78.9021923339342,43.92719528638852,1290 Keith Ross Ct,Oshawa,ON,L1H 7K4,905-434-5486,,Durham,ON_Durham_healthcare_facilities.csv
+14,14,Lakeridge Health Outpatient Services,-78.87382494390376,43.91487002961964,58 Rossland Rd W,Oshawa,ON,L1G 2V5,905-576-8711 x4355,,Durham,ON_Durham_healthcare_facilities.csv
+15,15,Lakeridge Health Oshawa Mental Health Outpatient Services,-78.8949431919366,43.89116314147839,850 King St W,Oshawa,ON,L1G 4W4,905-576-8711 x4144,,Durham,ON_Durham_healthcare_facilities.csv
+16,16,North Oshawa Medical Centre,-78.87031125443448,43.93720619220697,1400 Ritson Rd N,Oshawa,ON,L1G 7W4,905-433-5026,,Durham,ON_Durham_healthcare_facilities.csv
+17,17,Hands on Health Care Massage Therapy,-78.93959769550973,43.87459560935466,617 Brock St S,Whitby,ON,L1N 4L1,905-666-1363,,Durham,ON_Durham_healthcare_facilities.csv
+18,18,The Youth Centre - Pickering,-79.11989283709518,43.82233748696187,655 Shepard Ave,Pickering,ON,L1V 1G2,905-428-1212,,Durham,ON_Durham_healthcare_facilities.csv
+19,19,Family Care Medical Centre,-78.94163892513875,43.9001304645603,"3050 Garden St, Unit 104",Whitby,ON,L1R 2G7,905-430-5305,,Durham,ON_Durham_healthcare_facilities.csv
+20,20,Durham Radiology Associates X-Ray and Ultrasound,-79.02139415614445,43.84216929973744,"95 Bayly St W, Unit 101",Ajax,ON,L1S 7K8,905-428-0444,,Durham,ON_Durham_healthcare_facilities.csv
+21,21,Markham Stouffville Hospital Uxbridge Site,-79.12743433058719,44.10291771026901,"4 Campbell Dr, Box 5003",Uxbridge,ON,L9P 1S4,905-852-9771,,Durham,ON_Durham_healthcare_facilities.csv
+22,22,Doctors Office Wellness Centre,-78.90329434152926,43.88812818696805,1801 Dundas St E,Whitby,ON,L1N 7C5,905-436-6868,,Durham,ON_Durham_healthcare_facilities.csv
+23,23,"Lakeridge Health Pinewood, Ajax",-79.02163692369672,43.84210808449196,"95 Bayly St W, Suite 406",Ajax,ON,L1S 7K8,905-683-5950,,Durham,ON_Durham_healthcare_facilities.csv
+24,24,The Doctor's Office,-78.91318968801833,43.8831690712272,80 Thickson Rd S,Whitby,ON,L1N 7T2,905-668-6448,,Durham,ON_Durham_healthcare_facilities.csv
+25,25,Lakeridge Health Ajax Pickering Hospital,-79.01688706062035,43.83719885071158,580 Harwood Av S,Ajax,ON,L1S 2J4,905-683-2320,,Durham,ON_Durham_healthcare_facilities.csv
+26,26,Oshawa Clinic Physiotherapy,-78.85834638823957,43.89787332497279,29 Charles St,Oshawa,ON,L1H 4X5,905-721-4300,,Durham,ON_Durham_healthcare_facilities.csv
+27,27,Whitby Medical Walk-in Clinic,-78.9582535345197,43.91418676596896,"3910 Brock St N, Unit 4",Whitby,ON,L1R 3E1,905-444-9493,,Durham,ON_Durham_healthcare_facilities.csv
+28,28,Grandview Children's Centre,-79.0331364770362,43.82936346707731,570 Westney Rd S,Ajax,ON,L1S 6V5,905-619-6551,,Durham,ON_Durham_healthcare_facilities.csv
+29,29,Kinder Clinic Children's Urgent Care,-78.86565972024385,43.90143507900526,146 Simcoe St N,Oshawa,ON,L1G 4S7,905-720-2757,,Durham,ON_Durham_healthcare_facilities.csv
+30,30,Brooklin Medical Centre,-78.94660076650517,43.95634229109986,"5959 Anderson St, Unit 1A",Whitby,ON,L1M 2E9,905-655-3321,,Durham,ON_Durham_healthcare_facilities.csv
+31,31,Lakeridge Health Port Perry,-78.95427964387422,44.10536367554201,"451 Paxton St, Box 960",Scugog,ON,L9L 1L9,905-985-7321,,Durham,ON_Durham_healthcare_facilities.csv
+32,32,Lakeridge Health Wellness and Assessment Centre,-78.94260631051385,43.88259575705905,223 Brock St N,Whitby,ON,L1M 4H6,905-666-8033,,Durham,ON_Durham_healthcare_facilities.csv
+33,33,"Lakeridge Health Pinewood, Port Perry",-78.94262980608346,44.10385062078318,180 Mary St,Scugog,ON,L9L 1C4,905-985-4721,,Durham,ON_Durham_healthcare_facilities.csv
+34,34,"Lakeridge Health Pinewood, Destiny Manor",-78.95258145039242,43.87849623944739,118 Cochrane St,Whitby,ON,L1N 5H8,905-668-1858,,Durham,ON_Durham_healthcare_facilities.csv
+35,35,Beaverton Thorah Health Centre,-79.14872372063584,44.43352320986771,468 Main Street East,Brock,ON,L0K1A0,,,Durham,ON_Durham_healthcare_facilities.csv
+36,36,Sunderland Medical Centre,-79.06742153423724,44.2606420608631,26 Church Street,Brock,ON,L0C1H0,,,Durham,ON_Durham_healthcare_facilities.csv
+37,37,Brock Community Health Centre,-79.03603251679576,44.35109825627061,64 Cameron Street East,Brock,ON,L0E1E0,,,Durham,ON_Durham_healthcare_facilities.csv
+38,38,South Ajax Family Doctors,-79.01607741684916,43.83150653592003,"969 Westney Rd S, Unit 10",Ajax,ON,L1S 3K7,905-428-6311,,Durham,ON_Durham_healthcare_facilities.csv
+39,39,Whitby Clinic,-78.94319045868906,43.88190135058892,200 Brock St N,Whitby,ON,L1N 4H5,905-668-3378,,Durham,ON_Durham_healthcare_facilities.csv
+40,40,Whites Road Medical Clinic,-79.12279432568987,43.83054066890921,1822 Whites Rd,Pickering,ON,L1V 4M1,905-831-8666,,Durham,ON_Durham_healthcare_facilities.csv
+41,41,The Youth Centre - Ajax,-79.03224072810967,43.84183874423589,"360 Bayly St, Unit #5",Ajax,ON,L1S 1P1,905-428-1212,,Durham,ON_Durham_healthcare_facilities.csv
+42,42,Toronto Street Medical Centre,-79.12247712677609,44.10767277396575,29 Toronto St S,Uxbridge,ON,L9P 1V9,905-852-6101,,Durham,ON_Durham_healthcare_facilities.csv
+43,43,Whitby Urgent Care,-78.94441990495888,43.87961650545998,220 Dundas St W,Whitby,ON,L1N 8M7,905-668-7899,,Durham,ON_Durham_healthcare_facilities.csv
+44,44,Pickering Medical Centre,-79.08549733074832,43.83850563255579,1885 Glenanna Rd,Pickering,ON,L1V 6R6,905-839-3883,,Durham,ON_Durham_healthcare_facilities.csv
+45,45,Pickering Urgent Care Medi-Centre,-79.084008622664,43.84182202817302,"1450 Kingston Rd, Unit 6B",Pickering,ON,L1V 1C1,905-831-8333,,Durham,ON_Durham_healthcare_facilities.csv
+46,46,The Children's Clinic,-79.05458664180115,43.85360637858446,33 Church St S,Ajax,ON,L1S 6A6,905-427-1445,,Durham,ON_Durham_healthcare_facilities.csv
+47,47,Westney Heights Medical Centre,-79.03993273669492,43.85937984078956,"15 Westney Rd N, Unit 2",Ajax,ON,L1T 1P4,905-428-8055,,Durham,ON_Durham_healthcare_facilities.csv
+48,48,"Lakeridge Health Pinewood, Bowmanville",-78.67881049533456,43.91103064103378,"200 King St E, Suite 406",Clarington,ON,L1C 1P3,905-697-2747,,Durham,ON_Durham_healthcare_facilities.csv
+49,49,Lakeridge Health Oshawa,-78.86961955660433,43.90546244804513,1 Hospital Ct,Oshawa,ON,L1G 2B9,905-576-8711,,Durham,ON_Durham_healthcare_facilities.csv
+50,50,Lakeridge Health Bowmanville,-78.67898861384549,43.90906299273203,47 Liberty St S,Clarington,ON,L1C 2N4,905-623-3331,,Durham,ON_Durham_healthcare_facilities.csv
+51,51,Lakeridge Health Whitby,-78.94468124983494,43.85609302764182,300 Gordon St,Whitby,ON,L1N 5T2,905-668-6831,,Durham,ON_Durham_healthcare_facilities.csv
+52,52,The Brooklin Natural Health Centre,-78.95932239756799,43.95426960329169,2 Princess St,Whitby,ON,L1M 1B1,905-655-0752,,Durham,ON_Durham_healthcare_facilities.csv
+53,53,Dryden Medical Centre,-78.91441657941543,43.91654964381241,3455 Garrard Rd,Whitby,ON,L1R 2J3,905-571-4444,,Durham,ON_Durham_healthcare_facilities.csv
+54,54,Oshawa East Urgent Care,-78.8390330837835,43.90295121677524,675 King St E,Oshawa,ON,L1H 1G4,905-433-8011,,Durham,ON_Durham_healthcare_facilities.csv
+55,55,Ontario Shores Centre for Mental Health Sciences,-78.94550577706502,43.84786723085814,700 Gordon Street,Whitby,ON,L1N 5S9,905-668-5881,,Durham,ON_Durham_healthcare_facilities.csv
+56,56,Grandview Children's Centre,-78.80807318829663,43.89170501743351,600 Townline Rd S,Oshawa,ON,L1H 7K6,905-728-1673,,Durham,ON_Durham_healthcare_facilities.csv
+57,57,Oshawa Community Health Centre,-78.84504610931285,43.8695074617909,115 Grassmere Ave,Oshawa,ON,L1H 3X7,905-723-0036,,Durham,ON_Durham_healthcare_facilities.csv
+58,58,Glazier Medical Centre,-78.8607684059083,43.88991151303367,11 Gibb St,Oshawa,ON,L1H 2J9,905-579-1212,,Durham,ON_Durham_healthcare_facilities.csv
+59,59,First Step Oshawa,-78.86356265179592,43.89684143080472,32 Simcoe St S,Oshawa,ON,L1H 4G2,905-720-0506,,Durham,ON_Durham_healthcare_facilities.csv
+60,60,Courtice Health Centre,-78.80763515137589,43.9074060802326,1450 Highway 2,Clarington,ON,L1E 3C3,905-723-8551,,Durham,ON_Durham_healthcare_facilities.csv
+61,61,Pinewood Centre Street,-78.86237640733498,43.88886673288734,300 Centre Street,Oshawa,ON,L1H 4B2,905-697-2747,,Durham,ON_Durham_healthcare_facilities.csv
+62,62,"Lakeridge Health, Early Psychosis Intervention",-78.91057269032677,43.88526034401638,"1615 Dundas St. E, Lang Tower, Suite W214",Whitby,ON,L1N 2L1,905-576-8711 x. 6029,,Durham,ON_Durham_healthcare_facilities.csv
+63,63,"Lakeridge Health Oshawa Child, Youth & Family Program",-78.89439576987768,43.89194283342717,850 King St W,Oshawa,ON,L1G 4W4,905-576-8711 x345,,Durham,ON_Durham_healthcare_facilities.csv
+64,64,John Howard Society of Durham Region,-79.02326470928918,43.84843987471814,136 Commerical Avenue,AJAX,ON,L1S 2HS,905-427-8165,johnhoward.on.ca/durham,Durham,ON_Durham_healthcare_facilities.csv
+65,65,Catholic Family Services of Durham,-79.02741677131905,43.84331760907073,"250 Bayly St West, Unit 22",AJAX,ON,L1S 3V4,905-428-1984,www.cfsdurham.com/english/Contact_us.html,Durham,ON_Durham_healthcare_facilities.csv
+66,66,Kids Clinic,-79.01843989642023,43.88232333251283,"300 Rossland Rd East, Suite 301",AJAX,ON,L1Z 0M1,905-683-4440,www.kidsclinic.ca/support_services/index.html,Durham,ON_Durham_healthcare_facilities.csv
+67,67,Family Services Durham,-79.03408868565234,43.83889925730348,339 Westney Rd South,AJAX,ON,L1S 7J6,905-683-3451,www.durham.ca/social.asp?nr=/departments/social/family/counselling/core_counselling.htm&setFooter=/includes/family_couselFooter.inc,Durham,ON_Durham_healthcare_facilities.csv
+68,68,Carea Community Health Centre (Ajax),-79.03219043709288,43.84168550027604,"360 Bayly St West, Unit 5",AJAX,ON,L1S 1P1,905-428-1212,www.ochc.ca,Durham,ON_Durham_healthcare_facilities.csv
+69,69,Durham Counselling Walk in Clinic,-79.03230381013029,43.84199118208376,"360 Bayly St West, Unit 5",AJAX,ON,L1S 1P1,905-428-1212 ext 269,www.theyouthcentre.ca/resources/DCWICinfosheet.pdf,Durham,ON_Durham_healthcare_facilities.csv
+70,70,Rouge Valley Health System Ajax Pickering Health Centre,-79.01680163017872,43.836999200613,580 Harwood Ave South,AJAX,ON,L1S 2J4,905-683-2320 ext 3523,www.rougevalley.ca/mental-health,Durham,ON_Durham_healthcare_facilities.csv
+71,71,Mental Health and Pinewood Centre of Lakeridge Health,-79.02104492347185,43.8422451502975,"95 Bayly St West, Suite 406",AJAX,ON,L1S 7K8,905-683-5950,www.lakeridgehealth.on.ca/en/ourservices/pinewood-addiction-services.asp,Durham,ON_Durham_healthcare_facilities.csv
+72,72,John Howard Society of Durham Region,-78.68767371908481,43.9131860102618,132 Church St,CLARINGTON,ON,L1C 1T5,905-623-6814,johnhoward.on.ca/durham,Durham,ON_Durham_healthcare_facilities.csv
+73,73,Mental Health and Pinewood Centre of Lakeridge Health,-78.6789478235552,43.91099727984945,"200 King St East, Suite 206",CLARINGTON,ON,L1C 1P3,905-697-2746,www.lakeridgehealth.on.ca/en/ourservices/pinewood-addiction-services.asp,Durham,ON_Durham_healthcare_facilities.csv
+74,74,Community Care Durham: COPE Mental Health Program,-78.70370188439702,43.91197834425318,"2440 Hwy. 2, Unit 1",CLARINGTON,ON,L1C 0K6,905-623-4123,www.communitycaredurham.on.ca/copeservices.html,Durham,ON_Durham_healthcare_facilities.csv
+75,75,Lakeridge Health Bowmanville,-78.67893377921868,43.9088761885,47 Liberty St South,CLARINGTON,ON,L1C 2N4,905-623-3331,www.lakeridgehealth.on.ca/en/patientsandvisitors/gettingtous.asp,Durham,ON_Durham_healthcare_facilities.csv
+76,76,Community Care Durham: COPE Mental Health Program,-79.03831728874059,44.35010219768902,1 Cameron St East,BROCK,ON,L0E 1E0,705-432-3044,www.communitycaredurham.on.ca/copeservices.html,Durham,ON_Durham_healthcare_facilities.csv
+77,77,Brock Community Health Centre,-79.03598853169086,44.3509971010665,64 Cameron St East,BROCK,ON,L0E 1E0,705-432-3388,www.brockchc.ca/primary-health-care,Durham,ON_Durham_healthcare_facilities.csv
+78,78,Lakeridge Health Oshawa,-78.86902278268543,43.90523133556486,1 Hospital Court,OSHAWA,ON,L1G 2B9,905-576-8711 ext 4384,www.lakeridgehealth.on.ca/en/ourservices/Adult-Mental-Health.asp,Durham,ON_Durham_healthcare_facilities.csv
+79,79,"Lakeridge Health Child, Youth, and Family Program",-78.86832411427349,43.90542078200232,1 Hospital Court,OSHAWA,ON,L1G 2B9,905-576-8711,www.lakeridgehealth.on.ca/en/ourservices/childyouthandfamilyprogram.asp,Durham,ON_Durham_healthcare_facilities.csv
+80,80,Carea Community Health Centre (Oshawa),-78.8449100362358,43.86938788387526,115 Grassmere Ave,OSHAWA,ON,L1H 3X7,905-723-0036,www.ochc.ca,Durham,ON_Durham_healthcare_facilities.csv
+81,81,Catholic Family Services of Durham,-78.86197750296334,43.89461025535268,115 Simcoe St South,OSHAWA,ON,L1H 4G7,905-725-3513,www.cfsdurham.com/english/Contact_us.html,Durham,ON_Durham_healthcare_facilities.csv
+82,82,Frontenac Youth Services,-78.84125284246424,43.87173701051725,1160 Simcoe St South,OSHAWA,ON,L1H 5L8,905-579-1551 or 1-877-455-5527,frontenacyouthservices.org,Durham,ON_Durham_healthcare_facilities.csv
+83,83,Boys and Girls Club of Durham (Northview Unit),-78.87005699329058,43.92973551139228,150 Beatrice St East,OSHAWA,ON,L1H 7T6,905-436-3311 ext 2871,www.bgcdurham.com,Durham,ON_Durham_healthcare_facilities.csv
+84,84,Rose of Durham,-78.871525201838,43.897354979032,200 Bond St West,OSHAWA,ON,L1J 2L7,905-432-3622,www.roseofdurham.com,Durham,ON_Durham_healthcare_facilities.csv
+85,85,Durham College Campus Health Centre,-78.89466431431687,43.94582549934056,"2000 Simcoe St North, CRWC Room G1030",OSHAWA,ON,L1H 7K4,905-721-3037,www.durhamcollege.ca/services/campus-services/health-and-medical/mental-health-services,Durham,ON_Durham_healthcare_facilities.csv
+86,86,Reflections Mental Health and Behavioral Services,-78.87429962876148,43.89543580428549,"286 King St West, Unit 302",OSHAWA,ON,L1J 2J9,289-385-3322,www.reflectionsmentalhealth.com,Durham,ON_Durham_healthcare_facilities.csv
+87,87,Mental Health and Pinewood Centre of Lakeridge Health,-78.86261670812291,43.88882283080949,300 Centre St South,OSHAWA,ON,L1H 4B2,905-723-8195 or 1-888-881-8878,www.lakeridgehealth.on.ca/en/ourservices/pinewood-addiction-services.asp,Durham,ON_Durham_healthcare_facilities.csv
+88,88,Mental Health and Pinewood Centre of Lakeridge Health,-78.87920916121223,43.89055469795775,"419 King St West, Suite 125",OSHAWA,ON,L1J 2K5,905-571-3344,www.lakeridgehealth.on.ca/en/ourservices/pinewood-addiction-services.asp,Durham,ON_Durham_healthcare_facilities.csv
+89,89,Boys and Girls Club of Durham (Eastview Unit),-78.8453731037747,43.89618100582702,433 Eulalie Ave,OSHAWA,ON,L1H 2C6,905-728-5121,www.bgcdurham.com,Durham,ON_Durham_healthcare_facilities.csv
+90,90,Salvation Army Community and Family Services,-78.86185072167551,43.89773132606361,45 King St East,OSHAWA,ON,L1H 8S5,905-723-7422 ext 224,www.oshawa-temple.org,Durham,ON_Durham_healthcare_facilities.csv
+91,91,Murray McKinnon Foundation,-78.86337214053384,43.89613858932422,52 Simcoe St South,OSHAWA,ON,L1H 4G3,905-571-4655,www.murraymckinnon.ca,Durham,ON_Durham_healthcare_facilities.csv
+92,92,Canadian Mental Health Association of Durham,-78.86654288492338,43.89821729275219,60 Bond St West,OSHAWA,ON,L1G 1A5,905-436-8760,www.cmhadurham.ca,Durham,ON_Durham_healthcare_facilities.csv
+93,93,John Howard Society of Durham Region,-78.86703853181938,43.89848343769821,75 Richmond St West,OSHAWA,ON,L1G 1E3,905-579-8482,johnhoward.on.ca/durham,Durham,ON_Durham_healthcare_facilities.csv
+94,94,Community Care Durham: COPE Mental Health Program,-79.08134841933867,43.83122402171755,"1420 Bayly St, Unit 6",PICKERING,ON,L1W 3R4,905-837-0017 ext 229,www.communitycaredurham.on.ca/copeservices.html,Durham,ON_Durham_healthcare_facilities.csv
+95,95,New Awakenings Wellness Centre,-78.87534568611616,44.04796005236727,10420 Russell Rd,SCUGOG,ON,L9L 1B3,905-985-1039,www.newawakenings.ca,Durham,ON_Durham_healthcare_facilities.csv
+96,96,Community Care Durham: COPE Mental Health Program,-78.95718194828572,44.11208418971967,16100 Old Simcoe Road,SCUGOG,ON,L9L 1P3,905-985-8461 ext 225,www.communitycaredurham.on.ca/copeservices.html,Durham,ON_Durham_healthcare_facilities.csv
+97,97,Catholic Family Services of Durham,-78.95184564941076,44.09834159315352,1710 Scugog Street,SCUGOG,ON,L9L 1E2,905-985-4221,www.cfsdurham.com/english/Contact_us.html,Durham,ON_Durham_healthcare_facilities.csv
+98,98,Mental Health and Pinewood Centre of Lakeridge Health,-78.94271822954083,44.10390599228009,180 Mary St,SCUGOG,ON,L9L 1C4,905-985-4721,www.lakeridgehealth.on.ca/en/ourservices/pinewood-addiction-services.asp,Durham,ON_Durham_healthcare_facilities.csv
+99,99,Lakerige Health Port Perry,-78.9546095843577,44.10530971616501,451 Paxton St,SCUGOG,ON,L1L 1L9,905-985-7321,www.lakeridgehealth.on.ca/en/patientsandvisitors/gettingtous.asp,Durham,ON_Durham_healthcare_facilities.csv
+100,100,Markham Stouffville Hospital Uxbridge Site,-79.12803809429599,44.10277596802955,4 Campbell Drive,UXBRIDGE,ON,L9P 1S4,905-852-9771,www.msh.on.ca,Durham,ON_Durham_healthcare_facilities.csv
+101,101,Community Care Durham: COPE Mental Health Program,-79.11749901787763,44.10744525526388,"75 Marietta St, Unit 1",UXBRIDGE,ON,L9P 1K7,905-852-7445 ext 24,www.communitycaredurham.on.ca/copeservices.html,Durham,ON_Durham_healthcare_facilities.csv
+102,102,John Howard Society of Durham Region,-78.9410687323998,43.88067763486132,"114 Dundas St East, Unit 200",WHITBY,ON,L1N 2H7,905-666-8847,johnhoward.on.ca/durham,Durham,ON_Durham_healthcare_facilities.csv
+103,103,Alzheimer Society Durham Region,-78.9048972321736,43.87345284216682,"1600 Champlain Ave, Suite 202",WHITBY,ON,L1N 9B2,905-576-2567,www.alzheimer.ca/en/durham,Durham,ON_Durham_healthcare_facilities.csv
+104,104,Kinark Child and Family Services,-78.91473652889026,43.87156644924931,"20 Sunray St, Suite 1",WHITBY,ON,L1N 8Y3,905-668-2411 or 1-866-929-0061,www.kinark.on.ca,Durham,ON_Durham_healthcare_facilities.csv
+105,105,Community Care Durham: COPE Mental Health Program (Whitby),-78.91455720464815,43.87160962714894,"20 Sunray St, Unit 5",WHITBY,ON,L1N 8Y3,905-668-6223 ext 227,www.communitycaredurham.on.ca/copeservices.html,Durham,ON_Durham_healthcare_facilities.csv
+106,106,Community Care Durham: COPE Mental Health Program (Oshawa),-78.91435838303268,43.87164530362404,"20 Sunray St, Unit 6",WHITBY,ON,L1N 8Y3,905-666-0689,www.communitycaredurham.on.ca/copeservices.html,Durham,ON_Durham_healthcare_facilities.csv
+107,107,Durham Mental Health Services,-78.93979476193226,43.87496677278808,519 Brock St South,WHITBY,ON,L1N 4K8,905-666-0831 or 1-855-888-3647,dmhs.ca,Durham,ON_Durham_healthcare_facilities.csv
+108,108,Family Services Durham,-78.94034349061165,43.89864243960741,605 Rossland Rd East,WHITBY,ON,L1N 6A3,905-666-6240,www.durham.ca/social.asp?nr=/departments/social/family/counselling/core_counselling.htm&setFooter=/includes/family_couselFooter.inc,Durham,ON_Durham_healthcare_facilities.csv
+109,109,Ontario Shores Centre for Mental Health Sciences,-78.94374082446231,43.84912391836794,700 Gordon Street,WHITBY,ON,L1N 5S9,905-668-5881,www.ontarioshores.ca,Durham,ON_Durham_healthcare_facilities.csv

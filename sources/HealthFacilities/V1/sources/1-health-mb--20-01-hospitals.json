@@ -1,0 +1,19 @@
+{
+    "localfile": "1-health-mb--20-01-hospitals.csv",
+    "database_type": "hospital",
+    "source": "https://www.gov.mb.ca/health/waittime/map.html",
+    "licence": "https://www.gov.mb.ca/legal/copyright.html",
+    "provider": "Province of Manitoba",
+    "format": {
+	"type": "csv",
+	"delimiter": ",",
+	"quote": "\""
+    },
+    "schema": {
+	"hospital_name": "Name",
+	"address_str": ["Address", "City", "Province", "Postal Code"],
+	"address_str_parse": ["Address", "City", "Province", "Postal Code"],
+	"longitude": "geo_lon",
+	"latitude": "geo_lat"
+    }
+}

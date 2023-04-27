@@ -1,0 +1,782 @@
+,idx,facility_name,facility_type,health_authority,longitude,latitude,street_addr,city,province,phone,provider,filename
+0,0,Wellness Institute At Sogh - Rehab Dpt,Medical Clinic,Winnipeg,-97.150642,49.955676,1075 Leila Ave,Winnipeg,MB,204-632-3906,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+1,1,Dr W Salib Medical Clinic,Medical Clinic,Prairie Mountain Health,-101.264339,52.106427,900 Main St,Swan River,MB,204-734-3812,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+2,2,Guest Medical Clinic,Medical Clinic,Winnipeg,-97.11192151699998,49.85620421600004,715 St Mary's Rd,Winnipeg,MB,204-414-7695,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+3,3,Memorial Medical Clinic,Medical Clinic,Winnipeg,-97.15408739999998,49.885809,595 Broadway Ave,Winnipeg,MB,204-775-7756,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+4,4,Family Care Medical Centre,Medical Clinic,Winnipeg,-97.11990119999996,49.88165520000007,191 Marion St,Winnipeg,MB,204-231-1724,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+5,5,Mount Carmel Clinic Pharmacy,Medical Clinic,Winnipeg,-97.134445,49.910116,886 Main St,Winnipeg,MB,204-587-0834,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+6,6,Haven Medical Clinic,Medical Clinic,Winnipeg,-97.21049172199996,49.87911453100003,1763 Portage Ave,Winnipeg,MB,204-832-4644,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+7,7,Kennedy Medical Clinic,Medical Clinic,Winnipeg,-97.14715059999996,49.88982250000004,203 Kennedy St,Winnipeg,MB,204-942-1999.,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+8,8,QuickCare Clinic - Dakota,Medical Clinic,Winnipeg,-97.111974,49.835272,3 620 Dakota St,Winnipeg,MB,204-940-4332,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+9,9,Sunshine Medical Clinic,Medical Clinic,Winnipeg,-97.158518,49.85331050000008,1000 Taylor Ave,Winnipeg,MB,204-285-3994,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+10,10,Mobile Medical Clinic (Southern),Medical Clinic,Southern Health-Santé Sud,-96.69342,49.530557,200 381 Stonebridge Crossing,Steinbach,MB,855-644-3515,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+11,11,Tache Obstetrics & Gynecology,Medical Clinic,Winnipeg,-97.12335,49.884714,305 400 Tache Ave,Winnipeg,MB,204-237-4694,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+12,12,Misericordia Health Centre - CIVP,Medical Clinic,Winnipeg,-97.16015525299996,49.87906173500005,99 Cornish Ave,Winnipeg,MB,204-789-7120,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+13,13,Keewatin Medical Center,Medical Clinic,Winnipeg,-97.196678,49.94291450000003,6 998 Keewatin St,Winnipeg,MB,204-615-0012,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+14,14,Pointe Du Bois Spillway Health Centre,Medical Clinic,Interlake-Eastern,-95.550842,50.300744,End of Highway 313,Point Du Bois,MB,204-884-3200,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+15,15,Beausejour Coop Pharmacy,Pharmacy,Interlake-Eastern,-96.516093,50.061633,605 Park Ave Box 670,Beausejour,MB,204-268-1806,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+16,16,Concordia Community Clinic,Medical Clinic,Winnipeg,-97.06463079999996,49.91349860000003,1 1095 Concordia Ave,Winnipeg,MB,204-667-9369,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+17,17,Mobile Medical Clinic (Prairie Mountain),Medical Clinic,Prairie Mountain Health,-99.523066,51.059418,Ste Rose Primary Care Centre 603 1st Ave E,Ste Rose Du Lac,MB,204-447-4080,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+18,18,Cinden Integrative Health & Wellness Institute,Medical Clinic,Winnipeg,-97.19501883199996,49.81690390200004,123 A Scurfield Blvd,Winnipeg,MB,204-615-2170,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+19,19,HEW Primary Health Care Centre,Medical Clinic,Interlake-Eastern,-96.520517,50.060981,31 First St S Box 1208,Beausejour,MB,204-268-2288,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+20,20,The Pindea Clinic,Medical Clinic,Northern,-101.252521,53.822718,320 Fischer Ave Box 2560,The Pas,MB,204-623-5443,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+21,21,Our Own Health Centre - 2SLGBTQ Services,Medical Clinic,Winnipeg,-97.140631,49.875702,A 230 Osborne St,Winnipeg,MB,204-417-1300,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+22,22,Southdale Medical Centre,Medical Clinic,Winnipeg,-97.075629,49.854336,45 Vermillion Rd,Winnipeg,MB,204-253-6762,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+23,23,Winnipeg Clinic,Medical Clinic,Winnipeg,-97.148081,49.889395,425 St Mary Ave,Winnipeg,MB,204-957-3210,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+24,24,Stafford Medical Clinic,Medical Clinic,Winnipeg,-97.15783079999994,49.86320510000007,100 395 Stafford St,Winnipeg,MB,204-272-3252,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+25,25,Health Sciences Centre ID Clinic,Medical Clinic,Winnipeg,-97.158445,49.904565,GD122 700 William Ave,Winnipeg,MB,204-787-7188,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+26,26,Skinwise Dermatology,Medical Clinic,Winnipeg,-97.166034,49.852111,6 1170 Taylor Ave,Winnipeg,MB,204-227-5185,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+27,27,Beausejour Guardian Pharmacy,Pharmacy,Interlake-Eastern,-96.514734,50.062312,635 Park Ave,Beausejour,MB,204-268-2323,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+28,28,Medina Medical Center & Pharmacy,Medical Clinic,Winnipeg,-97.11191883499998,49.85616876600005,715 St Mary's Rd,Winnipeg,MB,204-256-2415,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+29,29,Dr. D. Kahanovitch,Medical Clinic,Winnipeg,-97.146588,49.894665,203 355 Ellice Ave,Winnipeg,MB,204-943-7861,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+30,30,Quick Care Clinic Vermillion,Medical Clinic,Winnipeg,-97.071656,49.854408,170 115 Vermillion Rd,Winnipeg,MB,204-940-8319,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+31,31,Sunshine Medical Clinic,Medical Clinic,Winnipeg,-97.07653119999998,49.85417590000003,35 Lakewood Blvd,Winnipeg,MB,204-220-1062,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+32,32,QuickCare West Portage,Medical Clinic,Winnipeg,-97.292339,49.881127,3250 Portage Ave,Winnipeg,MB,204-940-8453,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+33,33,Mobile Medical Clinic (Interlake-Eastern),Medical Clinic,Interlake-Eastern,-96.902557,50.157517,3 1020 Manitoba Ave,Selkirk,MB,204-785-9761,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+34,34,Jefferson QuickCare Clinic,Medical Clinic,Winnipeg,-97.15842,49.945318,104 930 Jefferson Ave,Winnipeg,MB,204-940-8508,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+35,35,Trucare Medical Clinic and Walk in,Medical Clinic,Winnipeg,-97.15673769999997,49.94380540000003,B 1450 McPhillips St,Winnipeg,MB,204-691-0688,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+36,36,DC Obstetrics & Gynecology Group,Medical Clinic,Winnipeg,-97.126625,49.882154,47 Marion St,Winnipeg,MB,204-925-3606,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+37,37,Health Hub Medical Clinic,Medical Clinic,Winnipeg,-97.19987159999994,49.84303150000005,101 1020 Lorimer Blvd,Winnipeg,MB,204-869-1915,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+38,38,United Medical Clinic,Medical Clinic,Winnipeg,-97.154177,49.906843,940 Sherbrook St,Winnipeg,MB,204-615-7700,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+39,39,Bei Jing Medical Centre,Medical Clinic,,,,A 2810 Pembina Hwy,Winnipeg,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+40,40,OSI Clinic - Deer Lodge Centre,Medical Clinic,Winnipeg,-97.23646737299998,49.87860993800007,2nd Floor 215 Duffield St,Winnipeg,MB,204-831-2132,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+41,41,Swan Valley Primary Care Centre,Medical Clinic,Prairie Mountain Health,-101.2612551999999,52.10567510000004,1000 Main St Box 1480,Swan River,MB,204-734-6600,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+42,42,Bond Medical Centre,Medical Clinic,Winnipeg,-97.006818,49.894834,B 218 Regent Ave W,Winnipeg,MB,204-615-0833,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+43,43,East St. Paul Medical Centre,Medical Clinic,Winnipeg,-97.05788029999997,49.97340960000008,2665 Henderson Hwy,East St Paul,MB,204-615-9000.,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+44,44,Tiger Hills Medical Associates,Medical Clinic,Prairie Mountain Health,-98.69819189999998,49.63346480000007,64 Clark St Box 191,Treherne,MB,204-723-2095,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+45,45,BenefitsRx Pharmacy,Pharmacy,Southern Health-Santé Sud,-98.002057,49.506257,66 Main St S,Carman,MB,204-745-2781,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+46,46,Dr. Harvey B. Lee Medical Clinic - Medical Arts Building Branch,Medical Clinic,Winnipeg,-97.147158,49.890339,711 233 Kennedy St,Winnipeg,MB,204-953-1260,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+47,47,Melita Medical Clinic,Medical Clinic,Prairie Mountain Health,-100.995632,49.27152,147 Summit St Box 459,Melita,MB,204-522-8353,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+48,48,Mobile Medical Clinic (Prairie Mountain - Dauphin),Medical Clinic,Prairie Mountain Health,-100.607848,50.444174,25 Industrial Rd,Dauphin,MB,204-447-4080,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+49,49,Henderson Highway Medical Clinic,Medical Clinic,Winnipeg,-97.085707,49.944584,A 1417 Henderson Hwy,Winnipeg,MB,204-333-5094,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+50,50,LifeSmart Medical Seven Oaks,Medical Clinic,Winnipeg,-97.117009,49.939054,1840 Main St,Winnipeg,MB,204-416-5433,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+51,51,Seine River Medical Centre,Medical Clinic,Winnipeg,-97.08133669999997,49.81884860000008,Unit 6 980 St Anne's Rd,Winnipeg,MB,204-294-0235,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+52,52,Bison Family Medical Clinic on Pembina,Medical Clinic,Winnipeg,-97.15093459999996,49.82882430000006,1686 Pembina Hwy,Winnipeg,MB,204-202-1223,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+53,53,Chalmers Community Medical Clinic,Medical Clinic,Winnipeg,-97.104617,49.911369,D 359 Johnson Ave W,Winnipeg,MB,204-414-2944,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+54,54,Dr. F. Sikora - Winnipeg Clinic,Medical Clinic,Winnipeg,-97.148081,49.889395,3rd Floor 425 St Mary Ave,Winnipeg,MB,204-957-3217,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+55,55,East Parkland Medical Group,Medical Clinic,Prairie Mountain Health,-99.523066,51.059418,603 1st Ave E,Ste Rose,MB,204-447-2089,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+56,56,Pine Falls Primary Care Clinic,Medical Clinic,Interlake-Eastern,-96.21474,50.563039,37 Maple St,Pine Falls,MB,204-367-4612,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+57,57,Panacea Medical Clinic,Medical Clinic,Winnipeg,-97.11187869999998,49.83525070000007,Unit 3 620 Dakota St,Winnipeg,MB,204-255-1135,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+58,58,Southend Medical & Walk-in,Medical Clinic,Winnipeg,-97.10904619999997,49.82622450000008,30 166 Meadowood Dr,Winnipeg,MB,204-691-6337,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+59,59,Portage West Medical Centre,Medical Clinic,Winnipeg,-97.29230579999997,49.88121590000003,3250 Portage Ave,Winnipeg,MB,204-509-1912,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+60,60,Bridgewater Medical Centre,Medical Clinic,Winnipeg,-97.19629312999996,49.79840435500006,510 350 North Town Rd,Winnipeg,MB,204-261-8484,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+61,61,Emerson Medical Clinic,Medical Clinic,Southern Health-Santé Sud,-97.009578,49.065605,26 Main St Box 428,Emerson,MB,204-373-2616,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+62,62,Parkview Professional Centre - Dr. Askarifar's Medical Corporation,Medical Clinic,Winnipeg,-97.10993859999996,49.94789790000004,107 2110 Main St,Winnipeg,MB,204-338-7941,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+63,63,Dr. Hughes Family Practice and Walk-In,Medical Clinic,Southern Health-Santé Sud,-96.987764,49.70996,102 430 Main St,Ile Des Chenes,MB,204-253-6762-2,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+64,64,Nearby Medical Clinic,Medical Clinic,Winnipeg,-97.28810143699997,49.88216828900005,Inside Superstore 3193 Portage Ave,Winnipeg,MB,204-888-8808,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+65,65,First Circle Health Centre,Medical Clinic,Winnipeg,-97.21694,49.894395,1880 Ellice Ave,Winnipeg,MB,204-775-2400,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+66,66,Marion Medical Centre,Medical Clinic,Winnipeg,-97.120552,49.881333,172 Marion St,Winnipeg,MB,204-231-1900,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+67,67,Powerview Clinic,Medical Clinic,Interlake-Eastern,-95.225829,49.750209,Highway 59 N,Traverse Bay,MB,204-367-2278,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+68,68,Mobile Medical Clinic (WRHA),Medical Clinic,Winnipeg,-97.146786,49.915983,542 Selkirk Ave,Winnipeg,MB,204-977-6898,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+69,69,Natawiwewak Medical Clinic,Medical Clinic,Winnipeg,-97.146588,49.894665,102 355 Ellice Ave,Winnipeg,MB,204-505-0177,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+70,70,OYA Medical Center,Medical Clinic,Winnipeg,-97.07085309999997,49.85435050000007,170 115 Vermillion Rd,Winnipeg,MB,204-255-3109,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+71,71,Gimli Community Health Centre,Medical Clinic,Interlake-Eastern,-96.9939877,50.62792010000004,120 6th Ave Box 250,Gimli,MB,204-890-4790,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+72,72,Seasons Medical Centre,Medical Clinic,Winnipeg,-97.21628629999998,49.84286280000003,6 655 Sterling Lyon Pky,Winnipeg,MB,204-219-1060,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+73,73,D Hartley Medical Corporation,Medical Clinic,Winnipeg,-97.284569,49.880851,D 3111 Portage Ave,Winnipeg,MB,204-795-2666,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+74,74,LifeSmart Medical (Osborne),Medical Clinic,Winnipeg,-97.14055729999995,49.87572740000007,Unit 2a 230 Osborne St,Winnipeg,MB,204-287-5220,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+75,75,Waterford Medical & Walk-in,Medical Clinic,Winnipeg,-97.19694062999996,49.95575397700003,F1 55 Waterford Green Common,Winnipeg,MB,204-219-3565,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+76,76,Kingsbury Family Medical Centre,Medical Clinic,Winnipeg,-97.1527645,49.95236290000003,7 1099 Kingsbury Ave,Winnipeg,MB,204-615-8550,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+77,77,Minor Injury and Illness Clinic,Medical Clinic,Winnipeg,-97.16334879999994,49.86771760000005,102 1001 Corydon Ave,Winnipeg,MB,431-222-2273,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+78,78,Rusk Medical Corporation,Medical Clinic,Winnipeg,-97.089184,49.873535,54 Leonard Shakespear Bay,Winnipeg,MB,204-998-9874,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+79,79,Prota Clinic,Medical Clinic,Winnipeg,-97.200523386,49.84593969800005,4 930 Lorimer Blvd,Winnipeg,MB,204-837-7682,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+80,80,Easton Place Clinic,Medical Clinic,Interlake-Eastern,-96.88601679999994,50.16153330000003,15 Wersch St Box 63,Selkirk,MB,204-482-4044,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+81,81,Henderson Medical Centre,Medical Clinic,Winnipeg,-97.111287,49.919218,B 441 Henderson Hwy,Winnipeg,MB,204-415-2740,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+82,82,Regent West Medical Centre,Medical Clinic,Winnipeg,-97.06564949999996,49.89889040000003,2 1579 Regent Ave W,Winnipeg,MB,204-221-4414,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+83,83,Centre de bien-etre St. Claude and Haywood Wellness Centre (St. Claude Clinic),Medical Clinic,Southern Health-Santé Sud,-98.34484147999996,49.65349427700005,109 Aspen Ave S Box 269,St Claude,MB,204-379-2281,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+84,84,Vaniru Medical Centre,Medical Clinic,Winnipeg,-97.169083,49.914228,1200A 305 McPhillips St,Winnipeg,MB,0,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+85,85,Red Door Medical Clinic,Medical Clinic,Winnipeg,-97.095961,49.933715,1 2536 Main St,Winnipeg,MB,0,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+86,86,Kalo Medical Clinic,Medical Clinic,Winnipeg,-97.06737379999998,49.90791040000005,201 1107 Munroe Ave,Winnipeg,MB,204-560-3585,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+87,87,Ray of Hope Medical Centre,Medical Clinic,Winnipeg,-97.10196145699996,49.92923609300004,1 775 Henderson Hwy,Winnipeg,MB,204-800-2590,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+88,88,Bioscript Pharmacy,Pharmacy,Winnipeg,-97.203383,49.880437,101 1661 Portage Ave,Winnipeg,MB,204-949-9555,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+89,89,Boissevain Medical Clinic,Medical Clinic,Prairie Mountain Health,-100.0610414,49.22535330000005,305 Mill Rd Box 899,Boissevain,MB,204-534-3777,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+90,90,Pure Lifestyle Ltd.,Medical Clinic,Winnipeg,-97.194656,49.9007,1129 Empress St,Winnipeg,MB,204-338-7873,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+91,91,The Derm Centre,Medical Clinic,Winnipeg,-97.178724,49.856614,1385 Grant Ave,Winnipeg,MB,204-474-1221,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+92,92,Glenboro Medical Clinic,Medical Clinic,Prairie Mountain Health,-99.286754,49.559891,219 Murray Ave,Glenboro,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+93,93,Sport Manitoba Clinic,Medical Clinic,Winnipeg,-97.13443353199996,49.90062947500007,145 Pacific Ave,Winnipeg,MB,204-925-5944,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+94,94,Pembina Manitou Medical Clinic,Medical Clinic,Southern Health-Santé Sud,-98.53496003799997,49.23673000200006,232 Carrie St,Manitou,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+95,95,Hamiota Medical Clinic,Medical Clinic,Prairie Mountain Health,-100.5897444,50.18227030000003,177 Birch Ave E,Hamiota,MB,204-764-4218,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+96,96,Happy Family Medical and walkin clinic,Medical Clinic,Winnipeg,-97.156182,49.80545360000008,Suite-203. 2385 Pembina Hwy,Winnipeg,MB,204-306-5181,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+97,97,Home Health NP,Medical Clinic,Winnipeg,-97.088062,49.958616,2595 Main St,Winnipeg,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+98,98,The First Glance,Medical Clinic,Winnipeg,-97.20293916599996,49.85717750100008,1851 Grant Ave,Winnipeg,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+99,99,inMotion Sports Medicine Clinic,Pharmacy,Winnipeg,-97.047900025,49.83370247300007,803 50 Sage Creek Blvd,Winnipeg,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+100,100,Birth Centre - WHC,Medical Clinic,Winnipeg,-97.11113922199996,49.86319206200005,603 St Mary's Rd,Winnipeg,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+101,101,Kin Place Primary Care (Medical Clinic),Medical Clinic,Interlake-Eastern,-96.84233262899994,49.94476734700004,689 Main St,Oakbank,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+102,102,Scurfield Medical Centre,Medical Clinic,Winnipeg,-97.19904679999996,49.81523290000007,Unit 100 201 Scurfield Blvd,Winnipeg,MB,204-560-4288,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+103,103,Medigroup Health Centre,Medical Clinic,Winnipeg,-97.20278082999994,49.82793056300005,14 1585 Kenaston Blvd,Winnipeg,MB,204-410-5200,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+104,104,Otolaryngology Associates of Winnipeg,Medical Clinic,Winnipeg,-97.19977856499996,49.84309965300008,201 1020 Lorimer Blvd,Winnipeg,MB,204-943-0629,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+105,105,University Health Services (Bannatyne),Medical Clinic,Winnipeg,-97.16035520099996,49.90423198900004,727 McDermot Ave,Winnipeg,MB,0,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+106,106,SHSS Health Clinic,Medical Clinic,Southern Health-Santé Sud,-96.68701070099996,49.51609371400008,190 McKenzie Ave,Steinbach,MB,0,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+107,107,Winnipeg Beach Primary Care Clinic,Medical Clinic,Interlake-Eastern,-96.96768980099996,50.49835570400006,54 Main St,Winnipeg Beach,MB,0,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+108,108,Dr. Holly Hamilton Medical Clinic,Medical Clinic,Southern Health-Santé Sud,-98.55792700099994,49.53303346900003,14 Provencher Rd Box 393,Notre Dame de Lourdes,MB,204-248-2743,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+109,109,Birtle Pharmacy,Pharmacy,Prairie Mountain Health,-101.046646,50.422135,808 Main St,Birtle,MB,204-842-5333,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+110,110,Boyd Medical Pharmacy,Pharmacy,Winnipeg,-97.147201,49.891977,384 Portage Ave,Winnipeg,MB,204-415-3709,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+111,111,Brandon Clinic Pharmacy,Pharmacy,Prairie Mountain Health,-99.938467,49.840163,4 42 Mctavish Ave E,Brandon,MB,204-728-3642,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+112,112,Brathwaites Pharmacy,Pharmacy,Winnipeg,-97.212098,49.883767,1772 Ness Ave,Winnipeg,MB,204-888-2618,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+113,113,Bridgewater Pharmacy,Pharmacy,,,,3 405 Centre St,Winnipeg,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+114,114,Brown's Drug Store,Pharmacy,Winnipeg,-97.114425,49.914157,239 Henderson Hwy,Winnipeg,MB,204-668-0793,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+115,115,Canada Safeway 0719,Pharmacy,Winnipeg,-97.07309225399996,49.85405746400005,77 Vermillion Rd,Winnipeg,MB,204-257-1384-4,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+116,116,Canada Safeway Pharmacy,Pharmacy,Winnipeg,-97.196826,49.93771,850 Keewatin St,Winnipeg,MB,204-694-4190,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+117,117,Canadian Care Drugs Pharmacy,Pharmacy,Winnipeg,-97.11571196899996,49.93887922300007,1853 Main St,Winnipeg,MB,204-334-0101,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+118,118,Care At Home,Pharmacy,Winnipeg,-97.286608,49.880398,1 3140 Portage Ave,Winnipeg,MB,204-691-6980,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+119,119,Kildonan Medical Center,Medical Clinic,Winnipeg,-97.1488652,49.95517730000006,2300 Mcphillips St,Winnipeg,MB,204-632-3203,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+120,120,Care Innova Medical Clinic,Medical Clinic,,,,878 Main St,Winnipeg,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+121,121,Springfield Medical Clinic,Medical Clinic,Interlake-Eastern,-96.84202866899994,49.93981672000007,549 Main St,Oakbank,MB,204-444-5145,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+122,122,Northgate Medical Centre,Medical Clinic,Winnipeg,-97.1591135,49.93987960000004,1353 Mc Phillips St,Winnipeg,MB,204-338-3155,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+123,123,South Sherbrook Health Center,Medical Clinic,Winnipeg,-97.15991579999996,49.88129890000005,B 88 Sherbrook St,Winnipeg,MB,204-774-7196,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+124,124,Arborg Pharmacy,Pharmacy,Interlake-Eastern,-97.218618,50.907416,273 Main St Box 640,Arborg,MB,204-376-5153,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+125,125,Northern Connection Medical Centre,Medical Clinic,Winnipeg,-97.145263,49.902322,LL 425 Elgin Ave,Winnipeg,MB,204-940-8225,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+126,126,Trinity Medical Clinic,Medical Clinic,Prairie Mountain Health,-99.96146113599995,49.84446245000004,2 335 18th St,Brandon,MB,204-728-4141,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+127,127,Prime - A Health Centre For Seniors,Medical Clinic,Winnipeg,-97.23651711799994,49.87768079000006,203 Duffield St,Winnipeg,MB,204-833-1711,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+128,128,Dr A S Randunne & Dr S P Prematilake,Medical Clinic,Interlake-Eastern,-96.871773,50.141986,353 Eveline St,Selkirk,MB,204-482-3624,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+129,129,Elemental Professional Health Centre,Medical Clinic,Winnipeg,-97.15054959999998,49.83172090000005,1600 Pembina Hwy,Winnipeg,MB,204-475-1600,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+130,130,Archibald Medical Clinic,Medical Clinic,Winnipeg,-97.089192,49.87042,662 Elizabeth Rd,Winnipeg,MB,204-505-3058,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+131,131,Western Medical Clinic Medical Corporation,Medical Clinic,Prairie Mountain Health,-99.97115039999994,49.842618,Unit B 2425 Victoria Ave,Brandon,MB,204-727-6451,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+132,132,Tuxedo Family Medical Centre,Medical Clinic,Winnipeg,-97.18424549999996,49.86351830000007,1425 Corydon Ave,Winnipeg,MB,204-989-6048,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+133,133,Archibald Pharmacy,Pharmacy,Winnipeg,-97.08965562099996,49.87047857800007,662 Elizabeth Rd,Winnipeg,MB,204-505-3060,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+134,134,Dr C.W. Wiebe Medical Centre,Medical Clinic,Southern Health-Santé Sud,-97.93879300099996,49.18252266400003,385 Main St,Winkler,MB,204-331-2300,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+135,135,Pritchard Farm Health Centre,Medical Clinic,Winnipeg,-97.04627902999994,49.98659617600003,5 3014 Henderson Hwy E,East St. Paul,MB,204-654-3333,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+136,136,Aria Medical Centre,Medical Clinic,Winnipeg,-97.11389829999996,49.87228390000007,329 St Mary's Rd,Winnipeg,MB,204-505-0681,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+137,137,Pan Am Clinic,Medical Clinic,Winnipeg,-97.172776,49.853498,75 Poseidon Bay,Winnipeg,MB,204-927-2644,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+138,138,La Salle Medical Clinic,Medical Clinic,Southern Health-Santé Sud,-97.26546892,49.69115392400005,3 49 Principale Rue,La Salle,MB,204-228-9808,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+139,139,Bison Family Medical Clinic (Inside the Superstore),Medical Clinic,Winnipeg,-97.163622,49.800422,1 80 Bison Dr,Winnipeg,MB,204-275-1500,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+140,140,Prime Misericordia Health Centre,Medical Clinic,Winnipeg,-97.160284,49.879625,Prime 99 Cornish Ave,Winnipeg,MB,204-789-2404,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+141,141,Harmony Medical Centre,Medical Clinic,Prairie Mountain Health,-99.94636269999997,49.83543660000004,920 6th St,Brandon,MB,204-727-6464,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+142,142,Spring Meadow Clinic,Medical Clinic,Winnipeg,-97.02415259999998,49.90990390000007,Unit 19 1783 Plessis Rd,Winnipeg,MB,204-417-0028,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+143,143,Aria Pharmacy,Pharmacy,Winnipeg,-97.113843,49.872257,329 St Mary's Rd,Winnipeg,MB,204-231-1212,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+144,144,Winnipegosis Clinic,Medical Clinic,Prairie Mountain Health,-99.93191319999994,51.64039960000008,230 Bridge St Box 339,Winnipegosis,MB,204-656-4492,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+145,145,Pediatric Adolescent Cinic,Medical Clinic,Winnipeg,-97.11954,49.882201,102 200 Goulet St,Winnipeg,MB,204-943-7888,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+146,146,Arlington Pharmacy,Pharmacy,Winnipeg,-97.168018,49.904478,909 Notre Dame Ave,Winnipeg,MB,204-505-5940,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+147,147,Dr Asita Mehta,Medical Clinic,Winnipeg,-97.11951069399998,49.88229590800006,3rd Fl 200 Goulet St,Winnipeg,MB,204-231-3232,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+148,148,St Norbert Medical Clinic,Medical Clinic,Winnipeg,-97.15284379999996,49.76504390000008,3554 Pembina Hwy,Winnipeg,MB,204-415-4844,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+149,149,Norwest Co-op at Bluebird,Medical Clinic,Winnipeg,-97.194687,49.920322,100 97 Keewatin St,Winnipeg,MB,204-938-5900-1,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+150,150,Arrowwood Medical Centre,Medical Clinic,Winnipeg,-97.03577319999994,49.94438910000008,2 925 Headmaster Row,Winnipeg,MB,204-615-4635,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+151,151,Arrowwood Pharmacy,Pharmacy,Winnipeg,-97.035584,49.944545,2 925 Headmaster Row,Winnipeg,MB,204-615-4633,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+152,152,Atlantic Medical Centre,Medical Clinic,Winnipeg,-97.16511239999994,49.93381370000003,1054 Mcphillips St,Winnipeg,MB,204-505-1580,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+153,153,Dr. Shaker,Medical Clinic,Interlake-Eastern,-96.871327,50.143333,(B) 210 Clandeboye Ave,Selkirk,MB,204-482-4525,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+154,154,Dr Klassen,Medical Clinic,Winnipeg,-97.109916,49.947919,111 2110 Main St,Winnipeg,MB,204-338-7853,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+155,155,Midcity Medical Centre and Walk-In Clinic,Medical Clinic,Winnipeg,-97.118381,49.881856,219 Marion St,Winnipeg,MB,204-989-2056,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+156,156,Parkview Professional Centre,Medical Clinic,Winnipeg,-97.109916,49.947919,111 2110 Main St,Winnipeg,MB,204-338-7853,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+157,157,Dr Habtu Demsas,Medical Clinic,Interlake-Eastern,-96.871773,50.141986,353 Eveline St,Selkirk,MB,204-785-7660,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+158,158,Dr L.C. Bartlett,Medical Clinic,Winnipeg,-97.147158,49.890339,1620 233 Kennedy St,Winnipeg,MB,204-942-8388,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+159,159,Baidwan Medical Clinic,Medical Clinic,Winnipeg,-97.165653,49.893362,747 Ellice Ave,Winnipeg,MB,204-774-8530,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+160,160,Ashern Medical Clinic,Medical Clinic,Interlake-Eastern,-98.352601,51.180275,1 Steenson Dr Box 110,Ashern,MB,204-768-3404,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+161,161,Dr Leroux & Dr Salib,Medical Clinic,Prairie Mountain Health,-101.262853,52.106674,1000 Main St Box 1828,Swan River,MB,204-734-3663,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+162,162,Broadway Medical Clinic,Medical Clinic,Winnipeg,-97.160057,49.887567,B 676 Portage Ave,Winnipeg,MB,204-775-7607,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+163,163,Dr Gouda's Medical Clinic,Medical Clinic,Prairie Mountain Health,-101.264339,52.106427,3 900 Main St,Swan River,MB,204-734-2769,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+164,164,Oakfield Medical Consultants & Associates,Medical Clinic,Winnipeg,-97.14682,49.956197,106 1021 Court Ave,Winnipeg,MB,204-334-4368,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+165,165,Fort Street Clinic,Medical Clinic,Winnipeg,-97.139805,49.894228,300 Fort St,Winnipeg,MB,204-940-5501,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+166,166,Mccreary/Alonsa Medical Clinic,Medical Clinic,Prairie Mountain Health,-99.490811,50.769089,Box 250,McCreary,MB,204-835-2586,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+167,167,Dr J L Cordova,Medical Clinic,Winnipeg,-97.159255,49.87961,8 25 Sherbrook St,Winnipeg,MB,204-942-2728,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+168,168,Macgregor Health Centre Clinic,Medical Clinic,Southern Health-Santé Sud,-98.775803,49.962329,87 Grafton St,MacGregor,MB,204-685-2860,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+169,169,Dr D Kahanovitch,Medical Clinic,Winnipeg,-97.146588,49.894665,203 355 Ellice Ave,Winnipeg,MB,204-943-7861,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+170,170,Prairie Trail At The Oaks,Medical Clinic,Winnipeg,-97.148844,49.95518,Rm 2MCO2 2300 Mcphillips Ave,Winnipeg,MB,204-694-4222,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+171,171,Ashern Pharmacy,Pharmacy,Interlake-Eastern,-98.34674079999996,51.18189168800006,43 Main St,Ashern,MB,204-768-2824,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+172,172,Mcgregor Clinic,Medical Clinic,Winnipeg,-97.140704,49.927949,561 Machray Ave,Winnipeg,MB,204-956-9800,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+173,173,Marc Susser Md Family Practice,Medical Clinic,Winnipeg,-97.12335,49.884714,401 400 Tache Ave,Winnipeg,MB,204-231-5500,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+174,174,Dr Elbardisy,Medical Clinic,Interlake-Eastern,-96.871773,50.141986,353 Eveline St,Selkirk,MB,204-785-2627,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+175,175,Dr Pacin,Medical Clinic,Winnipeg,-97.17950261099998,49.83437118100005,10 1200 Waverley Ave,Winnipeg,MB,204-954-3910,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+176,176,Dr A P Thottingal,Medical Clinic,Winnipeg,-97.147276,49.891929,803 388 Portage Ave,Winnipeg,MB,204-947-1219,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+177,177,Ashern Pharmcy Medical Clinic,Medical Clinic,Interlake-Eastern,-98.34674079999996,51.18189168800006,43 Main St,Ashern,MB,204-768-3565,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+178,178,Rehal Medical Centre,Medical Clinic,Winnipeg,-97.21039,49.879184,1763 Portage Ave,Winnipeg,MB,204-414-9033,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+179,179,Balmoral Medical Centre,Medical Clinic,Winnipeg,-97.151833,49.896828,5 555 Balmoral St,Winnipeg,MB,204-938-8705,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+180,180,Dr W J Manishen,Medical Clinic,Winnipeg,-97.12343816899994,49.88482845300007,405 400 Tache Ave,Winnipeg,MB,204-943-9108,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+181,181,Dr Gene Theodore's Office,Medical Clinic,Prairie Mountain Health,-101.26745,52.105895,700 Main St,Swan River,MB,204-734-2081,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+182,182,Dr Sameh Mikhaiel,Medical Clinic,Prairie Mountain Health,-101.264339,52.106427,3 900 Main St,Swan River,MB,204-734-6354,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+183,183,Morris Clinic,Medical Clinic,Southern Health-Santé Sud,-97.360794,49.353082,215 Railroad Ave E,Morris,MB,204-746-2387,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+184,184,Assiniboine Pharmacy,Pharmacy,Winnipeg,-97.284569,49.880851,D 3111 Portage Ave,Winnipeg,MB,204-615-1144,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+185,185,Eriksdale Medical Clinic,Medical Clinic,Interlake-Eastern,-98.104792,50.863423,35 Railway Ave,Eriksdale,MB,204-739-2672,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+186,186,Dr Theo Marx,Medical Clinic,Prairie Mountain Health,-101.264339,52.106427,900 Main St,Swan River,MB,204-734-3812,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+187,187,You! Medical Centres,Medical Clinic,Winnipeg,-97.104617,49.911369,Unit D 359 Johnson Ave W,Winnipeg,MB,204-504-5121,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+188,188,Elie Medical Clinic,Medical Clinic,Southern Health-Santé Sud,-97.757085,49.899759,Box 447,Elie,MB,204-353-4514,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+189,189,Mckenzie Medical Clinic,Medical Clinic,Winnipeg,-97.15027,49.917145,634 Selkirk Ave,Winnipeg,MB,204-582-7755,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+190,190,Dr Mohinder Singh's Office,Medical Clinic,Prairie Mountain Health,-101.259151,52.117592,Box 1150,Swan River,MB,204-734-2141,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+191,191,Legacy Sport Medicine,Medical Clinic,Winnipeg,-97.110245,49.82576,14 160 Meadowood Dr,Winnipeg,MB,204-949-1099,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+192,192,DR L BENSHABAN,Medical Clinic,Interlake-Eastern,-96.874354,50.144174,373 Main St,Selkirk,MB,204-482-8953,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+193,193,Isabel Medical Center,Medical Clinic,Winnipeg,-97.15014979999997,49.90141860000006,Isabel Medical Centre 110 Isabel St,Winnipeg,MB,204-415-6397,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+194,194,Neurology Associates,Medical Clinic,Winnipeg,-97.15141099699996,49.87141311600004,101 698 Corydon Ave,Winnipeg,MB,204-284-5551,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+195,195,Dr K Sethi,Medical Clinic,Northern,-101.875235,54.764911,Rm 221 35 Main St,Flin Flon,MB,204-687-4415,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+196,196,Roblin Medical Clinic,Medical Clinic,Prairie Mountain Health,-101.36251,51.227667,15 Hospital St,Roblin,MB,204-937-8312,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+197,197,Morag Fisher Medical Clinic,Medical Clinic,Winnipeg,-97.150775,49.877491,586 River Ave,Winnipeg,MB,204-944-6229,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+198,198,Dr J D Sanchez,Medical Clinic,Winnipeg,-97.16856,49.886104,865 Portage Ave,Winnipeg,MB,204-414-9092,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+199,199,Dr Rich's Office - Swan River,Medical Clinic,Prairie Mountain Health,-101.26745,52.105895,700 Main St,Swan River,MB,204-734-4634,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+200,200,Dr Sinha,Medical Clinic,Winnipeg,-97.123599,49.881225,120 Marion St,Winnipeg,MB,204-237-6482,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+201,201,Quick Care Clinic - St Boniface,Medical Clinic,Winnipeg,-97.127252173,49.88043087100004,17 St Mary's Rd,Winnipeg,MB,204-940-4332,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+202,202,Medicare Clinic - Maples,Medical Clinic,Winnipeg,-97.16894021999995,49.95334136200006,1287 Jefferson Ave,Winnipeg,MB,204-414-1139,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+203,203,Viva Care Kenaston,Medical Clinic,Winnipeg,-97.199229173,49.82333488000006,1665 Kenaston Blvd,Winnipeg,MB,204-452-8482,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+204,204,Dr Rich's Office - Thompson,Medical Clinic,Northern,-97.854843,55.741576,55 Selkirk Ave,Thompson,MB,204-677-4521,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+205,205,Clinic - 1,Medical Clinic,Winnipeg,-97.14202,49.897357,286 Mcdermot Ave,Winnipeg,MB,204-957-5300,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+206,206,Oasis Medical Clinic,Medical Clinic,Southern Health-Santé Sud,-96.692246,49.548421,184 Pth 12N,Steinbach,MB,204-326-4555,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+207,207,Tache Obstetrics & Gynecology,Medical Clinic,Winnipeg,-97.12365767799996,49.88469357100007,305 400 Tache Ave,Winnipeg,MB,204-237-4694,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+208,208,Dr Shadi Rezazadeh,Medical Clinic,Interlake-Eastern,-97.255002,50.386908,162 3rd Ave SE,Teulon,MB,204-886-3996,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+209,209,Red River Family Medical Centre,Medical Clinic,Winnipeg,-97.142254,49.89334,100 286 Smith St,Winnipeg,MB,204-414-0019,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+210,210,Corydon Village Medical Centre,Medical Clinic,Winnipeg,-97.19756139999998,49.86334730000004,105 1700 Corydon Ave,Winnipeg,MB,204-505-2090,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+211,211,St. Anne's Medical Clinic (Inside the Superstore),Medical Clinic,Winnipeg,-97.10269569999996,49.85754430000003,215 St Anne's Rd,Winnipeg,MB,204-254-2464,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+212,212,Dr Robert Zoppa,Medical Clinic,Interlake-Eastern,-96.874354,50.144174,373 Main St,Selkirk,MB,204-785-8588,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+213,213,Millennium Medical Center,Medical Clinic,Winnipeg,-97.152799,49.889807,311 Balmoral St,Winnipeg,MB,204-505-2977,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+214,214,Neurology Associates,Medical Clinic,Winnipeg,-97.15123,49.871211,101 698 Corydon Ave,Winnipeg,MB,204-284-5551,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+215,215,Concordia Medical Centre,Medical Clinic,Winnipeg,-97.06477379999995,49.91168910000005,201 1100 Concordia Ave,Winnipeg,MB,204-667-1100,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+216,216,Hope Medical Clinic,Medical Clinic,Interlake-Eastern,-97.326237,50.133069,Unit 4-B 408 Main St,Stonewall,MB,204-467-7595,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+217,217,St Mary Medical Clinic,Medical Clinic,Prairie Mountain Health,-99.962531,49.828822,150 1300 18th St,Brandon,MB,204-717-7500,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+218,218,Healthway Medical Clinic,Medical Clinic,Winnipeg,-97.133773,49.909325,862 Main St,Winnipeg,MB,204-414-9292,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+219,219,Healthway Medical Clinic Ii,Medical Clinic,Winnipeg,-97.13344899799996,49.90930116300007,862 Main St,Winnipeg,MB,204-415-7575,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+220,220,Grunthal Medical Clinic,Medical Clinic,Southern Health-Santé Sud,-96.858006,49.407047,A 169 Main St Box 1280,Grunthal,MB,204-381-6621,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+221,221,Dr. P Shenouda - Winnipeg Clinic,Medical Clinic,Winnipeg,-97.148081,49.889395,3rd Flr 425 St Mary Ave,Winnipeg,MB,204-957-3377,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+222,222,Saint Mark Medical Clinic,Medical Clinic,Winnipeg,-97.155849,49.949255,2132 Mcphillips St,Winnipeg,MB,204-416-0038,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+223,223,Quarry Ridge Medical Clinic,Medical Clinic,Interlake-Eastern,-97.32826179999996,50.13138190000006,469 First St W,Stonewall,MB,204-467-9707,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+224,224,Gera Medical Clinic,Medical Clinic,Winnipeg,-97.14598129999996,49.95625180000008,4 2358 McPhillips St,Winnipeg,MB,204-691-2202,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+225,225,Rasha Medical Clinic,Medical Clinic,Winnipeg,-97.14610179999994,49.86513270000006,15 584 Pembina Hwy,Winnipeg,MB,204-691-5000,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+226,226,Dr. J. Awad - Winnipeg Clinic,Medical Clinic,Winnipeg,-97.148081,49.889395,3rd Flr 425 St Mary Ave,Winnipeg,MB,204-957-3377,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+227,227,Lac Du Bonnet Medical Group,Medical Clinic,Interlake-Eastern,-96.05856767199998,50.25704029800005,40 Park Ave Box 1780,Lac du Bonnet,MB,204-345-5555,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+228,228,Sara Gretchen Sasse Medical Corporation,Medical Clinic,Winnipeg,-97.186805,49.884591,600 Clifton St,Winnipeg,MB,204-691-9880,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+229,229,Clinicare Medical Centre,Medical Clinic,Winnipeg,-97.15362895699997,49.84544993500003,1189 Pembina Hwy,Winnipeg,MB,204-691-5353,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+230,230,Harbourview Medical Centre and Walk In Clinic,Medical Clinic,Winnipeg,-97.050211,49.911955,10 1320 Concordia Ave E,Winnipeg,MB,204-942-2234,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+231,231,Care Innova Pharmacy,Pharmacy,Winnipeg,-97.21078882999996,49.91143618800004,3 1830 Dublin Ave,Winnipeg,MB,204-694-2099,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+232,232,Careplus Selkirk Pharmacy,Pharmacy,Interlake-Eastern,-96.874354,50.144174,373 Main St,Selkirk,MB,204-482-3848,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+233,233,CarePlus Transcona Pharmacy,Pharmacy,Winnipeg,-97.030001,49.894751,2 850 Regent Ave W,Winnipeg,MB,204-222-5584,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+234,234,Carman Pharmacy,Pharmacy,Southern Health-Santé Sud,-98.00315072399997,49.50731712800007,34 1st St SW Box 1700,Carman,MB,204-745-3620,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+235,235,Celestial Pharmacy,Pharmacy,Winnipeg,-97.170117,49.89313,842 Ellice Ave,Winnipeg,MB,204-615-1946,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+236,236,Cinden Pharmacy,Pharmacy,Winnipeg,-97.19501883199996,49.81690390200004,A 123 Scurfield Blvd,Winnipeg,MB,204-488-1819,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+237,237,Clarkes Pharmacy,Pharmacy,Northern,-97.851193,55.742003,50 Selkirk Ave,Thompson,MB,204-778-7008,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+238,238,The Prescription Shop #3,Pharmacy,Winnipeg,-97.15183000899998,49.89682998000006,3 555 Balmoral St,Winnipeg,MB,204-944-0954,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+239,239,Clayman Pharmacy,Pharmacy,Winnipeg,-97.15287393499996,49.95244367300006,1 1099 Kingsbury Ave,Winnipeg,MB,204-261-4214,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+240,240,Wal-Mart Pharmacy #3116,Pharmacy,Winnipeg,-97.194685,49.897054,1001 Empress St,Winnipeg,MB,204-452-8410,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+241,241,Clinic Drugstore,Pharmacy,Southern Health-Santé Sud,-98.092835,49.189268,135 30 Stephen St,Morden,MB,204-822-6667,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+242,242,Clinic One Pharmacy,Pharmacy,Winnipeg,-97.14188823299996,49.89754298700007,286 Mcdermot Ave,Winnipeg,MB,204-957-5355,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+243,243,Morden Drugstore,Pharmacy,Southern Health-Santé Sud,-98.098352,49.190166,104 215 Stephen St,Morden,MB,204-822-9992,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+244,244,Open Health Niverville,Medical Clinic,Southern Health-Santé Sud,-97.04554469999994,49.60193340000006,A 161 2nd Ave S,Niverville,MB,204-388-6626,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+245,245,Clinique Notre-Dame Clinic,Medical Clinic,Southern Health-Santé Sud,-98.55617352999997,49.53152850600003,44 Rogers St,Notre Dame de Lourdes,MB,204-284-2252,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+246,246,Shoppers Drug Mart #2421,Pharmacy,Winnipeg,-97.165521,49.932195,1017 Mcphillips St,Winnipeg,MB,204-586-8091,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+247,247,Concordia Community Pharmacy,Pharmacy,Winnipeg,-97.064653,49.9134,4 1095 Concordia Ave,Winnipeg,MB,204-669-4500,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+248,248,Northway Pharmacy Broadway,Pharmacy,Winnipeg,-97.155324,49.885442,618 Broadway Ave,Winnipeg,MB,204-783-1887,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+249,249,Super Thrifty Pharmacy,Pharmacy,Prairie Mountain Health,-99.953367,49.826615,1100 Richmond Ave,Brandon,MB,204-728-5730,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+250,250,Costco #153,Pharmacy,Winnipeg,-97.051509,49.897135,1499 Regent Ave W,Winnipeg,MB,204-654-3153,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+251,251,Grand Medicine Health Services,Pharmacy,Winnipeg,-97.20158814799998,49.90277783900007,Unit 15 801 Century St,Winnipeg,MB,204-885-0768,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+252,252,Costco Pharmacy,Pharmacy,Winnipeg,-97.208811,49.819673,2365 McGillivary Blvd,Winnipeg,MB,204-487-5109,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+253,253,Costco Pharmacy #057,Pharmacy,Winnipeg,-97.198587,49.903407,1315 St James St,Winnipeg,MB,204-788-4561,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+254,254,Costco Pharmacy #57,Pharmacy,Winnipeg,-97.198587,49.903407,1315 St James St,Winnipeg,MB,204-788-4561,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+255,255,Shoppers Drug Mart #2460,Pharmacy,Winnipeg,-97.152299982,49.84771999100008,1122 Pembina Hwy,Winnipeg,MB,204-284-8895,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+256,256,Leila Pharmacy,Pharmacy,Winnipeg,-97.13400865799996,49.94896307100004,632 Leila Ave,Winnipeg,MB,204-228-3304,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+257,257,Crestview Pharmacy,Pharmacy,Winnipeg,-97.156988,49.893071,561 Ellice Ave,Winnipeg,MB,204-775-5556,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+258,258,Medicine Shoppe Pharmacy # 290,Pharmacy,Winnipeg,-97.15736751299994,49.79104998500003,101 2800 Pembina Hwy,Winnipeg,MB,204-275-3333,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+259,259,The Medicine Shoppe Pharmacy # 331,Pharmacy,Winnipeg,-97.13266277599996,49.86298117300004,Unit 1A 660 Osborne St,Winnipeg,MB,204-504-9333,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+260,260,The Medicine Shoppe Pharmacy # 319,Pharmacy,Winnipeg,-97.11429090099996,49.82460219900003,Unit D 1510 St Mary's Rd,Winnipeg,MB,204-421-9200,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+261,261,Villagio Pharmacy,Pharmacy,Southern Health-Santé Sud,-96.98512996399997,49.44080000700006,503 Sabourin St,St-Pierre-Jolys,MB,204-433-7897,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+262,262,Shoppers Drug Mart #553,Pharmacy,Winnipeg,-97.26105914799996,49.85797740000004,1A 3900 Grant Ave,Winnipeg,MB,204-888-2112,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+263,263,Crossroads Pharmacy,Pharmacy,Winnipeg,-97.065812,49.89813,2 1579 Regent Ave W,Winnipeg,MB,0,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+264,264,Youville Community Health Centre,Medical Clinic,Winnipeg,-97.10460359999996,49.82907150000005,6 845 Dakota St,Winnipeg,MB,204-255-4840,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+265,265,Dauphin Clinic Pharmacy,Pharmacy,Prairie Mountain Health,-100.060976,51.147031,622 3rd St SW,Dauphin,MB,204-638-4602,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+266,266,Killarney Pharmacy,Pharmacy,Prairie Mountain Health,-99.664666502,49.18431873000003,7A 530 Williams St SW,Killarney,MB,204-523-4273,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+267,267,North Mart and Muskehki Pharmacy,Pharmacy,Winnipeg,-97.182821,49.892338,A 910 Wall St,Winnipeg,MB,204-775-9092,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+268,268,Dc Obstetrics & Gynecology,Pharmacy,Winnipeg,-97.126625,49.882154,47 Marion St,Winnipeg,MB,204-925-3600,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+269,269,Loblaw Pharmacy#1506,Pharmacy,Winnipeg,-97.066396,49.894272,1578 Regent Ave W,Winnipeg,MB,204-654-5535,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+270,270,Sobeys Steinbach #5164,Pharmacy,Southern Health-Santé Sud,-96.691251,49.547162,1 178 Pth 12N,Steinbach,MB,204-326-3493,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+271,271,Greencrest Pharmacy,Pharmacy,Winnipeg,-97.15680172999998,49.79202613200005,1 2770 Pembina Hwy,Winnipeg,MB,204-415-3404,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+272,272,Wal-Mar Pharmacy #3118,Pharmacy,Winnipeg,-97.150081,49.95761,2370 Mcphillips St,Winnipeg,MB,204-338-0341,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+273,273,Rexall #7402,Pharmacy,Winnipeg,-97.27333,49.880296,633 Lodge Ave,Winnipeg,MB,204-989-4030,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+274,274,The Medicine Shoppe Pharmacy #319,Pharmacy,Winnipeg,-97.114842,49.824958,D 1510 St Mary's Rd,Winnipeg,MB,204-421-9200,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+275,275,Red River Co-op @ Southdale,Pharmacy,Winnipeg,-97.073409,49.854461,77 Vermillion Rd,Winnipeg,MB,204-257-1384,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+276,276,Safeway 4856 (FreshCo 4287),Pharmacy,Winnipeg,-97.101464,49.855309,2 Alpine Ave,Winnipeg,MB,204-255-8377,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+277,277,Shoppers Drug Mart #551,Pharmacy,Winnipeg,-97.198025,49.883907,L178 1485 Portage Ave,Winnipeg,MB,204-775-2478,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+278,278,The Medicine Shoppe Pharmacy #329,Pharmacy,Prairie Mountain Health,-99.94830232199996,49.84120440900006,C 541 8th St,Brandon,MB,204-717-7200,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+279,279,Safeway Marion #4842,Pharmacy,Winnipeg,-97.114696,49.882,285 Marion St,Winnipeg,MB,204-237-6803,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+280,280,Safeway/Sobeys Kildare #4857,Pharmacy,Winnipeg,-96.985596,49.900134,654 Kildare Ave E,Winnipeg,MB,204-222-6849,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+281,281,Sobeys Grant Park #5150,Pharmacy,Winnipeg,-97.165101,49.852293,1150 Taylor Ave,Winnipeg,MB,204-474-1722,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+282,282,Wal-Mart Pharmacy #1141,Pharmacy,Southern Health-Santé Sud,-96.692246,49.548421,184 Pth 12N,Steinbach,MB,204-346-9781,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+283,283,Wal-Mart Pharmacy #3022,Pharmacy,Prairie Mountain Health,-100.062267,51.137618,1450 Main St S,Dauphin,MB,204-638-4835,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+284,284,Wal-Mart Pharmacy #3119,Pharmacy,Winnipeg,-97.110174,49.829005,54 1225 St Mary's Rd,Winnipeg,MB,204-257-8020,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+285,285,Rexall #4846,Pharmacy,Winnipeg,-97.112264,49.819269,33F 1633 St Mary's Rd,Winnipeg,MB,204-244-8998,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+286,286,Red River Co-op Grant Park,Pharmacy,Winnipeg,-97.16457,49.857734,1120 Grant Ave,Winnipeg,MB,204-453-2668 ext 4,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+287,287,Safeway Pharmacy #4821,Pharmacy,Winnipeg,-97.082663,49.946193,1441 Henderson Hwy,Winnipeg,MB,204-338-0225,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+288,288,Safeway Ness #4822,Pharmacy,Winnipeg,-97.204763,49.881951,1612 Ness Ave,Winnipeg,MB,204-775-2414,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+289,289,Safeway Pharmacy #4824,Pharmacy,Winnipeg,-97.144706,49.924164,594 Mountain Ave,Winnipeg,MB,204-589-0788,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+290,290,Safeway Pharmacy #0712,Pharmacy,Winnipeg,-97.142809,49.953503,841 Leila Ave,Winnipeg,MB,204-339-1908,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+291,291,Shoppers Drug Mart #2406,Pharmacy,Winnipeg,-97.259919,49.875544,2533 Portage Ave,Winnipeg,MB,204-896-3256,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+292,292,Safeway Lindenridge #4859,Pharmacy,Winnipeg,-97.201538,49.825849,1625 Kenaston Blvd,Winnipeg,MB,204-488-9411,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+293,293,Shoppers Drug Mart #2501,Pharmacy,Winnipeg,-97.061529,49.912055,100 1155 Concordia Ave,Winnipeg,MB,204-669-1722,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+294,294,Drug store Pharmacy # 9079,Pharmacy,Northern,-101.2537192729999,53.82847254800004,12 Hwy #10 N,The Pas,MB,204-623-1289,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+295,295,Wal-Mart Pharmacy #3004,Pharmacy,Prairie Mountain Health,-99.958547,49.867996,903 18th St N,Brandon,MB,204-728-4427,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+296,296,Wal-Mart Pharmacy #3107,Pharmacy,Winnipeg,-97.064255,49.89372,1576 Regent Ave W,Winnipeg,MB,204-661-6956,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+297,297,Red River Co-op Pharmacy Main,Pharmacy,Winnipeg,-97.124616,49.925691,1425 Main St,Winnipeg,MB,204-586-0007,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+298,298,Pharmacie Dufresne,Pharmacy,Southern Health-Santé Sud,-96.87077219499996,49.73894921000004,10 1321 Dawson Rd,Lorette,MB,204-878-4122,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+299,299,Wal-Mart Pharmacy #3102,Pharmacy,Northern,-97.848144,55.743948,300 Mystery Lake Rd,Thompson,MB,204-778-4675,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+300,300,Northway Pharmacy Harbourview,Pharmacy,Winnipeg,-97.050236,49.911907,10 1320 Concordia Ave,Winnipeg,MB,204-661-6265,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+301,301,Drugstore Pharmacy #9081,Pharmacy,Prairie Mountain Health,-101.260149,52.107334,1200 Main St Box 209,Swan River,MB,204-734-5535,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+302,302,Safeway Osborne and Kylemore #4844,Pharmacy,Winnipeg,-97.133665,49.862816,655 Osborne St,Winnipeg,MB,204-452-8604,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+303,303,Red River Co-op Pharmacy St. Vital,Pharmacy,Winnipeg,-97.106421,49.828193,850 Dakota St,Winnipeg,MB,204-253-7899,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+304,304,Safeway Pharmacy #4849,Pharmacy,Winnipeg,-97.21233661799994,49.86699530800007,2025 Corydon Ave,Winnipeg,MB,204-488-4996,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+305,305,Drugstore Pharmacy #9081 - Extra Foods,Pharmacy,Prairie Mountain Health,-101.260149,52.107334,1200 Main St,Swan River,MB,204-734-5647,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+306,306,Shoppers Drug Mart #545,Pharmacy,Southern Health-Santé Sud,-96.68214000599994,49.52417002000004,382 Main St,Steinbach,MB,204-326-3747,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+307,307,Shoppers Drug Mart #559,Pharmacy,Winnipeg,-97.194255,49.937398,795 Keewatin St,Winnipeg,MB,204-694-8209,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+308,308,Shoppers Drugmart #2414,Pharmacy,Winnipeg,-97.124998,49.884004,409 Tache Ave,Winnipeg,MB,204-231-4000,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+309,309,Shoppers Drug Mart #2424,Pharmacy,Prairie Mountain Health,-99.936857,49.842583,139 Victoria Ave E,Brandon,MB,204-727-4248,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+310,310,Tache Pharmacy,Pharmacy,Winnipeg,-97.12338314699996,49.88465170500007,400 Tache Ave,Winnipeg,MB,204-233-3469,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+311,311,Dueck Drug Store,Pharmacy,Southern Health-Santé Sud,-96.565395,49.134564,207 Railway Ave Box 190,Vita,MB,204-425-3473,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+312,312,Wal-Mart Pharmacy #3177,Pharmacy,Winnipeg,-97.19859,49.823597,1665 Kenaston Blvd,Winnipeg,MB,204-488-1560,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+313,313,Safeway Pharmacy #590,Pharmacy,Winnipeg,-97.094513,49.933565,965 Henderson Hwy,Winnipeg,MB,204-661-9532,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+314,314,Safeway Pharmacy #4832,Pharmacy,Northern,-97.848311573,55.74417397700006,300 Mystery Lake Rd,Thompson,MB,204-677-3064,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+315,315,Safeway Pharmacy #4829,Pharmacy,Prairie Mountain Health,-99.960431,49.866437,921 18th St N,Brandon,MB,204-727-0924,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+316,316,Safeway Food And Drug Pharmacy #628,Pharmacy,Prairie Mountain Health,-99.9621,49.876193,1610 18th St,Brandon,MB,204-727-1126,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+317,317,Safeway River Avenue #4867,Pharmacy,Winnipeg,-97.148545,49.879453,499 River Ave,Winnipeg,MB,204-474-2297,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+318,318,Shoppers Drug Mart #532,Pharmacy,Winnipeg,-97.15649001199996,49.79600000200003,2656 Pembina Hwy,Winnipeg,MB,204-269-3927,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+319,319,Shoppers Drug Mart #2422,Pharmacy,Winnipeg,-97.156683,49.901409,777 Sherbrook St W,Winnipeg,MB,204-772-1317,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+320,320,Easton Place Pharmacy,Pharmacy,Interlake-Eastern,-96.885836,50.162113,15 Wersch St,Selkirk,MB,204-482-1980,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+321,321,Harris Pharmacy,Pharmacy,Prairie Mountain Health,-99.466826,50.229219,424 Mountain Ave,Neepawa,MB,204-476-2987,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+322,322,Safeway #4826 (FreshCo #4288),Pharmacy,Winnipeg,-97.15405287099998,49.84036757600006,1319 Pembina Hwy,Winnipeg,MB,204-477-5404,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+323,323,Freshco Pharmacy #4259,Pharmacy,Winnipeg,-97.157637,49.944991,920 Jefferson Ave,Winnipeg,MB,204-694-1829,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+324,324,Shoppers Drug Mart #537,Pharmacy,Winnipeg,-97.15402003199996,49.81044998400006,2211 Pembina Hwy,Winnipeg,MB,204-269-8113,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+325,325,Sobeys Pharmacy #5180,Pharmacy,Winnipeg,-97.007838,49.974911,3156 Birds Hill Rd,East St Paul,MB,204-654-1899,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+326,326,Loblaw Pharmacy #1508,Pharmacy,Winnipeg,-97.288413,49.882844,3193 Portage Ave,Winnipeg,MB,204-831-3535,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+327,327,Sobeys Pharmacy #5155,Pharmacy,Winnipeg,-97.067467,49.904218,7 Reenders Dr,Winnipeg,MB,204-669-5422,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+328,328,Sobeys Kenaston #5166,Pharmacy,Winnipeg,-97.204017,49.821492,1660 Kenaston Blvd,Winnipeg,MB,204-489-3968,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+329,329,Rexall Pharmaplus #4838,Pharmacy,Winnipeg,-97.123205,49.881598,123 Marion Ave,Winnipeg,MB,204-233-0188,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+330,330,Rexall #7405,Pharmacy,Winnipeg,-97.15624637499997,49.80537741300003,100 2385 Pembina Hwy,Winnipeg,MB,204-269-2391,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+331,331,Ebbeling Pharmacy,Pharmacy,Winnipeg,-97.091462,49.923595,722 Watt St,Winnipeg,MB,204-668-1593,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+332,332,Rexall #4816,Pharmacy,Winnipeg,-97.295283,49.880644,3310 Portage Ave,Winnipeg,MB,204-982-4140,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+333,333,Rexall #7403,Pharmacy,Winnipeg,-97.13364,49.909635,874 Main St,Winnipeg,MB,204-943-5206,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+334,334,Rexall #4817,Pharmacy,Winnipeg,-97.19452851299997,49.92134306600008,1794 Logan Ave,Winnipeg,MB,204-982-4110,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+335,335,Rexall Pharmaplus #4903,Pharmacy,Winnipeg,-97.246979,49.876295,2305 Portage Ave,Winnipeg,MB,204-837-8379,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+336,336,Selkirk Pharmacy,Pharmacy,Interlake-Eastern,-96.87183109599994,50.14202408500006,24 353 Eveline St,Selkirk,MB,204-482-8913,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+337,337,Target Pharmacy T-3644,Pharmacy,Winnipeg,-97.06003031499996,49.89690107600006,1545 Regent Ave W,Winnipeg,MB,204-654-6781-6,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+338,338,Keewatin Medical Center Pharmacy Inc,Pharmacy,Winnipeg,-97.196666,49.942934,6 998 Keewatin St,Winnipeg,MB,204-615-0010,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+339,339,Ste Rose Super Thrifty,Pharmacy,Prairie Mountain Health,-99.523488,51.059557,610 Central Ave,Ste Rose Du Lac,MB,204-447-2878,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+340,340,LifeSmart Pharmacy Seven Oaks,Pharmacy,Winnipeg,-97.117155,49.938797,1840 Main St,Winnipeg,MB,204-417-9544,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+341,341,People's Pharmacy,Pharmacy,Winnipeg,-97.202158,49.879837,1632 Portage Ave,Winnipeg,MB,204-788-0395,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+342,342,Shoppers Drug Mart #554,Pharmacy,Winnipeg,-97.15804,49.901693,106 790 Sherbrook St,Winnipeg,MB,204-779-1996,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+343,343,The Medicine Shope Pharmacy #313,Pharmacy,Winnipeg,-97.155358,49.941037,10 1399 McPhillips St,Winnipeg,MB,204-334-1075,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+344,344,Loblaw Pharmacy #1509,Pharmacy,Winnipeg,-97.163791,49.800047,80 Bison Dr,Winnipeg,MB,204-275-4130,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+345,345,Pembina Valley Pharmacy,Pharmacy,Southern Health-Santé Sud,-97.555073,49.105028,A 58 2nd St NE,Altona,MB,204-324-5550,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+346,346,The Pas Super Thrifty Drug Mart,Pharmacy,Northern,-101.26184206,53.83445754100006,11 Otineka Mall AVE,Opaskwayak,MB,204-623-5150,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+347,347,Grunthal Pharmacy,Pharmacy,Southern Health-Santé Sud,-96.854978,49.406433,112 Main St Box 1011,Grunthal,MB,204-434-6923,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+348,348,Winnipeg Beach Pharmacy,Pharmacy,Interlake-Eastern,-96.96768980099996,50.49836935300004,54 Main St Box 475,Winnipeg Beach,MB,204-389-3971,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+349,349,Northway Pharmacy Brothers,Pharmacy,Winnipeg,-97.146786,49.915983,542 Selkirk Ave,Winnipeg,MB,204-586-2074,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+350,350,Shoppers Drug Mart #2517,Pharmacy,Northern,-101.249884,53.823433,B 333 Edwards Ave Box 188,The Pas,MB,204-623-5331,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+351,351,Island Lakes Pharmacy,Pharmacy,Winnipeg,-97.066387,49.839745,6 20 Island Shore Blvd,Winnipeg,MB,204-255-7484,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+352,352,Shoppers Drug Mart #2419,Pharmacy,Southern Health-Santé Sud,-97.930553,49.190921,1 777 Norquay Dr,Winkler,MB,204-325-4744,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+353,353,Gateway Pharmacy,Pharmacy,Winnipeg,-97.068423,49.929759,4 1115 Gateway Rd,Winnipeg,MB,204-668-0015,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+354,354,Loblaw Pharmacy #4622,Pharmacy,Prairie Mountain Health,-100.049198,51.149053,15 1st Ave NE,Dauphin,MB,204-622-2925,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+355,355,Shoppers Drug mart - Morden,Pharmacy,Southern Health-Santé Sud,-98.102322,49.188673,302 North Railway St,Morden,MB,204-822-4403,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+356,356,Wal-Mart Pharmacy #1022,Pharmacy,Southern Health-Santé Sud,-97.938261,49.195051,1000 Navigator Rd,Winkler,MB,204-325-4212,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+357,357,Gilbert Plains Pharmacy,Pharmacy,Prairie Mountain Health,-100.488489,51.148838,26 Main St N,Gilbert Plains,MB,204-548-2682,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+358,358,Osborne Village Pharmacy,Pharmacy,Winnipeg,-97.145302,49.879814,5 433 River Ave,Winnipeg,MB,204-477-6337,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+359,359,Steinbach Primary Care Pharmacy,Pharmacy,Southern Health-Santé Sud,-96.67424548099996,49.53469968700006,102 381 Stonebridge Crossing,Steinbach,MB,204-326-6400,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+360,360,Gladstone Pharmacy,Pharmacy,Southern Health-Santé Sud,-98.951970766,50.22607704400008,25 Dennis St Box 280,Gladstone,MB,204-385-2051,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+361,361,Pharmacie La Broquerie Pharmacy,Pharmacy,Southern Health-Santé Sud,-96.510028,49.517867,D 205 Principale St Box 879,La Broquerie,MB,204-424-5940,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+362,362,Red River Pharmacy,Pharmacy,Winnipeg,-97.164502,49.892936,724 Ellice Ave,Winnipeg,MB,204-772-2115,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+363,363,St Pierre Pharmacy,Pharmacy,Southern Health-Santé Sud,-96.98476500199996,49.44092670800006,465 Sabourin St,St-Pierre-Jolys,MB,204-433-7481,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+364,364,Rockwood Pharmacy,Pharmacy,Interlake-Eastern,-97.32729031599996,50.13109746900005,5 405 3rd Ave S,Stonewall,MB,204-467-5167,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+365,365,Target Pharmacy - T7012,Pharmacy,Winnipeg,-97.20087763699996,49.89015681200004,875 St James St,Winnipeg,MB,204-318-3071,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+366,366,Parkers Super Thrifty Pharmacy Ltd,Pharmacy,Interlake-Eastern,-96.869929,50.142644,362 Evelene St,Selkirk,MB,204-482-4469,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+367,367,Gilbert Plains Pharmacy,Pharmacy,Prairie Mountain Health,-100.488489,51.148838,26 Main St N,Gilbert Plains,MB,204-548-2682,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+368,368,Medsafe Pharmacy,Pharmacy,Prairie Mountain Health,-99.961366786,49.84449794000005,1 335 18th St,Brandon,MB,204-571-0120,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+369,369,Guest Pharmacy,Pharmacy,Winnipeg,-97.111812,49.856191,715 St Mary's Rd,Winnipeg,MB,204-691-4824,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+370,370,Taylor Pharmacy,Pharmacy,Interlake-Eastern,-96.99089187199996,50.63228659200007,50 Centre St Box 4000,Gimli,MB,204-642-8170,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+371,371,Red River Pharmacy,Pharmacy,Winnipeg,-97.114579,49.915775,139 Carmen Ave,Winnipeg,MB,204-663-4670,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+372,372,Gillam Hospital Dispensary,Pharmacy,Northern,-94.710446,56.348559,116 Gillam Drive Box 2000,Gillam,MB,204-652-6045,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+373,373,Northway Pharmacy Pharmacie Marion,Pharmacy,Winnipeg,-97.119859,49.881796,191 Marion St,Winnipeg,MB,204-231-3226,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+374,374,West Broadway Pharmacy,Pharmacy,Winnipeg,-97.15407870599996,49.88562744100005,595 Broadway Ave,Winnipeg,MB,204-775-9293,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+375,375,Rexall #7409,Pharmacy,Interlake-Eastern,-97.324072,50.130607,1 330 3rd Ave S,Stonewall,MB,204-467-8137,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+376,376,Sobeys Pharmacy #5105,Pharmacy,Prairie Mountain Health,-99.963595,49.824221,1570 18TH St,Brandon,MB,204-727-1126,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+377,377,Southeast Wellness Pharmacy,Pharmacy,Southern Health-Santé Sud,-96.690133,49.544761,116C Park Rd,Steinbach,MB,204-346-1970,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+378,378,The Medicine Shoppe Pharmacy #133,Pharmacy,Winnipeg,-97.219246,49.879465,1881 Portage Ave,Winnipeg,MB,204-988-9834,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+379,379,Medocare Pharmacy,Pharmacy,Winnipeg,-97.132983,49.902632,150 Henry Ave,Winnipeg,MB,204-942-7220,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+380,380,The Prescription Shop #2,Pharmacy,Winnipeg,-97.006818,49.894834,218 Regent Ave W,Winnipeg,MB,204-222-7222,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+381,381,Grand Medicine Pharmacy,Pharmacy,Interlake-Eastern,-97.57388552999998,51.21480762100003,Lot 39 Hwy 325 Box 87,Hodgson,MB,204-372-6048,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+382,382,Tache Pharmacy at Seven Oaks Hospital,Pharmacy,Winnipeg,-97.148844,49.95518,Main Floor 2300 McPhillips St,Winnipeg,MB,204-633-2233,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+383,383,The Wheat City Pharmacy,Pharmacy,Prairie Mountain Health,-99.960511,49.864198,C1 1711 Kirkcaldy Dr,Brandon,MB,204-727-1790,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+384,384,Martin's Pharmacy,Pharmacy,Prairie Mountain Health,-100.930865,49.849519,490 7th Ave,Virden,MB,204-748-2211,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+385,385,The Prescription Shop #4,Pharmacy,Winnipeg,-97.155955,49.902771,100 825 Sherbrook St,Winnipeg,MB,204-774-7711,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+386,386,Grandview Pharmacy Inc,Pharmacy,Prairie Mountain Health,-100.699443,51.173162,404 Main St,Grandview,MB,204-546-2626,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+387,387,Pharmacie Centre de Santé - La Broquerie,Pharmacy,Southern Health-Santé Sud,-96.51009153399995,49.52629641000004,89 Principale St Box 59,La Broquerie,MB,204-424-9977,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+388,388,Wal-Mart Pharmacy #1186,Pharmacy,Winnipeg,-97.158679,49.853091,1000 Taylor Ave,Winnipeg,MB,204-992-9758,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+389,389,Hasselfield Drugs Ltd,Pharmacy,Prairie Mountain Health,-100.4941928169999,49.19217459900005,103 Broadway St S,Deloraine,MB,204-747-2648,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+390,390,Westaway Pharmacy,Pharmacy,Southern Health-Santé Sud,-98.24243656999994,49.37047346200006,445 Norton Ave Box 278,Miami,MB,204-435-2471,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+391,391,Prairie Trail Pharmacy,Pharmacy,Winnipeg,-97.177126,49.851858,100 1345 Taylor Ave,Winnipeg,MB,204-222-3003,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+392,392,Scales Drug Store,Pharmacy,Prairie Mountain Health,-101.264339,52.106427,900 Main St,Swan River,MB,204-734-3411,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+393,393,Swan Valley Pharmacy,Pharmacy,Prairie Mountain Health,-101.265037,52.105165,811 Main St E Box 2200,Swan River,MB,204-734-2882,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+394,394,Higgins Pharmacy,Pharmacy,Winnipeg,-97.13515999599996,49.90425999300004,678 Main St,Winnipeg,MB,204-942-0333,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+395,395,Medical Centre Pharmacy,Pharmacy,Prairie Mountain Health,-99.946342,49.847344,146 6th St,Brandon,MB,204-727-8451,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+396,396,Shoppers Drug Mart #2502,Pharmacy,Winnipeg,-97.047898,49.833539,700 50 Sage Creek Blvd,Winnipeg,MB,204-254-7771,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+397,397,GV Pharmacy Inc,Pharmacy,Prairie Mountain Health,-100.699443,51.173162,404 Main St,Winnipeg,MB,204-546-2626,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+398,398,St Adolphe Pharmacy,Pharmacy,Southern Health-Santé Sud,-97.112260989,49.67460142000004,457 Main St,St. Adolphe,MB,204-883-2314,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+399,399,Steele's Apothecary,Pharmacy,Winnipeg,-97.16154,49.903575,750 McDermot Ave,Winnipeg,MB,204-295-5358,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+400,400,Manila Pharmacy,Pharmacy,Winnipeg,-97.165195,49.933844,1054 McPhillips St,Winnipeg,MB,204-505-8224,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+401,401,Valley Super Thrifty Pharmacy,Pharmacy,Southern Health-Santé Sud,-97.364044,49.356554,212 Main St N,Morris,MB,204-746-2542,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+402,402,La Salle Pharmacy,Pharmacy,Southern Health-Santé Sud,-97.265773,49.690698,2 49 Principale Rue,La Salle,MB,204-736-2412,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+403,403,H. F. Wiebe Pharmacy,Pharmacy,Southern Health-Santé Sud,-97.941357,49.183015,104 650 South Railway Ave,Winkler,MB,204-331-5235,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+404,404,Stony Mountain Pharmacy,Pharmacy,Interlake-Eastern,-97.218803,50.086408,5 Main St Box 489,Stony Mountain,MB,204-513-1818,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+405,405,Riverton Pharmacy,Pharmacy,Interlake-Eastern,-96.99838937799996,50.99744355800004,1 BROADWAY St NW Box 358,Riverton,MB,204-230-2770,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+406,406,Pharmasave #478,Pharmacy,Prairie Mountain Health,-99.970902,49.842678,C 2425 Victoria Ave,Brandon,MB,204-728-1062,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+407,407,Stonewall Pharmacy,Pharmacy,Interlake-Eastern,-97.3274,50.135314,17 333 Main St,Stonewall,MB,204-467-8385,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+408,408,Oakbank Pharmasave # 475,Pharmacy,Interlake-Eastern,-96.841885,49.939688,1 559 Main St,Oakbank,MB,204-444-3030,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+409,409,Pharmasave #471,Pharmacy,Northern,-101.875415,54.76487,37 Main St,Flin Flon,MB,204-687-7677,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+410,410,West Broadway Pharmacy,Pharmacy,Winnipeg,-97.154076,49.885802,595 Broadway Ave,Winnipeg,MB,204-775-9293,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+411,411,Northway Pharmacy River Heights,Pharmacy,Winnipeg,-97.18427,49.863535,101 1425 Corydon Ave,Winnipeg,MB,204-284-1442,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+412,412,Hazlewood Drugs,Pharmacy,Prairie Mountain Health,-100.056416,49.230583,323 South Railway St,Boissevain,MB,204-534-6103,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+413,413,Treherne Pharmacy,Pharmacy,Prairie Mountain Health,-98.69945,49.629828,266 Railway Ave,Treherne,MB,204-723-2334,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+414,414,Quarry Ridge Pharmacy,Pharmacy,Interlake-Eastern,-97.328378,50.131341,469 1st St W,Stonewall,MB,204-467-7333,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+415,415,Specialty Health Network - Shopper Drug Mart #6073,Pharmacy,Winnipeg,-97.217108,49.83049,179 Commerce Dr,Winnipeg,MB,204-488-0900,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+416,416,Health Plus Pharmacy,Pharmacy,Winnipeg,-97.076642108,49.86178127200003,A 1075 Autumnwood Dr,Winnipeg,MB,204-254-4626,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+417,417,Whites Drug Store,Pharmacy,Prairie Mountain Health,-101.2673445519999,52.10564737800007,700 Main St,Swan River,MB,204-734-3157,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+418,418,Healthway Pharmacy,Pharmacy,Winnipeg,-97.16856,49.886104,865 Portage Ave,Winnipeg,MB,204-415-6070,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+419,419,Shoal Lake Pharmacy,Pharmacy,Prairie Mountain Health,-100.590317,50.436967,355 Station Rd,Shoal Lake,MB,204-759-2300,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+420,420,St. Laurent Pharmacy,Pharmacy,Interlake-Eastern,-97.942426,50.415329,95182 Highway #6 Hwy,St. Laurent,MB,204-646-2855,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+421,421,Homestead CO-OP Pharmacy,Pharmacy,Southern Health-Santé Sud,-98.00010052399996,49.51052278800006,61 Main St N Box 790,Carman,MB,204-745-3602,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+422,422,Sobeys Pembina #5037,Pharmacy,Winnipeg,-97.15524132099996,49.78957047900008,2850 Pembina Hwy,Winnipeg,MB,204-261-5065,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+423,423,Healthway Pharmacy #2,Pharmacy,Winnipeg,-97.133773,49.909325,862 Main St,Winnipeg,MB,204-415-7575,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+424,424,South Sherbrook Pharmacy,Pharmacy,Winnipeg,-97.159847,49.881353,B 88 Sherbrook St,Winnipeg,MB,204-774-9319,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+425,425,Silver Heights Pharmacy,Pharmacy,Winnipeg,-97.22883,49.878182,4 2015 Portage Ave,Winnipeg,MB,204-895-0665,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+426,426,Pacific Pharmacy,Pharmacy,Winnipeg,-97.154177,49.906843,940 Sherbrook St,Winnipeg,MB,204-615-9990,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+427,427,Winnipegosis Clinic Phamacy,Pharmacy,Prairie Mountain Health,-99.525956,51.063197,200 1st St,Winnipegosis,MB,204-656-4424,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+428,428,Wal-Mart Pharmacy #1204,Pharmacy,Winnipeg,-97.076689,49.854404,35 Lakewood Blvd,Winnipeg,MB,204-220-1056,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+429,429,Red River Pharmacy,Pharmacy,Winnipeg,-97.142254,49.89334,100 286 Smith St,Winnipeg,MB,204-219-0740,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+430,430,Heritage Coop Pharmacy,Pharmacy,Prairie Mountain Health,-99.953149,49.82818,1035 Richmond Ave,Brandon,MB,204-727-3610,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+431,431,Rexall Geri-Aid #4861,Pharmacy,Winnipeg,-97.181739,49.895247,965 Wall St,Winnipeg,MB,204-775-9775,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+432,432,Hill's Clinic Pharmacy,Pharmacy,Southern Health-Santé Sud,-98.27850545899996,49.96907238200004,103 140 9th St SE,Portage la Prairie,MB,204-239-1368,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+433,433,Whitfield Drugs,Pharmacy,Prairie Mountain Health,-100.258990619,49.61717684100006,15 Crescent Ave W,Souris,MB,204-483-2155,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+434,434,Stafford Pharmacy Inc.,Pharmacy,Winnipeg,-97.15789,49.863231,395 Stafford St,Winnipeg,MB,204-474-2669,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+435,435,Save On Foods Pharmacy #4405,Pharmacy,Winnipeg,-97.198365,49.797983,410 400 North Town Rd,Winnipeg,MB,204-452-0254,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+436,436,Swan Health Care Plus Pharmacy,Pharmacy,Prairie Mountain Health,-101.268309,52.105148,615 Main St,Swan River,MB,204-734-3392,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+437,437,Rexall #7408,Pharmacy,Winnipeg,-97.109916,49.947919,2110 Main St,Winnipeg,MB,204-339-5622,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+438,438,Homestead Co-op Pharmacy Portage,Pharmacy,Southern Health-Santé Sud,-98.322382,49.970745,2275 Saskatchewan Ave W,Portage la Prairie,MB,204-239-0458,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+439,439,Rexall Pharma Plus #4813,Pharmacy,Winnipeg,-97.15359205199996,49.84268468800008,1295 Pembina Hwy,Winnipeg,MB,204-982-0188-160,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+440,440,Medicare Pharmacy - Maples,Pharmacy,Winnipeg,-97.168803,49.953231,1287 Jefferson Ave,Winnipeg,MB,204-414-3407,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+441,441,Medicare Pharmacy - Main St,Pharmacy,Winnipeg,-97.134333,49.90716,794 Main St,Winnipeg,MB,204-589-8205,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+442,442,Melita Super Thrifty Pharmacy,Pharmacy,Prairie Mountain Health,-100.991922,49.270457,112 Main St,Melita,MB,204-522-3255,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+443,443,Save on Foods Pharmacy #4410,Pharmacy,Winnipeg,-97.15582618099997,49.94202152600008,1399 McPhillips St,Winnipeg,MB,204-334-1075,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+444,444,Save On Foods Pharmacy #4415,Pharmacy,Winnipeg,-97.202339,49.889439,850 St James St,Winnipeg,MB,204-783-9275,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+445,445,Isabel Pharmacy,Pharmacy,Winnipeg,-97.150059,49.901513,110 Isabel St,Winnipeg,MB,204-775-4488,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+446,446,Nations First Pharmacy,Pharmacy,Interlake-Eastern,-96.604278,50.516748,102 19 Pine St,Pine Falls,MB,204-367-8899,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+447,447,You Drugmart,Pharmacy,Winnipeg,-97.104617,49.911369,E 359 Johnson Ave W,Winnipeg,MB,204-654-9499,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+448,448,JM Pharmacy Limited,Pharmacy,Winnipeg,-97.100288,49.851336,313 St Anne's Rd,Winnipeg,MB,204-615-6001,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+449,449,Jason's Canadadrugstore.com,Pharmacy,Winnipeg,-97.107388,49.860213,123 St Anne's Rd,Winnipeg,MB,204-219-3660,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+450,450,Pembina Drugs,Pharmacy,Winnipeg,-97.15849999199996,49.79434000800006,3 2725 Pembina Hwy,Winnipeg,MB,204-261-4449,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+451,451,South Point Pharmacy,Pharmacy,Winnipeg,-97.15347375,49.84649960100006,103 1151 Pembina Hwy,Winnipeg,MB,204-504-9772,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+452,452,Nu Health Meds Phamacy,Pharmacy,Winnipeg,-97.085937,49.857871,102 1280 Archibald St,Winnipeg,MB,204-615-5542,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+453,453,Notre Dame Pharmacy,Pharmacy,Winnipeg,-97.17308980099996,49.90553498900005,1034 Notre Dame Ave,Winnipeg,MB,204-779-0001,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+454,454,Virden Drugs,Pharmacy,Prairie Mountain Health,-100.926979,49.85466,310 King St E,Virden,MB,204-748-2211,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+455,455,SRx Pharmacy,Pharmacy,Winnipeg,-97.133777,49.896403,F 228 Waterfront Dr,Winnipeg,MB,204-944-1208,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+456,456,Parkers' Super Thrifty Pharmacy,Pharmacy,Interlake-Eastern,-96.869929,50.142644,362 Eveline St,Selkirk,MB,204-482-4469,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+457,457,Life and care pharmacy,Pharmacy,Winnipeg,-97.12299350299998,49.88268720900004,133 Goulet St,Winnipeg,MB,204-233-7888,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+458,458,Kennedy Pharmacy,Pharmacy,Winnipeg,-97.147009,49.889836,203 Kennedy St,Winnipeg,MB,431-804-9536,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+459,459,Norway House Pharmacy Ltd.,Pharmacy,Northern,-97.76863003999996,53.99515998700008,Box 520,Norway House,MB,204-359-6363,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+460,460,Nairn Pharmacy,Pharmacy,Winnipeg,-97.112087,49.906752,297 Nairn Ave,Winnipeg,MB,204-615-0202,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+461,461,Ronald Pharmacy,Pharmacy,Winnipeg,-97.272789,49.878689,4 2727 Portage Ave,Winnipeg,MB,204-691-7777,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+462,462,Red River Pharmacy (Elgin),Pharmacy,Winnipeg,-97.145263,49.902322,Main Floor 425 Elgin Ave,Winnipeg,MB,204-505-8883,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+463,463,Peter's Pharmacy,Pharmacy,Interlake-Eastern,-97.219767,50.087316,18 Main St Box 440,Ashern,MB,204-768-2935,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+464,464,Rossburn Pharmacy,Pharmacy,Prairie Mountain Health,-100.810376006,50.66905855900006,23 Main St,Rossburn,MB,204-859-2705,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+465,465,Regent Park Pharmacy,Pharmacy,Winnipeg,-97.021912,49.896065,118 701 Regent Ave W,Winnipeg,MB,204-222-3257,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+466,466,The Medicine Shoppe Pharmacy #396,Pharmacy,Northern,-101.252075695,53.82265174400004,1 330 Fischer Ave,The Pas,MB,204-623-5888,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+467,467,Southend Phamacy,Pharmacy,Winnipeg,-97.109201,49.826094,30 166 Meadowood Dr,Winnipeg,MB,204-504-7510,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+468,468,Leila Pharmacy,Pharmacy,Winnipeg,-97.15093996599995,49.82882774000007,1686 Pembina Hwy,Winnipeg,MB,204-594-3600,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+469,469,Prairie Health Apothecary,Pharmacy,Winnipeg,-97.0893,49.83192,600 St Anne's Rd,Winnipeg,MB,204-254-4257,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+470,470,Shoppers Drug Mart #2506,Pharmacy,Winnipeg,-97.196730689,49.79812136800007,520 350 North Town Rd,Winnipeg,MB,204-269-1477,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+471,471,Medsafe Pharmacy - Shilo,Pharmacy,Prairie Mountain Health,-99.961418,49.844495,335 18TH St,BRANDON,MB,204-702-0114,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+472,472,Plessis Pharmacy,Pharmacy,Winnipeg,-97.02622305999996,49.89621088900003,15 801 Regent Ave W,Winnipeg,MB,204-960-7517,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+473,473,LifeSmart Pharmacy St. James,Pharmacy,Winnipeg,-97.24247,49.88493,B103 2080 Ness Ave,Winnipeg,MB,204-504-6577,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+474,474,Life & Care Pharmacy (Altona),Pharmacy,Southern Health-Santé Sud,-97.553468,49.106593,17 115 4th Ave NE,Altona,MB,204-233-7888,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+475,475,Rothesay Pharmacy,Pharmacy,Winnipeg,-97.080348,49.937637,A 1202 Rothesay St,Winnipeg,MB,204-416-7770,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+476,476,Northway Pharmacy Dakota,Pharmacy,Winnipeg,-97.111361,49.836394,1087 St Mary's Rd,Winnipeg,MB,204-255-2988,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+477,477,Meadowood Pharmacy,Pharmacy,Winnipeg,-97.113469,49.8239,1555 St Mary's Rd,Winnipeg,MB,204-257-3986,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+478,478,Spring Meadow Pharmacy,Pharmacy,Winnipeg,-97.02414745,49.90990969600006,19 1783 Plessis Rd,Winnipeg,MB,204-504-2037,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+479,479,LifeSmart Pharmacy (Osborne),Pharmacy,Winnipeg,-97.14037144499996,49.87566118400008,2 230 Osborne St,Winnipeg,MB,204-287-5233,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+480,480,Powerview Pharmacy,Pharmacy,Interlake-Eastern,-95.225829,49.750209,Highway 59 N,Traverse Bay,MB,204-367-4805,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+481,481,Oakfield Pharmacy,Pharmacy,Winnipeg,-97.14682,49.956197,105 1021 Court Ave,Winnipeg,MB,204-338-6355,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+482,482,Seine Pharmacy,Pharmacy,Southern Health-Santé Sud,-96.646983,49.669183,170 142 Centrale Ave,Ste Anne,MB,204-422-8226,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+483,483,The Prescription Shop (218 Regent Ave.),Pharmacy,Winnipeg,-97.006818,49.894834,218 Regent Ave W,Winnipeg,MB,204-222-7222,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+484,484,White Cross Pharmacy (Portage La Prairie),Pharmacy,Southern Health-Santé Sud,-98.32095970199998,49.96447015500007,5006 Crescent Rd W,Portage la Prairie,MB,204-857-7883,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+485,485,Rossmere Pharmacy,Pharmacy,Winnipeg,-97.09594,49.936265,D 1046 Henderson Hwy,Winnipeg,MB,204-615-6050,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+486,486,LifeSmart Pharmacy Ellice,Pharmacy,,-97.21698051099996,49.89445247400005,1880 Ellice Ave,Winnipeg,MB,204-410-0007,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+487,487,Pine Falls Community Health,Pharmacy,Interlake-Eastern,-96.21484990099998,50.56338639500007,P1-61 37 Maple St,Pine Falls,MB,204-367-2807,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+488,488,Waterford Pharmacy Inc.,Pharmacy,Winnipeg,-97.19728979999996,49.95566250000007,F1 55 Waterford Green Common,Winnipeg,MB,204-219-4483,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+489,489,Shawano Pharmacy,Pharmacy,Winnipeg,-97.14307997199997,49.88661998400005,550 360 Broadway Ave,Winnipeg,MB,204-944-1577,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+490,490,Stevenson's Pharmacy,Pharmacy,Southern Health-Santé Sud,-98.790584,49.410745,18 Lorne Ave,Swan Lake,MB,204-836-2866,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+491,491,Minnedosa Pharmacy,Pharmacy,Prairie Mountain Health,-99.839141,50.247251,77 Main St S,Minnedosa,MB,204-867-2071,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+492,492,Lifestyle Pharmacy (St. Andrews),Pharmacy,Interlake-Eastern,-96.98413530199996,50.07135272400006,1 5571 Main St,St Andrews,MB,204-504-5500,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+493,493,Northway Pharmacy Selkirk,Pharmacy,Interlake-Eastern,-96.87643,50.142391,A 339 Main St,Selkirk,MB,204-785-2938,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+494,494,Norwood Pharmacy,Pharmacy,Winnipeg,-97.12056509299998,49.88137998500008,172 Marion St,Winnipeg,MB,204-233-8296,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+495,495,Safety Drugs Pharmacy 2,Pharmacy,Winnipeg,-97.152597,49.952351,7 1099 Kingsbury Ave,Winnipeg,MB,204-633-5499,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+496,496,Main St. Pharmacy,Pharmacy,Winnipeg,-97.133007,49.911961,968 Main St,Winnipeg,MB,204-586-3333,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+497,497,MediSystem Pharmacy,Pharmacy,Winnipeg,-97.207244,49.923998,12 1832 King Edward St,Winnipeg,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+498,498,Northway Pharmacy Seven Oaks,Pharmacy,Winnipeg,-97.134222,49.948718,632 Leila Ave,Winnipeg,MB,204-560-0727,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+499,499,Panacea Pharmacy,Pharmacy,Winnipeg,-97.111974,49.835272,3 620 Dakota St,Winnipeg,MB,204-256-5726,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+500,500,My Care Pharmacy,Pharmacy,Winnipeg,-97.175519,49.884255,986 Portage Ave,Winnipeg,MB,204-504-5212,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+501,501,Lundar Pharmacy,Pharmacy,Interlake-Eastern,-98.03180748199998,50.69530919700003,18 Main St Box 180,Lundar,MB,204-762-5431,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+502,502,Pharmasave #456,Pharmacy,Southern Health-Santé Sud,-98.284984,49.973239,308 Saskatchewan Ave E,Portage la Prairie,MB,204-239-6923,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+503,503,The Medicine Shoppe Pharmacy #413,Pharmacy,Southern Health-Santé Sud,-98.29944678199996,49.97385397400006,3 602 Saskatchewan Ave W,Portage la Prairie,MB,204-239-5100,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+504,504,Pharmasave #453,Pharmacy,Prairie Mountain Health,-100.259805,49.61707,33 Crescent Ave,Souris,MB,204-483-3615,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+505,505,Rexall #7411 (1490 Plessis Road),Pharmacy,Winnipeg,-97.027931,49.899289,Unit 1 1490 Plessis Rd,Winnipeg,MB,204-222-4700,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+506,506,Machray Pharmacy,Pharmacy,Winnipeg,-97.14068581799997,49.92790481000003,561 Machray Ave,Winnipeg,MB,204-615-2225,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+507,507,Westbrook Pharmacy,Pharmacy,Winnipeg,-97.194736,49.921152,1794 Logan Ave,Winnipeg,MB,204-633-6700,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+508,508,Peguis Pharmacy Selkirk,Pharmacy,Interlake-Eastern,-96.883694,50.149569,103 620 Manitoba Ave,Selkirk,MB,204-482-8353,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+509,509,Ray of Hope Pharmacy,Pharmacy,Winnipeg,-97.101990544,49.92925048200004,1 775 Henderson Hwy,Winnipeg,MB,204-800-2593,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+510,510,St. Mary's Pharmacy - Gimli,Pharmacy,Interlake-Eastern,-96.99452515399996,50.62691571600004,129 7th Ave,Gimli,MB,204-651-1567,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+511,511,Peguis Pharmacy - Portage,Pharmacy,Winnipeg,-97.17786831799998,49.88449291200004,102 1065 Portage Ave,Winnipeg,MB,204-774-0043,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+512,512,Maplecreek Medical,Medical Clinic,,,,2866 McGregor Farm Rd,Sunnyside,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+513,513,Ness Pharmacy,Pharmacy,Winnipeg,-97.28208998099996,49.88853998500008,A 3065 Ness Ave,Winnipeg,MB,204-416-6377,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+514,514,Medic-X Pharmacy,Pharmacy,Winnipeg,-97.13743878399998,49.90126308500004,210 Pacific Ave,Winnipeg,MB,204-942-3173,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+515,515,Millennium Pharmacy,Pharmacy,Winnipeg,-97.152947736,49.88981613000004,311 Balmoral St,Winnipeg,MB,0,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+516,516,Panet Pharmacy,Pharmacy,Winnipeg,-97.0864193,49.88112551200004,8 854 Marion St,Winnipeg,MB,204-297-7250,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+517,517,St. Mercurius Pharmacy,Pharmacy,Winnipeg,-97.08131542399995,49.81872382600005,6 980 St Anne's Rd,Winnipeg,MB,204-227-7730,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+518,518,Next Door Pharmacy,Pharmacy,Prairie Mountain Health,-101.26197968,52.10668951800005,1004 Main St E,Swan River,MB,204-614-1800,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+519,519,Melita Medical Clinic,Medical Clinic,,-100.996774402,49.27069388000007,155 Summit Street,Melita,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+520,520,Open Health Niverville,Medical Clinic,Southern Health-Santé Sud,-97.04554469999994,49.60193340000006,A 161 2nd Ave S,Niverville,MB,204-388-6626,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+521,521,Russell Medical Clinic,Medical Clinic,Prairie Mountain Health,-101.28895613,50.78116623100004,117 Westbourne St W,Russell,MB,204-773-2146,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+522,522,Morden Access Centre,Other Organization,Southern Health-Santé Sud,-98.09504468799996,49.19776551800004,111 Gilmour St,Morden,MB,0,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+523,523,Meyers Drugs,Pharmacy,,,,843 William Ave,Winnipeg,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+524,524,Red River Co-Op Pharmacy St Norbert,Pharmacy,Winnipeg,-97.15613300099994,49.76695590900005,3477 Pembina Hwy,Winnipeg,MB,204-202-1711,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+525,525,Parkway Pharmacy,Pharmacy,Winnipeg,-97.19472438699997,49.90050701900003,1123 Empress St,Winnipeg,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+526,526,Whitemouth Pharmacy,Pharmacy,,,,159 Railway ave,Whitemouth,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+527,527,Save-On-Foods Pharmacy #4420,Pharmacy,Winnipeg,-97.062272335,49.89852751100005,5 1555 Regent Ave W,Winnipeg,MB,204-661-2225,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+528,528,Save-On-Foods Pharmacy #4425,Pharmacy,Winnipeg,-97.15145477,49.82201789800007,24 1910 Pembina Hwy,Winnipeg,MB,204-275-7450,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+529,529,Munroe Pharmacy (St. B Hospital),Pharmacy,,-97.123334759,49.88476047000006,400 Tache Ave,Winnipeg,MB,204-560-4600,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+530,530,Vermillion Pharmacy,Pharmacy,Winnipeg,-97.07086382999996,49.85439198300003,170 115 Vermillion Ave,Winnipeg,MB,204-306-3600,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+531,531,Red River Co-op Pharmacy - Niverville,Pharmacy,,-97.04587331699996,49.60293247900006,103 101 Second Ave S,Niverville,MB,204-388-6910,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+532,532,Southtown Medical Clinic,Medical Clinic,Winnipeg,-97.195036895,49.78929847500007,2 405 Centre St,winnipeg,MB,204-306-2217,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+533,533,Union Pharmacy,Pharmacy,,,,940 Sherbrook St,Winnipeg,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+534,534,Whitemouth Primary Health Care Centre,Medical Clinic,,,,75 Hospital St Box 160,Whitemouth,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+535,535,St. Pierre Medical Clinic,Medical Clinic,,,,354 Prefontaine Ave Box 569,St-Pierre-Jolys,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+536,536,Riverbank Medical Associates,Medical Clinic,,,,353 Eveline St,Selkirk,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+537,537,Winnipeg Super-site (RBC Convention Centre location),Vaccine Clinic,Winnipeg,-97.14453217,49.88907187000007,375 York Avenue,Winnipeg,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+538,538,Brandon Super-site (Keystone Centre location),Vaccine Clinic,Prairie Mountain Health,-99.96074047999996,49.83209438000006,1 1175 18th Street,Brandon,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+539,539,Thompson Clinic (Burntwood Wellness - Burntwood Strip Mall),Vaccine Clinic,Northern,-97.85178366999996,55.74176001000006,15 Selkirk Ave,Thompson,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+540,540,Selkirk Super-site (Former site of Selkirk and District General Hospital),Vaccine Clinic,Interlake-Eastern,-96.88323875999998,50.15605275000007,100 Easton Drive,Selkirk,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+541,541,Morden Super-site (Access Event Centre),Vaccine Clinic,Southern Health-Santé Sud,-98.09464426999996,49.19660006000004,111-D Gilmour St,Morden,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+542,542,Dauphin Clinic (Ukrainian Orthodox Hall),Vaccine Clinic,Prairie Mountain Health,-100.0506468,51.14082371000006,304 Whitmore Ave,Dauphin,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+543,543,Steinbach Super-site,Vaccine Clinic,Southern Health-Santé Sud,-96.68184211,49.52624029000003,294 Lumber Ave,Steinbach,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+544,544,Winnipeg Pop-up Clinic (Mount Carmel Clinic),Vaccine Clinic,Winnipeg,-97.13355028999996,49.91028989000006,886 Main St.,Winnipeg,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+545,545,Flin Flon Primary Health Care Centre,Vaccine Clinic,Northern,-101.8780612,54.76897113000007,1 North Ave.,Flin Flon,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+546,546,Flin Flon Pop-up Clinic (The Flin Flon Community Hall),Vaccine Clinic,Northern,-101.8785541,54.76863001000004,2 North Ave.,Flin Flon,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+547,547,The Pas Pop-up Clinic (The Pas Royal Canadian Legion),Vaccine Clinic,Northern,-101.2494981,53.82232133000008,4 Veterans Way,The Pas,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+548,548,Ma-Mow-We-Tak Friendship Centre,Urban Indigenous Clinic,Northern,-97.84880642999995,55.73989408000006,4 Nelson Rd.,Thompson,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+549,549,Brandon Friendship Centre,Urban Indigenous Clinic,Prairie Mountain Health,-99.940883,49.83806068000007,205 College Ave.,Brandon,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+550,550,Portage Urban Indigenous Clinic,Urban Indigenous Clinic,Southern Health-Santé Sud,-98.28817829999996,49.97382598000007,11 Second St. NE,Portage la Prairie,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+551,551,Ma Mawi Wi Chi Itata Centre - Win Gardner Place,Urban Indigenous Clinic,Winnipeg,-97.14384572999997,49.92339559000004,363 McGregor St.,Winnipeg,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+552,552,Gimli Pop-up Clinic (New Horizons),Vaccine Clinic,Interlake-Eastern,-96.99011434,50.64153336000004,17 Colonization Road,Gimli,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+553,553,Pinawa Pop-up Clinic (Pinawa Alliance Church),Vaccine Clinic,Interlake-Eastern,-95.88129992999995,50.14696096000006,1 Bessborough Ave,Pinawa,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+554,554,Lundar Pop-up Clinic (Lundar Legion),Vaccine Clinic,Interlake-Eastern,-98.03478894999996,50.69052113000004,50 3 Ave.,Lundar,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+555,555,Russell Pop-up Clinic (George P. Buluziuk Centre),Vaccine Clinic,Prairie Mountain Health,-101.2900392,50.77855967000005,106 Shell River Ave. S.,Russell,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+556,556,Aboriginal Health and Wellness Centre,Urban Indigenous Clinic,Winnipeg,-97.13213036999996,49.90493073000005,181 Higgins Ave,Winnipeg,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+557,557,Rexall #7404,Pharmacy,Winnipeg,-97.080172,49.85493,34 Lakewood Blvd,Winnipeg,MB,204-254-8816,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+558,558,Ellis Pharmacy & Thrify Meds,Pharmacy,Southern Health-Santé Sud,-98.53702106699996,49.24213982300006,408 Main St,Manitou,MB,204-242-2446,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+559,559,Sobeys Pharmacy #5104,Pharmacy,Winnipeg,-97.31161163499996,49.88572609800008,3635 Portage Ave,Winnipeg,MB,204-832-8810,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+560,560,Shoppers Drug Mart #546,Pharmacy,Interlake-Eastern,-96.880831,50.136876,230 Main St,Selkirk,MB,204-482-5600,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+561,561,London drugs #066,Pharmacy,Winnipeg,-97.11188188799996,49.82864978100008,23C 1225 St Marys Rd,Winnipeg,MB,204-253-2696,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+562,562,Rexall Pharmaplus #4820,Pharmacy,Winnipeg,-97.147158,49.890339,233 Kennedy St,Winnipeg,MB,204-942-6127,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+563,563,Pharmasave #455,Pharmacy,Southern Health-Santé Sud,-98.102098,49.189604,360 Stephen St,Morden,MB,204-822-4444,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+564,564,Emerson Pharmacy,Pharmacy,Southern Health-Santé Sud,-97.21526749699996,49.00557130300007,21 Main St Box 160,Emerson,MB,204-373-2746,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+565,565,Rexall #7410,Pharmacy,Interlake-Eastern,-96.513576,50.062112,651 Park Ave,Beausejour,MB,204-268-1434,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+566,566,Safeway Pharmacy #4828,Pharmacy,Interlake-Eastern,-96.874629,50.145161,318 Manitoba Ave,Selkirk,MB,204-482-8887,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+567,567,Freshco Pharmacy #4258,Pharmacy,Winnipeg,-97.070561,49.900059,500 1615 Regent Ave W,Winnipeg,MB,204-663-6824,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+568,568,Sobeys Pharmacy #5167,Pharmacy,Winnipeg,-97.094513,49.933565,965 Henderson Hwy,Winnipeg,MB,204-668-3277,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+569,569,Sobeys St. Anne's #5152,Pharmacy,Winnipeg,-97.094741,49.838663,1939 Bishop Grandin Blvd,Winnipeg,MB,204-255-5393,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+570,570,Rexall #4854,Pharmacy,Winnipeg,-97.160057,49.887567,676 Portage Ave,Winnipeg,MB,204-783-0151,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+571,571,Safeway Pembina Village #4847,Pharmacy,Winnipeg,-97.15322129799996,49.81192749300004,2155 Pembina Hwy,Winnipeg,MB,204-261-9870,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+572,572,Safeway Pharmacy #4851,Pharmacy,Winnipeg,-97.29871,49.884279,3393 Portage Ave,Winnipeg,MB,204-888-5600,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+573,573,Safeway Pharmacy #0622,Pharmacy,Southern Health-Santé Sud,-96.686436,49.544252,143 Pth 12N,Steinbach,MB,204-346-1322,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+574,574,Empire Drugs,Pharmacy,Winnipeg,-97.156099,49.919459,801 Selkirk Ave,Winnipeg,MB,204-586-2212,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+575,575,Sobeys Pharmacy #5377,Pharmacy,Winnipeg,-97.08881,49.958055,2575 Main St,Winnipeg,MB,204-339-1113,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+576,576,Rexall Pharmaplus #4813,Pharmacy,Winnipeg,-97.15404007099994,49.84269618500008,1295 Pembina Hwy,Winnipeg,MB,204-982-4160,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+577,577,Rexall #4887,Pharmacy,Winnipeg,-97.075682,49.95284,1795 Henderson Hwy,Winnipeg,MB,204-339-1595,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+578,578,The Medicine Shoppe Pharmacy #278,Pharmacy,Winnipeg,-97.064389,49.911384,115 1100 Concordia Ave,Winnipeg,MB,204-661-2121,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+579,579,FreshCo #4288,Pharmacy,Winnipeg,-97.027674,49.902872,50 Kildonan Green Dr,Winnipeg,MB,204-222-6008,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+580,580,Rexall #4994,Pharmacy,Winnipeg,-97.15528826099997,49.80894197900005,2271 Pembina Hwy,Winnipeg,MB,204-261-0510,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+581,581,Rexall Pharmaplus,Pharmacy,Winnipeg,-97.280534,49.888957,3051 Ness Ave,Winnipeg,MB,204-888-9842,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+582,582,Eriksdale Pharmacy,Pharmacy,Interlake-Eastern,-98.03059725099996,50.69696276400003,18 Railway Ave Box 480,Eriksdale,MB,0,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+583,583,Rexall #4895,Pharmacy,Winnipeg,-97.143025,49.890625,333 St Mary Ave,Winnipeg,MB,204-949-1188,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+584,584,Pfahl's Drugs Ltd.,Pharmacy,Southern Health-Santé Sud,-97.94034796399995,49.18202937400008,215 320 6Th St Box 1024,Winkler,MB,204-325-8201,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+585,585,Pilot Mound Pharmacy,Pharmacy,Southern Health-Santé Sud,-98.89488739299998,49.20321961300004,143 Broadway Ave,Pilot Mound,MB,204-825-2500,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+586,586,Rexall #4812,Pharmacy,Winnipeg,-97.162208,49.868101,971 Corydon Ave,Winnipeg,MB,204-453-8331,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+587,587,FreshCo #4286,Pharmacy,Winnipeg,-97.159157,49.895778,600 Sargent Ave,Winnipeg,MB,204-775-2576,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+588,588,Shoppers Drug Mart #552,Pharmacy,Winnipeg,-97.147958,49.892396,125 393 Portage Ave,Winnipeg,MB,204-943-5431,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+589,589,Exchange District Pharmacy,Pharmacy,Winnipeg,-97.14202,49.897357,286 McDermot Ave,Winnipeg,MB,204-942-0573,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+590,590,Shoppers Drug Mart #547,Pharmacy,Winnipeg,-97.126917,49.882065,43 Marion St,Winnipeg,MB,204-235-1919,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+591,591,Shoppers Drug Mart #535,Pharmacy,Winnipeg,-97.147362,49.879856,43 Osborne St,Winnipeg,MB,204-958-7000,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+592,592,St Boniface Pharmacy,Pharmacy,Winnipeg,-97.121503,49.881659,159 Marion St,Winnipeg,MB,204-415-4888,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+593,593,Shoppers Drug Mart #540,Pharmacy,Winnipeg,-97.138588,49.894515,2 360 Main St,Winnipeg,MB,204-956-0944,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+594,594,Safeway Pharmacy #4848,Pharmacy,Winnipeg,-97.196826,49.93771,850 Keewatin St,Winnipeg,MB,204-694-4419,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+595,595,Leclerc Pharmacy,Pharmacy,Winnipeg,-97.123852,49.882619,343 Tache Ave,Winnipeg,MB,204-233-8806,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+596,596,Shoppers Drug Mart #2505,Pharmacy,Winnipeg,-97.094461,49.958073,2512 Main St,Winnipeg,MB,204-334-6008,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+597,597,Reston Drugs,Pharmacy,Prairie Mountain Health,-101.094712,49.557308,209 4th St,Reston,MB,204-877-3641,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+598,598,Pharmamir Pharmacy,Pharmacy,Winnipeg,-97.123045,49.930416,1572 Main St,Winnipeg,MB,204-231-1900,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+599,599,Shoppers Drug Mart No. #2514,Pharmacy,Winnipeg,-97.202505,49.8198,2160 Mcgillivray Blvd,Winnipeg,MB,204-487-4453,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+600,600,Positive Health Pharmacy,Pharmacy,Winnipeg,-97.1745,49.7462,3556 Pembina Hwy,Winnipeg,MB,204-415-3160,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+601,601,Fair Havens Pharmacy,Pharmacy,Winnipeg,-97.158669,49.868859,894 Corydon Ave,Winnipeg,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+602,602,Grand Medicine HSC Pharmacy,Pharmacy,Winnipeg,-97.15916900699996,49.90496535800003,Sr171 700 William Ave,Winnipeg,MB,204-775-1000,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+603,603,Sobeys St. Vital #5157,Pharmacy,Winnipeg,-97.095372,49.810485,1500 Dakota St,Winnipeg,MB,204-257-3784,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+604,604,The Medicine Shoppe Pharmacy #305,Pharmacy,Winnipeg,-97.210451,49.879185,1765 Portage Ave,Winnipeg,MB,204-885-4465,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+605,605,Pine Pharmacy,Pharmacy,Interlake-Eastern,-96.218239,50.566736,22 Pine St,Pine Falls,MB,204-367-2517,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+606,606,Loblaw Pharmacy # 1503,Pharmacy,Southern Health-Santé Sud,-96.69101241099996,49.54293402500008,130 12 PTH,Steinbach,MB,204-320-4130,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+607,607,Falk Pharmacy,Pharmacy,Prairie Mountain Health,-99.35945289999997,49.86841272800007,135 Main St,Carberry,MB,204-834-2426,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+608,608,Loblaw Pharmacy #1516,Pharmacy,Winnipeg,-97.203641,49.85639,550 Kenaston Blvd,Winnipeg,MB,204-489-0977,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+609,609,Loblaw Pharmacy #1505,Pharmacy,Winnipeg,-97.155849,49.949255,2132 Mcphillips St,Winnipeg,MB,204-631-6226,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+610,610,Loblaw Pharmacy #1512,Pharmacy,Winnipeg,-97.069665,49.928007,1035 Gateway Rd,Winnipeg,MB,204-987-7533,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+611,611,Loblaw Pharmacy #4625,Pharmacy,Winnipeg,-97.08449454199996,49.82211953900003,740 St Anne's Rd,Winnipeg,MB,204-257-6806,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+612,612,No Frills Pharmacy #4629,Pharmacy,Interlake-Eastern,-96.873405,50.142982,Bldg B 366 Main St,Selkirk,MB,204-482-2900,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+613,613,Shoppers Drug Mart #544,Pharmacy,Southern Health-Santé Sud,-98.28884759999994,49.97320519600004,124 Saskatchewan Ave E,Portage la Prairie,MB,204-857-7891,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+614,614,loblaw pharmacy # 1511,Pharmacy,Winnipeg,-97.198845,49.899757,1385 Sargent Ave,Winnipeg,MB,204-784-7935,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+615,615,Loblaw Pharmacy #1509,Pharmacy,Winnipeg,-97.16367640199996,49.79997655400007,80 Bison Dr,Winnipeg,MB,204-275-4135,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+616,616,Loblaw Pharmacy #1515,Pharmacy,Prairie Mountain Health,-99.950087,49.841355,920 Victoria Ave,Brandon,MB,204-729-4646,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+617,617,Loblaw Pharmacy #1514,Pharmacy,Winnipeg,-97.102592,49.857567,215 St Anne's Rd,Winnipeg,MB,204-258-2430,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+618,618,First Circle Pharmacy,Pharmacy,Winnipeg,-97.21694,49.894395,1880 Ellice Ave,Winnipeg,MB,204-772-6193,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+619,619,Winkler Pharmacy,Pharmacy,Southern Health-Santé Sud,-97.93945,49.181851,309 Main St,Winkler,MB,204-325-8787,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+620,620,Simkin Centre,Pharmacy,Winnipeg,-97.192899,49.823239,1 Falcon Ridge Dr,Winnipeg,MB,204-589-9017,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+621,621,Rexall #4814,Pharmacy,Winnipeg,-97.076278023,49.85440625900003,35 Lakewood Blvd,Winnipeg,MB,204-982-4120,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+622,622,Wal-Mart Pharmacy #3117,Pharmacy,Winnipeg,-97.313175,49.885833,3655 Portage Ave,Winnipeg,MB,204-885-4470,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+623,623,Shoppers Drug Mart #2428,Pharmacy,Winnipeg,-97.084137,49.824126,710 St Anne's Rd,Winnipeg,MB,204-254-6316,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+624,624,Rexall #4950,Pharmacy,Interlake-Eastern,-96.87347922199996,50.14295971400003,A 366 Main St,Selkirk,MB,204-482-6003,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+625,625,Shoppers Drug Mart #555,Pharmacy,Prairie Mountain Health,-99.964564506,49.82352351500003,15A 1570 18TH St,Brandon,MB,204-729-8100,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+626,626,Shoppers Drug Mart #2444,Pharmacy,Winnipeg,-97.316707,49.863307,14 6670 Roblin Blvd,Winnipeg,MB,204-831-5222,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+627,627,Loblaw Pharmacy #1510,Pharmacy,Southern Health-Santé Sud,-97.931397,49.18626,175 Cargill Rd,Winkler,MB,204-331-2535,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+628,628,Safeway Pharmacy #4854,Pharmacy,Winnipeg,-97.26278,49.857958,3900 Grant Ave,Winnipeg,MB,204-889-2350,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+629,629,Shoppers Drugmart #2424,Pharmacy,Prairie Mountain Health,-99.936857,49.842583,139 Victoria Ave E,Brandon,MB,204-727-4248,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+630,630,Fisher Branch Pharmacy,Pharmacy,Interlake-Eastern,-97.621767,51.082232,3 80 Tache St,Fisher Branch,MB,204-372-6444,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+631,631,Snow Lake Pharmacy,Pharmacy,Winnipeg,-97.095961,49.933715,963 Henderson Hwy,Winnipeg,MB,204-982-4130,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+632,632,Rexall #4815,Pharmacy,Winnipeg,-97.095961,49.933715,963 Henderson Hwy,Winnipeg,MB,204-982-4130,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+633,633,Rexall #7401,Pharmacy,Southern Health-Santé Sud,-97.556527,49.10545,67 2nd St NE Box 780,Altona,MB,204-324-6461,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+634,634,Rexall #7406,Pharmacy,Southern Health-Santé Sud,-97.553468,49.106593,17 115 4th Ave NE Box 1708,Altona,MB,204-234-5991,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+635,635,Shoppers Drug Mart #530,Pharmacy,Winnipeg,-97.151006,49.95374,1050 Leila Ave,Winnipeg,MB,204-339-9221,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+636,636,Fisher Branch Primary Health Care Centre,Medical Clinic,Interlake-Eastern,-97.61768335999994,51.08474937700004,23 Main St Box 370,Fisher Branch,MB,204-372-6258,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+637,637,River East Pharmacy,Pharmacy,Winnipeg,-97.085706,49.944707,A 1417 Henderson Hwy,Winnipeg,MB,204-333-5094,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+638,638,Shoppers Drug Mart #549,Pharmacy,Northern,-97.851767,55.741412,17 Selkirk Ave,Thompson,MB,204-778-8391,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+639,639,Target Pharmacy T-3747,Pharmacy,Winnipeg,-97.16302154599998,49.85990467400006,1080 Grant Ave,Winnipeg,MB,204-285-3571-6,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+640,640,Shoppers Drug Mart #561,Pharmacy,Winnipeg,-97.066591,49.855177,100 235 Vermillion Rd,Winnipeg,MB,204-256-5540,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+641,641,Mitchell's Drug Store,Pharmacy,Prairie Mountain Health,-101.548498,51.914091,125 Main St,Roblin,MB,204-937-4424,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+642,642,Munroe Pharmacy,Pharmacy,Winnipeg,-97.080344,49.911405,525 London St,Winnipeg,MB,204-669-1267,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+643,643,Wal-Mart Pharmacy #1027,Pharmacy,Interlake-Eastern,-96.902098,50.155968,1016 Manitoba Ave,Selkirk,MB,204-785-9010,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+644,644,St Malo Pharmacy,Pharmacy,Southern Health-Santé Sud,-96.95511757299994,49.31556286100005,70 122 St Malo St Box 70,St Malo,MB,204-347-5574,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+645,645,Wal-Mart Pharmacy #3660,Pharmacy,Northern,-101.878967,54.769801,200 Pth #10A,Flin Flon,MB,204-687-7188,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+646,646,Hill's East Drug Store,Pharmacy,Southern Health-Santé Sud,-98.287617,49.973251,200 Saskatchewan Ave E,Portage la Prairie,MB,204-857-4631,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+647,647,Fisher River Cree Nation Pharmacy,Pharmacy,,,,63 Main st,Fisher Branch,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+648,648,Shoppers Drug Mart #2404,Pharmacy,Winnipeg,-97.171697,49.885698,917 Portage Ave,Winnipeg,MB,204-775-5008,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+649,649,Shoppers drug mart #533,Pharmacy,Winnipeg,-97.129253,49.918047,C 1155 Main St,Winnipeg,MB,204-989-8700,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+650,650,Leila Pharmacy,Pharmacy,Winnipeg,-97.134222,49.948718,632 Leila Ave,Winnipeg,MB,204-228-3304,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+651,651,Flatland Drugs,Pharmacy,Prairie Mountain Health,-99.951512,49.828909,B 1340 10th St,Brandon,MB,204-727-0011,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+652,652,The Medicine Shoppe Pharmacy #331,Pharmacy,Winnipeg,-97.132229,49.863112,1A 660 Osborne St,Winnipeg,MB,204-504-9333,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+653,653,Villagio Pharmacy,Pharmacy,Southern Health-Santé Sud,-96.984551,49.44003,503 Sabourin St,St-Pierre-Jolys,MB,204-433-7897,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+654,654,Glenboro Pharmacy,Pharmacy,Prairie Mountain Health,-99.28993066199996,49.55531154800008,512 Railway Ave,Glenboro,MB,204-827-2841,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+655,655,Shoppers Drug Mart #548,Pharmacy,Winnipeg,-97.16452802699996,49.85793896800004,6000 1120 Grant Ave,Winnipeg,MB,204-453-0130,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+656,656,Shoppers Drug Mart #539,Pharmacy,Winnipeg,-97.061182,49.897289,32 1555 Regent Ave W,Winnipeg,MB,204-661-8068,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+657,657,University Centre Pharmacy (U of M),Pharmacy,Winnipeg,-97.13401313999998,49.80941465100005,RM111 University Centre Building,Winnipeg,MB,204-474-9323,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+658,658,Shoppers Drug Mart #556,Pharmacy,Winnipeg,-97.093267,49.939018,50 1128 Henderson Hwy,Winnipeg,MB,204-339-8173,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+659,659,Shoppers Drug Mart #2511,Pharmacy,Winnipeg,-97.02698511199998,49.91022489300008,201 1750 Plessis Rd,Winnipeg,MB,204-222-3400,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+660,660,Shoppers Drug Mart #538,Pharmacy,Winnipeg,-97.106812,49.831846,1 785 Dakota St,Winnipeg,MB,204-257-1639,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+661,661,Target Pharmacy,Pharmacy,Winnipeg,-97.07848446399998,49.85380918400006,35 Lakewood Blvd,Winnipeg,MB,204-258-2241,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+662,662,Home Health Care Pharmacy,Pharmacy,Prairie Mountain Health,-99.979441,49.841379,3000 Victoria Ave,Brandon,MB,204-727-7551,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+663,663,Fort Alexander Health Centre Pharmacy,Pharmacy,Interlake-Eastern,-96.843148,49.937495,Lot 70 HWY 11,Fort Alexander,MB,204-367-9900,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+664,664,Pinawa Pharmacy,Pharmacy,Interlake-Eastern,-95.875613,50.147918,40 Burrows Rd,Pinawa,MB,204-753-2324,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+665,665,Shoppers Drug Mart #534,Pharmacy,Winnipeg,-97.314297,49.883209,3665 Portage Ave W,Winnipeg,MB,204-885-1620,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+666,666,Wal-Mart Pharmacy #3069,Pharmacy,Southern Health-Santé Sud,-98.322866,49.976114,2348 Sissons Dr,Portage la Prairie,MB,204-857-5024,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+667,667,Pharmasave #451,Pharmacy,Interlake-Eastern,-96.989793632,50.63169174000006,47 Centre St,Gimli,MB,204-642-8814,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+668,668,Shoppers Drug Mart #2516,Pharmacy,Interlake-Eastern,-97.26269317799996,50.38758879100004,44 Main St Box 12,Teulon,MB,204-886-2814,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+669,669,Souris Medical Associates,Medical Clinic,Prairie Mountain Health,-100.2598311789999,49.61688301700008,31 Crescent Ave W,Souris,MB,204-483-2147,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+670,670,Family Matters Medical Centre,Medical Clinic,Winnipeg,-97.084951,49.822801,Unit X 730 St Anne's Rd,Winnipeg,MB,204-253-5320,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+671,671,Autumnwood Medical Centre,Medical Clinic,Winnipeg,-97.06435279999994,49.85906010000008,10 414 Westmount Dr,Winnipeg,MB,204-255-7430,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+672,672,Concordia Health Associates,Medical Clinic,Winnipeg,-97.06147719999996,49.91185690000003,102 1155 Concordia Ave,Winnipeg,MB,204-415-0322,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+673,673,Nine Circles Community Health Centre,Medical Clinic,Winnipeg,-97.16018079999998,49.88595140000007,705 Broadway Ave,Winnipeg,MB,204-940-6000,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+674,674,Beautiful Plains Comunity Clinic,Medical Clinic,Prairie Mountain Health,-99.46611449999996,50.22680050000008,499 MOUNTAIN Ave Box 70,Neepawa,MB,204-841-8841,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+675,675,Corner Medical Centre,Medical Clinic,Winnipeg,-97.167942,49.896538,Unit 11 794 Sargent Ave,Winnipeg,MB,204-783-6430,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+676,676,Teulon Medical Clinic,Medical Clinic,Interlake-Eastern,-97.254977,50.38745210000008,162 3rd Ave SE,Teulon,MB,204-886-2131,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+677,677,Klinic Community Health Centre,Medical Clinic,Winnipeg,-97.15895259999996,49.88422860000003,167 Sherbrook St,Winnipeg,MB,204-784-4090,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+678,678,Videl Medical Clinic,Medical Clinic,Winnipeg,-97.164211,49.896863,711 Sargent Ave,Winnipeg,MB,204-775-5160,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+679,679,Access Downtown,Medical Clinic,Winnipeg,-97.135997,49.903123,640 Main St,Winnipeg,MB,204 940-1626,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+680,680,Westwood Clinic,Medical Clinic,Winnipeg,-97.29569530199996,49.88069773300003,3320 Portage Ave,Winnipeg,MB,204-612-2990,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+681,681,Centre Medical Seine Inc.,Medical Clinic,Southern Health-Santé Sud,-96.64694289999994,49.66932180000003,100 142 Centrale Ave,Ste Anne,MB,204-422-8811,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+682,682,432 Pharmacy,Pharmacy,,-97.06725665999994,49.90787077300007,103 1107 Munroe Ave,Winnipeg,MB,204-410-6999,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+683,683,Killarney Physicians,Medical Clinic,Prairie Mountain Health,-99.663407,49.176918,86 Ellis Dr,Killarney,MB,204-523-4609,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+684,684,Dr. Michael Loudon Medical Corporation,Medical Clinic,Interlake-Eastern,-97.262666,50.38786,34 Main St,Teulon,MB,204-886-3039,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+685,685,River Park Medical Center,Medical Clinic,Winnipeg,-97.09491559999998,49.80987210000006,4 1500 Dakota St,Winnipeg,MB,204-415-6562,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+686,686,Norwood Family Medical Centre,Medical Clinic,Winnipeg,-97.12677309999998,49.88241740000007,43A Marion St,Winnipeg,MB,204-233-9477,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+687,687,Interlake Medicentres,Medical Clinic,Interlake-Eastern,-97.32409349699998,50.13060865900007,Unit 2 330 3rd Ave S,Stonewall,MB,204-467-5717,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+688,688,Rougeau Plaza Medical Centre,Medical Clinic,Winnipeg,-97.109916,49.947919,211 2110 Main St,Winnipeg,MB,204-663-0827,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+689,689,Clinique St-Boniface Clinic,Medical Clinic,Winnipeg,-97.12376489999995,49.88257220000003,343 Tache Ave,Winnipeg,MB,204-925-9560,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+690,690,7th Street Health Access Centre,Medical Clinic,Prairie Mountain Health,-99.947707,49.848981,20 7th St,Brandon,MB,204-578-4804,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+691,691,Transcona Medical Clinic,Medical Clinic,Winnipeg,-97.02187977499996,49.89634357800003,200 701 Regent Ave W,Winnipeg,MB,204-222-9173,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+692,692,Dr. I. Raza,Medical Clinic,Winnipeg,-97.150059,49.901513,110 Isabel St,Winnipeg,MB,204-942-4559,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+693,693,Eveline Street Clinic,Medical Clinic,Interlake-Eastern,-96.885648,50.129863,66 Eveline St,Selkirk,MB,204-785-5550,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+694,694,9 to 9 Walk In & Family Clinic,Medical Clinic,Winnipeg,-97.159961,49.901335,690 Notre Dame Ave,Winnipeg,MB,204-775-9584,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+695,695,Grandview Medical Clinic,Medical Clinic,Prairie Mountain Health,-100.6969697599999,51.18009830600005,644 Mill St,Grandview,MB,204-648-3028,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+696,696,Eaton Place Medical Center,Medical Clinic,Winnipeg,-97.14335224899996,49.89129173700007,81 333 St Mary Ave,Winnipeg,MB,204-942-0933,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+697,697,Rosser Medical Clinic,Medical Clinic,Prairie Mountain Health,-99.949806,49.848622,841 Rosser Ave,Brandon,MB,204-729-8588,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+698,698,Berrydale Family Medical,Medical Clinic,Winnipeg,-97.097173,49.84658,417 St Anne's Rd,Winnipeg,MB,204-255-6256,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+699,699,Aboriginal Health and Wellness Centre,Medical Clinic,Winnipeg,-97.13269819999994,49.90494890000008,215 181 Higgins Ave,Winnipeg,MB,204-925-1203,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+700,700,Mcmicken Medical Clinic,Medical Clinic,Winnipeg,-97.156387,49.892711,544 Ellice Ave,Winnipeg,MB,204-786-2496,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+701,701,Birchwood Medical Clinic,Medical Clinic,Winnipeg,-97.253088,49.875233,2416 Portage Ave,Winnipeg,MB,204-885-4456,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+702,702,Academy Skin Centre,Medical Clinic,Winnipeg,-97.192524,49.87389480000007,500 Academy Rd,Winnipeg,MB,204-957-0141,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+703,703,The Assiniboine Medical Clinic,Medical Clinic,Winnipeg,-97.27326929999998,49.88040670000004,633 Lodge Ave,Winnipeg,MB,204-958-6700 - Option 8,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+704,704,Healthway Medical,Medical Clinic,Winnipeg,-97.16856,49.886104,865 Portage Ave,Winnipeg,MB,204-783-6464,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+705,705,Bridge Care Clinic,Medical Clinic,Winnipeg,-97.145263,49.902322,Lower Level 425 Elgin Ave,Winnipeg,MB,204-940-4384,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+706,706,Greencrest Clinic,Medical Clinic,Winnipeg,-97.15664769999997,49.79262340000008,B 2750 Pembina Hwy,Winnipeg,MB,204-415-0044,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+707,707,Access Fort Garry Medical Clinic,Medical Clinic,Winnipeg,-97.148613,49.82185690000006,135 Plaza Dr,Winnipeg,MB,204-940-7100,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+708,708,Meadowood Medical Centre,Medical Clinic,Winnipeg,-97.1134914,49.82390230000004,1555 St Mary's Rd,Winnipeg,MB,204-256-4888,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+709,709,Riverwood medical centre,Medical Clinic,Winnipeg,-97.16237179999996,49.86818160000007,981 Corydon Ave,Winnipeg,MB,204-452-3345,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+710,710,Plessis Medical Centre,Medical Clinic,Winnipeg,-97.026594,49.896229,12 801 Regent Ave W,Winnipeg,MB,204-222-4200,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+711,711,Southwood Professional Centre,Medical Clinic,Winnipeg,-97.156182,49.80545360000008,3rd Floor 2385 Pembina Hwy,Winnipeg,MB,204-261-3037,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+712,712,Charleswood Medical Clinic,Medical Clinic,Winnipeg,-97.25619539999995,49.86823170000008,2nd Flr 3360 Roblin Blvd,Winnipeg,MB,204-889-7200,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+713,713,PORTAGE TRAIL PEDIATRICS,Medical Clinic,Winnipeg,-97.281713,49.879587,G 3050 Portage Ave,Winnipeg,MB,204-885-6442,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+714,714,Jebamani Children's Clinic,Medical Clinic,Winnipeg,-97.175462,49.884197,B 986 Portage Ave,Winnipeg,MB,204-774-1300,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+715,715,Access River East,Medical Clinic,Winnipeg,-97.09506127299994,49.93462969700005,975 Henderson Hwy,Winnipeg,MB,204-938-5050,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+716,716,Access Transcona Primary Care Clinic,Medical Clinic,Winnipeg,-97.02895979999994,49.89623390000003,845 Regent Ave W,Winnipeg,MB,204-794-0839,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+717,717,Provencher Pediatrics,Medical Clinic,Winnipeg,-97.124195,49.891993,103 147 Provencher Blvd,Winnipeg,MB,204-233-1615,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+718,718,Tranquility Medical,Medical Clinic,Winnipeg,-97.14293724399994,49.87620200700007,196 Osborne St,Winnipeg,MB,204-306-8100,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+719,719,Stonewall Medical,Medical Clinic,Interlake-Eastern,-97.33550163899996,50.13110859300008,589 3rd Ave S,Stonewall,MB,204-467-5509,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+720,720,Access Winnipeg West Primary Care Clinic,Medical Clinic,Winnipeg,-97.27556269999997,49.88191480000006,1st Floor 280 Booth Dr,Winnipeg,MB,204-232-4871,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+721,721,Springfield Heights Medical,Medical Clinic,Winnipeg,-97.095961,49.933715,4 963 Henderson Hwy,Winnipeg,MB,204-663-4404,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+722,722,Brandon Clinic Medical Corporation,Medical Clinic,Prairie Mountain Health,-99.93800685899998,49.84020251300007,620 Dennis St,Brandon,MB,204-571-7173,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+723,723,Thompson Clinic,Medical Clinic,Northern,-97.851193,55.742003,50 Selkirk Ave,Thompson,MB,204-677-1791,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+724,724,Steinbach Family Medical Centre,Medical Clinic,Southern Health-Santé Sud,-96.67394034999997,49.53496972400006,100 381 Stonebridge Crossing,Steinbach,MB,204-326-8888,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+725,725,Hope Centre Health Care,Medical Clinic,Winnipeg,-97.14165579999997,49.91863770000003,240 Powers St,Winnipeg,MB,204-589-8354,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+726,726,Rivergrove Medical Clinic,Medical Clinic,Winnipeg,-97.087915,49.958981,2 2605 Main St,Winnipeg,MB,204-632-0024,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+727,727,Virden Medical Associates,Medical Clinic,Prairie Mountain Health,-100.92375849,49.85524120000008,455 Frame St E,Virden,MB,204-748-1345,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+728,728,Lakewood Medical Centre,Medical Clinic,Winnipeg,-97.08011819999996,49.85486070000007,34 Lakewood Blvd,Winnipeg,MB,204-257-4900 ext 240,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+729,729,ACS Pharmacy,Pharmacy,Winnipeg,-97.184953,49.905563,1332 Clifton St,Winnipeg,MB,866-712-6057,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+730,730,Sterling Lyon Pediatrics,Medical Clinic,Winnipeg,-97.19973495399996,49.84306999200004,401 1020 Lorimer Blvd,Winnipeg,MB,204-942-0949,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+731,731,Prana Family Medical Centre,Medical Clinic,Winnipeg,-97.00622689999994,49.89483790000003,208 Regent Ave W,Winnipeg,MB,204-222-6771,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+732,732,Fairview Health & Wellness Clinic,Medical Clinic,Winnipeg,-97.11588830099998,49.93945503200007,1850 Main St,Winnipeg,MB,204-942-3128,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+733,733,Norwest Co-Op Community Health,Medical Clinic,Winnipeg,-97.19327729999998,49.93650790000004,785 Keewatin St,Winnipeg,MB,204-938-5900,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+734,734,Pinawa Medical Clinic,Medical Clinic,Interlake-Eastern,-95.883815,50.151101,30 Vanier Dr,Pinawa,MB,204-753-2351,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+735,735,University Health Service,Medical Clinic,Winnipeg,-97.13015610999996,49.80958998900007,193 Dafoe Rd,Winnipeg,MB,204-474-8411,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+736,736,Dr. Jonathon Werier Medical Corp.,Medical Clinic,Winnipeg,-97.15502381499994,49.80937460300004,205 2265 Pembina Hwy,Winnipeg,MB,204-261-9761,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+737,737,Dr. Sandra Lee,Medical Clinic,Winnipeg,-97.110377,49.86428,5 St Anne's Rd,Winnipeg,MB,204-231-3355,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+738,738,Crestview Medical Clinic,Medical Clinic,Winnipeg,-97.24224549999995,49.88475510000006,B103 2080 Ness Ave,Winnipeg,MB,207-888-0999,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+739,739,Laxmi Centre,Medical Clinic,Winnipeg,-97.11956567899996,49.88228294600003,301 200 Goulet St,Winnipeg,MB,204-237-8479,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+740,740,"Drs Olson, Hilderman, Whittaker",Medical Clinic,Winnipeg,-97.155056,49.80936770000005,200 2265 Pembina Hwy,Winnipeg,MB,204-989-4207,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+741,741,Centre De Sante Saint Boniface,Medical Clinic,Winnipeg,-97.121274,49.88218370000004,2nd Floor 170 Goulet St,Winnipeg,MB,204-940-1155,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+742,742,Dr T Babick Office,Medical Clinic,Winnipeg,-97.109916,49.947919,110 2110 Main St,Winnipeg,MB,204-589-7386,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+743,743,Dr. Wilson & Dr. Dalling,Medical Clinic,Winnipeg,-97.14687279999998,49.95621540000008,102 1021 Court Ave,Winnipeg,MB,204-338-8530,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+744,744,Dr Darrin Dueck Medical Clinic,Medical Clinic,Interlake-Eastern,-96.84311859999995,49.94179130000003,622 Main St,Oakbank,MB,204-444-2934,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+745,745,Gimli Express Care Clinic,Medical Clinic,Interlake-Eastern,-96.99050889999997,50.63224290000005,50 Center St Box 40,Gimli,MB,204-641-1380,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+746,746,Aikins Community Health Centre,Medical Clinic,Winnipeg,-97.127357,49.92782890000007,601 Aikins St,Winnipeg,MB,204-940-3628,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+747,747,Minnedosa Medical Group,Medical Clinic,Prairie Mountain Health,-99.841521,50.241727,333 1ST ST SW,Minnedosa,MB,204-867-2722,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+748,748,Redwood Medical Clinic,Medical Clinic,Winnipeg,-97.118445,49.936494,203 1750 Main St,Winnipeg,MB,204-586-8426,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+749,749,Vista Medical Centre,Medical Clinic,Winnipeg,-97.11208793699996,49.81944018800004,B 1633 St Mary's Rd,Winnipeg,MB,204-257-3661,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+750,750,Alliance Pharmacy Central,Pharmacy,Winnipeg,-97.200412,49.892326,975 St James St,Winnipeg,MB,204-202-5728,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+751,751,Manitoba Clinic,Medical Clinic,Winnipeg,-97.15811703499998,49.90231831900007,790 Sherbrook St,Winnipeg,MB,204-788-5780,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+752,752,Lincoln Walk In Medical Clinic,Medical Clinic,Winnipeg,-97.15039586899996,49.85826537200006,2 756 Pembina Hwy,Winnipeg,MB,204-284-5408,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+753,753,Woo Medical Centre,Medical Clinic,Winnipeg,-97.110406,49.868565,489 St Mary's Rd,Winnipeg,MB,204-254-2360,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+754,754,Al-Shifa Medical Clinic,Medical Clinic,Winnipeg,-97.158535,49.888853,639 Portage Ave,Winnipeg,MB,204-783-4449,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+755,755,Selkirk Medical Associates - Selkirk Medical Centre,Medical Clinic,Interlake-Eastern,-96.87183069999998,50.14202270000004,353 Eveline St,Selkirk,MB,204-785-7660,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+756,756,St Vital Family Medical,Medical Clinic,Winnipeg,-97.111361,49.836394,1087 St Mary's Rd,Winnipeg,MB,204-255-2835,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+757,757,Linden Ridge Medical Centre,Medical Clinic,Winnipeg,-97.19476598799996,49.81720582400004,E 123 Scurfield Blvd,Winnipeg,MB,204-489-7790,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+758,758,Al-Shifa Pharmacy,Pharmacy,Winnipeg,-97.158535,49.888853,639 Portage Ave,Winnipeg,MB,204-772-5555,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+759,759,Health Sciences Center Internal Medicine Clinic,Medical Clinic,Winnipeg,-97.15636193599994,49.90334081800006,GE 100 820 Sherbrook St,Winnipeg,MB,204-787-7118,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+760,760,Beausejour Primary Health Care Center,Medical Clinic,Interlake-Eastern,-96.52022129999996,50.05756740000004,151 1st St S Box 550,Beausejour,MB,204-268-4966,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+761,761,Altona Clinic,Medical Clinic,Southern Health-Santé Sud,-97.55268900199997,49.10726832600005,217 5th Ave NE,Altona,MB,204-324-6447,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+762,762,Family Medical Practice,Medical Clinic,Winnipeg,-97.14301229999997,49.91523480000006,453 Selkirk Ave,Winnipeg,MB,204-791-0446,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+763,763,Mount Carmel Clinic,Medical Clinic,Winnipeg,-97.134445,49.910116,886 Main St,Winnipeg,MB,204-582-2311,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+764,764,Dakota Medical Centre,Medical Clinic,Winnipeg,-97.10460359999996,49.82907150000005,17 845 Dakota St,Winnipeg,MB,204-254-2087,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+765,765,Envoy Medical Clinic,Medical Clinic,Winnipeg,-97.14901009999994,49.90215780000005,481.5 William Ave,Winnipeg,MB,204-786-4444,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+766,766,Gateway Medical Clinic (Inside the Superstore),Medical Clinic,Winnipeg,-97.06964169999998,49.92827090000003,1035 Gateway Rd,Winnipeg,MB,204-667-5227,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+767,767,Regent Medical Clinic (Inside the Superstore),Medical Clinic,Winnipeg,-97.0663,49.89436150000006,1578 Regent Ave W,Winnipeg,MB,204-654-3083,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+768,768,Mandalay Medical Clinic,Medical Clinic,Winnipeg,-97.182969,49.947998,70 Mandalay Dr,Winnipeg,MB,204-294-5593,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+769,769,Red River Family Medical Ellice,Medical Clinic,Winnipeg,-97.164502,49.892936,724 Ellice Ave,Winnipeg,MB,204-786-4673,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+770,770,Dauphin Medical Clinic,Medical Clinic,Prairie Mountain Health,-100.0613567999999,51.14696810000004,622 3rd St SW,Dauphin,MB,204-638-6445,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+771,771,Cancercare Manitoba,Medical Clinic,Winnipeg,-97.158393,49.903161,675 Mcdermot Ave,Winnipeg,MB,204-787-2302,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+772,772,Menzies Medical Centre,Medical Clinic,Southern Health-Santé Sud,-98.09270259999994,49.18938130000004,130 30 Stephen St,Morden,MB,204-822-2601,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+773,773,Portage Clinic,Medical Clinic,Southern Health-Santé Sud,-98.278484,49.96905170000008,100 140 9th St SE,Portage la Prairie,MB,204-857-3445,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+774,774,Parkview Medicentres (Formely Parkview Medical),Medical Clinic,Winnipeg,-97.1096902,49.94786560000006,102 2110 Main St,Winnipeg,MB,204-334-9526,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+775,775,Apollo Pharmacy,Pharmacy,Winnipeg,-97.16932962199996,49.91428132600004,1200A-305 McPhillips St,Winnipeg,MB,,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+776,776,Wawanesa Clinic,Medical Clinic,Prairie Mountain Health,-99.684102,49.595461,506 Georg St,Wawanesa,MB,204-824-2993,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+777,777,Apothecary Of Morden Inc,Pharmacy,Southern Health-Santé Sud,-98.09486386799996,49.18988356300008,118 Stephen St,Morden,MB,204-822-5222,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+778,778,Health Plus Medical Centre,Medical Clinic,Winnipeg,-97.07668809999996,49.86178510000008,1075 Autumnwood Dr,Winnipeg,MB,204-594-2100,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+779,779,Windsor Park Medical Centre,Medical Clinic,Winnipeg,-97.10281371899998,49.85729527500007,215 St Anne's Rd,Winnipeg,MB,204-256-4343,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv
+780,780,"Selkirk Medical Group, Selkirk Medical Clinic",Medical Clinic,Interlake-Eastern,-96.871773,50.141986,353 Eveline St,Selkirk,MB,204-785-9063,Province of Manitoba,MB_covid-19_and_flu_vaccine_sites.csv

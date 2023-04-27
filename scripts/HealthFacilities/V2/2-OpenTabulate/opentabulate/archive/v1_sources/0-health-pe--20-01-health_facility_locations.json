@@ -1,0 +1,22 @@
+{
+    "localfile": "0-health-pe--20-01-health_facility_locations.csv",
+    "database_type": "hospital",
+    "source": "https://data.princeedwardisland.ca/Health-and-Home/OD0050-Health-PEI-Facility-Locations/dfge-zd27",
+    "licence": "https://www.princeedwardisland.ca/en/information/finance/open-government-licence-prince-edward-island",
+    "provider": "Province of Prince Edward Island",
+    "format": {
+	"type": "csv",
+	"delimiter": ",",
+	"quote": "\""
+    },
+    "schema": {
+	"hospital_name": "Facility Name",
+	"hospital_type": "Facility Type",
+	"address_str": ["Street Address", "Community", "force:pe", "Postal Code"],
+	"address_str_parse": ["Street Address", "Community", "force:pe", "force:canada", "Postal Code"],
+	"longitude": "geo_lon",
+	"latitude": "geo_lat"
+    }
+}
+
+

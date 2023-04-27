@@ -1,0 +1,245 @@
+,idx,facility_name,facility_type,health_authority,longitude,latitude,province,phone,email,website,provider,filename
+0,0,Walk-in Clinic,Walk In Medical Clinics,Sunwood Medical Clinic,-122.793127,49.274338,BC,6044640345.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+1,1,Walk-in Clinic,Walk In Medical Clinics,Kerrisdale Medical Clinic,-123.154106,49.233569,BC,6042619494.0,,https://wellclinics.ca/properties/kerrisdale-medical-clinic/,Province of British Columbia,BC_walk-in_clinics.csv
+2,2,Walk-in Clinic,Walk In Medical Clinics,Spring Medical Centre,-123.004908,49.266808,BC,6044281363.0,,https://springmedicalcentre.com/,Province of British Columbia,BC_walk-in_clinics.csv
+3,3,Walk-in Clinic,Walk In Medical Clinics,Abbotsford Village Medical Clinic,-122.269714,49.038729,BC,6045047145.0,,https://www.abbotsfordvillagemedical.com/,Province of British Columbia,BC_walk-in_clinics.csv
+4,4,Walk-in Clinic,Walk In Medical Clinics,Spectrum Medical,-121.958316,49.123775,BC,6048466246.0,,https://spectrumbc.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+5,5,Walk-in Clinic,Walk In Medical Clinics,PrimeCare Medical Centre,-122.951615,49.218846,BC,6045193767.0,,https://www.primecaremedicalcentre.com/walkin-clinic,Province of British Columbia,BC_walk-in_clinics.csv
+6,6,Walk-in Clinic,Walk In Medical Clinics,Valleyview Treatment Centre,-123.607747,48.710695,BC,2507439395.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+7,7,Walk-in Clinic,Walk In Medical Clinics,West Coast Urgent Care Clinic,-124.792035,49.263571,BC,7784211219.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+8,8,Walk-in Clinic,Walk In Medical Clinics,University of Northern British Columbia,-122.808631,53.889353,BC,2509606370.0,wellness@unbc.ca,https://www2.unbc.ca/medical-clinic,Province of British Columbia,BC_walk-in_clinics.csv
+9,9,Walk-in Clinic,Walk In Medical Clinics,Colwood Medical Treatment Centre,-123.470525,48.441188,BC,2504788833.0,,https://www.colwoodmedicaltreatmentcentre.com/walk-in,Province of British Columbia,BC_walk-in_clinics.csv
+10,10,Walk-in Clinic,Walk In Medical Clinics,Saanich Plaza Medical Clinic,-123.374168,48.456348,BC,2504751101.0,,https://saanichplaza.moneomed.com/,Province of British Columbia,BC_walk-in_clinics.csv
+11,11,Walk-in Clinic,Walk In Medical Clinics,Lansdowne Treatment Centre,-123.334011,48.445104,BC,2505924212.0,,https://lansdownemedicalclinic.com/,Province of British Columbia,BC_walk-in_clinics.csv
+12,12,Walk-in Clinic,Walk In Medical Clinics,Commercial Drive Medical Clinic,-123.069667,49.271111,BC,6042555922.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+13,13,Walk-in Clinic,Walk In Medical Clinics,Denning Health Group,-122.845564,49.186983,BC,6049510885.0,,https://www.denninghealth.ca/find-a-doctor,Province of British Columbia,BC_walk-in_clinics.csv
+14,14,Walk-in Clinic,Walk In Medical Clinics,Denning Health Group,-122.78,49.1986,BC,6045828820.0,,https://www.denninghealth.ca/find-a-doctor,Province of British Columbia,BC_walk-in_clinics.csv
+15,15,Walk-in Clinic,Walk In Medical Clinics,Denning Health Group,-122.888604,49.161098,BC,6045430888.0,,https://www.denninghealth.ca/find-a-doctor,Province of British Columbia,BC_walk-in_clinics.csv
+16,16,Walk-in Clinic,Walk In Medical Clinics,Denning Health Group,-122.865951,49.176233,BC,6045843531.0,,https://www.denninghealth.ca/find-a-doctor,Province of British Columbia,BC_walk-in_clinics.csv
+17,17,Walk-in Clinic,Walk In Medical Clinics,Denning Health Group,-122.317111,49.04993,BC,6045579938.0,,https://www.denninghealth.ca/find-a-doctor,Province of British Columbia,BC_walk-in_clinics.csv
+18,18,Walk-in Clinic,Walk In Medical Clinics,Denning Health Group,-123.080931,49.09023,BC,6049400917.0,,https://www.denninghealth.ca/find-a-doctor,Province of British Columbia,BC_walk-in_clinics.csv
+19,19,Walk-in Clinic,Walk In Medical Clinics,Denning Health Group,-122.800771,49.16545,BC,6045888181.0,,https://www.denninghealth.ca/find-a-doctor,Province of British Columbia,BC_walk-in_clinics.csv
+20,20,Walk-in Clinic,Walk In Medical Clinics,Whistler Medical Clinic,-122.955147,50.120046,BC,6049323977.0,,http://whistlermedicalclinic.com/,Province of British Columbia,BC_walk-in_clinics.csv
+21,21,Walk-in Clinic,Walk In Medical Clinics,University Village Medical,-123.242117,49.266463,BC,6042222273.0,,http://www.universityvillageclinic.com/medical.html,Province of British Columbia,BC_walk-in_clinics.csv
+22,22,Walk-in Clinic,Walk In Medical Clinics,University Village Medical,-123.235533,49.253464,BC,6042222273.0,,http://www.universityvillageclinic.com/medical.html,Province of British Columbia,BC_walk-in_clinics.csv
+23,23,Walk-in Clinic,Walk In Medical Clinics,Sullivan Medical Clinic,-122.798666,49.104505,BC,6043036342.0,,http://www.sullivanmedicalclinic.com/services/,Province of British Columbia,BC_walk-in_clinics.csv
+24,24,Walk-in Clinic,Walk In Medical Clinics,Shoreline Medical,-123.401503,48.647652,BC,2506564143.0,,https://shorelinemedical.ca/contact/,Province of British Columbia,BC_walk-in_clinics.csv
+25,25,Walk-in Clinic,Walk In Medical Clinics,Shoreline Medical,-123.446966,48.577122,BC,2506529191.0,,https://shorelinemedical.ca/contact/,Province of British Columbia,BC_walk-in_clinics.csv
+26,26,Walk-in Clinic,Walk In Medical Clinics,Burnside Family Medical Clinic,-123.387382,48.45081,BC,2503814353.0,,https://www.burnsideclinic.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+27,27,Walk-in Clinic,Walk In Medical Clinics,Saik'uz First Nation,-124.102601,53.941923,BC,2505679773.0,,https://www.saikuz.com/departments/health-centre,Province of British Columbia,BC_walk-in_clinics.csv
+28,28,Abbotsford Youth Health Centre,Walk In Medical Clinics,Archway Community Services,-122.32308,49.053349,BC,6047463392.0,info@ayhc.ca,http://ayhc.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+29,29,Walk-in Clinic,Walk In Medical Clinics,Hillside Medical Clinic,-119.453356,49.901555,BC,2507636322.0,,https://www.evolvealliedhealth.ca/locations,Province of British Columbia,BC_walk-in_clinics.csv
+30,30,UBC Student Health Services,Walk In Medical Clinics,Vancouver Coastal Health,-123.244259,49.264671,BC,6048227011.0,student.health@ubc.ca,https://students.ubc.ca/health/student-health-service,Province of British Columbia,BC_walk-in_clinics.csv
+31,31,Walk-in Clinic,Walk In Medical Clinics,Northern Health,-119.270254,52.83206,BC,2505669138.0,,https://www.northernhealth.ca/locations/medical-clinics/valemount-health-centre,Province of British Columbia,BC_walk-in_clinics.csv
+32,32,Walk-in Clinic,Walk In Medical Clinics,Northern Health,-133.704315,59.574828,BC,2506517677.0,,https://www.northernhealth.ca/locations/health-units/atlin-heath-centre,Province of British Columbia,BC_walk-in_clinics.csv
+33,33,Walk-in Clinic,Walk In Medical Clinics,Northern Health,-132.151708,54.012317,BC,2506264702.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+34,34,Walk-in Clinic,Walk In Medical Clinics,Canway Medical Centre,-122.98946,49.254122,BC,6044288123.0,,https://www.canwaymedicalcentre.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+35,35,Walk-in Clinic,Walk In Medical Clinics,Care Point Medical and Wellness Clinics,-123.069821,49.270184,BC,6042545554.0,,https://www.carepoint.ca/commercial-drive-vancouver/,Province of British Columbia,BC_walk-in_clinics.csv
+36,36,Walk-in Clinic,Walk In Medical Clinics,Care Point Medical and Wellness Clinics,-123.03206,49.237824,BC,6044360800.0,,https://www.carepoint.ca/joyce-street-vancouver/,Province of British Columbia,BC_walk-in_clinics.csv
+37,37,Walk-in Clinic,Walk In Medical Clinics,Care Point Medical and Wellness Clinics,-123.131466,49.280813,BC,6049159517.0,,https://www.carepoint.ca/davie-street-vancouver/,Province of British Columbia,BC_walk-in_clinics.csv
+38,38,Walk-in Clinic,Walk In Medical Clinics,Care Point Medical and Wellness Clinics,-122.919692,49.21262,BC,6045231166.0,,https://www.carepoint.ca/westminster-centre/,Province of British Columbia,BC_walk-in_clinics.csv
+39,39,Walk-in Clinic,Walk In Medical Clinics,Goldcity Walk-in Clinic,-122.497053,52.98001,BC,2509926006.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+40,40,Walk-in Clinic,Walk In Medical Clinics,Murals Medical Clinic,-122.606243,49.090915,BC,6045329944.0,,https://muralsmedical.com/,Province of British Columbia,BC_walk-in_clinics.csv
+41,41,Walk-in Clinic,Walk In Medical Clinics,Ancron Medical Centre,-117.294835,49.491628,BC,2503529144.0,,https://ancronmedical.com/walk-in-clinic/,Province of British Columbia,BC_walk-in_clinics.csv
+42,42,Walk-in Clinic,Walk In Medical Clinics,Kootenay Lake Medical Clinic,-117.291323,49.498677,BC,2503524666.0,,https://www.nelsonwalkin.com/,Province of British Columbia,BC_walk-in_clinics.csv
+43,43,Walk-in Clinic,Walk In Medical Clinics,Washington Park Medical Clinic,-124.988837,49.698026,BC,2503349241.0,,https://walkinmedicalclinic.com/,Province of British Columbia,BC_walk-in_clinics.csv
+44,44,Walk-in Clinic,Walk In Medical Clinics,Medical Arts Centre,-123.934996,49.163972,BC,2507533431.0,,https://medicalartscentre.com/walk-in-clinic/,Province of British Columbia,BC_walk-in_clinics.csv
+45,45,Walk-in Clinic,Walk In Medical Clinics,North Okanagan Medical Clinic,-119.270357,50.28729,BC,2505458338.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+46,46,Walk-in Clinic,Walk In Medical Clinics,Mount Ida Medical Centre,-119.287604,50.699561,BC,2508331990.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+47,47,Walk-in Clinic,Walk In Medical Clinics,Yates and Quadra Integrated Health Centre,-123.358744,48.42563,BC,2503883080.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+48,48,Walk-in Clinic,Walk In Medical Clinics,Nechako Medical Clinic,-122.7609,53.910359,BC,2506456900.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+49,49,Nursing Station,Walk In Medical Clinics,Sandspit Medical Clinic,-131.817065,53.243312,BC,2506375403.0,,https://haidagwaiihealth.ca/clinics/sandspit/,Province of British Columbia,BC_walk-in_clinics.csv
+50,50,Walk-in Clinic,Walk In Medical Clinics,Mission Medical Centre,-119.489935,49.855356,BC,2508688222.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+51,51,Walk-in Clinic,Walk In Medical Clinics,Orchard Medical Centre,-119.443356,49.877565,BC,2508613235.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+52,52,Walk-in Clinic,Walk In Medical Clinics,Oak Bay Medical Clinic,-123.334374,48.426478,BC,2505986744.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+53,53,Walk-in Clinic,Walk In Medical Clinics,Moss Rock Medical Centre,-123.349207,48.415738,BC,2504188878.0,,https://www.mossrockmedical.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+54,54,Walk-in Clinic,Walk In Medical Clinics,West Kelowna Walk-in and Family Practice,-119.610073,49.841992,BC,2507686985.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+55,55,Walk-in Clinic,Walk In Medical Clinics,Sicamous Medical Clinic,-118.98931,50.836895,BC,2508362817.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+56,56,Walk-in Clinic,Walk In Medical Clinics,Apple Plaza Walk-in Clinic,-119.583924,49.478033,BC,2504935228.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+57,57,Walk-in Clinic,Walk In Medical Clinics,Coach House Square Medical Clinic,-121.297302,51.673407,BC,2503951143.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+58,58,Walk-in Clinic,Walk In Medical Clinics,Lakeshore Medical Centre,-119.431768,49.881024,BC,2507648878.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+59,59,Walk-in Clinic,Walk In Medical Clinics,Salmon Arm Medical Clinic,-119.278208,50.703316,BC,2508326092.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+60,60,Walk-in Clinic,Walk In Medical Clinics,Granville Medical Clinic,-123.138565,49.262912,BC,6047334700.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+61,61,Walk-in Clinic,Walk In Medical Clinics,Quinsam Medical Group,-125.245769,49.973673,BC,7784183888.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+62,62,Walk-in Clinic,Walk In Medical Clinics,Soltani Medical Clinic,-122.788557,49.273832,BC,6045529140.0,,https://www.soltanimedicalclinic.com/,Province of British Columbia,BC_walk-in_clinics.csv
+63,63,Walk-in Clinic,Walk In Medical Clinics,Fairfield Medical Treatment Centre,-123.322827,48.432404,BC,2505923496.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+64,64,Walk-in Clinic,Walk In Medical Clinics,Yaletown Medical Clinic,-123.12342,49.273447,BC,6046332474.0,,http://www.yaletownmedicalclinic.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+65,65,Walk-in Clinic,Walk In Medical Clinics,Tillicum Medical Clinic,-123.39404,48.453374,BC,2503818112.0,,https://www.tillicummedicalclinic.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+66,66,Walk-in Clinic,Walk In Medical Clinics,Hilltop Medical Clinic,-122.798056,49.031121,BC,6045315575.0,,http://hilltopmedical.ca/walk-in-clinic/,Province of British Columbia,BC_walk-in_clinics.csv
+67,67,Walk-in Clinic,Walk In Medical Clinics,Gibsons Medical Associates,-123.530368,49.40658,BC,6048862868.0,,http://gibsonsmedicalassociates.net/clinicsandwalkins.html,Province of British Columbia,BC_walk-in_clinics.csv
+68,68,Walk-in Clinic,Walk In Medical Clinics,Spall Medical Centre,-119.453794,49.882804,BC,2508609909.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+69,69,Walk-in Clinic,Walk In Medical Clinics,Ellwood Medical Clinic,-122.378818,49.060779,BC,6047464700.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+70,70,Walk-in Clinic,Walk In Medical Clinics,Mission Hills Medical Clinic,-122.32574,49.133002,BC,6048267751.0,,https://mission-hills-medical-clinic.business.site/,Province of British Columbia,BC_walk-in_clinics.csv
+71,71,Walk-in Clinic,Walk In Medical Clinics,Allwood Medical Centre,-122.319815,49.051728,BC,6048506893.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+72,72,Walk-in Clinic,Walk In Medical Clinics,FirstCare Medical Centre,-123.069778,49.261542,BC,6048711535.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+73,73,Walk-in Clinic,Walk In Medical Clinics,James Bay Medical Treatment Centre,-123.373591,48.415986,BC,2503889934.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+74,74,Walk-in Clinic,Walk In Medical Clinics,Shelbourne Medical Clinic,-123.333229,48.448582,BC,2505928485.0,,https://shelbournemedicalclinic.com/,Province of British Columbia,BC_walk-in_clinics.csv
+75,75,Walk-in Clinic,Walk In Medical Clinics,Sea To Sky Walk In Clinic,-123.132852,49.736349,BC,6048985555.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+76,76,Walk-in Clinic,Walk In Medical Clinics,Peach City Medical and Urgent Care Clinic,-119.583878,49.472813,BC,2502765050.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+77,77,Walk-in Clinic,Walk In Medical Clinics,Coast Medical,-123.122335,49.278383,BC,6045693632.0,,https://coastmedical.ca/contact,Province of British Columbia,BC_walk-in_clinics.csv
+78,78,Walk-in Clinic,Walk In Medical Clinics,Aquarius Medical Clinic,-123.120741,49.273776,BC,6046697772.0,,http://aquariusmedical.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+79,79,Walk-in Clinic,Walk In Medical Clinics,Lonsdale Medical Clinics,-123.071945,49.327193,BC,6049873347.0,,http://www.lonsdaleclinic.com/home.html,Province of British Columbia,BC_walk-in_clinics.csv
+80,80,Walk-in Clinic,Walk In Medical Clinics,Lonsdale Medical Clinics,-123.071443,49.323646,BC,6049830054.0,,http://www.lonsdaleclinic.com/home.html,Province of British Columbia,BC_walk-in_clinics.csv
+81,81,Walk-in Clinic,Walk In Medical Clinics,Parker Place Medical Clinic,-123.136564,49.181851,BC,6042739899.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+82,82,Walk-in Clinic,Walk In Medical Clinics,Wave Medical Clinic,-123.12848,49.279513,BC,6045584044.0,,http://www.wavemedicalclinic.com,Province of British Columbia,BC_walk-in_clinics.csv
+83,83,Walk-in Clinic,Walk In Medical Clinics,Park and Tilford Medical Treatment Centre,-123.04047,49.308678,BC,6049832442.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+84,84,Walk-in Clinic,Walk In Medical Clinics,The Bridge Medical Clinic,-125.129046,49.869856,BC,7784200200.0,,https://www.thebridgeclinic.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+85,85,Walk-in Clinic,Walk In Medical Clinics,Town Plaza Medical Clinic,-122.955944,50.117232,BC,6049057089.0,,http://www.medicalclinicwhistler.com/,Province of British Columbia,BC_walk-in_clinics.csv
+86,86,Walk-in Clinic,Walk In Medical Clinics,Avecina Medical Clinic,-122.650601,49.103208,BC,6045391744.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+87,87,Walk-in Clinic,Walk In Medical Clinics,West Steveston Medical Clinic,-123.15786,49.117443,BC,6044489595.0,,https://weststevestonmedicalclinic.com/,Province of British Columbia,BC_walk-in_clinics.csv
+88,88,Walk-in Clinic,Walk In Medical Clinics,Maple Medical Clinic,-123.151159,49.263854,BC,6047309769.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+89,89,Walk-in Clinic,Walk In Medical Clinics,Brentwood Medical Clinic,-123.00166,49.266485,BC,6042948540.0,,http://www.brentwoodwalk-inclinic.com/index.html,Province of British Columbia,BC_walk-in_clinics.csv
+90,90,Walk-in Clinic,Walk In Medical Clinics,Cook Road Medical Clinic,-123.134096,49.166673,BC,6042791942.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+91,91,Walk-in Clinic,Walk In Medical Clinics,Lonsdale Medical Clinic,-123.071886,49.318173,BC,6049048804.0,,https://wellclinics.ca/properties/lonsdale-medical-clinic/,Province of British Columbia,BC_walk-in_clinics.csv
+92,92,Walk-in Clinic,Walk In Medical Clinics,Boundary Park Medical Centre,-122.890172,49.118235,BC,6045916300.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+93,93,Walk-in Clinic,Walk In Medical Clinics,Clover Care Medical Clinic,-122.730256,49.104124,BC,6045747883.0,,https://wellclinics.ca/properties/clovercare-medical-clinic/,Province of British Columbia,BC_walk-in_clinics.csv
+94,94,Walk-in Clinic,Walk In Medical Clinics,Cottonwood Medical Clinic,-122.561484,49.22069,BC,6044769705.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+95,95,Walk-in Clinic,Walk In Medical Clinics,West Vancouver Beachside Medical,-123.15454,49.32737,BC,6049227390.0,,http://healthwisemedical.dignifiedliving.ca/index.php?option=com_content&view=category&layout=blog&id=28&Itemid=224,Province of British Columbia,BC_walk-in_clinics.csv
+96,96,Walk-in Clinic,Walk In Medical Clinics,Pemberton Marine Medical Clinic,-123.10837,49.324102,BC,6049860677.0,,https://wellclinics.ca/properties/pemberton-marine-medical-clinic/,Province of British Columbia,BC_walk-in_clinics.csv
+97,97,Walk-in Clinic,Walk In Medical Clinics,Jubilee Medical Clinic and Treatment Centre,-123.330528,48.429847,BC,2505923441.0,,https://jubileemedicalclinic.com/,Province of British Columbia,BC_walk-in_clinics.csv
+98,98,Walk-in Clinic,Walk In Medical Clinics,Pacific Medical Clinic,-123.090632,49.2286,BC,6043019955.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+99,99,Walk-in Clinic,Walk In Medical Clinics,Pacific Medical Clinic,-123.06485,49.244632,BC,6048745555.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+100,100,Walk-in Clinic,Walk In Medical Clinics,Pacific Medical Clinic,-123.036662,49.258207,BC,6044342222.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+101,101,Walk-in Clinic,Walk In Medical Clinics,Cedar Care Clinic,-122.327389,49.133045,BC,6048207676.0,,http://www.cedarcareclinic.ca/hours.html,Province of British Columbia,BC_walk-in_clinics.csv
+102,102,Walk-in Clinic,Walk In Medical Clinics,Powell River Medical Clinic,-124.520327,49.832069,BC,6044855501.0,,https://www.powellriverclinic.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+103,103,Walk-in Clinic,Walk In Medical Clinics,Royal Columbia Medical Clinic,-122.892883,49.225627,BC,6045227363.0,,https://royalcolumbiamedicalclinic.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+104,104,Walk-in Clinic,Walk In Medical Clinics,Fraser Highway Medical Clinic,-122.474845,49.058206,BC,6048561717.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+105,105,Walk-in Clinic,Walk In Medical Clinics,Glover Medical Centre,-122.65072,49.108106,BC,6045303233.0,,https://www.glovermedical.com/schedule/,Province of British Columbia,BC_walk-in_clinics.csv
+106,106,Walk-in Clinic,Walk In Medical Clinics,J-Von Medical Centre,-123.003865,49.225261,BC,7783798299.0,,http://www.jvonmedicals.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+107,107,Walk-in Clinic,Walk In Medical Clinics,Welcome Medical Clinic,-122.927954,49.219204,BC,,,http://welcomemedical.ca/schedule,Province of British Columbia,BC_walk-in_clinics.csv
+108,108,Walk-in Clinic,Walk In Medical Clinics,Able Care Medical Clinic,-122.795021,49.277419,BC,6049457819.0,,https://wellclinics.ca/properties/able-care-medical-clinic/,Province of British Columbia,BC_walk-in_clinics.csv
+109,109,Walk-in Clinic,Walk In Medical Clinics,Point Grey Medical Clinic,-123.207511,49.26383,BC,7783794448.0,,https://wellclinics.ca/properties/point-grey-medical-clinic/,Province of British Columbia,BC_walk-in_clinics.csv
+110,110,Walk-in Clinic,Walk In Medical Clinics,Kensington Walk-in and Paediatric Medical Clinic,-122.968239,49.279428,BC,6042999769.0,,https://www.kensingtonmedicalclinic.com/,Province of British Columbia,BC_walk-in_clinics.csv
+111,111,Walk-in Clinic,Walk In Medical Clinics,Ridge Meadows Care Clinic,-122.671707,49.221288,BC,6044659188.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+112,112,Walk-in Clinic,Walk In Medical Clinics,Medcare Plus Medical Clinic,-122.931687,49.222443,BC,6046003911.0,,https://medcareplus.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+113,113,Walk-in Clinic,Walk In Medical Clinics,Peninsula Medical Clinic,-122.796387,49.045582,BC,6045314131.0,,http://www.peninsulamedicalclinic.ca/slide-view/services/,Province of British Columbia,BC_walk-in_clinics.csv
+114,114,Walk-in Clinic,Walk In Medical Clinics,Plateau Medical Clinic,-122.803349,49.297014,BC,6044681500.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+115,115,Walk-in Clinic,Walk In Medical Clinics,New Pitt Meadows Medical Clinic,-122.690225,49.224038,BC,6044654911.0,,http://newpittmeadowsmedicalclinic.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+116,116,Walk-in Clinic,Walk In Medical Clinics,Broadway Station Medical Clinic,-123.069626,49.26194,BC,6048725377.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+117,117,Walk-in Clinic,Walk In Medical Clinics,HealthVue Medical Clinic,-123.09342,49.184268,BC,,,https://healthvuemedical.com/contact/,Province of British Columbia,BC_walk-in_clinics.csv
+118,118,Walk-in Clinic,Walk In Medical Clinics,Khazamipour Medical Services,-123.13489,49.166534,BC,6042311924.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+119,119,Walk-in Clinic,Walk In Medical Clinics,Safa Medical Clinic,-122.662404,49.165841,BC,6048884472.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+120,120,Walk-in Clinic,Walk In Medical Clinics,Manchenda Medical Clinic,-122.845528,49.139977,BC,6045989880.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+121,121,Walk-in Clinic,Walk In Medical Clinics,Kwantlen Medical Clinic,-122.867417,49.13365,BC,6045728161.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+122,122,Walk-in Clinic,Walk In Medical Clinics,Station Square Medical Clinic,-123.004463,49.227868,BC,6044388288.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+123,123,Walk-in Clinic,Walk In Medical Clinics,Khatsahlano Medical Clinics,-123.356852,48.413923,BC,2502209999.0,,https://www.cookstclinic.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+124,124,Walk-in Clinic,Walk In Medical Clinics,Khatsahlano Medical Clinics,-123.166009,49.264068,BC,6047319187.0,,http://khatsclinic.ca/schedule/kitsilano,Province of British Columbia,BC_walk-in_clinics.csv
+125,125,Walk-in Clinic,Walk In Medical Clinics,Old Orchard Medical Clinic,-123.005129,49.231407,BC,6044316585.0,,https://burnabymedicalclinic.com/medical-services/walk-in-clinic-burnaby/,Province of British Columbia,BC_walk-in_clinics.csv
+126,126,Walk-in Clinic,Walk In Medical Clinics,Triton Medical Clinic,-122.890373,49.15231,BC,6045949990.0,,https://wellclinics.ca/properties/triton-medical-clinic/,Province of British Columbia,BC_walk-in_clinics.csv
+127,127,Walk-in Clinic,Walk In Medical Clinics,Valley Centre Medical Clinic,-122.673359,49.11821,BC,6045349284.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+128,128,Walk-in Clinic,Walk In Medical Clinics,Willoughby Medical Centre,-122.662595,49.122595,BC,6045148800.0,,http://www.willoughbymedical.ca/contactus.htm,Province of British Columbia,BC_walk-in_clinics.csv
+129,129,Walk-in Clinic,Walk In Medical Clinics,Highgate Medical Clinic,-122.955384,49.218204,BC,6047779101.0,,https://medical.highgateclinic.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+130,130,Walk-in Clinic,Walk In Medical Clinics,The Doctors' Office,-123.121538,49.263577,BC,6047348252.0,,http://thedoctorsofficevancouver.com/,Province of British Columbia,BC_walk-in_clinics.csv
+131,131,Walk-in Clinic,Walk In Medical Clinics,Willowbrook Medical Clinic,-122.678664,49.115513,BC,6045301333.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+132,132,Walk-in Clinic,Walk In Medical Clinics,Richmond Central Medical Clinic,-123.136592,49.170249,BC,7782974700.0,,https://wellclinics.ca/properties/richmond-central-medical-centre/,Province of British Columbia,BC_walk-in_clinics.csv
+133,133,Walk-in Clinic,Walk In Medical Clinics,Panorama Village Medical Clinic,-122.80326,49.104505,BC,6045740481.0,,https://wellclinics.ca/properties/panorama-medical-clinic/,Province of British Columbia,BC_walk-in_clinics.csv
+134,134,Walk-in Clinic,Walk In Medical Clinics,Mount Seymour Medical Clinic,-123.024409,49.311582,BC,6049047712.0,,http://healthwisemedical.dignifiedliving.ca/index.php?option=com_content&view=category&layout=blog&id=22&Itemid=113,Province of British Columbia,BC_walk-in_clinics.csv
+135,135,Walk-in Clinic,Walk In Medical Clinics,Doc-Side Medical,-123.099576,49.283827,BC,6046331234.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+136,136,Walk-in Clinic,Walk In Medical Clinics,Elicare Medical,-122.89804,49.253444,BC,7789999966.0,,https://www.elicare.ca/lougheedfamilypractice,Province of British Columbia,BC_walk-in_clinics.csv
+137,137,Walk-in Clinic,Walk In Medical Clinics,Elicare Medical,-122.921773,49.213484,BC,6045450420.0,,https://www.elicare.ca/royalcitymedical,Province of British Columbia,BC_walk-in_clinics.csv
+138,138,Walk-in Clinic,Walk In Medical Clinics,Elicare Medical,-123.131932,49.172474,BC,6042421862.0,,https://www.elicare.ca/cooney,Province of British Columbia,BC_walk-in_clinics.csv
+139,139,Walk-in Clinic,Walk In Medical Clinics,Tenth Street Medicentre,-122.916095,49.201215,BC,6045263308.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+140,140,Walk-in Clinic,Walk In Medical Clinics,MD Medical Centre,-119.61148,49.840972,BC,2507689959.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+141,141,Walk-in Clinic,Walk In Medical Clinics,Salveo Medical Clinic,-122.769326,53.887457,BC,2506140007.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+142,142,Walk-in Clinic,Walk In Medical Clinics,Ultima Medical Services,-123.176251,49.194605,BC,6042076900.0,,https://yvrmedical.com/,Province of British Columbia,BC_walk-in_clinics.csv
+143,143,Walk-in Clinic,Walk In Medical Clinics,Ultima Medical Services,-123.12012,49.285914,BC,6046838138.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+144,144,Walk-in Clinic,Walk In Medical Clinics,Mile Zero Clinic,-120.222749,55.757051,BC,2507821103.0,,https://milezero.clinic/?fbclid=IwAR281Ce4eraX5RVeo0qxED0aUcW5_5I8xve30tsG_yzosjaSwlG1lZBMy7U,Province of British Columbia,BC_walk-in_clinics.csv
+145,145,Walk-in Clinic,Walk In Medical Clinics,Uptown Medical Clinic,-123.374313,48.454041,BC,2505908375.0,,https://www.uptownmedicalclinic.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+146,146,Walk-in Clinic,Walk In Medical Clinics,Abby Central Medical and Dental Clinic,-122.314944,49.053283,BC,6045571777.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+147,147,Walk-in Clinic,Walk In Medical Clinics,Chetwynd Primary Care Clinic,-121.633385,55.700364,BC,2507887300.0,,https://www.northernhealth.ca/locations/medical-clinics/chetwynd-primary-care-clinic,Province of British Columbia,BC_walk-in_clinics.csv
+148,148,Walk-in Clinic,Walk In Medical Clinics,Airport Way Medical Clinic,-122.69551,58.80795,BC,2507747838.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+149,149,Walk-in Clinic,Walk In Medical Clinics,CarePlace Medical Centre,-122.801215,49.166461,BC,6045813550.0,,https://wellclinics.ca/properties/careplace-fleetwood/,Province of British Columbia,BC_walk-in_clinics.csv
+150,150,Walk-in Clinic,Walk In Medical Clinics,CarePlace Medical Centre,-122.890314,49.133387,BC,6045905811.0,,https://wellclinics.ca/properties/care-place-scott-road-medical/,Province of British Columbia,BC_walk-in_clinics.csv
+151,151,Walk-in Clinic,Walk In Medical Clinics,Brickyard Medical Clinic,-122.738371,49.10411,BC,6045767701.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+152,152,Walk-in Clinic,Walk In Medical Clinics,Colebrook�Medical Clinic,-122.799043,49.103543,BC,7785741414.0,,https://wellclinics.ca/properties/colebrook-medical-clinic/,Province of British Columbia,BC_walk-in_clinics.csv
+153,153,Walk-in Clinic,Walk In Medical Clinics,theWell Medical Clinic,-122.867352,49.249007,BC,6049372520.0,,http://www.thewellmedical.com/sub/walkin.php,Province of British Columbia,BC_walk-in_clinics.csv
+154,154,Walk-in Clinic,Walk In Medical Clinics,Discovery Medical Clinic,-125.260091,50.032952,BC,2508504505.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+155,155,Walk-in Clinic,Walk In Medical Clinics,Food for the Soul Project Society,-122.603195,49.21702,BC,6043801608.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+156,156,Walk-in Clinic,Walk In Medical Clinics,Food for the Soul Project Society,-122.33712,49.048801,BC,6047469797.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+157,157,Walk-in Clinic,Walk In Medical Clinics,Matters of Health Medical Clinic,-123.155556,49.235586,BC,6045584633.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+158,158,Walk-in Clinic,Walk In Medical Clinics,Edgemont Medical Clinic,-123.101618,49.336925,BC,6049909499.0,,http://www.edgemontclinic.com/index.html,Province of British Columbia,BC_walk-in_clinics.csv
+159,159,Walk-in Clinic,Walk In Medical Clinics,South Vancouver Medical Clinic,-123.100212,49.210671,BC,6043230077.0,,https://www.southvanmed.com/,Province of British Columbia,BC_walk-in_clinics.csv
+160,160,Walk-in Clinic,Walk In Medical Clinics,Esquimalt Medical Clinic,-123.409936,48.429952,BC,7782654305.0,,https://esquimaltmedicalclinic.com/community-clinic,Province of British Columbia,BC_walk-in_clinics.csv
+161,161,Walk-in Clinic,Walk In Medical Clinics,Foremed Clinic,-122.905839,49.204289,BC,6045222206.0,,https://foremedclinic.com/,Province of British Columbia,BC_walk-in_clinics.csv
+162,162,Walk-in Clinic,Walk In Medical Clinics,Wellness First Medical Clinic,-123.136769,49.139527,BC,6042722244.0,,https://wellnessfirstmedical.com/,Province of British Columbia,BC_walk-in_clinics.csv
+163,163,Walk-in Clinic,Walk In Medical Clinics,Guildford Medical Clinic,-122.815324,49.191481,BC,6045828985.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+164,164,Walk-in Clinic,Walk In Medical Clinics,Alder Medical Clinic,-121.297963,51.638639,BC,2503954010.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+165,165,Walk-in Clinic,Walk In Medical Clinics,Lynn Valley Medical and Travel Clinic,-123.039,49.336367,BC,6049885389.0,,https://www.lynnvalleymedical.com/home-2/walkinclinic/,Province of British Columbia,BC_walk-in_clinics.csv
+166,166,Walk-in Clinic,Walk In Medical Clinics,Ocean Medical,-123.163856,49.328678,BC,6049251884.0,,https://www.oceanmedical.com/family-practicewalk-in,Province of British Columbia,BC_walk-in_clinics.csv
+167,167,Walk-in Clinic,Walk In Medical Clinics,Caulfield Village Medical Clinic,-123.253557,49.347323,BC,6049221544.0,,http://healthwisemedical.dignifiedliving.ca/index.php?option=com_content&view=category&layout=blog&id=21&Itemid=107,Province of British Columbia,BC_walk-in_clinics.csv
+168,168,Walk-in Clinic,Walk In Medical Clinics,Clayton Heights Medical Clinic,-122.703286,49.124387,BC,6045750501.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+169,169,Walk-in Clinic,Walk In Medical Clinics,Viva Care,-122.895863,49.251227,BC,6044228482.0,,https://vivacare.ca/locations/burnaby-bc/,Province of British Columbia,BC_walk-in_clinics.csv
+170,170,Walk-in Clinic,Walk In Medical Clinics,Viva Care,-121.97908,49.151848,BC,6047928482.0,,https://vivacare.ca/locations/chilliwack-bc/,Province of British Columbia,BC_walk-in_clinics.csv
+171,171,Walk-in Clinic,Walk In Medical Clinics,Viva Care,-122.804342,49.188825,BC,6045838482.0,,https://vivacare.ca/locations/surrey-guildford/,Province of British Columbia,BC_walk-in_clinics.csv
+172,172,Walk-in Clinic,Walk In Medical Clinics,Viva Care,-122.379944,49.059738,BC,6043814102.0,,https://vivacare.ca/locations/abbotsford-bc/,Province of British Columbia,BC_walk-in_clinics.csv
+173,173,Walk-in Clinic,Walk In Medical Clinics,Viva Care,-122.799227,49.126568,BC,7782184100.0,,https://vivacare.ca/locations/surrey-newton/,Province of British Columbia,BC_walk-in_clinics.csv
+174,174,Walk-in Clinic,Walk In Medical Clinics,Viva Care,-122.739462,49.253528,BC,7782161822.0,,https://vivacare.ca/locations/port-coquitlam-bc/,Province of British Columbia,BC_walk-in_clinics.csv
+175,175,Walk-in Clinic,Walk In Medical Clinics,Viva Care,-122.890471,49.118166,BC,6045999401.0,,https://vivacare.ca/locations/delta-bc/,Province of British Columbia,BC_walk-in_clinics.csv
+176,176,Walk-in Clinic,Walk In Medical Clinics,Viva Care,-122.845896,49.185883,BC,7783724474.0,,https://vivacare.ca/locations/surrey-central-city/,Province of British Columbia,BC_walk-in_clinics.csv
+177,177,Walk-in Clinic,Walk In Medical Clinics,Viva Care,-122.633878,49.162667,BC,6048821250.0,,https://vivacare.ca/locations/langley-bc/,Province of British Columbia,BC_walk-in_clinics.csv
+178,178,Walk-in Clinic,Walk In Medical Clinics,Veralife Health Centre,-122.801946,49.133691,BC,7785640090.0,info@veralifehealthcentre.com,http://www.veralifehealthcentre.com/contact-us/,Province of British Columbia,BC_walk-in_clinics.csv
+179,179,Walk-in Clinic,Walk In Medical Clinics,Veralife Health Centre,-122.890058,49.155641,BC,6045030520.0,info@veralifehealthcentre.com,http://www.veralifehealthcentre.com/contact-us/,Province of British Columbia,BC_walk-in_clinics.csv
+180,180,Walk-in Clinic,Walk In Medical Clinics,Eljen Medical Clinic,-120.237571,55.749128,BC,2507827525.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+181,181,Walk-in Clinic,Walk In Medical Clinics,yYOUNG Medical Clinic and Pharmacy,-123.100793,49.269917,BC,6049148888.0,clinic@yyoung.com,https://yyoungclinic.com/index.php/walk-in-clinic-2/,Province of British Columbia,BC_walk-in_clinics.csv
+182,182,Walk-in Clinic,Walk In Medical Clinics,Seymour Health Centre,-123.13915,49.265324,BC,6047382151.0,,https://seymourhealth.ca/#services,Province of British Columbia,BC_walk-in_clinics.csv
+183,183,Walk-in Clinic,Walk In Medical Clinics,South Surrey Medical Clinic,-122.783332,49.048561,BC,6045427788.0,,https://www.southsurreymedicalclinic.com/services/walkin-clinic/,Province of British Columbia,BC_walk-in_clinics.csv
+184,184,Walk-in Clinic,Walk In Medical Clinics,Fraser Canyon Clinic,-121.443439,49.378762,BC,6048699966.0,,https://hopemedicalcentre.ca/contact/,Province of British Columbia,BC_walk-in_clinics.csv
+185,185,Walk-in Clinic,Walk In Medical Clinics,Dawson Medical Clinic,-123.011697,49.264467,BC,6045648555.0,,https://dawsonmedicalclinic.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+186,186,Walk-in Clinic,Walk In Medical Clinics,Horizon Access Clinic,-121.967945,49.168381,BC,6043920881.0,,https://suskro90.wixsite.com/horizonaccess/hoursofoperation,Province of British Columbia,BC_walk-in_clinics.csv
+187,187,Walk-in Clinic,Walk In Medical Clinics,123 Walk-in Clinic,-122.315463,49.051786,BC,6047554408.0,,https://123walkinclinic.com/,Province of British Columbia,BC_walk-in_clinics.csv
+188,188,Walk-in Clinic,Walk In Medical Clinics,Highroads Medical Clinics,-122.796608,49.046489,BC,6042654728.0,,https://highroadsmedical.com/south-surrey-medical-clinic,Province of British Columbia,BC_walk-in_clinics.csv
+189,189,Walk-in Clinic,Walk In Medical Clinics,Highroads Medical Clinics,-119.612332,49.840331,BC,2507687656.0,,https://highroadsmedical.com/west-kelowna-medical-clinic,Province of British Columbia,BC_walk-in_clinics.csv
+190,190,Walk-in Clinic,Walk In Medical Clinics,Highroads Medical Clinics,-122.895863,49.251227,BC,6049360411.0,,https://highroadsmedical.com/burnaby-medical-clinic,Province of British Columbia,BC_walk-in_clinics.csv
+191,191,Walk-in Clinic,Walk In Medical Clinics,Live Well Medical Centre,-123.136661,49.148846,BC,6043705010.0,,https://livewellmedicalcentre.com/,Province of British Columbia,BC_walk-in_clinics.csv
+192,192,Walk-in Clinic,Walk In Medical Clinics,Quadra Village Medical Clinic,-123.358897,48.438086,BC,2503835513.0,,https://quadravillagepharmacy.com/medical-clinic/,Province of British Columbia,BC_walk-in_clinics.csv
+193,193,Walk-in Clinic,Walk In Medical Clinics,Mercy Medical Clinic,-122.856333,49.235457,BC,7783983080.0,,http://www.mercymedicalclinics.com/mmccoquitlam.html,Province of British Columbia,BC_walk-in_clinics.csv
+194,194,Walk-in Clinic,Walk In Medical Clinics,Mercy Medical Clinic,-122.892594,49.132875,BC,7783303031.0,,http://www.mercymedicalclinics.com/mmcdelta.html,Province of British Columbia,BC_walk-in_clinics.csv
+195,195,Walk-in Clinic,Walk In Medical Clinics,Mercy Medical Clinic,-122.776408,49.043834,BC,7783585323.0,,http://www.mercymedicalclinics.com/mmcsouthsurrey.html,Province of British Columbia,BC_walk-in_clinics.csv
+196,196,Walk-in Clinic,Walk In Medical Clinics,Parkway Medical Clinic,-123.504347,48.441396,BC,2509404477.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+197,197,Walk-in Clinic,Walk In Medical Clinics,Foothills Medical Clinic,-122.755466,49.293373,BC,7782855859.0,,https://firstcanadianmedical.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+198,198,Walk-in Clinic,Walk In Medical Clinics,Cloverhill Medical Clinic,-122.711505,49.118604,BC,6043723386.0,,https://cloverhillmedical.com/,Province of British Columbia,BC_walk-in_clinics.csv
+199,199,Walk-in Clinic,Walk In Medical Clinics,Caremart Medical,-122.798048,49.279269,BC,7783303041.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+200,200,Walk-in Clinic,Walk In Medical Clinics,Shuswap Providence Medical Clinic,-119.318555,50.694848,BC,2508323377.0,,https://shuswapprovidenceclinic.com/our-hours/,Province of British Columbia,BC_walk-in_clinics.csv
+201,201,Walk-in Clinic,Walk In Medical Clinics,Comox Valley Medical Clinic,-124.981057,49.667209,BC,2508980202.0,,https://comoxvalleywalkinclinic.com/index.html,Province of British Columbia,BC_walk-in_clinics.csv
+202,202,Walk-in Clinic,Walk In Medical Clinics,Edwards Crossing Medical,-121.958392,49.168184,BC,6043929009.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+203,203,Walk-in Clinic,Walk In Medical Clinics,Newgen Medical Centre,-122.845853,49.117601,BC,7785641899.0,,http://newgenmed.ca/walkinclinic.html,Province of British Columbia,BC_walk-in_clinics.csv
+204,204,Walk-in Clinic,Walk In Medical Clinics,Marine Gateway Medical Clinic,-123.11683,49.210379,BC,6042273322.0,,https://www.marinegateway.clinic,Province of British Columbia,BC_walk-in_clinics.csv
+205,205,Walk-in Clinic,Walk In Medical Clinics,Rai Medical Clinic,-122.89095,49.128771,BC,6045904966.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+206,206,Walk-in Clinic,Walk In Medical Clinics,Sterling Centre Clinic,-119.275113,50.260402,BC,7784758311.0,,https://www.sterlingclinic.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+207,207,Walk-in Clinic,Walk In Medical Clinics,First Canadian Medical Clinic,-122.80976,49.191351,BC,7783947480.0,,https://firstcanadianmedical.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+208,208,Walk-in Clinic,Walk In Medical Clinics,Healthway Medical Clinic,-122.662619,49.106097,BC,6042604785.0,,https://sahmcwebsite.z5.web.core.windows.net/Index.html,Province of British Columbia,BC_walk-in_clinics.csv
+209,209,Walk-in Clinic,Walk In Medical Clinics,The Clinic at Clayton Heights,-122.701348,49.132924,BC,7785747202.0,,http://www.clinicatclayton.com/,Province of British Columbia,BC_walk-in_clinics.csv
+210,210,Chilliwack Youth Health Centre,Walk In Medical Clinics,The Divisions of Family Practice,-121.961238,49.134157,BC,,chilliwackyhc@gmail.com,https://chilliwackyhc.com/,Province of British Columbia,BC_walk-in_clinics.csv
+211,211,Chilliwack Youth Health Centre,Walk In Medical Clinics,The Divisions of Family Practice,-121.943036,49.174523,BC,,chilliwackyhc@gmail.com,https://chilliwackyhc.com/,Province of British Columbia,BC_walk-in_clinics.csv
+212,212,Walk-in Clinic,Walk In Medical Clinics,Integrated Wellness Medical Clinic,-123.105667,49.324316,BC,6049715153.0,,https://www.inwellnv.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+213,213,Walk-in Clinic,Walk In Medical Clinics,Carefiniti Health Corporation,-123.109974,49.323719,BC,6049853333.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+214,214,Walk-in Clinic,Walk In Medical Clinics,North Peace Primary Care Clinic,-120.839694,56.247514,BC,2502620016.0,,https://nppcc.ca/#contact,Province of British Columbia,BC_walk-in_clinics.csv
+215,215,Walk-in Clinic,Walk In Medical Clinics,Bella Bella Medical Clinic,-128.143155,52.161197,BC,2509572332.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+216,216,Walk-in Clinic,Walk In Medical Clinics,Bella Coola Medical Clinic,-126.757077,52.373495,BC,2507995342.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+217,217,Walk-in Clinic,Walk In Medical Clinics,Mega Fu Medical,-123.119861,49.178089,BC,7782184104.0,,https://www.jacknathanhealth.com/clinic-finder,Province of British Columbia,BC_walk-in_clinics.csv
+218,218,Walk-in Clinic,Walk In Medical Clinics,Pure Care Clinic,-122.600013,49.219791,BC,6044778800.0,,http://www.purecareclinic.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+219,219,Walk-in Clinic,Walk In Medical Clinics,Beyond Health and Medical Centre,-122.691601,49.11897,BC,6042455797.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+220,220,Walk-in Clinic,Walk In Medical Clinics,Loyal Medical Clinic,-123.12195,49.285409,BC,6044288313.0,,https://www.loyalmedicalclinic.com/,Province of British Columbia,BC_walk-in_clinics.csv
+221,221,Walk-in Clinic,Walk In Medical Clinics,Richmond In-Store Medical Clinic,-123.138509,49.179216,BC,6043037633.0,,https://instoremed.com/,Province of British Columbia,BC_walk-in_clinics.csv
+222,222,Walk-in Clinic,Walk In Medical Clinics,Georgia Medical Clinic,-123.134202,49.292361,BC,6045646644.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+223,223,Walk-in Clinic,Walk In Medical Clinics,Hastings Sunrise Medical Clinic,-123.058284,49.280892,BC,6042533166.0,,https://wellclinics.ca/properties/hastings-sunrise-medical-clinic/,Province of British Columbia,BC_walk-in_clinics.csv
+224,224,Walk-in Clinic,Walk In Medical Clinics,Continuum Medical Care,-123.16017,49.328644,BC,6049138183.0,,http://www.cmcare.ca/walk-in/,Province of British Columbia,BC_walk-in_clinics.csv
+225,225,Walk-in Clinic,Walk In Medical Clinics,Mid-Main Community Health Centre,-123.100611,49.249493,BC,6048733666.0,,https://www.midmain.net/medical/,Province of British Columbia,BC_walk-in_clinics.csv
+226,226,Walk-in Clinic,Walk In Medical Clinics,Denman Medical Centre,-123.141131,49.287963,BC,6044287611.0,,https://denmanmedicalcentre.com/,Province of British Columbia,BC_walk-in_clinics.csv
+227,227,Walk-in Clinic,Walk In Medical Clinics,Coal Harbour Health Centre,-123.123848,49.288023,BC,6045583313.0,,http://chmed2.dignifiedliving.ca/index.php?option=com_content&view=article&id=12&Itemid=113,Province of British Columbia,BC_walk-in_clinics.csv
+228,228,Walk-in Clinic,Walk In Medical Clinics,Westside Medical Associates,-119.563434,49.86601,BC,2507686920.0,,https://www.wsmed.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+229,229,Walk-in Clinic,Walk In Medical Clinics,Una Medical Clinic,-123.127501,49.257857,BC,6047307177.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+230,230,Walk-in Clinic,Walk In Medical Clinics,Keefer Medical Clinic,-123.101951,49.279292,BC,6046747403.0,,https://keefermed.ca/locations/,Province of British Columbia,BC_walk-in_clinics.csv
+231,231,Walk-in Clinic,Walk In Medical Clinics,Green Cross Medical Clinic and Pharmacy,-122.756821,49.117839,BC,6043724503.0,,,Province of British Columbia,BC_walk-in_clinics.csv
+232,232,Walk-in Clinic,Walk In Medical Clinics,Simply Wellness,-123.067617,49.246217,BC,6047099355.0,,https://www.simplywellnesskingsway.com/our-services,Province of British Columbia,BC_walk-in_clinics.csv
+233,233,Walk-in Clinic,Walk In Medical Clinics,iHealthMD Medical Centre,-123.071895,49.319278,BC,6049716767.0,,https://ihealthmd.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+234,234,Walk-in Clinic,Walk In Medical Clinics,Northshore Medical Clinic,-123.106579,49.323377,BC,,,https://northshoremedicalclinic.ca/,Province of British Columbia,BC_walk-in_clinics.csv
+235,235,Walk-in Clinic,Walk In Medical Clinics,Sina Pharmacy and Health Centre,-123.119477,49.279307,BC,6043367462.0,,https://mysina.ca/med/,Province of British Columbia,BC_walk-in_clinics.csv
+236,236,Walk-in Clinic,Walk In Medical Clinics,Turtle Bay Medical Clinic,-119.412485,50.05433,BC,7784806890.0,,https://www.evolvealliedhealth.ca/locations,Province of British Columbia,BC_walk-in_clinics.csv
+237,237,Primary Health Care,Walk In Medical Clinics,Sun Peaks Community Health Centre,-119.886065,50.883631,BC,7786440635.0,,https://sunpeakshealth.com/services/,Province of British Columbia,BC_walk-in_clinics.csv
+238,238,Walk-in Clinic,Walk In Medical Clinics,Kinetic Energy Health and Wellness Centre,-120.328366,50.676672,BC,2508286637.0,,https://www.kamloopskineticenergy.com/walk-in-clinic,Province of British Columbia,BC_walk-in_clinics.csv
+239,239,Walk-in Clinic,Walk In Medical Clinics,Mango Medical Clinic,-123.005725,49.226057,BC,6044234392.0,,http://mangomedical.ca/walkin4/,Province of British Columbia,BC_walk-in_clinics.csv
+240,240,Walk-in Clinic,Walk In Medical Clinics,Civic Family Health Centre,-122.846488,49.162652,BC,6045031159.0,,https://civic-family-health-centre.business.site/,Province of British Columbia,BC_walk-in_clinics.csv
+241,241,Walk-in Clinic,Walk In Medical Clinics,West Coast Family Medical Clinic,-123.721171,48.378844,BC,2506424233.0,,https://westcoastfamilymedical.com/urgent-care/,Province of British Columbia,BC_walk-in_clinics.csv
+242,242,Walk-in Clinic,Walk In Medical Clinics,River City Medical Clinic,-125.248484,50.036017,BC,2502872111.0,,https://www.primacy.ca/locations/river-city/,Province of British Columbia,BC_walk-in_clinics.csv
+243,243,Walk-in Clinic,Walk In Medical Clinics,CareTel Medical Clinic,-122.778586,49.156345,BC,6045472623.0,,https://www.caretel.ca/,Province of British Columbia,BC_walk-in_clinics.csv

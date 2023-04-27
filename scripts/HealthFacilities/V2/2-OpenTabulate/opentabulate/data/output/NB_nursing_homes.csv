@@ -1,0 +1,69 @@
+,idx,facility_name,facility_type,number_beds,longitude,latitude,street_addr,city,province,postal_code,phone,provider,filename
+0,0,The Kenneth E. Spencer Nursing Home Inc.,nursing_homes,200,-64.858165,46.059747,"35, Atlantic Baptist Avenue.",Moncton,NB,E1E 4N3,(506) 858-7870,Province of New Brunswick,NB_nursing_homes.csv
+1,1,The United Church Home for Senior Citizens - Drew Nursing Home,nursing_homes,118,-64.373289,45.903274,"165, Main Street",Sackville,NB,E4L 4S2,(506) 364-4900,Province of New Brunswick,NB_nursing_homes.csv
+2,2,Forest Dale Home Inc.,nursing_homes,50,-64.744016,45.755143,"5836, King Street",Riverside Albert,NB,E4H 4B9,(506) 882-3015,Province of New Brunswick,NB_nursing_homes.csv
+3,3,Foyer Saint-Antoine,nursing_homes,30,-64.753644,46.36214,"7, Avenue de l'Église",Saint-Antoine,NB,E4V 1L6,(506) 525-4040,Province of New Brunswick,NB_nursing_homes.csv
+4,4,Foyer St. Thomas de la Vallée de Memramcook Inc.,nursing_homes,30,-64.747837,46.099285,"100, rue Notre-Dame",Memramcook,NB,E4K 3W3,(506) 758-2110,Province of New Brunswick,NB_nursing_homes.csv
+5,5,Jordan Lifecare Centre Inc.,nursing_homes,50,-65.079568,45.937727,"747, Sanatorium Road",The Glades,NB,E4J 1W6,(506) 756-3355,Province of New Brunswick,NB_nursing_homes.csv
+6,6,Manoir Saint-Jean Baptiste Inc.,nursing_homes,50,-64.721492,46.477058,"5, Avenue Richard Avenue",Bouctouche,NB,E4S 3T2,(506) 743-7344,Province of New Brunswick,NB_nursing_homes.csv
+7,7,Rexton Lions Nursing Home Inc.,nursing_homes,30,-64.876164,46.659337,"23, Main Street",Rexton,NB,E4W 0E4,(506) 523-7720,Province of New Brunswick,NB_nursing_homes.csv
+8,8,Shannex RLC Ltd. - Monarch Hall,nursing_homes,72,-64.828427,46.055777,"826, Coverdale Road",Riverview,NB,E1B 0J1,(506) 387-7770,Province of New Brunswick,NB_nursing_homes.csv
+9,9,Shannex RLC Ltd. - Pavillon Richard,nursing_homes,64,-64.781693,46.110925,189 rue Morton Street,Moncton,NB,E1A 9V6,(506) 354-2381,Province of New Brunswick,NB_nursing_homes.csv
+10,10,The Salvation Army Lakeview Manor,nursing_homes,50,-64.810702,46.06464,"50, Suffolk Road",Riverview,NB,E1B 4K6,(506) 387-2012,Province of New Brunswick,NB_nursing_homes.csv
+11,11,Villa du Repos Inc.,nursing_homes,186,-64.777176,46.118247,"125, avenue Murphy Avenue",Moncton,NB,E1A 8V2,(506) 857-3560,Province of New Brunswick,NB_nursing_homes.csv
+12,12,Villa Maria Inc.,nursing_homes,73,-64.977828,46.744642,45 rue Vue de la rivière,St.-Louis-de-Kent,NB,E4X 0C6,(506) 876-3488,Province of New Brunswick,NB_nursing_homes.csv
+13,13,Villa Providence Shédiac Inc.,nursing_homes,190,-64.536915,46.218341,"403, rue Main",Shédiac,NB,E4P 2B9,(506) 532-4484,Province of New Brunswick,NB_nursing_homes.csv
+14,14,Westford Nursing Home,nursing_homes,30,-64.090464,46.041825,"57, West Main Street",Port Elgin,NB,E4M 1L7,(506) 538-1302,Province of New Brunswick,NB_nursing_homes.csv
+15,15,Campobello Lodge,nursing_homes,30,-66.949779,44.886916,"640, route 774, Unit 2",Welshpool,NB,E5E 1A5,(506) 752-7101,Province of New Brunswick,NB_nursing_homes.csv
+16,16,Carleton Kirk Lodge,nursing_homes,70,-66.078417,45.25717,"2, Carleton Kirk Place",Saint John,NB,E2M 5B8,(506) 643-7040,Province of New Brunswick,NB_nursing_homes.csv
+17,17,Church of St. John and St. Stephen Home Inc.,nursing_homes,80,-66.091197,45.295836,"130, University Avenue",Saint John,NB,E2K 4K3,(506) 643-6001,Province of New Brunswick,NB_nursing_homes.csv
+18,18,Dr. V. A. Snow Centre Inc.,nursing_homes,50,-65.832022,45.514946,"54, DeMille Court",Hampton,NB,E5N 5S7,(506) 832-6210,Province of New Brunswick,NB_nursing_homes.csv
+19,19,Fundy Nursing Home,nursing_homes,27,-66.786058,45.061793,"34, Hospital Street",Black's Harbour,NB,E5H 1K2,(506) 456-4218,Province of New Brunswick,NB_nursing_homes.csv
+20,20,Grand Manan Nursing Home Inc.,nursing_homes,30,-66.758216,44.725991,"642, Route 776",Grand Manan,NB,E5G 3C1,(506) 662-7111,Province of New Brunswick,NB_nursing_homes.csv
+21,21,Kennebec Manor,nursing_homes,70,-66.110181,45.293364,"475, Woodward Avenue",Saint John,NB,E2K 4N1,(506) 632-9628,Province of New Brunswick,NB_nursing_homes.csv
+22,22,Kings Way Care Centre Inc.,nursing_homes,75,-65.961461,45.435904,"8, Squire Drive",Quispamsis,NB,E2G 2A7,(506) 847-1131,Province of New Brunswick,NB_nursing_homes.csv
+23,23,Kiwanis Nursing Home Inc.,nursing_homes,70,-65.488413,45.726885,"11, Bryant Drive",Sussex,NB,E4E 2P3,(506) 432-3118,Province of New Brunswick,NB_nursing_homes.csv
+24,24,Lincourt Manor Inc.,nursing_homes,60,-67.26395,45.195376,"1, Chipman Street",St. Stephen,NB,E3L 2W9,(506) 466-7855,Province of New Brunswick,NB_nursing_homes.csv
+25,25,Loch Lomond Villa Inc.,nursing_homes,190,-66.032719,45.290184,"185, Loch Lomond Road",Saint John,NB,E2J 3S3,(506) 643-7175,Province of New Brunswick,NB_nursing_homes.csv
+26,26,Passamaquoddy Lodge Inc.,nursing_homes,60,-67.044493,45.077773,"230, Sophia Street",St. Andrews,NB,E5B 2C2,(506) 529-5240,Province of New Brunswick,NB_nursing_homes.csv
+27,27,Rocmaura Inc.,nursing_homes,150,-66.06478,45.28063,"10, Park Street",Saint John,NB,E2K 4P1,(506) 643-7050,Province of New Brunswick,NB_nursing_homes.csv
+28,28,Shannex RLC Ltd. - Embassy Hall,nursing_homes,72,-65.946461,45.419016,"70, Swanton Drive",Quispamsis,NB,E2E 0M3,(506) 848-3170,Province of New Brunswick,NB_nursing_homes.csv
+29,29,Shannex RLC Ltd. - Tucker Hall,nursing_homes,72,-66.09634,45.296622,"55, Bloom Lane",Saint John,NB,E2K 0J9,(506) 649-4770,Province of New Brunswick,NB_nursing_homes.csv
+30,30,Turnbull Nursing Home Inc.,nursing_homes,50,-66.051006,45.26824,"231, Britain Street",Saint John,NB,E2L 0A4,(506) 643-7200,Province of New Brunswick,NB_nursing_homes.csv
+31,31,Carleton Manor Inc.,nursing_homes,110,-67.590221,46.168327,"130, Burtt Street",Woodstock,NB,E7M 5G6,(506) 325-4373,Province of New Brunswick,NB_nursing_homes.csv
+32,32,Central Carleton Nursing Home Inc.,nursing_homes,30,-67.517663,46.304326,"139, Rockland Road",Hartland,NB,E7P 1E9,(506) 375-3033,Province of New Brunswick,NB_nursing_homes.csv
+33,33,Central New Brunswick Nursing Home Inc.,nursing_homes,30,-66.435181,46.451498,"3458, Route 625",Boiestown,NB,E6A 1C9,(506) 369-7262,Province of New Brunswick,NB_nursing_homes.csv
+34,34,Orchard View,nursing_homes,40,-66.153672,45.778231,"2230, Route 102",Gagetown,NB,E5M 1J6,(506) 488-3544,Province of New Brunswick,NB_nursing_homes.csv
+35,35,Mill Cove Nursing Home Inc.,nursing_homes,65,-66.00536,45.880082,"12, Lakeview Lane",Mill Cove,NB,E4C-3E3,(506) 488-3033,Province of New Brunswick,NB_nursing_homes.csv
+36,36,Nashwaak Villa Inc.,nursing_homes,30,-66.746074,46.276995,"32, Lime Kiln Road",Stanley,NB,E6B 1E9,(506) 367-7731,Province of New Brunswick,NB_nursing_homes.csv
+37,37,Pine Grove,nursing_homes,70,-66.671412,45.96187,"521, Woodstock Road",Fredericton,NB,E3B 2J2,(506) 444-3400,Province of New Brunswick,NB_nursing_homes.csv
+38,38,River View Manor Inc.,nursing_homes,40,-67.582882,46.509581,"96, Hospital Street",Bath,NB,E7J 1B9,(506) 278-6010,Province of New Brunswick,NB_nursing_homes.csv
+39,39,Shannex RLC Ltd. - Thomas Hall,nursing_homes,72,-66.697319,45.952323,"375, Rainsford Lane",Fredericton,NB,E3B 7T1,(506) 447-6440,Province of New Brunswick,NB_nursing_homes.csv
+40,40,Shannex RLC Ltd. - Frederick Hall,nursing_homes,36,-66.697323,45.952052,"379, Rainsford Lane",Fredericton,NB,E3B 0K4,(506) 455-7004,Province of New Brunswick,NB_nursing_homes.csv
+41,41,Tobique Valley Manor Inc.,nursing_homes,30,-67.39656,46.898037,"5, Manor Drive",Plaster Rock,NB,E7G 2H6,(506) 356-6040,Province of New Brunswick,NB_nursing_homes.csv
+42,42,Victoria Glen Manor Inc.,nursing_homes,60,-67.718362,46.747333,"20, Tepper Lane",Perth-Andover,NB,E7H 0B8,(506) 273-4885,Province of New Brunswick,NB_nursing_homes.csv
+43,43,Wauklehegan Manor Inc.,nursing_homes,36,-67.335135,45.585313,"11, Saunders Road",McAdam,NB,E6J 1K9,(506) 784-6303,Province of New Brunswick,NB_nursing_homes.csv
+44,44,White Rapids Manor Inc.,nursing_homes,40,-66.610186,45.662063,"235, Sunbury Drive",Fredericton Junction,NB,E5L 1S1,(506) 368-6508,Province of New Brunswick,NB_nursing_homes.csv
+45,45,W. G. Bishop Nursing Home,nursing_homes,30,-66.049214,46.09797,"1100, Pleasant Drive",Minto,NB,E4B 2V7,(506) 327-7853,Province of New Brunswick,NB_nursing_homes.csv
+46,46,York Manor Inc.,nursing_homes,214,-66.6864,45.9778,"100, Sunset Drive",Fredericton,NB,E3A 1A3,(506) 444-3880,Province of New Brunswick,NB_nursing_homes.csv
+47,47,Foyer Notre-Dame de Saint-Léonard Inc.,nursing_homes,45,-67.928274,47.167088,"604, rue Principal",Saint Léonard,NB,E7E 2H5,(506) 423-3100,Province of New Brunswick,NB_nursing_homes.csv
+48,48,Foyer Ste. Elizabeth Inc.,nursing_homes,50,-68.511089,47.306533,"25, rue des Ormes",Baker Brook,NB,E7A 2J6,(506) 258-3020,Province of New Brunswick,NB_nursing_homes.csv
+49,49,Grand Falls Manor Inc. - Villa des Chutes/Falls Villa,nursing_homes,69,-67.725822,47.055672,"433, rue Evangeline",Grand-Sault,NB,E3Z 1G5,(506) 473-7726,Province of New Brunswick,NB_nursing_homes.csv
+50,50,Les Résidences Jodin Inc.,nursing_homes,180,-68.308374,47.385322,"465, boulevard Hébert-Nord",Edmundston,NB,E3V 0E9,(506) 501-3014,Province of New Brunswick,NB_nursing_homes.csv
+51,51,Résidence Mgr. Melanson Inc.,nursing_homes,42,-67.391634,47.498958,"11, rue Levesque",Saint-Quentin,NB,E8A 1T1,(506) 235-6030,Province of New Brunswick,NB_nursing_homes.csv
+52,52,Campbellton Nursing Home Inc.,nursing_homes,100,-66.667701,48.000201,"101, Dover Street",Campbellton,NB,E3N 3K6,(506) 789-7350,Province of New Brunswick,NB_nursing_homes.csv
+53,53,Dalhousie Nursing Home Inc.,nursing_homes,90,-66.365957,48.063261,"296, rue Victoria Street, Unit /Unité 1",Dalhousie,NB,E8C 2R8,(506) 684-7800,Province of New Brunswick,NB_nursing_homes.csv
+54,54,Villa Sormany Inc.,nursing_homes,61,-65.769002,47.697195,"1289, chemin Robertville",Robertville,NB,E8K 2V9,(506) 542-2731,Province of New Brunswick,NB_nursing_homes.csv
+55,55,Robert I. Knowles Veterans Unit - Villa Chaleur Inc.,nursing_homes,13,-65.676918,47.619092,"795, rue Champlain Street",Bathurst,NB,E2A 4M8,(506) 549-5588,Province of New Brunswick,NB_nursing_homes.csv
+56,56,Foyer Notre-Dame de Lourdes,nursing_homes,130,-65.689956,47.650859,"2055, Vallée Lourdes",Bathurst,NB,E2A 4P8,(506) 549-5085,Province of New Brunswick,NB_nursing_homes.csv
+57,57,Complexe Rendez-vous Inc.,nursing_homes,30,-65.092115,47.246335,"125, rue L. Allain",Neguac,NB,E9G 1J4,(506) 776-0640,Province of New Brunswick,NB_nursing_homes.csv
+58,58,Foyer Assomption,nursing_homes,50,-65.424458,46.734817,"62, rue Assomption",Rogersville,NB,E4Y 1S5,(506) 775-2040,Province of New Brunswick,NB_nursing_homes.csv
+59,59,Miramichi Senior Citizens Home Inc.,nursing_homes,81,-65.481274,47.02258,"1400, Water Street",Miramichi,NB,E1N 1A4,(506) 778-6810,Province of New Brunswick,NB_nursing_homes.csv
+60,60,Mount Saint Joseph of Chatham N. B.,nursing_homes,133,-65.469275,47.024865,"51, Lobban Avenue",Miramichi,NB,E1N 2W8,(506) 778-6550,Province of New Brunswick,NB_nursing_homes.csv
+61,61,Tabusintac Nursing Home,nursing_homes,30,-65.010463,47.327157,"10, Old Manse Road",Tabusintac,NB,E9H 1G4,(506) 779-4100,Province of New Brunswick,NB_nursing_homes.csv
+62,62,Résidences Inkerman Inc.,nursing_homes,30,-64.827001,47.65932,"1171, chemin Pallot",Inkerman,NB,E8P 1C2,(506) 336-3909,Province of New Brunswick,NB_nursing_homes.csv
+63,63,Résidences Lucien Saindon Inc,nursing_homes,54,-64.6546,47.791558,"26, rue de l'Hôpital",Lamèque,NB,E8T 1C3,(506) 344-3232,Province of New Brunswick,NB_nursing_homes.csv
+64,64,Résidences Mgr. Chiasson Inc.,nursing_homes,85,-64.72445,47.744052,"130, boulevard J.-D.-Gauthier",Shippagan,NB,E8S 1N8,(506) 336-3266,Province of New Brunswick,NB_nursing_homes.csv
+65,65,Manoir Edith B. Pinet,nursing_homes,30,-65.107,47.6702,"1189, rue des Fondateurs",Paquetville,NB,E8R 1A9,(506) 764-2444,Province of New Brunswick,NB_nursing_homes.csv
+66,66,Villa Beauséjour Inc.,nursing_homes,80,-64.972162,47.786011,"274, boul. St-Pierre Ouest",Caraquet,NB,E1W 1B7,(506) 726-2744,Province of New Brunswick,NB_nursing_homes.csv
+67,67,Villa Saint-Joseph Inc.,nursing_homes,74,-64.917199,47.506299,"585, rue Saulnier Ouest",Tracadie-Sheila,NB,E1X 1B5,(506) 394-4800,Province of New Brunswick,NB_nursing_homes.csv

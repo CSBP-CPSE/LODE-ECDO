@@ -1,0 +1,14 @@
+idx,facility_name,facility_type,longitude,latitude,address_str,phone,provider
+0,Clinique Après Heures Champlain,Basic Medical Needs,-64.75268534299994,46.09492732400003,"123 Champlain Street, Dieppe",(506) 383-7709,Moncton
+1,Clinique Dépannage du Marais,Basic Medical Needs,-64.74224176499996,46.09192738100006,"185 Acadie Avenue, Dieppe",(506) 384-1110,Moncton
+2,Clinique Dr. Louis Bourque,Basic Medical Needs,-64.82300276599995,46.10570962400004,"1116 Mountain Road, Moncton",(506) 855-1125,Moncton
+3,Clinique Providence,Basic Medical Needs,-64.77061607399997,46.12261804400003,"565 Elmwood Drive, Suite 202, Moncton",(506) 383-4331,Moncton
+4,Dr. Georges-L.-Dumont University Hospital Centre,Healthcare and emergency services,-64.78709616899994,46.09812084200007,"330 Université Avenue, Moncton",(506) 862-4000,Moncton
+5,Moncton Hospital,Healthcare and emergency services,-64.80617113299996,46.10517415900006,"135 Macbeath Avenue, Moncton",(506) 857-5111,Moncton
+6,Trinity Medical Clinic,Basic Medical Needs,-64.83237708099995,46.11823685900004,"89 Trinity Drive, Moncton (Superstore)",(506) 854-0133,Moncton
+7,Moncton North After Hours Medical Clinic,Basic Medical Needs,-64.83905325199999,46.11741910700005,"1633 Mountain Road, Moncton",(506) 854-2273,Moncton
+8,Mountain Road After Hours Clinic,Basic Medical Needs,-64.84612387999994,46.12162136300003,"1789 Mountain Road, Moncton (Jean-Coutu)",(506) 388-9355,Moncton
+9,Main Street Family Medical Clinic,Basic Medical Needs,-64.76805252499997,46.09334459800004,"165 Main Street, Moncton (Superstore)",(506) 854-8805,Moncton
+10,Salvus Clinic,Primary Health Care to,-64.77899122599996,46.08896794300006,"22 Church Street, Unit T190, Moncton",(506) 384-7283,Moncton
+11,Riverview After Hours Clinic (Shoppers),Basic Medical Needs,-64.80639061099998,46.06273097500008,,(506)387-7778,Moncton
+12,Coverdale Medical Clinic (Jean Coutu),Basic Medical Needs,-64.80177702699996,46.06376831400007,"438 Coverdale Road, Riverview NB",,Moncton

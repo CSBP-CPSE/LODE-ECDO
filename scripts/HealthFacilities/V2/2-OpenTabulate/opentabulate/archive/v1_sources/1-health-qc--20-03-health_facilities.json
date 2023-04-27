@@ -1,0 +1,21 @@
+{
+    "localfile": "1-health-qc--20-03-health_facilities.csv",
+    "pre": "scripts/HealthFacilities/1-health-qc--20-03-PRE01.py",
+    "database_type": "hospital",
+    "source": "http://sante.gouv.qc.ca/en/repertoire-ressources/recherche/",
+    "provider": "Province of Québec",
+    "format": {
+	"type": "csv",
+	"delimiter": ",",
+	"quote": "\""
+    },
+    "schema": {
+	"hospital_name": "Name",
+	"hospital_type": "Type",
+	"health_authority": "Region",
+	"address_str": "Address",
+	"address_str_parse": "Address",
+	"longitude": "geo_lon",
+	"latitude": "geo_lat"	
+    }
+}

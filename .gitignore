@@ -1,0 +1,9 @@
+.DS_Store
+**/*.env
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+**/*.ipynb_checkpoints/
+ipynb_checkpoints/
+scripts/Businesses/.ipynb_checkpoints/final-checkpoint.csv
+scripts/Businesses/business-licences-van.csv
+**/ipynb_checkpoints

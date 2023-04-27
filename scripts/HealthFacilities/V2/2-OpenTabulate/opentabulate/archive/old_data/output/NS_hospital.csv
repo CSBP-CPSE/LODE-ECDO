@@ -1,0 +1,49 @@
+idx,facility_name,facility_type,longitude,latitude,street_addr,city,provider
+0,Cape Breton Regional Hospital,Regional,-60.174133616836095,46.1130158306037,1482 George Street,Sydney,Province of Nova Scotia
+1,Northside General Hospital,Community,-60.23555151227749,46.21820836429978,520 Purves Street,North Sydney,Province of Nova Scotia
+2,Victoria County Memorial Hospital,Community,-60.75602895190468,46.100263898319795,30 Old Margaree Road,Baddeck,Province of Nova Scotia
+3,Inverness Consolidated Memorial Hospital,Community,-61.30484314307468,46.22696781337693,39 James Street,Inverness,Province of Nova Scotia
+4,Aberdeen Hospital,Regional,-62.64326836972356,45.5729758405446,835 East River Road,New Glasgow,Province of Nova Scotia
+5,New Waterford Consolidated Hospital,Community,-60.085793288911454,46.239863345496474,716 King Street,New Waterford,Province of Nova Scotia
+6,Strait - Richmond Hospital,Community,-61.22292639766177,45.61708351662631,138 Hospital Road,Evanston,Province of Nova Scotia
+7,Sacred Heart Community Health Centre,Community Health Centre,-61.015063349964386,46.623522547371586,15102 Cabot Trail,Cheticamp,Province of Nova Scotia
+8,Glace Bay Health Care Facility,Community,-59.938572836651716,46.18321184114736,300 South Street,Glace Bay,Province of Nova Scotia
+9,St. Martha’s Regional Hospital,Regional,-61.98219333746746,45.62817596985708,25 Bay Street,Antigonish,Province of Nova Scotia
+10,Eastern Memorial Hospital,Community,-60.98400464643825,45.33262820682038,1746 Union Street,Canso,Province of Nova Scotia
+11,Sutherland Harris Memorial Hospital,Community Health Centre,-62.72703251932275,45.67651539921786,222 Haliburton Road,Pictou,Province of Nova Scotia
+12,Buchanan Memorial Community Health Centre,Community Health Centre,-60.33432729802968,46.81056959301277,32610 Cabot Trail,Neil’s Harbour,Province of Nova Scotia
+13,St. Mary’s Memorial Hospital,Community,-61.981780294520306,45.14693579634446,91 Hospital Road,Sherbrooke,Province of Nova Scotia
+14,Eastern Kings Memorial Community Health Centre,Community Health Centre,-64.37074371585221,45.08760374819833,23 Earnscliffe Avenue,Wolfville,Province of Nova Scotia
+15,Hants Community Hospital,Community,-64.12037375298009,44.98638355369311,89 Payzant Drive,Windsor,Province of Nova Scotia
+16,Queens General Hospital,Community,-64.70559426892093,44.03765341536023,175 School Street,Liverpool,Province of Nova Scotia
+17,Soldiers Memorial Hospital,Community,-65.05933935701924,44.94673391509305,462 Main Street,Middleton,Province of Nova Scotia
+18,Roseway Hospital,Community,-65.30953110510069,43.74999033372275,1606 Lake Road,Sandy Point,Province of Nova Scotia
+19,Western Kings Memorial Health Centre,Community Health Centre,-64.73657929405101,45.0366967359491,121 Orchard Street,Berwick,Province of Nova Scotia
+20,Guysborough Memorial Hospital,Community,-61.5071355034544,45.40234081804432,10560 Route 16,Guysborough,Province of Nova Scotia
+21,Yarmouth Regional Hospital,Regional,-66.12156874783281,43.850524495228235,60 Vancouver Street,Yarmouth,Province of Nova Scotia
+22,Annapolis Community Health Centre,Community Health Centre,-65.50180436685771,44.73657466491257,821 St. George Street,Annapolis Royal,Province of Nova Scotia
+23,Valley Regional Hospital,Regional,-64.500889798259,45.08266472523682,150 Exhibition Street,Kentville,Province of Nova Scotia
+24,North Cumberland Memorial Hospital,Community,-63.658904768367535,45.85615154386532,260 Gulf Shore Road,Pugwash,Province of Nova Scotia
+25,Cumberland Regional Health Care Centre,Regional,-64.19769949378933,45.803440001139904,19428 Highway 2,Upper Nappan,Province of Nova Scotia
+26,Cobequid Community Health Centre,Community Health Centre,-63.6586009337315,44.756916674813866,40 Freer Lane,Sackville,Province of Nova Scotia
+27,Integrated Chronic Care Service,Environmental Health,-63.60599522342205,44.81001215566181,3064 Highway 2,Fall River,Province of Nova Scotia
+28,Fishermen's Memorial Hospital,Community,-64.32695243762808,44.3822758294343,14 High Street,Lunenburg,Province of Nova Scotia
+29,South Shore Regional Hospital,Regional,-64.51077334456812,44.38313653214071,90 Glen Allan Drive,Bridgewater,Province of Nova Scotia
+30,South Cumberland Community Care Centre,Community,-64.32593916226105,45.409087171378324,50 Jenks Avenue,Parrsboro,Province of Nova Scotia
+31,Lillian Fraser Memorial Hospital,Community,-63.29635970402658,45.71153621241759,110 Blair Avenue,Tatamagouche,Province of Nova Scotia
+32,Twin Oaks Memorial Hospital,Community,-63.158333445666635,44.78303534971087,7704 Highway 7,Musquodoboit Harbour,Province of Nova Scotia
+33,Bayview Memorial Health Centre,Community Health Centre,-64.79483503032003,45.34621190232823,3375 Highway 209,Advocate Harbour,Province of Nova Scotia
+34,All Saints Springhill Hospital,Community,-64.05159762320923,45.650499307025406,10 Princess Street,Springhill,Province of Nova Scotia
+35,Digby General Hospital,Community,-65.76166737432966,44.616533787903755,75 Warwick Street,Digby,Province of Nova Scotia
+36,IWK Health Centre,Tertiary,-63.582908847707046,44.63765107239818,5850/5980 University Avenue,Halifax,Province of Nova Scotia
+37,East Coast Forensic Hospital,Rehabilitation,-63.59190651331347,44.721318006872465,88 Gloria McCluskey Avenue,Dartmouth,Province of Nova Scotia
+38,QEII - Victoria General (VG) Site,Tertiary,-63.580402405169465,44.63840489234355,1278 South Park Street,Halifax,Province of Nova Scotia
+39,The Nova Scotia Hospital,Tertiary,-63.54888485020512,44.652052389368194,300 Pleasant Street,Dartmouth,Province of Nova Scotia
+40,Eastern Shore Memorial Hospital,Community,-62.53286404867581,44.920663210921994,22637 Highway 7,Sheet Harbour,Province of Nova Scotia
+41,Musquodoboit Valley Memorial Hospital,Community,-63.14037764272095,45.04028911493914,492 Archibald Brook Road,Middle Musquodoboit,Province of Nova Scotia
+42,QEII - Halifax Infirmary Site,Tertiary,-63.58709674369862,44.64541455900125,1796 Summer Street,Halifax,Province of Nova Scotia
+43,Nova Scotia Rehabilitation Centre,Rehabilitation,-63.58183283938107,44.63970342623116,1341 Summer Street,Halifax,Province of Nova Scotia
+44,Dartmouth General Hospital,Regional,-63.547621423330824,44.653987611022856,325 Pleasant Street,Dartmouth,Province of Nova Scotia
+45,Kings Regional Health & Regional Rehabilitation Centre,Rehabilitation,-64.666451591963,45.05736471404286,1349 County Home Road,Cambridge,Province of Nova Scotia
+46,Colchester East Hants Health Centre,Regional,-63.303384805904166,45.34952312863823,600 Abenaki Road,Truro,Province of Nova Scotia
+47,St. Anne's Community and Nursing,Out Patient/ Nursing Home,-61.03191108211205,45.51104210652296,2313 Highway 206,Arichat,Province of Nova Scotia

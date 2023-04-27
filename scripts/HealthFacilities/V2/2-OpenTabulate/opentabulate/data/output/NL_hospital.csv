@@ -1,0 +1,16 @@
+,idx,facility_name,facility_type,number_beds,longitude,latitude,city,province,phone,website,provider,filename
+0,0,Burin Peninsula Health Care Centre,hospital,34,-55.19472,47.104784,Burin,NL,(709) 891-1040,http://www.easternhealth.ca/AboutEH.aspx?d=3&id=874&p=724,Province of Newfoundland and Labrador,NL_hospital.csv
+1,1,Carbonear General Hospital,hospital,68,-53.226544,47.725243,Carbonear,NL,(709) 945-5111,http://www.easternhealth.ca/AboutEH.aspx?d=3&id=766&p=724,Province of Newfoundland and Labrador,NL_hospital.csv
+2,2,Central Newfoundland Regional Health Centre,hospital,116,-55.644789,48.933984,Grand Falls-Windsor,NL,(709) 292-2500,https://www.centralhealth.nl.ca/grand-falls,Province of Newfoundland and Labrador,NL_hospital.csv
+3,3,The Charles S. Curtis Memorial Hospital,hospital,41,-55.586676,51.362297,St. Anthony,NL,(709) 454-3333,https://www.lghealth.ca/facilities/hospitals/charles-s-curtis-memorial-hospital/,Province of Newfoundland and Labrador,NL_hospital.csv
+4,4,Dr. G.B. Cross Memorial Hospital,hospital,39,-53.984408,48.165178,Clarenville,NL,(709) 466-3411,http://www.easternhealth.ca/AboutEH.aspx?d=3&id=778&p=724,Province of Newfoundland and Labrador,NL_hospital.csv
+5,5,James Paton Memorial Health Centre,hospital,82,-54.628572,48.956042,Gander,NL,(709) 256-2500,https://www.centralhealth.nl.ca/gander,Province of Newfoundland and Labrador,NL_hospital.csv
+6,6,Janeway Children's Health and Rehabilitation Centre,hospital,79,-52.74243,47.572485,St. John's,NL,(709) 777-6300,http://www.easternhealth.ca/AboutEH.aspx?d=3&id=789&p=724,Province of Newfoundland and Labrador,NL_hospital.csv
+7,7,Labrador Health Centre,hospital,23,-60.337873,53.296108,Happy Valley-Goose Bay,NL,(709) 897-2000,https://www.lghealth.ca/facilities/hospitals/labrador-health-centre/,Province of Newfoundland and Labrador,NL_hospital.csv
+8,8,Sir Thomas Roddick Hospital,hospital,40,-58.552707,48.559366,Stephenville,NL,(709) 643-5111,http://westernhealth.nl.ca/index.php/locations/hospitals/sir-thomas-roddick-hospital,Province of Newfoundland and Labrador,NL_hospital.csv
+9,9,St. Clare's Mercy Hospital,hospital,192,-52.721687,47.557672,St. John's,NL,(709) 777-5000,http://www.easternhealth.ca/AboutEH.aspx?d=3&id=811&p=724,Province of Newfoundland and Labrador,NL_hospital.csv
+10,10,Dr. Leonard A. Miller Centre,hospital,72,-52.695166,47.575991,St. John's,NL,(709) 777-6555,http://www.easternhealth.ca/AboutEH.aspx?d=3&id=1067&p=724,Province of Newfoundland and Labrador,NL_hospital.csv
+11,11,Health Sciences Centre,hospital,348,-52.74276,47.57123,St. John's,NL,(709) 777-6300,http://www.easternhealth.ca/AboutEH.aspx?d=3&id=787&p=724,Province of Newfoundland and Labrador,NL_hospital.csv
+12,12,Waterford Hospital,hospital,84,-52.749652,47.528811,St. John's,NL,(709) 777-3300,http://www.easternhealth.ca/AboutEH.aspx?d=3&id=823&p=724,Province of Newfoundland and Labrador,NL_hospital.csv
+13,13,Western Memorial Regional Hospital,hospital,201,-57.930806,48.948631,Corner Brook,NL,(709) 637-5000,http://westernhealth.nl.ca/index.php/locations/hospitals/western-memorial-regional-hospital,Province of Newfoundland and Labrador,NL_hospital.csv
+14,14,Labrador West Health Centre,hospital,14,-66.936768,52.949616,Labrador City,NL,(709) 285-8100,https://www.lghealth.ca/facilities/hospitals/labrador-west-health-centre/,Province of Newfoundland and Labrador,NL_hospital.csv

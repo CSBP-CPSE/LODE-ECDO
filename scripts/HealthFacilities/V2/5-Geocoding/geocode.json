@@ -1,0 +1,2413 @@
+[
+    {
+        "place_id": 118490401,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 72941037,
+        "boundingbox": [
+            "49.4336098",
+            "49.4466322",
+            "-96.9992405",
+            "-96.9739315"
+        ],
+        "lat": "49.44015495",
+        "lon": "-96.98658154388423",
+        "display_name": "St-Pierre-Jolys, De Salaberry, Manitoba, R0A 1V0, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.76,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "village": "St-Pierre-Jolys",
+            "county": "De Salaberry",
+            "state": "Manitoba",
+            "postcode": "R0A 1V0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 283737706,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 11938512,
+        "boundingbox": [
+            "50.1248512",
+            "50.1776122",
+            "-96.966824",
+            "-96.8502251"
+        ],
+        "lat": "50.146986",
+        "lon": "-96.880188",
+        "display_name": "Selkirk, Manitoba, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.6545693975728699,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "city": "Selkirk",
+            "state": "Manitoba",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 50113028,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4378513513,
+        "boundingbox": [
+            "51.0626643",
+            "51.1026643",
+            "-97.6395724",
+            "-97.5995724"
+        ],
+        "lat": "51.0826643",
+        "lon": "-97.6195724",
+        "display_name": "Fisher Branch, Manitoba, R0C 0Z0, Canada",
+        "class": "place",
+        "type": "village",
+        "importance": 0.5850000000000001,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png",
+        "address": {
+            "village": "Fisher Branch",
+            "state": "Manitoba",
+            "postcode": "R0C 0Z0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 282773720,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2989349,
+        "boundingbox": [
+            "43.610384",
+            "43.7360196",
+            "-79.492821",
+            "-79.2785104"
+        ],
+        "lat": "43.6534817",
+        "lon": "-79.3839347",
+        "display_name": "Old Toronto, Toronto, Golden Horseshoe, Ontario, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 1.0330149417022805,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "city": "Old Toronto",
+            "state_district": "Golden Horseshoe",
+            "state": "Ontario",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 103487131,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 17493095,
+        "boundingbox": [
+            "38.1559333",
+            "38.1594198",
+            "-86.6841597",
+            "-86.669668"
+        ],
+        "lat": "38.157471",
+        "lon": "-86.678064",
+        "display_name": "Canada, Perry County, Indiana, 47515, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21,
+        "address": {
+            "road": "Canada",
+            "county": "Perry County",
+            "state": "Indiana",
+            "postcode": "47515",
+            "country": "United States",
+            "country_code": "us"
+        }
+    },
+    {
+        "place_id": 103487131,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 17493095,
+        "boundingbox": [
+            "38.1559333",
+            "38.1594198",
+            "-86.6841597",
+            "-86.669668"
+        ],
+        "lat": "38.157471",
+        "lon": "-86.678064",
+        "display_name": "Canada, Perry County, Indiana, 47515, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21,
+        "address": {
+            "road": "Canada",
+            "county": "Perry County",
+            "state": "Indiana",
+            "postcode": "47515",
+            "country": "United States",
+            "country_code": "us"
+        }
+    },
+    {
+        "place_id": 103487131,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 17493095,
+        "boundingbox": [
+            "38.1559333",
+            "38.1594198",
+            "-86.6841597",
+            "-86.669668"
+        ],
+        "lat": "38.157471",
+        "lon": "-86.678064",
+        "display_name": "Canada, Perry County, Indiana, 47515, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21,
+        "address": {
+            "road": "Canada",
+            "county": "Perry County",
+            "state": "Indiana",
+            "postcode": "47515",
+            "country": "United States",
+            "country_code": "us"
+        }
+    },
+    {
+        "place_id": 103487131,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 17493095,
+        "boundingbox": [
+            "38.1559333",
+            "38.1594198",
+            "-86.6841597",
+            "-86.669668"
+        ],
+        "lat": "38.157471",
+        "lon": "-86.678064",
+        "display_name": "Canada, Perry County, Indiana, 47515, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21,
+        "address": {
+            "road": "Canada",
+            "county": "Perry County",
+            "state": "Indiana",
+            "postcode": "47515",
+            "country": "United States",
+            "country_code": "us"
+        }
+    },
+    {
+        "place_id": 118490401,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 72941037,
+        "boundingbox": [
+            "49.4336098",
+            "49.4466322",
+            "-96.9992405",
+            "-96.9739315"
+        ],
+        "lat": "49.44015495",
+        "lon": "-96.98658154388423",
+        "display_name": "St-Pierre-Jolys, De Salaberry, Manitoba, R0A 1V0, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.76,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "village": "St-Pierre-Jolys",
+            "county": "De Salaberry",
+            "state": "Manitoba",
+            "postcode": "R0A 1V0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 283737706,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 11938512,
+        "boundingbox": [
+            "50.1248512",
+            "50.1776122",
+            "-96.966824",
+            "-96.8502251"
+        ],
+        "lat": "50.146986",
+        "lon": "-96.880188",
+        "display_name": "Selkirk, Manitoba, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.6545693975728699,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "city": "Selkirk",
+            "state": "Manitoba",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 50113028,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4378513513,
+        "boundingbox": [
+            "51.0626643",
+            "51.1026643",
+            "-97.6395724",
+            "-97.5995724"
+        ],
+        "lat": "51.0826643",
+        "lon": "-97.6195724",
+        "display_name": "Fisher Branch, Manitoba, R0C 0Z0, Canada",
+        "class": "place",
+        "type": "village",
+        "importance": 0.5850000000000001,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png",
+        "address": {
+            "village": "Fisher Branch",
+            "state": "Manitoba",
+            "postcode": "R0C 0Z0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 282773720,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2989349,
+        "boundingbox": [
+            "43.610384",
+            "43.7360196",
+            "-79.492821",
+            "-79.2785104"
+        ],
+        "lat": "43.6534817",
+        "lon": "-79.3839347",
+        "display_name": "Old Toronto, Toronto, Golden Horseshoe, Ontario, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 1.0330149417022805,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "city": "Old Toronto",
+            "state_district": "Golden Horseshoe",
+            "state": "Ontario",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 103487131,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 17493095,
+        "boundingbox": [
+            "38.1559333",
+            "38.1594198",
+            "-86.6841597",
+            "-86.669668"
+        ],
+        "lat": "38.157471",
+        "lon": "-86.678064",
+        "display_name": "Canada, Perry County, Indiana, 47515, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21,
+        "address": {
+            "road": "Canada",
+            "county": "Perry County",
+            "state": "Indiana",
+            "postcode": "47515",
+            "country": "United States",
+            "country_code": "us"
+        }
+    },
+    {
+        "place_id": 103487131,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 17493095,
+        "boundingbox": [
+            "38.1559333",
+            "38.1594198",
+            "-86.6841597",
+            "-86.669668"
+        ],
+        "lat": "38.157471",
+        "lon": "-86.678064",
+        "display_name": "Canada, Perry County, Indiana, 47515, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21,
+        "address": {
+            "road": "Canada",
+            "county": "Perry County",
+            "state": "Indiana",
+            "postcode": "47515",
+            "country": "United States",
+            "country_code": "us"
+        }
+    },
+    {
+        "place_id": 103487131,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 17493095,
+        "boundingbox": [
+            "38.1559333",
+            "38.1594198",
+            "-86.6841597",
+            "-86.669668"
+        ],
+        "lat": "38.157471",
+        "lon": "-86.678064",
+        "display_name": "Canada, Perry County, Indiana, 47515, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21,
+        "address": {
+            "road": "Canada",
+            "county": "Perry County",
+            "state": "Indiana",
+            "postcode": "47515",
+            "country": "United States",
+            "country_code": "us"
+        }
+    },
+    {
+        "place_id": 103487131,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 17493095,
+        "boundingbox": [
+            "38.1559333",
+            "38.1594198",
+            "-86.6841597",
+            "-86.669668"
+        ],
+        "lat": "38.157471",
+        "lon": "-86.678064",
+        "display_name": "Canada, Perry County, Indiana, 47515, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21,
+        "address": {
+            "road": "Canada",
+            "county": "Perry County",
+            "state": "Indiana",
+            "postcode": "47515",
+            "country": "United States",
+            "country_code": "us"
+        }
+    },
+    {
+        "place_id": 118490401,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 72941037,
+        "boundingbox": [
+            "49.4336098",
+            "49.4466322",
+            "-96.9992405",
+            "-96.9739315"
+        ],
+        "lat": "49.44015495",
+        "lon": "-96.98658154388423",
+        "display_name": "St-Pierre-Jolys, De Salaberry, Manitoba, R0A 1V0, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.76,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "village": "St-Pierre-Jolys",
+            "county": "De Salaberry",
+            "state": "Manitoba",
+            "postcode": "R0A 1V0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 283737706,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 11938512,
+        "boundingbox": [
+            "50.1248512",
+            "50.1776122",
+            "-96.966824",
+            "-96.8502251"
+        ],
+        "lat": "50.146986",
+        "lon": "-96.880188",
+        "display_name": "Selkirk, Manitoba, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.6545693975728699,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "city": "Selkirk",
+            "state": "Manitoba",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 50113028,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4378513513,
+        "boundingbox": [
+            "51.0626643",
+            "51.1026643",
+            "-97.6395724",
+            "-97.5995724"
+        ],
+        "lat": "51.0826643",
+        "lon": "-97.6195724",
+        "display_name": "Fisher Branch, Manitoba, R0C 0Z0, Canada",
+        "class": "place",
+        "type": "village",
+        "importance": 0.5850000000000001,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png",
+        "address": {
+            "village": "Fisher Branch",
+            "state": "Manitoba",
+            "postcode": "R0C 0Z0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 282773720,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2989349,
+        "boundingbox": [
+            "43.610384",
+            "43.7360196",
+            "-79.492821",
+            "-79.2785104"
+        ],
+        "lat": "43.6534817",
+        "lon": "-79.3839347",
+        "display_name": "Old Toronto, Toronto, Golden Horseshoe, Ontario, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 1.0330149417022805,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "city": "Old Toronto",
+            "state_district": "Golden Horseshoe",
+            "state": "Ontario",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 103487131,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 17493095,
+        "boundingbox": [
+            "38.1559333",
+            "38.1594198",
+            "-86.6841597",
+            "-86.669668"
+        ],
+        "lat": "38.157471",
+        "lon": "-86.678064",
+        "display_name": "Canada, Perry County, Indiana, 47515, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21,
+        "address": {
+            "road": "Canada",
+            "county": "Perry County",
+            "state": "Indiana",
+            "postcode": "47515",
+            "country": "United States",
+            "country_code": "us"
+        }
+    },
+    {
+        "place_id": 103487131,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 17493095,
+        "boundingbox": [
+            "38.1559333",
+            "38.1594198",
+            "-86.6841597",
+            "-86.669668"
+        ],
+        "lat": "38.157471",
+        "lon": "-86.678064",
+        "display_name": "Canada, Perry County, Indiana, 47515, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21,
+        "address": {
+            "road": "Canada",
+            "county": "Perry County",
+            "state": "Indiana",
+            "postcode": "47515",
+            "country": "United States",
+            "country_code": "us"
+        }
+    },
+    {
+        "place_id": 103487131,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 17493095,
+        "boundingbox": [
+            "38.1559333",
+            "38.1594198",
+            "-86.6841597",
+            "-86.669668"
+        ],
+        "lat": "38.157471",
+        "lon": "-86.678064",
+        "display_name": "Canada, Perry County, Indiana, 47515, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21,
+        "address": {
+            "road": "Canada",
+            "county": "Perry County",
+            "state": "Indiana",
+            "postcode": "47515",
+            "country": "United States",
+            "country_code": "us"
+        }
+    },
+    {
+        "place_id": 103487131,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 17493095,
+        "boundingbox": [
+            "38.1559333",
+            "38.1594198",
+            "-86.6841597",
+            "-86.669668"
+        ],
+        "lat": "38.157471",
+        "lon": "-86.678064",
+        "display_name": "Canada, Perry County, Indiana, 47515, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21,
+        "address": {
+            "road": "Canada",
+            "county": "Perry County",
+            "state": "Indiana",
+            "postcode": "47515",
+            "country": "United States",
+            "country_code": "us"
+        }
+    },
+    {
+        "place_id": 118490401,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 72941037,
+        "boundingbox": [
+            "49.4336098",
+            "49.4466322",
+            "-96.9992405",
+            "-96.9739315"
+        ],
+        "lat": "49.44015495",
+        "lon": "-96.98658154388423",
+        "display_name": "St-Pierre-Jolys, De Salaberry, Manitoba, R0A 1V0, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.76,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "village": "St-Pierre-Jolys",
+            "county": "De Salaberry",
+            "state": "Manitoba",
+            "postcode": "R0A 1V0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 283737706,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 11938512,
+        "boundingbox": [
+            "50.1248512",
+            "50.1776122",
+            "-96.966824",
+            "-96.8502251"
+        ],
+        "lat": "50.146986",
+        "lon": "-96.880188",
+        "display_name": "Selkirk, Manitoba, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.6545693975728699,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "city": "Selkirk",
+            "state": "Manitoba",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 50113028,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4378513513,
+        "boundingbox": [
+            "51.0626643",
+            "51.1026643",
+            "-97.6395724",
+            "-97.5995724"
+        ],
+        "lat": "51.0826643",
+        "lon": "-97.6195724",
+        "display_name": "Fisher Branch, Manitoba, R0C 0Z0, Canada",
+        "class": "place",
+        "type": "village",
+        "importance": 0.5850000000000001,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png",
+        "address": {
+            "village": "Fisher Branch",
+            "state": "Manitoba",
+            "postcode": "R0C 0Z0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 282773720,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2989349,
+        "boundingbox": [
+            "43.610384",
+            "43.7360196",
+            "-79.492821",
+            "-79.2785104"
+        ],
+        "lat": "43.6534817",
+        "lon": "-79.3839347",
+        "display_name": "Old Toronto, Toronto, Golden Horseshoe, Ontario, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 1.0330149417022805,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "city": "Old Toronto",
+            "state_district": "Golden Horseshoe",
+            "state": "Ontario",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 103487131,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 17493095,
+        "boundingbox": [
+            "38.1559333",
+            "38.1594198",
+            "-86.6841597",
+            "-86.669668"
+        ],
+        "lat": "38.157471",
+        "lon": "-86.678064",
+        "display_name": "Canada, Perry County, Indiana, 47515, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21,
+        "address": {
+            "road": "Canada",
+            "county": "Perry County",
+            "state": "Indiana",
+            "postcode": "47515",
+            "country": "United States",
+            "country_code": "us"
+        }
+    },
+    {
+        "place_id": 103487131,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 17493095,
+        "boundingbox": [
+            "38.1559333",
+            "38.1594198",
+            "-86.6841597",
+            "-86.669668"
+        ],
+        "lat": "38.157471",
+        "lon": "-86.678064",
+        "display_name": "Canada, Perry County, Indiana, 47515, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21,
+        "address": {
+            "road": "Canada",
+            "county": "Perry County",
+            "state": "Indiana",
+            "postcode": "47515",
+            "country": "United States",
+            "country_code": "us"
+        }
+    },
+    {
+        "place_id": 103487131,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 17493095,
+        "boundingbox": [
+            "38.1559333",
+            "38.1594198",
+            "-86.6841597",
+            "-86.669668"
+        ],
+        "lat": "38.157471",
+        "lon": "-86.678064",
+        "display_name": "Canada, Perry County, Indiana, 47515, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21,
+        "address": {
+            "road": "Canada",
+            "county": "Perry County",
+            "state": "Indiana",
+            "postcode": "47515",
+            "country": "United States",
+            "country_code": "us"
+        }
+    },
+    {
+        "place_id": 103487131,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 17493095,
+        "boundingbox": [
+            "38.1559333",
+            "38.1594198",
+            "-86.6841597",
+            "-86.669668"
+        ],
+        "lat": "38.157471",
+        "lon": "-86.678064",
+        "display_name": "Canada, Perry County, Indiana, 47515, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21,
+        "address": {
+            "road": "Canada",
+            "county": "Perry County",
+            "state": "Indiana",
+            "postcode": "47515",
+            "country": "United States",
+            "country_code": "us"
+        }
+    },
+    {
+        "place_id": 118490401,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 72941037,
+        "boundingbox": [
+            "49.4336098",
+            "49.4466322",
+            "-96.9992405",
+            "-96.9739315"
+        ],
+        "lat": "49.44015495",
+        "lon": "-96.98658154388423",
+        "display_name": "St-Pierre-Jolys, De Salaberry, Manitoba, R0A 1V0, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.76,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "village": "St-Pierre-Jolys",
+            "county": "De Salaberry",
+            "state": "Manitoba",
+            "postcode": "R0A 1V0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 283737706,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 11938512,
+        "boundingbox": [
+            "50.1248512",
+            "50.1776122",
+            "-96.966824",
+            "-96.8502251"
+        ],
+        "lat": "50.146986",
+        "lon": "-96.880188",
+        "display_name": "Selkirk, Manitoba, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.6545693975728699,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "city": "Selkirk",
+            "state": "Manitoba",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 50113028,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4378513513,
+        "boundingbox": [
+            "51.0626643",
+            "51.1026643",
+            "-97.6395724",
+            "-97.5995724"
+        ],
+        "lat": "51.0826643",
+        "lon": "-97.6195724",
+        "display_name": "Fisher Branch, Manitoba, R0C 0Z0, Canada",
+        "class": "place",
+        "type": "village",
+        "importance": 0.5850000000000001,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png",
+        "address": {
+            "village": "Fisher Branch",
+            "state": "Manitoba",
+            "postcode": "R0C 0Z0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 282773720,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2989349,
+        "boundingbox": [
+            "43.610384",
+            "43.7360196",
+            "-79.492821",
+            "-79.2785104"
+        ],
+        "lat": "43.6534817",
+        "lon": "-79.3839347",
+        "display_name": "Old Toronto, Toronto, Golden Horseshoe, Ontario, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 1.0330149417022805,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "city": "Old Toronto",
+            "state_district": "Golden Horseshoe",
+            "state": "Ontario",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 103487131,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 17493095,
+        "boundingbox": [
+            "38.1559333",
+            "38.1594198",
+            "-86.6841597",
+            "-86.669668"
+        ],
+        "lat": "38.157471",
+        "lon": "-86.678064",
+        "display_name": "Canada, Perry County, Indiana, 47515, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21,
+        "address": {
+            "road": "Canada",
+            "county": "Perry County",
+            "state": "Indiana",
+            "postcode": "47515",
+            "country": "United States",
+            "country_code": "us"
+        }
+    },
+    {
+        "place_id": 103487131,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 17493095,
+        "boundingbox": [
+            "38.1559333",
+            "38.1594198",
+            "-86.6841597",
+            "-86.669668"
+        ],
+        "lat": "38.157471",
+        "lon": "-86.678064",
+        "display_name": "Canada, Perry County, Indiana, 47515, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21,
+        "address": {
+            "road": "Canada",
+            "county": "Perry County",
+            "state": "Indiana",
+            "postcode": "47515",
+            "country": "United States",
+            "country_code": "us"
+        }
+    },
+    {
+        "place_id": 103487131,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 17493095,
+        "boundingbox": [
+            "38.1559333",
+            "38.1594198",
+            "-86.6841597",
+            "-86.669668"
+        ],
+        "lat": "38.157471",
+        "lon": "-86.678064",
+        "display_name": "Canada, Perry County, Indiana, 47515, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21,
+        "address": {
+            "road": "Canada",
+            "county": "Perry County",
+            "state": "Indiana",
+            "postcode": "47515",
+            "country": "United States",
+            "country_code": "us"
+        }
+    },
+    {
+        "place_id": 103487131,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 17493095,
+        "boundingbox": [
+            "38.1559333",
+            "38.1594198",
+            "-86.6841597",
+            "-86.669668"
+        ],
+        "lat": "38.157471",
+        "lon": "-86.678064",
+        "display_name": "Canada, Perry County, Indiana, 47515, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21,
+        "address": {
+            "road": "Canada",
+            "county": "Perry County",
+            "state": "Indiana",
+            "postcode": "47515",
+            "country": "United States",
+            "country_code": "us"
+        }
+    },
+    {
+        "place_id": 118490401,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 72941037,
+        "boundingbox": [
+            "49.4336098",
+            "49.4466322",
+            "-96.9992405",
+            "-96.9739315"
+        ],
+        "lat": "49.44015495",
+        "lon": "-96.98658154388423",
+        "display_name": "St-Pierre-Jolys, De Salaberry, Manitoba, R0A 1V0, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.76,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "village": "St-Pierre-Jolys",
+            "county": "De Salaberry",
+            "state": "Manitoba",
+            "postcode": "R0A 1V0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 283737706,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 11938512,
+        "boundingbox": [
+            "50.1248512",
+            "50.1776122",
+            "-96.966824",
+            "-96.8502251"
+        ],
+        "lat": "50.146986",
+        "lon": "-96.880188",
+        "display_name": "Selkirk, Manitoba, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.6545693975728699,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "city": "Selkirk",
+            "state": "Manitoba",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 50113028,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4378513513,
+        "boundingbox": [
+            "51.0626643",
+            "51.1026643",
+            "-97.6395724",
+            "-97.5995724"
+        ],
+        "lat": "51.0826643",
+        "lon": "-97.6195724",
+        "display_name": "Fisher Branch, Manitoba, R0C 0Z0, Canada",
+        "class": "place",
+        "type": "village",
+        "importance": 0.5850000000000001,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png",
+        "address": {
+            "village": "Fisher Branch",
+            "state": "Manitoba",
+            "postcode": "R0C 0Z0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 282773720,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2989349,
+        "boundingbox": [
+            "43.610384",
+            "43.7360196",
+            "-79.492821",
+            "-79.2785104"
+        ],
+        "lat": "43.6534817",
+        "lon": "-79.3839347",
+        "display_name": "Old Toronto, Toronto, Golden Horseshoe, Ontario, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 1.0330149417022805,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "city": "Old Toronto",
+            "state_district": "Golden Horseshoe",
+            "state": "Ontario",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    [],
+    [],
+    [],
+    [],
+    {
+        "place_id": 118490401,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 72941037,
+        "boundingbox": [
+            "49.4336098",
+            "49.4466322",
+            "-96.9992405",
+            "-96.9739315"
+        ],
+        "lat": "49.44015495",
+        "lon": "-96.98658154388423",
+        "display_name": "St-Pierre-Jolys, De Salaberry, Manitoba, R0A 1V0, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.76,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "village": "St-Pierre-Jolys",
+            "county": "De Salaberry",
+            "state": "Manitoba",
+            "postcode": "R0A 1V0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 283737706,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 11938512,
+        "boundingbox": [
+            "50.1248512",
+            "50.1776122",
+            "-96.966824",
+            "-96.8502251"
+        ],
+        "lat": "50.146986",
+        "lon": "-96.880188",
+        "display_name": "Selkirk, Manitoba, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.6545693975728699,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "city": "Selkirk",
+            "state": "Manitoba",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 50113028,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4378513513,
+        "boundingbox": [
+            "51.0626643",
+            "51.1026643",
+            "-97.6395724",
+            "-97.5995724"
+        ],
+        "lat": "51.0826643",
+        "lon": "-97.6195724",
+        "display_name": "Fisher Branch, Manitoba, R0C 0Z0, Canada",
+        "class": "place",
+        "type": "village",
+        "importance": 0.5850000000000001,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png",
+        "address": {
+            "village": "Fisher Branch",
+            "state": "Manitoba",
+            "postcode": "R0C 0Z0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 282773720,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2989349,
+        "boundingbox": [
+            "43.610384",
+            "43.7360196",
+            "-79.492821",
+            "-79.2785104"
+        ],
+        "lat": "43.6534817",
+        "lon": "-79.3839347",
+        "display_name": "Old Toronto, Toronto, Golden Horseshoe, Ontario, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 1.0330149417022805,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "city": "Old Toronto",
+            "state_district": "Golden Horseshoe",
+            "state": "Ontario",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    [],
+    [],
+    [],
+    [],
+    {
+        "place_id": 118490401,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 72941037,
+        "boundingbox": [
+            "49.4336098",
+            "49.4466322",
+            "-96.9992405",
+            "-96.9739315"
+        ],
+        "lat": "49.44015495",
+        "lon": "-96.98658154388423",
+        "display_name": "St-Pierre-Jolys, De Salaberry, Manitoba, R0A 1V0, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.76,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "village": "St-Pierre-Jolys",
+            "county": "De Salaberry",
+            "state": "Manitoba",
+            "postcode": "R0A 1V0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    [
+        {
+            "place_id": 137023672,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 154197623,
+            "boundingbox": [
+                "50.1424151",
+                "50.1437468",
+                "-96.8707187",
+                "-96.8692865"
+            ],
+            "lat": "50.1430552",
+            "lon": "-96.8699962",
+            "display_name": "Eveline Street, Selkirk, Manitoba, R1A 1V9, Canada",
+            "class": "highway",
+            "type": "tertiary",
+            "importance": 0.5199999999999999,
+            "address": {
+                "road": "Eveline Street",
+                "city": "Selkirk",
+                "state": "Manitoba",
+                "postcode": "R1A 1V9",
+                "country": "Canada",
+                "country_code": "ca"
+            }
+        },
+        {
+            "place_id": 136986106,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 154197629,
+            "boundingbox": [
+                "50.1437468",
+                "50.1458863",
+                "-96.8692865",
+                "-96.8671043"
+            ],
+            "lat": "50.1451403",
+            "lon": "-96.867866",
+            "display_name": "Eveline Street, Selkirk, Manitoba, R1A 1V9, Canada",
+            "class": "highway",
+            "type": "residential",
+            "importance": 0.5199999999999999,
+            "address": {
+                "road": "Eveline Street",
+                "city": "Selkirk",
+                "state": "Manitoba",
+                "postcode": "R1A 1V9",
+                "country": "Canada",
+                "country_code": "ca"
+            }
+        },
+        {
+            "place_id": 137480022,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 154197626,
+            "boundingbox": [
+                "50.127027",
+                "50.1424151",
+                "-96.8902737",
+                "-96.8707187"
+            ],
+            "lat": "50.1346033",
+            "lon": "-96.8804245",
+            "display_name": "Eveline Street, Selkirk, Manitoba, R1A 1M1, Canada",
+            "class": "highway",
+            "type": "residential",
+            "importance": 0.5199999999999999,
+            "address": {
+                "road": "Eveline Street",
+                "city": "Selkirk",
+                "state": "Manitoba",
+                "postcode": "R1A 1M1",
+                "country": "Canada",
+                "country_code": "ca"
+            }
+        },
+        {
+            "place_id": 223390886,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 591009725,
+            "boundingbox": [
+                "50.1261534",
+                "50.127027",
+                "-96.8922586",
+                "-96.8902737"
+            ],
+            "lat": "50.1261534",
+            "lon": "-96.8922586",
+            "display_name": "Eveline Street, Selkirk, St. Andrews, Manitoba, R1A 1P4, Canada",
+            "class": "highway",
+            "type": "residential",
+            "importance": 0.5199999999999999,
+            "address": {
+                "road": "Eveline Street",
+                "city": "Selkirk",
+                "county": "St. Andrews",
+                "state": "Manitoba",
+                "postcode": "R1A 1P4",
+                "country": "Canada",
+                "country_code": "ca"
+            }
+        }
+    ],
+    {
+        "place_id": 118490401,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 72941037,
+        "boundingbox": [
+            "49.4336098",
+            "49.4466322",
+            "-96.9992405",
+            "-96.9739315"
+        ],
+        "lat": "49.44015495",
+        "lon": "-96.98658154388423",
+        "display_name": "St-Pierre-Jolys, De Salaberry, Manitoba, R0A 1V0, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.76,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "village": "St-Pierre-Jolys",
+            "county": "De Salaberry",
+            "state": "Manitoba",
+            "postcode": "R0A 1V0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 118490401,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 72941037,
+        "boundingbox": [
+            "49.4336098",
+            "49.4466322",
+            "-96.9992405",
+            "-96.9739315"
+        ],
+        "lat": "49.44015495",
+        "lon": "-96.98658154388423",
+        "display_name": "St-Pierre-Jolys, De Salaberry, Manitoba, R0A 1V0, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.76,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "village": "St-Pierre-Jolys",
+            "county": "De Salaberry",
+            "state": "Manitoba",
+            "postcode": "R0A 1V0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    [
+        {
+            "place_id": 137023672,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 154197623,
+            "boundingbox": [
+                "50.1424151",
+                "50.1437468",
+                "-96.8707187",
+                "-96.8692865"
+            ],
+            "lat": "50.1430552",
+            "lon": "-96.8699962",
+            "display_name": "Eveline Street, Selkirk, Manitoba, R1A 1V9, Canada",
+            "class": "highway",
+            "type": "tertiary",
+            "importance": 0.5199999999999999,
+            "address": {
+                "road": "Eveline Street",
+                "city": "Selkirk",
+                "state": "Manitoba",
+                "postcode": "R1A 1V9",
+                "country": "Canada",
+                "country_code": "ca"
+            }
+        },
+        {
+            "place_id": 136986106,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 154197629,
+            "boundingbox": [
+                "50.1437468",
+                "50.1458863",
+                "-96.8692865",
+                "-96.8671043"
+            ],
+            "lat": "50.1451403",
+            "lon": "-96.867866",
+            "display_name": "Eveline Street, Selkirk, Manitoba, R1A 1V9, Canada",
+            "class": "highway",
+            "type": "residential",
+            "importance": 0.5199999999999999,
+            "address": {
+                "road": "Eveline Street",
+                "city": "Selkirk",
+                "state": "Manitoba",
+                "postcode": "R1A 1V9",
+                "country": "Canada",
+                "country_code": "ca"
+            }
+        },
+        {
+            "place_id": 137480022,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 154197626,
+            "boundingbox": [
+                "50.127027",
+                "50.1424151",
+                "-96.8902737",
+                "-96.8707187"
+            ],
+            "lat": "50.1346033",
+            "lon": "-96.8804245",
+            "display_name": "Eveline Street, Selkirk, Manitoba, R1A 1M1, Canada",
+            "class": "highway",
+            "type": "residential",
+            "importance": 0.5199999999999999,
+            "address": {
+                "road": "Eveline Street",
+                "city": "Selkirk",
+                "state": "Manitoba",
+                "postcode": "R1A 1M1",
+                "country": "Canada",
+                "country_code": "ca"
+            }
+        },
+        {
+            "place_id": 223390886,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 591009725,
+            "boundingbox": [
+                "50.1261534",
+                "50.127027",
+                "-96.8922586",
+                "-96.8902737"
+            ],
+            "lat": "50.1261534",
+            "lon": "-96.8922586",
+            "display_name": "Eveline Street, Selkirk, St. Andrews, Manitoba, R1A 1P4, Canada",
+            "class": "highway",
+            "type": "residential",
+            "importance": 0.5199999999999999,
+            "address": {
+                "road": "Eveline Street",
+                "city": "Selkirk",
+                "county": "St. Andrews",
+                "state": "Manitoba",
+                "postcode": "R1A 1P4",
+                "country": "Canada",
+                "country_code": "ca"
+            }
+        }
+    ],
+    {
+        "place_id": 50113028,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4378513513,
+        "boundingbox": [
+            "51.0626643",
+            "51.1026643",
+            "-97.6395724",
+            "-97.5995724"
+        ],
+        "lat": "51.0826643",
+        "lon": "-97.6195724",
+        "display_name": "Fisher Branch, Manitoba, R0C 0Z0, Canada",
+        "class": "place",
+        "type": "village",
+        "importance": 0.5850000000000001,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png",
+        "address": {
+            "village": "Fisher Branch",
+            "state": "Manitoba",
+            "postcode": "R0C 0Z0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 282773720,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2989349,
+        "boundingbox": [
+            "43.610384",
+            "43.7360196",
+            "-79.492821",
+            "-79.2785104"
+        ],
+        "lat": "43.6534817",
+        "lon": "-79.3839347",
+        "display_name": "Old Toronto, Toronto, Golden Horseshoe, Ontario, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 1.0330149417022805,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "city": "Old Toronto",
+            "state_district": "Golden Horseshoe",
+            "state": "Ontario",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    [],
+    [],
+    [],
+    [],
+    {
+        "place_id": 118490401,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 72941037,
+        "boundingbox": [
+            "49.4336098",
+            "49.4466322",
+            "-96.9992405",
+            "-96.9739315"
+        ],
+        "lat": "49.44015495",
+        "lon": "-96.98658154388423",
+        "display_name": "St-Pierre-Jolys, De Salaberry, Manitoba, R0A 1V0, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.76,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "village": "St-Pierre-Jolys",
+            "county": "De Salaberry",
+            "state": "Manitoba",
+            "postcode": "R0A 1V0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    [
+        {
+            "place_id": 103487131,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 17493095,
+            "boundingbox": [
+                "38.1559333",
+                "38.1594198",
+                "-86.6841597",
+                "-86.669668"
+            ],
+            "lat": "38.157471",
+            "lon": "-86.678064",
+            "display_name": "Canada, Perry County, Indiana, 47515, United States",
+            "class": "highway",
+            "type": "residential",
+            "importance": 0.21,
+            "address": {
+                "road": "Canada",
+                "county": "Perry County",
+                "state": "Indiana",
+                "postcode": "47515",
+                "country": "United States",
+                "country_code": "us"
+            }
+        }
+    ],
+    {
+        "place_id": 50113028,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4378513513,
+        "boundingbox": [
+            "51.0626643",
+            "51.1026643",
+            "-97.6395724",
+            "-97.5995724"
+        ],
+        "lat": "51.0826643",
+        "lon": "-97.6195724",
+        "display_name": "Fisher Branch, Manitoba, R0C 0Z0, Canada",
+        "class": "place",
+        "type": "village",
+        "importance": 0.5850000000000001,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png",
+        "address": {
+            "village": "Fisher Branch",
+            "state": "Manitoba",
+            "postcode": "R0C 0Z0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 282773720,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2989349,
+        "boundingbox": [
+            "43.610384",
+            "43.7360196",
+            "-79.492821",
+            "-79.2785104"
+        ],
+        "lat": "43.6534817",
+        "lon": "-79.3839347",
+        "display_name": "Old Toronto, Toronto, Golden Horseshoe, Ontario, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 1.0330149417022805,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "city": "Old Toronto",
+            "state_district": "Golden Horseshoe",
+            "state": "Ontario",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    [],
+    [],
+    [],
+    [],
+    {
+        "place_id": 118490401,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 72941037,
+        "boundingbox": [
+            "49.4336098",
+            "49.4466322",
+            "-96.9992405",
+            "-96.9739315"
+        ],
+        "lat": "49.44015495",
+        "lon": "-96.98658154388423",
+        "display_name": "St-Pierre-Jolys, De Salaberry, Manitoba, R0A 1V0, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.76,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "village": "St-Pierre-Jolys",
+            "county": "De Salaberry",
+            "state": "Manitoba",
+            "postcode": "R0A 1V0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    [
+        {
+            "place_id": 103487131,
+            "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+            "osm_type": "way",
+            "osm_id": 17493095,
+            "boundingbox": [
+                "38.1559333",
+                "38.1594198",
+                "-86.6841597",
+                "-86.669668"
+            ],
+            "lat": "38.157471",
+            "lon": "-86.678064",
+            "display_name": "Canada, Perry County, Indiana, 47515, United States",
+            "class": "highway",
+            "type": "residential",
+            "importance": 0.21,
+            "address": {
+                "road": "Canada",
+                "county": "Perry County",
+                "state": "Indiana",
+                "postcode": "47515",
+                "country": "United States",
+                "country_code": "us"
+            }
+        }
+    ],
+    {
+        "place_id": 50113028,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4378513513,
+        "boundingbox": [
+            "51.0626643",
+            "51.1026643",
+            "-97.6395724",
+            "-97.5995724"
+        ],
+        "lat": "51.0826643",
+        "lon": "-97.6195724",
+        "display_name": "Fisher Branch, Manitoba, R0C 0Z0, Canada",
+        "class": "place",
+        "type": "village",
+        "importance": 0.5850000000000001,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png",
+        "address": {
+            "village": "Fisher Branch",
+            "state": "Manitoba",
+            "postcode": "R0C 0Z0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 282773720,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2989349,
+        "boundingbox": [
+            "43.610384",
+            "43.7360196",
+            "-79.492821",
+            "-79.2785104"
+        ],
+        "lat": "43.6534817",
+        "lon": "-79.3839347",
+        "display_name": "Old Toronto, Toronto, Golden Horseshoe, Ontario, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 1.0330149417022805,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "city": "Old Toronto",
+            "state_district": "Golden Horseshoe",
+            "state": "Ontario",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    [],
+    [],
+    [],
+    [],
+    {
+        "place_id": 118490401,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 72941037,
+        "boundingbox": [
+            "49.4336098",
+            "49.4466322",
+            "-96.9992405",
+            "-96.9739315"
+        ],
+        "lat": "49.44015495",
+        "lon": "-96.98658154388423",
+        "display_name": "St-Pierre-Jolys, De Salaberry, Manitoba, R0A 1V0, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.76,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "village": "St-Pierre-Jolys",
+            "county": "De Salaberry",
+            "state": "Manitoba",
+            "postcode": "R0A 1V0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "meta": {
+            "prepared": "2022-03-04T20:35:17.4869075+00:00",
+            "test": false,
+            "contentLanguage": [
+                "en",
+                "fr"
+            ]
+        },
+        "search": {
+            "searchStyle": "simple",
+            "criteria": "Query: 353 eveline st Selkirk MB  ",
+            "total": 1
+        },
+        "data": [
+            {
+                "addressId": "9083663e-9c43-4a6c-bdfb-2eebf79e65a3",
+                "civicNumber": {
+                    "prefix": null,
+                    "number": "353",
+                    "suffix": {
+                        "code": null
+                    }
+                },
+                "streetName": "Eveline",
+                "streetType": {
+                    "code": "ST"
+                },
+                "streetDirection": {
+                    "code": null
+                },
+                "cityName": {
+                    "en": "Selkirk",
+                    "fr": "Selkirk"
+                },
+                "province": {
+                    "code": "46"
+                },
+                "country": {
+                    "code": "CA",
+                    "name": {
+                        "en": "Canada",
+                        "fr": "Canada"
+                    }
+                },
+                "mailingAddress": {
+                    "streetName": "EVELINE",
+                    "streetType": {
+                        "code": "ST"
+                    },
+                    "streetDirection": {
+                        "code": null
+                    },
+                    "municipalityName": "SELKIRK",
+                    "province": {
+                        "code": "MB"
+                    },
+                    "country": {
+                        "code": "CA",
+                        "name": {
+                            "en": "Canada",
+                            "fr": "Canada"
+                        }
+                    },
+                    "postalCode": "R1A1N1"
+                },
+                "location": {
+                    "locationID": "b54c8be4-890f-4e6d-adb8-9d259a8b91b5",
+                    "geoCoordinates": {
+                        "latitude": 50.142416,
+                        "longitude": -96.870926
+                    },
+                    "geographies": [
+                        {
+                            "codes": {
+                                "code": "46010",
+                                "name": {
+                                    "en": "Selkirk--Interlake--Eastman",
+                                    "fr": "Selkirk--Interlake--Eastman"
+                                }
+                            },
+                            "source": "FED_2016",
+                            "geographicType": "FED"
+                        },
+                        {
+                            "codes": {
+                                "code": "4660",
+                                "name": {
+                                    "en": "Interlake",
+                                    "fr": "Interlake"
+                                }
+                            },
+                            "source": "ER_2016",
+                            "geographicType": "ER"
+                        },
+                        {
+                            "codes": {
+                                "code": "4613047",
+                                "name": {
+                                    "en": "Selkirk",
+                                    "fr": "Selkirk"
+                                }
+                            },
+                            "source": "CSD_2016",
+                            "geographicType": "CSD"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "place_id": 50113028,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4378513513,
+        "boundingbox": [
+            "51.0626643",
+            "51.1026643",
+            "-97.6395724",
+            "-97.5995724"
+        ],
+        "lat": "51.0826643",
+        "lon": "-97.6195724",
+        "display_name": "Fisher Branch, Manitoba, R0C 0Z0, Canada",
+        "class": "place",
+        "type": "village",
+        "importance": 0.5850000000000001,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png",
+        "address": {
+            "village": "Fisher Branch",
+            "state": "Manitoba",
+            "postcode": "R0C 0Z0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 282773720,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2989349,
+        "boundingbox": [
+            "43.610384",
+            "43.7360196",
+            "-79.492821",
+            "-79.2785104"
+        ],
+        "lat": "43.6534817",
+        "lon": "-79.3839347",
+        "display_name": "Old Toronto, Toronto, Golden Horseshoe, Ontario, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 1.0330149417022805,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "city": "Old Toronto",
+            "state_district": "Golden Horseshoe",
+            "state": "Ontario",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    [],
+    [],
+    [],
+    [],
+    {
+        "place_id": 118490401,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 72941037,
+        "boundingbox": [
+            "49.4336098",
+            "49.4466322",
+            "-96.9992405",
+            "-96.9739315"
+        ],
+        "lat": "49.44015495",
+        "lon": "-96.98658154388423",
+        "display_name": "St-Pierre-Jolys, De Salaberry, Manitoba, R0A 1V0, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.76,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "village": "St-Pierre-Jolys",
+            "county": "De Salaberry",
+            "state": "Manitoba",
+            "postcode": "R0A 1V0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "meta": {
+            "prepared": "2022-03-04T20:36:09.6463713+00:00",
+            "test": false,
+            "contentLanguage": [
+                "en",
+                "fr"
+            ]
+        },
+        "search": {
+            "searchStyle": "simple",
+            "criteria": "Query: 353 eveline st Selkirk MB  ",
+            "total": 1
+        },
+        "data": [
+            {
+                "addressId": "9083663e-9c43-4a6c-bdfb-2eebf79e65a3",
+                "civicNumber": {
+                    "prefix": null,
+                    "number": "353",
+                    "suffix": {
+                        "code": null
+                    }
+                },
+                "streetName": "Eveline",
+                "streetType": {
+                    "code": "ST"
+                },
+                "streetDirection": {
+                    "code": null
+                },
+                "cityName": {
+                    "en": "Selkirk",
+                    "fr": "Selkirk"
+                },
+                "province": {
+                    "code": "46"
+                },
+                "country": {
+                    "code": "CA",
+                    "name": {
+                        "en": "Canada",
+                        "fr": "Canada"
+                    }
+                },
+                "mailingAddress": {
+                    "streetName": "EVELINE",
+                    "streetType": {
+                        "code": "ST"
+                    },
+                    "streetDirection": {
+                        "code": null
+                    },
+                    "municipalityName": "SELKIRK",
+                    "province": {
+                        "code": "MB"
+                    },
+                    "country": {
+                        "code": "CA",
+                        "name": {
+                            "en": "Canada",
+                            "fr": "Canada"
+                        }
+                    },
+                    "postalCode": "R1A1N1"
+                },
+                "location": {
+                    "locationID": "b54c8be4-890f-4e6d-adb8-9d259a8b91b5",
+                    "geoCoordinates": {
+                        "latitude": 50.142416,
+                        "longitude": -96.870926
+                    },
+                    "geographies": [
+                        {
+                            "codes": {
+                                "code": "46010",
+                                "name": {
+                                    "en": "Selkirk--Interlake--Eastman",
+                                    "fr": "Selkirk--Interlake--Eastman"
+                                }
+                            },
+                            "source": "FED_2016",
+                            "geographicType": "FED"
+                        },
+                        {
+                            "codes": {
+                                "code": "4660",
+                                "name": {
+                                    "en": "Interlake",
+                                    "fr": "Interlake"
+                                }
+                            },
+                            "source": "ER_2016",
+                            "geographicType": "ER"
+                        },
+                        {
+                            "codes": {
+                                "code": "4613047",
+                                "name": {
+                                    "en": "Selkirk",
+                                    "fr": "Selkirk"
+                                }
+                            },
+                            "source": "CSD_2016",
+                            "geographicType": "CSD"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "place_id": 50113028,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4378513513,
+        "boundingbox": [
+            "51.0626643",
+            "51.1026643",
+            "-97.6395724",
+            "-97.5995724"
+        ],
+        "lat": "51.0826643",
+        "lon": "-97.6195724",
+        "display_name": "Fisher Branch, Manitoba, R0C 0Z0, Canada",
+        "class": "place",
+        "type": "village",
+        "importance": 0.5850000000000001,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png",
+        "address": {
+            "village": "Fisher Branch",
+            "state": "Manitoba",
+            "postcode": "R0C 0Z0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 282773720,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2989349,
+        "boundingbox": [
+            "43.610384",
+            "43.7360196",
+            "-79.492821",
+            "-79.2785104"
+        ],
+        "lat": "43.6534817",
+        "lon": "-79.3839347",
+        "display_name": "Old Toronto, Toronto, Golden Horseshoe, Ontario, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 1.0330149417022805,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "city": "Old Toronto",
+            "state_district": "Golden Horseshoe",
+            "state": "Ontario",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    [],
+    [],
+    [],
+    [],
+    {
+        "place_id": 118490401,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 72941037,
+        "boundingbox": [
+            "49.4336098",
+            "49.4466322",
+            "-96.9992405",
+            "-96.9739315"
+        ],
+        "lat": "49.44015495",
+        "lon": "-96.98658154388423",
+        "display_name": "St-Pierre-Jolys, De Salaberry, Manitoba, R0A 1V0, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.76,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "village": "St-Pierre-Jolys",
+            "county": "De Salaberry",
+            "state": "Manitoba",
+            "postcode": "R0A 1V0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "meta": {
+            "prepared": "2022-03-04T20:37:01.9709877+00:00",
+            "test": false,
+            "contentLanguage": [
+                "en",
+                "fr"
+            ]
+        },
+        "search": {
+            "searchStyle": "simple",
+            "criteria": "Query: 353 eveline st Selkirk MB  ",
+            "total": 1
+        },
+        "data": [
+            {
+                "addressId": "9083663e-9c43-4a6c-bdfb-2eebf79e65a3",
+                "civicNumber": {
+                    "prefix": null,
+                    "number": "353",
+                    "suffix": {
+                        "code": null
+                    }
+                },
+                "streetName": "Eveline",
+                "streetType": {
+                    "code": "ST"
+                },
+                "streetDirection": {
+                    "code": null
+                },
+                "cityName": {
+                    "en": "Selkirk",
+                    "fr": "Selkirk"
+                },
+                "province": {
+                    "code": "46"
+                },
+                "country": {
+                    "code": "CA",
+                    "name": {
+                        "en": "Canada",
+                        "fr": "Canada"
+                    }
+                },
+                "mailingAddress": {
+                    "streetName": "EVELINE",
+                    "streetType": {
+                        "code": "ST"
+                    },
+                    "streetDirection": {
+                        "code": null
+                    },
+                    "municipalityName": "SELKIRK",
+                    "province": {
+                        "code": "MB"
+                    },
+                    "country": {
+                        "code": "CA",
+                        "name": {
+                            "en": "Canada",
+                            "fr": "Canada"
+                        }
+                    },
+                    "postalCode": "R1A1N1"
+                },
+                "location": {
+                    "locationID": "b54c8be4-890f-4e6d-adb8-9d259a8b91b5",
+                    "geoCoordinates": {
+                        "latitude": 50.142416,
+                        "longitude": -96.870926
+                    },
+                    "geographies": [
+                        {
+                            "codes": {
+                                "code": "46010",
+                                "name": {
+                                    "en": "Selkirk--Interlake--Eastman",
+                                    "fr": "Selkirk--Interlake--Eastman"
+                                }
+                            },
+                            "source": "FED_2016",
+                            "geographicType": "FED"
+                        },
+                        {
+                            "codes": {
+                                "code": "4660",
+                                "name": {
+                                    "en": "Interlake",
+                                    "fr": "Interlake"
+                                }
+                            },
+                            "source": "ER_2016",
+                            "geographicType": "ER"
+                        },
+                        {
+                            "codes": {
+                                "code": "4613047",
+                                "name": {
+                                    "en": "Selkirk",
+                                    "fr": "Selkirk"
+                                }
+                            },
+                            "source": "CSD_2016",
+                            "geographicType": "CSD"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "place_id": 50113028,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 4378513513,
+        "boundingbox": [
+            "51.0626643",
+            "51.1026643",
+            "-97.6395724",
+            "-97.5995724"
+        ],
+        "lat": "51.0826643",
+        "lon": "-97.6195724",
+        "display_name": "Fisher Branch, Manitoba, R0C 0Z0, Canada",
+        "class": "place",
+        "type": "village",
+        "importance": 0.5850000000000001,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_place_village.p.20.png",
+        "address": {
+            "village": "Fisher Branch",
+            "state": "Manitoba",
+            "postcode": "R0C 0Z0",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    {
+        "place_id": 282773720,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2989349,
+        "boundingbox": [
+            "43.610384",
+            "43.7360196",
+            "-79.492821",
+            "-79.2785104"
+        ],
+        "lat": "43.6534817",
+        "lon": "-79.3839347",
+        "display_name": "Old Toronto, Toronto, Golden Horseshoe, Ontario, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 1.0330149417022805,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png",
+        "address": {
+            "city": "Old Toronto",
+            "state_district": "Golden Horseshoe",
+            "state": "Ontario",
+            "country": "Canada",
+            "country_code": "ca"
+        }
+    },
+    [],
+    [],
+    [],
+    []
+]

@@ -1,0 +1,38 @@
+{
+    "localfile": "ON_covid_testing_centres.csv",
+    "schema_groups": [
+        "health",
+        "geocoordinates",
+        "address",
+        "contact"
+    ],
+    "source": "https://data.ontario.ca/en/dataset/covid-19-assessment-centre-locations",
+    "licence": "https://www.ontario.ca/page/open-government-licence-ontario",
+    "provider": "Province of Ontario",
+    "format": {
+        "type": "csv",
+        "delimiter": ",",
+        "quote": "\""
+    },
+    "schema": {
+        "health": {
+            "facility_name": "location_name",
+            "facility_type": "force:covid_testing_centres",
+            "health_authority": "phu"
+        },
+        "geocoordinates": {
+            "longitude": "longitude",
+            "latitude": "latitude"
+        },
+        "address": {
+            "street_addr": "address",
+            "city": "city",
+            "province": "force:ON",
+            "postal_code": "postal_code"
+        },
+        "contact": {
+            "phone": "phone",
+            "website": "website"
+        }
+    }
+}

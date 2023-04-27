@@ -1,0 +1,11 @@
+,idx,facility_name,facility_type,longitude,latitude,street_no,street_name,city,province,provider,filename
+0,0,Centre hospitalier de l'Université Laval,Hôpitaux,46.76868650091302,-71.28344242085564,2705.0,Boulevard Laurier,Quebec,QC,Quebec City,QC_Quebec_City_public_places.csv
+1,1,Centre hospitalier Robert-Giffard,Hôpitaux,46.847932187385126,-71.22072592305575,,Chemin de la Canardière,Quebec,QC,Quebec City,QC_Quebec_City_public_places.csv
+2,2,Hôpital Chauveau,Hôpitaux,46.85317097833875,-71.36992000707106,11999.0,Rue de l'Hôpital,Quebec,QC,Quebec City,QC_Quebec_City_public_places.csv
+3,3,Hôpital Christ-Roi,Hôpitaux,46.811355987527776,-71.25837456317832,900.0,Boulevard Wilfrid-Hamel,Quebec,QC,Quebec City,QC_Quebec_City_public_places.csv
+4,4,Hôpital de l'Enfant-Jésus,Hôpitaux,46.83748293860262,-71.22604003267628,1401.0,18e Rue,Quebec,QC,Quebec City,QC_Quebec_City_public_places.csv
+5,5,Hôpital du Saint-Sacrement,Hôpitaux,46.79901560331959,-71.24672679462493,1050.0,Chemin Sainte-Foy,Quebec,QC,Quebec City,QC_Quebec_City_public_places.csv
+6,6,Hôpital Jeffery Hale,Hôpitaux,46.796665292246,-71.25326166417408,1250.0,Chemin Sainte-Foy,Quebec,QC,Quebec City,QC_Quebec_City_public_places.csv
+7,7,Hôpital Laval,Hôpitaux,46.77848534323379,-71.29716546772484,,Chemin Sainte-Foy,Quebec,QC,Quebec City,QC_Quebec_City_public_places.csv
+8,8,Hôpital Saint-François d'Assise,Hôpitaux,46.82844125435023,-71.23754678002668,10.0,Rue De L'Espinay,Quebec,QC,Quebec City,QC_Quebec_City_public_places.csv
+9,9,L'Hôtel-Dieu de Québec,Hôpitaux,46.815534053944575,-71.21085234031672,11.0,Côte du Palais,Quebec,QC,Quebec City,QC_Quebec_City_public_places.csv

@@ -1,0 +1,35 @@
+{
+    "localfile": "BC_emergency_rooms.csv",
+    "schema_groups": [
+        "health",
+        "geocoordinates",
+        "address",
+        "contact"
+    ],
+    "source": "https://catalogue.data.gov.bc.ca/dataset/emergency-rooms-in-bc",
+    "licence": "https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc",
+    "provider": "Province of British Columbia",
+    "format": {
+        "type": "csv",
+        "delimiter": ",",
+        "quote": "\""
+    },
+    "schema": {
+        "health": {
+            "facility_name": "SV_NAME",
+            "facility_type": "TAXONOMY_NAME",
+            "health_authority": "RG_NAME"
+        },
+        "geocoordinates": {
+            "longitude": "LONGITUDE",
+            "latitude": "LATITUDE"
+        },
+        "address": {
+            "province": "force:BC"
+        },
+        "contact": {
+            "phone": "PHONE_NUMBER",
+            "website": "WEBSITE"
+        }
+    }
+}

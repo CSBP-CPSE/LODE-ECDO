@@ -1,0 +1,83 @@
+,idx,facility_name,facility_type,longitude,latitude,street_addr,city,province,provider,filename
+0,0,Résidence Cité-Jardin,Résidence pour personnes âgées,-75.68749,45.486385,60 Rue de la Futaie,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+1,1,Centre de réadaptation en dépendance,Autres services médicaux et de santé,-75.748249,45.422431,25 Rue Saint-François,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+2,2,Centre d'hébergement Bon Séjour,C.H.S.L.D.,-75.647589,45.481621,134 Rue Jean-René-Monette,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+3,3,Résidence de Hull,"Résidence pour personnes âgées(Type ""Familiale"")",-75.749229,45.462816,46 Rue Lucien-Brault,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+4,4,Résidence Corbeil,Résidence pour personnes âgées,-75.75075,45.451052,63 Rue Corbeil,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+5,5,Résidence de Gatineau,Résidence pour personnes âgées,-75.691922,45.473574,20 Rue Laferrière,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+6,6,Résidence Chartwell Domaine Notre-Dame,Résidence pour personnes âgées,-75.734505,45.433963,39 Rue Amherst,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+7,7,Domaine des Trembles,Résidence pour personnes âgées,-75.763016,45.428943,250 Boulevard Saint-Raymond,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+8,8,Les Jardins Notre-Dame,Résidence pour personnes âgées,-75.733596,45.433939,195 Boulevard Saint-Joseph,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+9,9,Résidence Sérénité J.D.K.,Résidence pour personnes âgées,-75.429123,45.587783,244 Rue Maclaren Ouest,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+10,10,Résidence Shayla,Résidence pour personnes âgées,-75.677304,45.47756,283 Rue de Melbourne,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+11,11,Manoir Sainte-Marie,Résidence pour personnes âgées,-75.607934,45.499707,156 Boulevard Lorrain,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+12,12,Pavillon du Parc (Hull-Aylmer),Autres services médicaux et de santé,-75.848516,45.406681,200 Rue Robert-Wright,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+13,13,C.L.S.C de Gatineau (LeGuerrier),C.L.S.C.,-75.836049,45.39946,425 Rue LeGuerrier,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+14,14,Centre hospitalier Pierre-Janet,Centre hospitalier,-75.739988,45.425276,20 Rue Pharand,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+15,15,Hôpital de Hull,Centre hospitalier,-75.745987,45.444341,116 Boulevard Lionel-Émond,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+16,16,Centre d'hébergement Foyer du Bonheur,C.H.S.L.D.,-75.748442,45.445323,125 Boulevard Lionel-Émond,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+17,17,C.L.S.C Vallée-de-la-Lièvre,C.L.S.C.,-75.402762,45.588029,578 Rue Maclaren Est,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+18,18,Résidence de la Gappe Phase 1,Résidence pour personnes âgées,-75.699063,45.47956,465 Boulevard de la Gappe,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+19,19,La Cité-Jardin plus,Résidence pour personnes âgées,-75.686447,45.486747,90 Rue de la Futaie,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+20,20,Place D'Or 1,Résidence pour personnes âgées,-75.698002,45.466388,26 Rue Claire,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+21,21,Place D'Or 2,Résidence pour personnes âgées,-75.698556,45.466033,25 Rue Guertin,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+22,22,Place D'Or 3,Résidence pour personnes âgées,-75.697751,45.466013,20 Rue Claire,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+23,23,Résidence Maisonneuve,Résidence pour personnes âgées,-75.492543,45.52472,225 Rue du Progrès,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+24,24,Résidence du Bassin,Résidence pour personnes âgées,-75.416849,45.54485,23 Rue Saint-Pierre,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+25,25,Résidence Du Portage,Résidence pour personnes âgées,-75.709356,45.437578,310 Rue de Notre-Dame-de-l'Île,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+26,26,Les Habitations Sanscartiers,Résidence pour personnes âgées,-75.642702,45.47997,94 Rue Saint-Denis,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+27,27,Résidence Manoir Gatineau,Résidence pour personnes âgées,-75.74989,45.44548,100 Boulevard de la Cité-des-Jeunes,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+28,28,Résidence et Château de l'Ile,Résidence pour personnes âgées,-75.722429,45.433568,223 Rue Saint-Rédempteur,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+29,29,Résidence Villa des Brises,Résidence pour personnes âgées,-75.716911,45.429348,79 Rue Frontenac,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+30,30,Logements Jean-Marie Séguin,Résidence pour personnes âgées,-75.719242,45.4364,40 Boulevard Sacré-Coeur,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+31,31,Maison Mgr. Paul-Émile Charbonneau,Résidence pour personnes âgées,-75.719095,45.435968,50 Boulevard Sacré-Coeur,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+32,32,Centre d'hébergement Vallée-de-la-Lièvre,C.H.S.L.D.,-75.422972,45.580317,111 Rue Gérard-Gauthier,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+33,33,Résidences Wilfrid-Lavigne 1,"Résidence pour personnes âgées(Type ""Familiale"")",-75.838163,45.39829,433 Boulevard Wilfrid-Lavigne,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+34,34,Centre d'hébergement Renaissance,C.H.S.L.D.,-75.838422,45.39923,445 Boulevard Wilfrid-Lavigne,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+35,35,Centre d'hébergement La Pietà,C.H.S.L.D.,-75.70879,45.439331,273 Rue Laurier,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+36,36,Résidence Diane L'Ecuyer,"Résidence pour personnes âgées(Type ""Familiale"")",-75.583911,45.495399,1205 Rue Alexandre,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+37,37,Résidence Dion inc,"Résidence pour personnes âgées(Type ""Familiale"")",-75.724873,45.468929,1799 Rue Saint-Louis,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+38,38,Résidence Ma Maison,"Résidence pour personnes âgées(Type ""Familiale"")",-75.740388,45.451006,3 Rue Boulay,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+39,39,C.L.S.C de Gatineau (avenue Gatineau),C.L.S.C.,-75.72304,45.480103,80 Avenue Gatineau,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+40,40,C.L.S.C de Gatineau (du Mont-Bleu),C.L.S.C.,-75.76648,45.460137,207 Boulevard du Mont-Bleu,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+41,41,C.L.S.C de Gatineau (Saint-Raymond),C.L.S.C.,-75.742227,45.447175,92 Boulevard Saint-Raymond,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+42,42,C.L.S.C de Gatineau (Alexandre-Taché),C.L.S.C.,-75.746559,45.421806,400 Boulevard Alexandre-Taché,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+43,43,C.L.S.C de Gatineau (Saint-Rédempteur),C.L.S.C.,-75.72171,45.42701,85 Rue Saint-Rédempteur,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+44,44,Fondation Québécoise du Cancer,Autres services médicaux et de santé,-75.69068,45.494886,555 Boulevard de l'Hôpital,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+45,45,Résidence Church,"Résidence pour personnes âgées(Type ""Familiale"")",-75.408327,45.585758,195 Rue Church,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+46,46,La Maison Mathieu-Froment-Savoie,Autres services médicaux et de santé,-75.742928,45.438308,170 Rue Sherbrooke,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+47,47,Hôpital de jour gériatrique,Centre hospitalier,-75.676739,45.493517,455 Montée Paiement,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+48,48,Résidence de Buckingham s.e.n.c.,"Résidence pour personnes âgées(Type ""Familiale"")",-75.404762,45.589419,512 Rue Brewer,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+49,49,Résidence Michel L'Écuyer,"Résidence pour personnes âgées(Type ""Familiale"")",-75.501743,45.520997,1515 Chemin de Montréal Ouest,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+50,50,Village Riviera,Résidence pour personnes âgées,-75.736445,45.483825,2199 Rue Saint-Louis,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+51,51,Château Symmes,Résidence pour personnes âgées,-75.840386,45.401069,255 Rue North,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+52,52,Résidence Chartwell Le Monastère d'Aylmer,Résidence pour personnes âgées,-75.839728,45.396393,161 Rue Principale,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+53,53,Résidence Notre Chez-nous,"Résidence pour personnes âgées(Type ""Familiale"")",-75.404079,45.58494,238 Rue Church,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+54,54,C.L.S.C de Gatineau (Maison Bruyère),C.L.S.C.,-75.848816,45.397201,57 Rue du Couvent,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+55,55,C.L.S.C de Gatineau (de la Gappe),C.L.S.C.,-75.685875,45.483226,777 Boulevard de la Gappe,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+56,56,Centre d'hébergement Champlain-Gatineau,C.H.S.L.D.,-75.637554,45.500623,510 Boulevard La Vérendrye Est,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+57,57,Hôpital de Gatineau,Centre hospitalier,-75.691095,45.493261,909 Boulevard La Vérendrye Ouest,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+58,58,C.H.S.L.D. Vigi,C.H.S.L.D.,-75.692094,45.49458,565 Boulevard de l'Hôpital,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+59,59,Pavillon du Parc (Gatineau),Autres services médicaux et de santé,-75.688211,45.495559,592B boulevard de l'Hopital,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+60,60,Maison de Naissance de L'Outaouais,Autres services médicaux et de santé,-75.648568,45.482887,175 Rue Jean-René-Monette,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+61,61,Hôpital de Papineau,Centre hospitalier,-75.412008,45.588533,155 Rue Maclaren Est,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+62,62,Domaine Boisé,Résidence pour personnes âgées,-75.64059,45.486968,265 Boulevard Labrosse,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+63,63,Pavillon du Parc (siège social),Autres services médicaux et de santé,-75.731661,45.436288,124 Rue Lois,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+64,64,Pavillon du Parc (Buckingham),Autres services médicaux et de santé,-75.414059,45.583645,610 Avenue de Buckingham,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+65,65,Maison Bruyère,Résidence pour personnes âgées,-75.848821,45.397192,57 Rue du Couvent,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+66,66,Résidence Beaufort,Résidence pour personnes âgées,-75.418972,45.549896,85 Rue Joseph-Gosselin,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+67,67,Résidence de la Gappe Phase 4,Résidence pour personnes âgées,-75.698161,45.479719,495 Boulevard de la Gappe,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+68,68,Résidence La Famille II,Résidence pour personnes âgées,-75.575008,45.509557,106 Rue des Frères-Vachon,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+69,69,Résidence L'Essence-ciel,Résidence pour personnes âgées,-75.410407,45.547421,116 Rue Dugal,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+70,70,Résidences Wilfrid-Lavigne 2,"Résidence pour personnes âgées(Type ""Familiale"")",-75.838873,45.398384,437 Boulevard Wilfrid-Lavigne,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+71,71,Résidence de la Gappe Phase 3,Résidence pour personnes âgées,-75.698413,45.480197,485 Boulevard de la Gappe,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+72,72,Résidence La Famille,Résidence pour personnes âgées,-75.43448,45.543628,365 Rue Jean-Baptiste-Routhier,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+73,73,Maison Louis-Joseph,Résidence pour personnes âgées,-75.744768,45.448687,22 Rue Isabelle,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+74,74,Manoir Le Buckingham Inc.,Résidence pour personnes âgées,-75.422899,45.58129,625 Rue Georges,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+75,75,Résidence St-Amour,"Résidence pour personnes âgées(Type ""Familiale"")",-75.574145,45.508598,77 Rue des Frères-Vachon,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+76,76,Les Conifères,Résidence pour personnes âgées,-75.639216,45.478805,105 Rue des Conifères,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+77,77,Résidence Blanchard,Résidence pour personnes âgées,-75.674941,45.476189,230 Rue de Fontenelle,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+78,78,Résidence Maison des sages,Résidence pour personnes âgées,-75.436766,45.543577,308 Rue Jean-Baptiste-Routhier,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+79,79,Le District,Résidence pour personnes âgées,-75.802384,45.387904,50 Impasse Lady-Colborne,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+80,80,Résidence l'Initial,Résidence pour personnes âgées,-75.837761,45.397008,300 Boulevard Wilfrid-Lavigne,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv
+81,81,Résidence Rokia,Résidence pour personnes âgées,-75.67494,45.477254,72 Rue de Galifet,Gatineau,QC,Gatineau,QC_Gatineau_public_places_including_hospitals.csv

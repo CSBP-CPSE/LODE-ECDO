@@ -1,0 +1,32 @@
+,idx,facility_name,facility_type,longitude,latitude,street_addr,city,province,postal_code,provider,filename
+0,0,Queen Elizabeth Hospital,Acute Care Hospital,-63.100222,46.255358,60 Riverside Drive,Charlottetown,PE,C1A 8T5,Province of Prince Edward Island,PE_healthcare_facilities.csv
+1,1,Prince County Hospital,Acute Care Hospital,-63.772944,46.417375,65 Roy Boates Avenue,Summerside,PE,C1N 2A9,Province of Prince Edward Island,PE_healthcare_facilities.csv
+2,2,Kings County Memorial Hospital,Community Hospital,-62.655181,46.170365,409 MacIntyre Avenue,Montague,PE,C0A 1R0,Province of Prince Edward Island,PE_healthcare_facilities.csv
+3,3,Community Hospital O'Leary,Community Hospital,-64.236546,46.707341,14 MacKinnon Drive,O'Leary,PE,C0B 1V0,Province of Prince Edward Island,PE_healthcare_facilities.csv
+4,4,Western Hospital,Community Hospital,-64.066393,46.810829,148 Poplar Street,Alberton,PE,C0B 1B0,Province of Prince Edward Island,PE_healthcare_facilities.csv
+5,5,Souris Hospital,Community Hospital,-62.244451,46.352092,17 Knights Avenue,Souris,PE,C0A 2B0,Province of Prince Edward Island,PE_healthcare_facilities.csv
+6,6,PEI Cancer Treatment Centre,Cancer Treatment Center,-63.100222,46.255358,60 Riverside Drive,Charlottetown,PE,C1A 8T5,Province of Prince Edward Island,PE_healthcare_facilities.csv
+7,7,Prince County Hospital Satellite Clinic,Cancer Treatment Center,-63.772944,46.417375,65 Roy Boates Avenue,Summerside,PE,C1N 2A9,Province of Prince Edward Island,PE_healthcare_facilities.csv
+8,8,Eastern King's Health Centre,King's Primary Care Network,-62.244458,46.352097,7 Green Street,Souris,PE,C0A 2B0,Province of Prince Edward Island,PE_healthcare_facilities.csv
+9,9,Montague Health Centre,King's Primary Care Network,-62.655327,46.169155,407 MacIntyre Avenue,Montague,PE,C0A 1R0,Province of Prince Edward Island,PE_healthcare_facilities.csv
+10,10,Polyclinic,King's Primary Care Network,-63.124566,46.23706,199 Grafton Street,Charlottetown,PE,C1A 1L2,Province of Prince Edward Island,PE_healthcare_facilities.csv
+11,11,Four Neighborhoods Health Centre,Queen's West Primary Care Network,-63.118319,46.260332,152 St. Peter's Road,Charlottetown,PE,C1A 5P8,Province of Prince Edward Island,PE_healthcare_facilities.csv
+12,12,Central Queens Health Centre,Queen's West Primary Care Network,-63.348241,46.353885,4276 Hopedale Road,Hunter River,PE,C0A 1N0,Province of Prince Edward Island,PE_healthcare_facilities.csv
+13,13,Gulf Shore Health Centre,Queen's West Primary Care Network,-63.318701,46.462796,7379 Cavendish Road - Rte 6,North Rustico,PE,C0A 1X0,Province of Prince Edward Island,PE_healthcare_facilities.csv
+14,14,Kensington Health Centre,East Prince Primary Care Network,-63.636109,46.437655,55 Victoria Street,Kensington,PE,C0B 1M0,Province of Prince Edward Island,PE_healthcare_facilities.csv
+15,15,Harbourside Health Centre,East Prince Primary Care Network,-63.789779,46.390289,243 Heather Moyse Drive,Summerside,PE,C1N 5R1,Province of Prince Edward Island,PE_healthcare_facilities.csv
+16,16,Evangeline Health Centre,East Prince Primary Care Network,-63.999642,46.453592,48 Mill Road,Wellington,PE,C0B 2E0,Province of Prince Edward Island,PE_healthcare_facilities.csv
+17,17,Tyne Valley Health Centre,West Prince Health Network,-63.926353,46.575951,6905 Route 12,Tyne Valley,PE,C0B 1P0,Province of Prince Edward Island,PE_healthcare_facilities.csv
+18,18,O'Leary Health Centre,West Prince Health Network,-64.238338,46.70522,14 MacKinnon Drive,O'Leary,PE,C0B 1V0,Province of Prince Edward Island,PE_healthcare_facilities.csv
+19,19,Alberton Health Services,West Prince Health Network,-64.066393,46.810829,148 Poplar Street,Alberton,PE,C0B 1B0,Province of Prince Edward Island,PE_healthcare_facilities.csv
+20,20,Beach Grove Home,Public Nursing Home,-63.172942,46.254689,200 Beach Grove Road,Charlottetown,PE,C1E 1L3,Province of Prince Edward Island,PE_healthcare_facilities.csv
+21,21,Colville Manor,Public Nursing Home,-62.241315,46.35137,20 MacPhee Avenue,Souris,PE,C0A 2B0,Province of Prince Edward Island,PE_healthcare_facilities.csv
+22,22,MapleWood Manor,Public Nursing Home,-64.07338,46.81335,397 Church Street,Alberton,PE,C0B 1B0,Province of Prince Edward Island,PE_healthcare_facilities.csv
+23,23,Margaret S. Ellis Wing,Public Nursing Home,-64.236546,46.707341,14 MacKinnon Drive,O'Leary,PE,C0B 1V0,Province of Prince Edward Island,PE_healthcare_facilities.csv
+24,24,Prince Edward Home,Public Nursing Home,-63.171043,46.257689,75 Maypoint Road,Charlottetown,PE,C1E 1V6,Province of Prince Edward Island,PE_healthcare_facilities.csv
+25,25,Riverview Manor,Public Nursing Home,-62.650911,46.166478,142 Fraser Street,Montague,PE,C0A 1R0,Province of Prince Edward Island,PE_healthcare_facilities.csv
+26,26,Stewart Memorial Hospital,Public Nursing Home,-63.926352,46.575951,18 Bideford Road - Rte 166,Tyne Valley,PE,C0B 2C0,Province of Prince Edward Island,PE_healthcare_facilities.csv
+27,27,Summerset Manor,Public Nursing Home,-63.773509,46.419751,205 LeFurgey Avenue,Summerside,PE,C1N 2L9,Province of Prince Edward Island,PE_healthcare_facilities.csv
+28,28,Wedgewood Manor,Public Nursing Home,-63.796058,46.405498,310 Brophy Avenue,Summerside,PE,C1N 5N4,Province of Prince Edward Island,PE_healthcare_facilities.csv
+29,29,Sherwood Home,Public Nursing Home,-63.097192,46.25523,75 Murchison Lane,Charlottetown,PE,C1N 7N5,Province of Prince Edward Island,PE_healthcare_facilities.csv
+30,30,Provincial Palliative Care Centre,Palliative Care Centre,-63.096192,46.254773,93 Murchison Lane,Charlottetown,PE,C1A 0G3,Province of Prince Edward Island,PE_healthcare_facilities.csv

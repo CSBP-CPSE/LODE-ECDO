@@ -1,0 +1,83 @@
+,MUNID,CODEID,TYPE,NO_CIVIQUE,GENERIQUE,LIAISON,SPECIFIQUE,DIRECTION,ADR_COMPLE,NOM_TOPOGR,COTE,SECTION,ENTITEID,GEOM,LONGITUDE,LATITUDE
+0,81017,79,Résidence pour personnes âgées,,,,,,60 Rue de la Futaie,Résidence Cité-Jardin,,,{88DE67A5-88F2-47D7-B4AA-BEDC8049F255},POINT (-75.68749 45.486385),45.486385,-75.68749
+1,81017,1162,Autres services médicaux et de santé,,,,,,25 Rue Saint-François,Centre de réadaptation en dépendance,,,{C640A131-656C-4A21-AE93-D6120CDE0A0A},POINT (-75.748249 45.422431),45.422431,-75.748249
+2,81017,1163,C.H.S.L.D.,,,,,,134 Rue Jean-René-Monette,Centre d'hébergement Bon Séjour,,,{52C9F9B7-3721-4204-A13B-388828278AD5},POINT (-75.647589 45.481621),45.481621,-75.647589
+3,81017,1320,"Résidence pour personnes âgées(Type ""Familiale"")",,,,,,46 Rue Lucien-Brault,Résidence de Hull,,,{D0F9697B-E020-4A5B-BA8F-0C6281A8A455},POINT (-75.749229 45.462816),45.462816,-75.749229
+4,81017,1321,Résidence pour personnes âgées,,,,,,63 Rue Corbeil,Résidence Corbeil,,,{CA547E09-5E5E-45C4-B03F-F46D90EAE346},POINT (-75.75075 45.451052),45.451052,-75.75075
+5,81017,1322,Résidence pour personnes âgées,,,,,,20 Rue Laferrière,Résidence de Gatineau,,,{73879B5F-EA60-4681-A7E7-D3CD7C44CC19},POINT (-75.691922 45.473574),45.473574,-75.691922
+6,81017,66,Résidence pour personnes âgées,,,,,,39 Rue Amherst,Résidence Chartwell Domaine Notre-Dame,,,{F63ABB31-48C8-4FE9-B07B-1EDEE3C79EB8},POINT (-75.734505 45.433963),45.433963,-75.734505
+7,81017,726,Résidence pour personnes âgées,,,,,,250 Boulevard Saint-Raymond,Domaine des Trembles,,,{9DDC8CCF-E2BE-4951-A3F2-09C26897CFB9},POINT (-75.763016 45.428943),45.428943,-75.763016
+8,81017,727,Résidence pour personnes âgées,,,,,,195 Boulevard Saint-Joseph,Les Jardins Notre-Dame,,,{A3C36254-F658-4ED9-AB8C-A105C293091F},POINT (-75.733596 45.433939),45.433939,-75.733596
+9,81017,1323,Résidence pour personnes âgées,,,,,,244 Rue Maclaren Ouest,Résidence Sérénité J.D.K.,,,{B3607B4E-1B21-4F44-BFD6-967C7B859DDD},POINT (-75.429123 45.587783),45.587783,-75.429123
+10,81017,1324,Résidence pour personnes âgées,,,,,,283 Rue de Melbourne,Résidence Shayla,,,{51D4AF42-D21C-4A41-A37B-EA61B1D1C9DD},POINT (-75.677304 45.47756),45.47756,-75.677304
+11,81017,78,Résidence pour personnes âgées,,,,,,156 Boulevard Lorrain,Manoir Sainte-Marie,,,{54A3A653-EE8D-4ED8-8F62-C2B64C2E5790},POINT (-75.607934 45.499707),45.499707,-75.607934
+12,81017,11,Autres services médicaux et de santé,,,,,,200 Rue Robert-Wright,Pavillon du Parc (Hull-Aylmer),,,{97D92463-29A5-450F-BCBC-81AFE705EE98},POINT (-75.848516 45.406681),45.406681,-75.848516
+13,81017,17,C.L.S.C.,,,,,,425 Rue LeGuerrier,C.L.S.C de Gatineau (LeGuerrier),,,{7858F219-1CC6-494F-A45D-E469174E1EE8},POINT (-75.836049 45.39946),45.39946,-75.836049
+14,81017,27,Centre hospitalier,,,,,,20 Rue Pharand,Centre hospitalier Pierre-Janet,,,{8F669DD5-8983-4283-855D-8D8CD7D7D4AF},POINT (-75.739988 45.425276),45.425276,-75.739988
+15,81017,49,Centre hospitalier,,,,,,116 Boulevard Lionel-Émond,Hôpital de Hull,,,{4D6996F9-A81F-43B2-94FD-143EBF895547},POINT (-75.745987 45.444341),45.444341,-75.745987
+16,81017,54,C.H.S.L.D.,,,,,,125 Boulevard Lionel-Émond,Centre d'hébergement Foyer du Bonheur,,,{9A62F16D-998E-4EF8-8503-19EB29DA1309},POINT (-75.748442 45.445323),45.445323,-75.748442
+17,81017,241,C.L.S.C.,,,,,,578 Rue Maclaren Est,C.L.S.C Vallée-de-la-Lièvre,,,{38F79D1E-F5F9-4282-9EF0-1B452A7C994B},POINT (-75.402762 45.588029),45.588029,-75.402762
+18,81017,723,Résidence pour personnes âgées,,,,,,465 Boulevard de la Gappe,Résidence de la Gappe Phase 1,,,{23CBA4A5-A3AB-4628-88C0-F156E9197AF0},POINT (-75.699063 45.47956),45.47956,-75.699063
+19,81017,785,Résidence pour personnes âgées,,,,,,90 Rue de la Futaie,La Cité-Jardin plus,,,{FB14D156-A086-45B7-A078-58E4933F7353},POINT (-75.686447 45.486747),45.486747,-75.686447
+20,81017,759,Résidence pour personnes âgées,,,,,,26 Rue Claire,Place D'Or 1,,,{FF216501-8450-415A-A40C-0F56029A03A4},POINT (-75.698002 45.466388),45.466388,-75.698002
+21,81017,758,Résidence pour personnes âgées,,,,,,25 Rue Guertin,Place D'Or 2,,,{2D23A3B1-74B6-497D-B5D4-7972436A0817},POINT (-75.698556 45.466033),45.466033,-75.698556
+22,81017,760,Résidence pour personnes âgées,,,,,,20 Rue Claire,Place D'Or 3,,,{7F98CD16-C7F6-4057-84BB-C21AE8AFB4A1},POINT (-75.697751 45.466013),45.466013,-75.697751
+23,81017,761,Résidence pour personnes âgées,,,,,,225 Rue du Progrès,Résidence Maisonneuve,,,{487967D1-8559-4B9D-ADCD-5376348367EA},POINT (-75.492543 45.52472),45.52472,-75.492543
+24,81017,762,Résidence pour personnes âgées,,,,,,23 Rue Saint-Pierre,Résidence du Bassin,,,{39A295E5-0FA7-4185-ACD8-5A66DE6BD0A8},POINT (-75.416849 45.54485),45.54485,-75.416849
+25,81017,1161,Résidence pour personnes âgées,,,,,,310 Rue de Notre-Dame-de-l'Île,Résidence Du Portage,,,{CC5FE710-3837-4CFB-BF69-FBFB6DF80452},POINT (-75.709356 45.437578),45.437578,-75.709356
+26,81017,80,Résidence pour personnes âgées,,,,,,94 Rue Saint-Denis,Les Habitations Sanscartiers,,,{93CDCCEC-EEB1-4F84-9C56-016E2C86B90C},POINT (-75.642702 45.47997),45.47997,-75.642702
+27,81017,81,Résidence pour personnes âgées,,,,,,100 Boulevard de la Cité-des-Jeunes,Résidence Manoir Gatineau,,,{4AE34F70-D298-4306-AED2-4B023DBF7335},POINT (-75.74989 45.44548),45.44548,-75.74989
+28,81017,82,Résidence pour personnes âgées,,,,,,223 Rue Saint-Rédempteur,Résidence et Château de l'Ile,,,{29BA2660-E3C3-4763-9C7A-BBEAD1F92247},POINT (-75.722429 45.433568),45.433568,-75.722429
+29,81017,83,Résidence pour personnes âgées,,,,,,79 Rue Frontenac,Résidence Villa des Brises,,,{693148F2-3F14-48BE-B8C4-282C0B61DA28},POINT (-75.716911 45.429348),45.429348,-75.716911
+30,81017,90,Résidence pour personnes âgées,,,,,,40 Boulevard Sacré-Coeur,Logements Jean-Marie Séguin,,,{E63B4951-C68F-44A7-A086-FF2281373F32},POINT (-75.719242 45.4364),45.4364,-75.719242
+31,81017,91,Résidence pour personnes âgées,,,,,,50 Boulevard Sacré-Coeur,Maison Mgr. Paul-Émile Charbonneau,,,{1027C3C9-9011-45EF-BB91-C45A1601414E},POINT (-75.719095 45.435968),45.435968,-75.719095
+32,81017,1159,C.H.S.L.D.,,,,,,111 Rue Gérard-Gauthier,Centre d'hébergement Vallée-de-la-Lièvre,,,{924E3136-5C20-4A6A-B85E-ABBD7DD00447},POINT (-75.422972 45.580317),45.580317,-75.422972
+33,81017,94,"Résidence pour personnes âgées(Type ""Familiale"")",,,,,,433 Boulevard Wilfrid-Lavigne,Résidences Wilfrid-Lavigne 1,,,{F18D0B3F-49C9-40F6-93D4-D8D33838A80A},POINT (-75.838163 45.39829),45.39829,-75.838163
+34,81017,320,C.H.S.L.D.,,,,,,445 Boulevard Wilfrid-Lavigne,Centre d'hébergement Renaissance,,,{BDF7EDDB-2FB5-48B8-BC2C-D352220B910C},POINT (-75.838422 45.39923),45.39923,-75.838422
+35,81017,108,C.H.S.L.D.,,,,,,273 Rue Laurier,Centre d'hébergement La Pietà,,,{EC382F20-287C-4D0F-9271-DB401EA43B9F},POINT (-75.70879 45.439331),45.439331,-75.70879
+36,81017,741,"Résidence pour personnes âgées(Type ""Familiale"")",,,,,,1205 Rue Alexandre,Résidence Diane L'Ecuyer,,,{667A7C36-AC8B-4234-A6C1-80D14CF0636D},POINT (-75.583911 45.495399),45.495399,-75.583911
+37,81017,742,"Résidence pour personnes âgées(Type ""Familiale"")",,,,,,1799 Rue Saint-Louis,Résidence Dion inc,,,{50B0D787-51DC-4038-A2DD-7208660DF0D0},POINT (-75.724873 45.468929),45.468929,-75.724873
+38,81017,745,"Résidence pour personnes âgées(Type ""Familiale"")",,,,,,3 Rue Boulay,Résidence Ma Maison,,,{F96FC496-0957-4DBA-8853-3390E9760236},POINT (-75.740388 45.451006),45.451006,-75.740388
+39,81017,779,C.L.S.C.,,,,,,80 Avenue Gatineau,C.L.S.C de Gatineau (avenue Gatineau),,,{B41C181F-8151-4330-8B44-967364ECFCEE},POINT (-75.72304 45.480103),45.480103,-75.72304
+40,81017,780,C.L.S.C.,,,,,,207 Boulevard du Mont-Bleu,C.L.S.C de Gatineau (du Mont-Bleu),,,{AA33EB3A-345C-4120-A84C-B0DEE77A4436},POINT (-75.76648 45.460137),45.460137,-75.76648
+41,81017,781,C.L.S.C.,,,,,,92 Boulevard Saint-Raymond,C.L.S.C de Gatineau (Saint-Raymond),,,{EAE0828E-E792-4C5E-982A-79E5DE63A35D},POINT (-75.742227 45.447175),45.447175,-75.742227
+42,81017,783,C.L.S.C.,,,,,,400 Boulevard Alexandre-Taché,C.L.S.C de Gatineau (Alexandre-Taché),,,{49058B1A-C3DF-4E15-8D6D-0C9A049365C0},POINT (-75.746559 45.421806),45.421806,-75.746559
+43,81017,59,C.L.S.C.,,,,,,85 Rue Saint-Rédempteur,C.L.S.C de Gatineau (Saint-Rédempteur),,,{562AE372-2F11-4C3E-9ECA-F348FF25FA86},POINT (-75.72171 45.42701),45.42701,-75.72171
+44,81017,1277,Autres services médicaux et de santé,,,,,,555 Boulevard de l'Hôpital,Fondation Québécoise du Cancer,,,{DFBAFCC0-1312-45CC-AABC-45B01B716C90},POINT (-75.69068 45.494886),45.494886,-75.69068
+45,81017,97,"Résidence pour personnes âgées(Type ""Familiale"")",,,,,,195 Rue Church,Résidence Church,,,{1B376776-B73C-4130-B445-A270FAF16504},POINT (-75.408327 45.585758),45.585758,-75.408327
+46,81017,1233,Autres services médicaux et de santé,,,,,,170 Rue Sherbrooke,La Maison Mathieu-Froment-Savoie,,,{B1072CD7-8843-458A-925D-1BA2EADABE20},POINT (-75.742928 45.438308),45.438308,-75.742928
+47,81017,1327,Centre hospitalier,,,,,,455 Montée Paiement,Hôpital de jour gériatrique,,,{868D38C2-CD2D-47C4-8E9C-B8B44525FDE9},POINT (-75.676739 45.493517),45.493517,-75.676739
+48,81017,739,"Résidence pour personnes âgées(Type ""Familiale"")",,,,,,512 Rue Brewer,Résidence de Buckingham s.e.n.c.,,,{ED56FB06-CB87-4C55-B0CD-33B4FF963CE5},POINT (-75.404762 45.589419),45.589419,-75.404762
+49,81017,747,"Résidence pour personnes âgées(Type ""Familiale"")",,,,,,1515 Chemin de Montréal Ouest,Résidence Michel L'Écuyer,,,{1F934BDD-492C-4C03-91FD-FAB10E91B704},POINT (-75.501743 45.520997),45.520997,-75.501743
+50,81017,751,Résidence pour personnes âgées,,,,,,2199 Rue Saint-Louis,Village Riviera,,,{416FF9FC-CA90-4ED3-88E0-7EBBFBEF1B75},POINT (-75.736445 45.483825),45.483825,-75.736445
+51,81017,95,Résidence pour personnes âgées,,,,,,255 Rue North,Château Symmes,,,{EAE32C67-6589-45DD-9782-45FB9E80C285},POINT (-75.840386 45.401069),45.401069,-75.840386
+52,81017,317,Résidence pour personnes âgées,,,,,,161 Rue Principale,Résidence Chartwell Le Monastère d'Aylmer,,,{4D6A39C5-710C-45CC-BCC2-C4EC30A599DE},POINT (-75.839728 45.396393),45.396393,-75.839728
+53,81017,757,"Résidence pour personnes âgées(Type ""Familiale"")",,,,,,238 Rue Church,Résidence Notre Chez-nous,,,{0BCCA8FD-5F6F-4092-ACCC-A505DFCF3632},POINT (-75.404079 45.58494),45.58494,-75.404079
+54,81017,782,C.L.S.C.,,,,,,57 Rue du Couvent,C.L.S.C de Gatineau (Maison Bruyère),,,{EFF7DF10-AB0F-4466-BDE7-CC6AE3B0774D},POINT (-75.848816 45.397201),45.397201,-75.848816
+55,81017,1164,C.L.S.C.,,,,,,777 Boulevard de la Gappe,C.L.S.C de Gatineau (de la Gappe),,,{7AE4BDB5-2356-4814-864C-99FDD369BD16},POINT (-75.685875 45.483226),45.483226,-75.685875
+56,81017,34,C.H.S.L.D.,,,,,,510 Boulevard La Vérendrye Est,Centre d'hébergement Champlain-Gatineau,,,{DFB0AC03-3F50-4AF4-9F0F-B78071142033},POINT (-75.637554 45.500623),45.500623,-75.637554
+57,81017,159,Centre hospitalier,,,,,,909 Boulevard La Vérendrye Ouest,Hôpital de Gatineau,,,{36EAA6D8-54B6-41CA-90E3-9DAE233DF032},POINT (-75.691095 45.493261),45.493261,-75.691095
+58,81017,35,C.H.S.L.D.,,,,,,565 Boulevard de l'Hôpital,C.H.S.L.D. Vigi,,,{5A49E83A-0F0D-4E25-8322-9D6E9090B921},POINT (-75.692094 45.49458),45.49458,-75.692094
+59,81017,720,Autres services médicaux et de santé,,,,,,592B boulevard de l'Hopital,Pavillon du Parc (Gatineau),,,{F82AC1F6-4953-45F0-B0DD-9851AFADC580},POINT (-75.688211 45.495559),45.495559,-75.688211
+60,81017,1165,Autres services médicaux et de santé,,,,,,175 Rue Jean-René-Monette,Maison de Naissance de L'Outaouais,,,{78166162-D318-4AA1-8A8F-19AADB9B499F},POINT (-75.648568 45.482887),45.482887,-75.648568
+61,81017,233,Centre hospitalier,,,,,,155 Rue Maclaren Est,Hôpital de Papineau,,,{E541D681-2D4B-435F-84CE-E208887765EF},POINT (-75.412008 45.588533),45.588533,-75.412008
+62,81017,67,Résidence pour personnes âgées,,,,,,265 Boulevard Labrosse,Domaine Boisé,,,{50A888F8-ED3E-4865-A4A0-9D3F200DAEA4},POINT (-75.64059 45.486968),45.486968,-75.64059
+63,81017,719,Autres services médicaux et de santé,,,,,,124 Rue Lois,Pavillon du Parc (siège social),,,{C5AD5431-AAC5-4CBC-8F47-6643CA3B4BF2},POINT (-75.731661 45.436288),45.436288,-75.731661
+64,81017,721,Autres services médicaux et de santé,,,,,,610 Avenue de Buckingham,Pavillon du Parc (Buckingham),,,{B5B58A1E-6EE8-4A73-B790-6F35CAB57226},POINT (-75.414059 45.583645),45.583645,-75.414059
+65,81017,1331,Résidence pour personnes âgées,,,,,,57 Rue du Couvent,Maison Bruyère,,,{FE9AC453-7ADA-4956-8C3A-CD4C5A0E1BFB},POINT (-75.848821 45.397192),45.397192,-75.848821
+66,81017,1332,Résidence pour personnes âgées,,,,,,85 Rue Joseph-Gosselin,Résidence Beaufort,,,{D43A2F2E-B9B7-4848-B389-B6783A6CD57C},POINT (-75.418972 45.549896),45.549896,-75.418972
+67,81017,735,Résidence pour personnes âgées,,,,,,495 Boulevard de la Gappe,Résidence de la Gappe Phase 4,,,{44E52EA3-E1BC-44D2-8E95-A7EDAC4EFA79},POINT (-75.698161 45.479719),45.479719,-75.698161
+68,81017,1325,Résidence pour personnes âgées,,,,,,106 Rue des Frères-Vachon,Résidence La Famille II,,,{D9F7504F-669F-4427-B5B9-D85C5C160337},POINT (-75.575008 45.509557),45.509557,-75.575008
+69,81017,1326,Résidence pour personnes âgées,,,,,,116 Rue Dugal,Résidence L'Essence-ciel,,,{C6E72445-C6F1-46F0-AB49-5D7790D1193F},POINT (-75.410407 45.547421),45.547421,-75.410407
+70,81017,1512,"Résidence pour personnes âgées(Type ""Familiale"")",,,,,,437 Boulevard Wilfrid-Lavigne,Résidences Wilfrid-Lavigne 2,,,{A21A1402-CC66-430D-BA13-FD1ABA1662D1},POINT (-75.838873 45.398384),45.398384,-75.838873
+71,81017,1511,Résidence pour personnes âgées,,,,,,485 Boulevard de la Gappe,Résidence de la Gappe Phase 3,,,{36B3EE06-4A0C-4870-A122-526E9765E82B},POINT (-75.698413 45.480197),45.480197,-75.698413
+72,81017,1586,Résidence pour personnes âgées,,,,,,365 Rue Jean-Baptiste-Routhier,Résidence La Famille,,,{E016F9D6-E03A-4E7F-BF6C-FE92B778A853},POINT (-75.43448 45.543628),45.543628,-75.43448
+73,81017,1584,Résidence pour personnes âgées,,,,,,22 Rue Isabelle,Maison Louis-Joseph,,,{F93F38A3-FAA6-47C8-8653-54A069E8C83F},POINT (-75.744768 45.448687),45.448687,-75.744768
+74,81017,1585,Résidence pour personnes âgées,,,,,,625 Rue Georges,Manoir Le Buckingham Inc.,,,{440C186C-6DD8-40ED-9C6B-6FBDCA80992C},POINT (-75.422899 45.58129),45.58129,-75.422899
+75,81017,1582,"Résidence pour personnes âgées(Type ""Familiale"")",,,,,,77 Rue des Frères-Vachon,Résidence St-Amour,,,{8727E968-831D-4119-B02E-EA8F9BE7775C},POINT (-75.574145 45.508598),45.508598,-75.574145
+76,81017,1583,Résidence pour personnes âgées,,,,,,105 Rue des Conifères,Les Conifères,,,{05B518CA-5B7A-4DCC-8969-98B74446A784},POINT (-75.639216 45.478805),45.478805,-75.639216
+77,81017,1620,Résidence pour personnes âgées,,,,,,230 Rue de Fontenelle,Résidence Blanchard,,,{7EC45636-050E-4F8D-9CA3-8911F58A1CD3},POINT (-75.674941 45.476189),45.476189,-75.674941
+78,81017,1623,Résidence pour personnes âgées,,,,,,308 Rue Jean-Baptiste-Routhier,Résidence Maison des sages,,,{D57DB986-952D-4C1E-A423-88E0BF06CC20},POINT (-75.436766 45.543577),45.543577,-75.436766
+79,81017,1622,Résidence pour personnes âgées,,,,,,50 Impasse Lady-Colborne,Le District,,,{91702619-8F2F-46B9-811B-241A90D1E120},POINT (-75.802384 45.387904),45.387904,-75.802384
+80,81017,1621,Résidence pour personnes âgées,,,,,,300 Boulevard Wilfrid-Lavigne,Résidence l'Initial,,,{A70B3B33-C58F-4033-A539-3D6E2A8FFF89},POINT (-75.837761 45.397008),45.397008,-75.837761
+81,81017,1624,Résidence pour personnes âgées,,,,,,72 Rue de Galifet,Résidence Rokia,,,{B1664B7A-BB7D-4B7A-B4DF-E82FD4B18D27},POINT (-75.67494 45.477254),45.477254,-75.67494

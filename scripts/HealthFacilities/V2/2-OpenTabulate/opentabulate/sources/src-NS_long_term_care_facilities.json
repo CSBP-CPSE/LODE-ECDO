@@ -1,0 +1,35 @@
+{
+    "localfile": "NS_long_term_care_facilities.csv",
+    "schema_groups": [
+        "health",
+        "geocoordinates",
+        "address",
+        "contact"
+    ],
+    "source": "https://data.novascotia.ca/Health-and-Wellness/Long-Term-Care-and-Residential-Care-Facilities/x76a-axw2",
+    "licence": "https://novascotia.ca/opendata/licence.asp",
+    "provider": "Province of Nova Scotia",
+    "format": {
+        "type": "csv",
+        "delimiter": ",",
+        "quote": "\""
+    },
+    "schema": {
+        "health": {
+            "facility_name": "Facility Name",
+            "facility_type": "Facility Type",
+            "number_beds": "Nursing Homes (NH) No. of Beds"
+        },
+        "geocoordinates": {
+            "longitude": "X Coordinate",
+            "latitude": "Y  Coordinate"
+        },
+        "address": {
+            "street_addr": "Address",
+            "city": "Town",
+            "province": "force:NS",
+            "postal_code": "Postal Code"
+        },
+        "contact": {}
+    }
+}

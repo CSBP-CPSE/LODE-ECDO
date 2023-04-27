@@ -1,0 +1,136 @@
+,idx,facility_name,facility_type,number_beds,longitude,latitude,street_addr,city,province,postal_code,provider,filename
+0,0,Glen Haven Manor,Nursing Home,0,-62.6439357043,45.5749352459,739 EAST RIVER RD,NEW GLASGOW,NS,B2H 5E9,Province of Nova Scotia,NS_long_term_care_facilities.csv
+1,1,Oakwood Terrace,Nursing Home,0,-63.5445184349,44.6535297057,10 MOUNT HOPE AVENUE,DARTMOUTH,NS,B2Y 4K1,Province of Nova Scotia,NS_long_term_care_facilities.csv
+2,2,Musquodoboit Valley Home for Special Care Association,Nursing Home,0,-63.1399624674,45.0399737291,126 HIGGINSVILLE ROAD,MIDDLE MUSQUODOBOIT,NS,B0N 1X0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+3,3,Sisters of St. Martha,Nursing Home,0,-61.980854876,45.6311404784,45 BAY STREET,ANTGONISH,NS,B2G 2G6,Province of Nova Scotia,NS_long_term_care_facilities.csv
+4,4,Ivey's Terrace Nursing Home,Nursing Home,0,-62.6314135971,45.6231158834,11 CENTENNIAL DRIVE,TRENTON,NS,B0K 1X0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+5,5,Ivy Meadows Continuing Care Centre,Nursing Home,0,-63.7109149281,44.9023290404,125 KNOWLES CRESCENT,BEAVERBANK,NS,B4G 1E7,Province of Nova Scotia,NS_long_term_care_facilities.csv
+6,6,Ryan Hall,Nursing Home and Residential Care Facility,15,-64.5055060942,44.3834574419,313 HOLLINGSWORTH DRIVE,BRIDGEWATER,NS,B4V 0A3,Province of Nova Scotia,NS_long_term_care_facilities.csv
+7,7,Bissett Court,Nursing Home,0,-63.4903147595,44.677899124,74 CHAMEAU CRESCENT,COLE HARBOUR,NS,B2W 0H5,Province of Nova Scotia,NS_long_term_care_facilities.csv
+8,8,South Cumberland Community Care Centre,Nursing Home,0,-64.325939162,45.4090871712,50 JENKS AVENUE,PARRSBORO,NS,B0M 1S0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+9,9,Mountain Lea Lodge,Nursing Home,0,-65.2926080152,44.8488867357,170 CHURCH STREET,BRIDGETOWN NORTH,NS,B0S 1C0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+10,10,Grand View Manor,Nursing Home,0,-64.7285963928,45.0353852167,110 COMMERCIAL STREET,BERWICK,NS,B0P 1E0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+11,11,Victoria Park Guest Home,Residential Care Facility,12,-64.1332130528,44.9927712815,350 KING STREET,WINDSOR,NS,B0N 2T0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+12,12,Glasgow Hall - Parklands at the Lakes Limited,Nursing Home,0,-63.5306328321,44.6657162615,76 BAKER DR,DARTMOUTH,NS,B2W 0C7,Province of Nova Scotia,NS_long_term_care_facilities.csv
+13,13,Saunders Rest Home,Residential Care Facility,8,-65.2888528519,44.840857092,9 FREEMAN STREET,BRIDGETOWN,NS,B0S 1C0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+14,14,Precision Health - 16 Rannoch Road,Residential Care Facility,3,-63.5356331395,44.6906636112,16 RANNOCH ROAD,DARTMOUTH,NS,B2X IJ6,Province of Nova Scotia,NS_long_term_care_facilities.csv
+15,15,Alderwood,Nursing Home and Residential Care Facility,11,-60.7655569049,46.0956038205,89 ALDEREWOOD LANE,BADDECK,NS,B0E 1B0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+16,16,Mary's Abide-A-While Home Ltd,Residential Care Facility,14,-65.3247064627,43.7656877572,188 WATER,SHELBURNE,NS,B0T 1W0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+17,17,Debert Court,Nursing Home,0,-63.4536777557,45.4352400429,16 DAKOTA ROAD,DEBERT,NS,B0N 1C0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+18,18,Victoria Manor,Residential Care Facility,40,-64.2146334839,45.8297291732,14 VICTORIA ST W,AMHERST,NS,B4H 1B8,Province of Nova Scotia,NS_long_term_care_facilities.csv
+19,19,the Admiral Long Term Care Centre,Nursing Home,0,-63.5454557366,44.6843185257,6 ADMIRAL STREET,DARTMOUTH,NS,B2X 1W4,Province of Nova Scotia,NS_long_term_care_facilities.csv
+20,20,Arborstone Enhanced Care,Nursing Home,0,-63.6082271374,44.6328756027,126 PURCELL'S COVE RD,HALIFAX,NS,B3P 1B5,Province of Nova Scotia,NS_long_term_care_facilities.csv
+21,21,Southview Guest Home Ltd.,Residential Care Facility,3,-60.1975697845,46.1862367957,2027 HIGHWAY 28,SYDNEY,NS,B1N 3H6,Province of Nova Scotia,NS_long_term_care_facilities.csv
+22,22,Wynn Park Villa,Nursing Home and Residential Care Facility,20,-63.3018909263,45.3556912172,32 WINDOR WAY,TRURO,NS,B2N 0B4,Province of Nova Scotia,NS_long_term_care_facilities.csv
+23,23,Maple Hill Manor,Nursing Home and Residential Care Facility,13,-60.0854333287,46.2407118572,700 KING ST,NEW WATERFORD,NS,B1H 3Z5,Province of Nova Scotia,NS_long_term_care_facilities.csv
+24,24,St. Anne Community and Nursing Care Centre,Nursing Home,0,-61.0319110818,45.5110421069,2313 HIGHWAY 206,ARICHAT,NS,B0E 1A0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+25,25,Blomidon Court,Nursing Home,0,-64.4068288427,45.0764011234,58 JESSICA'S WAY,GREENWICH,NS,B4P 0B2,Province of Nova Scotia,NS_long_term_care_facilities.csv
+26,26,Bayview Memorial Health Centre,Nursing Home,0,-64.7948350302,45.3462119025,3375 HIGHWAY 209,ADVOCATE HARBOUR,NS,B0M 1A0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+27,27,Haliburton Place,Nursing Home,0,-64.1203737528,44.9863835536,89 PAYZANT DRIVE,WINDSOR,NS,B0N 2T0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+28,28,Dutch Brook Guest Home,Residential Care Facility,3,-60.2014032423,46.0516394384,2400 HIGHWAY 327,DUTCH BROOK,NS,B1L 1G1,Province of Nova Scotia,NS_long_term_care_facilities.csv
+29,29,Au Logis d=Meteghan Ltd.,Residential Care Facility,22,-66.1529628012,44.1939506913,8405 HIGHWAY 1,METEGHAN,NS,B0W 2J0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+30,30,Gables Lodge Limited,Nursing Home,0,-64.1895187177,45.8249325543,260 CHURCH ST,AMHERST,NS,B4H 3C9,Province of Nova Scotia,NS_long_term_care_facilities.csv
+31,31,Taigh Solas,Nursing Home,0,-60.2355515129,46.2182083643,520 PURVES STREET,NORTH SYDNEY,NS,B2A 3M4,Province of Nova Scotia,NS_long_term_care_facilities.csv
+32,32,Grace Haven,Residential Care Facility,20,-65.2400903414,44.8596233935,9791 HIGHWAY 1,BRIDGETOWN EAST,NS,B0S 1C0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+33,33,Chignecto Manor,Residential Care Facility,14,-64.7782141576,45.3357245242,24 BAYVIEW MANOR ROAD,ADVOCATE HARBOUR,NS,B0M 1A0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+34,34,Northwoodcare Incorporated,Nursing Home and Residential Care Facility,40,-63.5920466822,44.6571807575,2615 NORTHWOOD TERR,HALIFAX,NS,B3K 3S5,Province of Nova Scotia,NS_long_term_care_facilities.csv
+35,35,Northwoodcare Bedford Incorporated- Christina & Hedley G. Ivany Place,Nursing Home and Residential Care Facility,26,-63.7062657835,44.7237165517,123 GARY MARTIN DRIVE,BEDFORD,NS,B4B 0G7,Province of Nova Scotia,NS_long_term_care_facilities.csv
+36,36,Highland Crest Residential Care Facility,Residential Care Facility,35,-61.9904718374,45.6176844,44 HILLCREST ST,ANTIGONISH,NS,B2G 1Z3,Province of Nova Scotia,NS_long_term_care_facilities.csv
+37,37,Shiretown Nursing Home,Nursing Home and Residential Care Facility,17,-62.7295375998,45.6777573673,280 HALIBURTON RD,PICTOU,NS,B0K 1H0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+38,38,Seabright Rest Home Ltd.,Residential Care Facility,6,-63.9262204342,44.6231727533,11625 PEGGYS COVE ROAD,SEABRIGHT,NS,B3Z 2Y1,Province of Nova Scotia,NS_long_term_care_facilities.csv
+39,39,Lohnes Rest Home,Residential Care Facility,8,-64.6442586638,44.5842831414,97 LAKEVIEW DR,BARSS CORNER,NS,B0R 1A0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+40,40,Harbour View Facility,Nursing Home,0,-60.2222073482,46.234744466,22 RICHARD STREET,SYDNEY MINES,NS,B1V 2H7,Province of Nova Scotia,NS_long_term_care_facilities.csv
+41,41,Nakile Home for Special Care,Nursing Home,0,-65.8617366427,43.7912286759,35 NAKILE DRIVE,ARGYLE,NS,B0W 1W0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+42,42,Rosedale Home for Special Care,Nursing Home,0,-64.7111589104,44.5372109561,4927 HIGHWAY (TRUNK) 10,NEW GERMANY,NS,B0R 1E0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+43,43,Windsor Elms Village for Continuing Care Society,Nursing Home,0,-64.17090584,44.9949404491,174 DYKE ROAD,WINDSOR,NS,B0N 2T0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+44,44,Hillsview Acres,Residential Care Facility,29,-64.8637243148,44.209164259,14 MIDDLEFIELD ROAD,GREENFIELD,NS,B0T 1E0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+45,45,Willow Lodge,Nursing Home,0,-63.2971883623,45.7111639799,100 BLAIR AVENNUE,TATAMAGOUCHE,NS,B0K 1V0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+46,46,East Cumberland Lodge,Nursing Home,0,-63.657569563,45.8565261686,262 GULF SHORE ROAD,PUGWASH,NS,B0K 1L0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+47,47,RK MacDonald Nursing Home,Nursing Home,0,-61.9913203281,45.6251643081,64 PLEASANT STREET,ANTIGONISH,NS,B2G 1W7,Province of Nova Scotia,NS_long_term_care_facilities.csv
+48,48,Maplestone Enhanced Care Limited,Nursing Home,0,-63.6492075902,44.6537430479,245 MAIN AVE,HALIFAX,NS,B3M 1B7,Province of Nova Scotia,NS_long_term_care_facilities.csv
+49,49,Wedgewood house For Seniors Limited,Residential Care Facility,15,-64.4915612303,45.0768508417,19 LEVERETT AVENUE,KENTVILLE,NS,B4N 2K5,Province of Nova Scotia,NS_long_term_care_facilities.csv
+50,50,Heart of the Valley - Long Term Care Centre,Nursing Home,0,-65.0668100329,44.9505071111,89 NORTH STREET,MIDDLETON,NS,B0S 1P0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+51,51,The Sagewood Continuing Care Centre,Nursing Home and Residential Care Facility,13,-63.6520139696,44.761402858,345 COBEQUID ROAD,SACKVILLE,NS,B4C 4E6,Province of Nova Scotia,NS_long_term_care_facilities.csv
+52,52,Wolfville Nursing Home,Nursing Home,0,-64.3722728611,45.0897805326,601 MAIN STREET,WOLFVILLE,NS,B4P 1E9,Province of Nova Scotia,NS_long_term_care_facilities.csv
+53,53,New Visions Home for Seniors,Residential Care Facility,25,-64.7232723207,45.0343300445,4507 HIGHWAY 1,BERWICK,NS,B0P 1E0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+54,54,R.C. MacGillivray Guest Home,Nursing Home,0,-60.1942551293,46.123566273,25 XAVIER DR,SYDNEY,NS,B1S 2R9,Province of Nova Scotia,NS_long_term_care_facilities.csv
+55,55,Peter's Place Halifax - PJD Rehab Housing Incorporated,Residential Care Facility,4,-63.6584299241,44.669058838,12 SWAN CRESCENT,HALIFAX,NS,B3M 1T6,Province of Nova Scotia,NS_long_term_care_facilities.csv
+56,56,The Magnolia,Nursing Home and Residential Care Facility,12,-63.5274765882,44.9513275091,416 HIGHWAY 2,ENFIELD,NS,B2T1E1,Province of Nova Scotia,NS_long_term_care_facilities.csv
+57,57,Orchard Court Continuing Care Residence,Nursing Home,0,-64.5026468461,45.0792726286,155 RIVER STREET,KENTVILLE,NS,B4N 1G8,Province of Nova Scotia,NS_long_term_care_facilities.csv
+58,58,Dykeland Lodge,Nursing Home,0,-64.1269854448,44.9797639021,124 COTTAGE STREET,WINDSOR,NS,B0N 2T0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+59,59,The Cove Guest Home,Nursing Home,0,-60.1977096274,46.1210673481,320 ALEXANDRA STREET,SYDNEY,NS,B1S 2G1,Province of Nova Scotia,NS_long_term_care_facilities.csv
+60,60,Northside Community Guest Home,Nursing Home,0,-60.2626301399,46.1950076665,11 QUEEN ST,NORTH SYDNEY,NS,B2A 1A2,Province of Nova Scotia,NS_long_term_care_facilities.csv
+61,61,Northside General Hospital 4 East,Nursing Home,0,-60.2355515129,46.2182083643,520 PURVES STREET,NORTH SYDNEY,NS,B2A 3M4,Province of Nova Scotia,NS_long_term_care_facilities.csv
+62,62,Ocean View Continuing Care Centre,Nursing Home,0,-63.4702157757,44.606723876,1909 CALDWELL ROAD,EASTERN PASSAGE,NS,B3G 1M4,Province of Nova Scotia,NS_long_term_care_facilities.csv
+63,63,Inverary Manor,Nursing Home,0,-61.3038475549,46.226713682,72 MAPLE,INVERNESS,NS,B0E 1N0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+64,64,Queens Manor,Nursing Home,0,-64.7067914518,44.0361756693,20 HOLLANDS DR,LIVERPOOL,NS,B0T 1K0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+65,65,Evergreen Home for Special Care,Nursing Home,0,-64.5400583686,45.0762915876,655 PARK ST,KENTVILLE,NS,B4N 3V7,Province of Nova Scotia,NS_long_term_care_facilities.csv
+66,66,Harbourview Lodge Continuing Care Centre,Nursing Home and Residential Care Facility,4,-62.5326587551,44.9204049993,22639 HIGHWAY 7,SHEET HARBOUR,NS,B0J 3B0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+67,67,Victoria Haven Nursing Home,Nursing Home,0,-59.9648406898,46.2115856947,5 THIRD ST,GLACE BAY,NS,B1A 5V2,Province of Nova Scotia,NS_long_term_care_facilities.csv
+68,68,Tibbetts Home for Special Care,Residential Care Facility,25,-64.9690618406,44.9770412808,15074 HIGHWAY 1,WILMOT,NS,B0P 1R0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+69,69,Cedarstone Enhanced Care Limited,Nursing Home,0,-63.275909216,45.3504829593,378 YOUNG ST,TRURO,NS,B2N 7H2,Province of Nova Scotia,NS_long_term_care_facilities.csv
+70,70,North Queens Nursing Home,Nursing Home,0,-65.0148131992,44.3764636392,9565 HIGHWAY 8,CALEDONIA,NS,B0T 1B0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+71,71,Melville Lodge,Nursing Home,0,-63.6152512124,44.6295606856,50 SHOREHAM LANE,HALIFAX,NS,B3P 2R3,Province of Nova Scotia,NS_long_term_care_facilities.csv
+72,72,Precision Health - Washmill Lake Drive Appartments,Residential Care Facility,20,-63.6536656726,44.6500124112,599 WASHMILL LAKE DRIVE,HALIFAX,NS,B3G 1M4,Province of Nova Scotia,NS_long_term_care_facilities.csv
+73,73,Villa Acadienne,Nursing Home,0,-66.1541422334,44.1937041296,8403 HIGHWAY 1,METEGHAN,NS,B0W 2J0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+74,74,Glace Bay Health Care Facility,Nursing Home,0,-59.9385728366,46.1832118413,300 SOUTH STREET,GLACE BAY,NS,B1A 1W5,Province of Nova Scotia,NS_long_term_care_facilities.csv
+75,75,Milford Haven Corporation,Nursing Home,0,-61.5070936716,45.4021123288,10558 ROUTE 16,GUYSBOROUGH,NS,B0H 1N0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+76,76,Tideview Terrace,Nursing Home,0,-65.7632932883,44.6092227727,74 PLEASANT STREET,CONWAY,NS,B0V 1A0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+77,77,The Birches,Nursing Home,0,-63.158333445,44.7830353497,7704 HIGHWAY 7,MUSQUODOBOIT HARBOUR,NS,B0J 2L0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+78,78,The Heritage House,Residential Care Facility,11,-61.5280844833,46.0145010744,55 HIGH ROAD,PORT HOOD,NS,B0E 2W0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+79,79,The Mira,Nursing Home,0,-63.2747811178,45.3481634058,426 YOUNG ST,TRURO,NS,B2N 7B1,Province of Nova Scotia,NS_long_term_care_facilities.csv
+80,80,Villa Saint Joseph-du-Lac,Nursing Home,0,-66.1116431111,43.8692445999,255 HIGHWAY 1,DAYTON,NS,B5A 4A5,Province of Nova Scotia,NS_long_term_care_facilities.csv
+81,81,Harbourstone Enhanced Care Limited,Nursing Home,0,-60.2138180695,46.1070401628,84 KENWOOD DR,SYDNEY,NS,B1S 3V7,Province of Nova Scotia,NS_long_term_care_facilities.csv
+82,82,Mitchell's Rest Home,Residential Care Facility,3,-63.646603548,45.0818810489,5153 HIGHWAY 14,UPPER NINE MILE RIVER,NS,,Province of Nova Scotia,NS_long_term_care_facilities.csv
+83,83,Canso Seaside Manor,Nursing Home,0,-60.984004647,45.3326282071,1748 UNION STREET,CANSO,NS,B0H 1H0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+84,84,Pont du Marais Home Ltd,Residential Care Facility,23,-65.8018749204,43.6382136832,1526 HIGHWAY 335,LOWER WEST PUBNICO,NS,B0W 2C0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+85,85,White Birches Retirement Residence,Residential Care Facility,24,-64.1793484589,45.8414123864,189 FOX RANCH RD,AMHERST,NS,B4H 3Y3,Province of Nova Scotia,NS_long_term_care_facilities.csv
+86,86,Richmond Villa,Nursing Home and Residential Care Facility,8,-60.874805837,45.6584233209,9361 PEPPERALL STREET,ST PETER'S,NS,B0E 3B0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+87,87,Highland Manor,Nursing Home,0,-60.322164937,46.8109670404,175 NEW HAVEN ROAD,NEIL'S HARBOUR,NS,B0C 1N0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+88,88,Seaview Manor,Nursing Home,0,-59.936438571,46.1844896682,275 SOUTH STREET,GLACE BAY,NS,B1A 1W6,Province of Nova Scotia,NS_long_term_care_facilities.csv
+89,89,Vimy Court,Nursing Home,0,-63.2606517007,45.3793295022,130 VIMY ROAD,BIBLE HILL,NS,B2N 4J6,Province of Nova Scotia,NS_long_term_care_facilities.csv
+90,90,Melville Gardens Nursing Home,Nursing Home and Residential Care Facility,60,-63.6146368753,44.6320039153,11 RAMSGATE LANE,HALIFAX,NS,B3P 2S9,Province of Nova Scotia,NS_long_term_care_facilities.csv
+91,91,Shoreham Village,Nursing Home,0,-64.2322046667,44.5448589128,50 SHOREHAM VILLAGE CRESCENT,CHESTER,NS,B0J 1J0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+92,92,Port Hawkesbury Nursing Home,Nursing Home and Residential Care Facility,6,-61.3552879542,45.6197506969,2 MACQUARRIE DRIVE EXTENSION,PORT HAWKESBURY,NS,B9A 3A2,Province of Nova Scotia,NS_long_term_care_facilities.csv
+93,93,Bay Side Home Corporation,Nursing Home,0,-65.5981735088,43.5484492595,96 BAYSIDE DRIVE,BARRINGTON,NS,B0W 1E0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+94,94,Saint Vincent's Nursing Home,Nursing Home,0,-63.5941906385,44.6479163111,2080 WINDSOR ST,HALIFAX,NS,B3K 5B2,Province of Nova Scotia,NS_long_term_care_facilities.csv
+95,95,Precision Health - 24 Kincardine Street,Residential Care Facility,3,-63.5370865365,44.6914255598,24 KINCARDINE STREET,DARTMOUTH,NS,B2X 1H9,Province of Nova Scotia,NS_long_term_care_facilities.csv
+96,96,Foyer P├⌐re Fiset,Nursing Home and Residential Care Facility,10,-61.0157412109,46.6234390124,15092 CABOT TRAIL,CHETICAMP,NS,B0E 1H0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+97,97,High - Crest Place,Residential Care Facility,27,-62.6451446856,45.5857168555,222 PROVOST ST,NEW GLASGOW,NS,B2H 2R3,Province of Nova Scotia,NS_long_term_care_facilities.csv
+98,98,High - Crest Sherbrooke Home for Special Care,Nursing Home,0,-61.9811632318,45.140817953,53 COURT STREET,SHERBROOKE,NS,B0J 3C0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+99,99,Mahone Nursing Home,Nursing Home,0,-64.3769495199,44.4477229699,640 MAIN,MAHONE BAY,NS,B0J 2E0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+100,100,Townsview Estates,Residential Care Facility,51,-63.3013640702,45.3377932493,310 ABENAKI ROAD,MILLBROOK 27,NS,B2N 5Z5,Province of Nova Scotia,NS_long_term_care_facilities.csv
+101,101,White Hills Long term Care Centre,Nursing Home,0,-63.8051871319,44.7439918402,297 POCKWOCK ROAD,HAMMONDS PLAINS,NS,B4B 1N5,Province of Nova Scotia,NS_long_term_care_facilities.csv
+102,102,Carefield Manor Ltd,Residential Care Facility,12,-60.1677949255,46.171042466,1 DRYDEN AVE,SYDNEY,NS,B1S 1V3,Province of Nova Scotia,NS_long_term_care_facilities.csv
+103,103,High - Crest Home New Glasgow,Residential Care Facility,29,-62.6418534028,45.5856299281,253 FORBES ST,NEW GLASGOW,NS,B2H 4P5,Province of Nova Scotia,NS_long_term_care_facilities.csv
+104,104,Annapolis Royal Nursing Home Limited,Nursing Home and Residential Care Facility,12,-65.5001769296,44.7353894109,9745 HIGHWAY 8,ANNAPOLIS ROYAL,NS,B0S 1A0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+105,105,The Meadows - Tidal View Manor,Nursing Home,0,-66.1030678965,43.8505087355,339 PLEASANT St,YARMOUTH,NS,B5A 2K9,Province of Nova Scotia,NS_long_term_care_facilities.csv
+106,106,Centennial Villa,Residential Care Facility,43,-64.189907125,45.8240299389,258 CHURCH ST,AMHERST,NS,B4H 3C9,Province of Nova Scotia,NS_long_term_care_facilities.csv
+107,107,Olson's Glo Estate Home for Special Care,Residential Care Facility,11,-66.1276057564,43.848281031,143 ROUTE 304,OVERTON,NS,B4A 4J7,Province of Nova Scotia,NS_long_term_care_facilities.csv
+108,108,High - Crest Springhill Home for Special Care Ltd,Nursing Home,0,-64.0493362039,45.6495130028,11 SPROUL STREET,SPRINGHILL,NS,B0M 1X0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+109,109,Karlaine Place,Residential Care Facility,8,-63.2597931832,45.3755422145,104 PICTOU RD,BIBLE HILL,NS,B2N 2S3,Province of Nova Scotia,NS_long_term_care_facilities.csv
+110,110,My Cape Breton Home for Seniors - Sydney,Residential Care Facility,16,-60.2214390673,46.1183619255,137 RIVERDALE DRIVE,SYDNEY,NS,B1R 0A9,Province of Nova Scotia,NS_long_term_care_facilities.csv
+111,111,My Cape Breton Home for Seniors - North Sydney,Residential Care Facility,16,-60.2694141459,46.2047715662,77 CAMPBELL STREET,NORTH SYDNEY,NS,B1P 6J1,Province of Nova Scotia,NS_long_term_care_facilities.csv
+112,112,Northumberland Hall Continuing Care Residence,Nursing Home,0,-64.1895868286,45.8292145541,189 WILLOW STREET,AMHERST,NS,B4H 3W6,Province of Nova Scotia,NS_long_term_care_facilities.csv
+113,113,Clarmar Residential Care Facility,Residential Care Facility,24,-63.5326255108,44.6835301518,200 MAIN STREET,DARTMOUTH,NS,B2X 1S3,Province of Nova Scotia,NS_long_term_care_facilities.csv
+114,114,Harbour View Haven,Nursing Home,0,-64.3024732105,44.3770736976,25 BLOCKHOUSE HILL RD,LUNENBURG,NS,B0J 2C0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+115,115,Precision Health - 21 Kincardine Street,Residential Care Facility,4,-63.5361913006,44.6907861954,21 KINCARDINE STREET,DARTMOUTH,NS,B2X 1H7,Province of Nova Scotia,NS_long_term_care_facilities.csv
+116,116,Celtic Court,Nursing Home,0,-60.1946583843,46.1219735668,16 ST. ANTHONY DRIVE,SYDNEY,NS,B1S 2R5,Province of Nova Scotia,NS_long_term_care_facilities.csv
+117,117,Hillside Pines Home for Special Care,Nursing Home,0,-64.5206479534,44.3688714608,77 EXHIBITION DR,BRIDGEWATER,NS,B4V 3K6,Province of Nova Scotia,NS_long_term_care_facilities.csv
+118,118,Parkstone Enhanced Care Limited,Nursing Home,0,-63.6720733647,44.663382564,156 PARKLAND DRIVE,HALIFAX,NS,B3S 1N9,Province of Nova Scotia,NS_long_term_care_facilities.csv
+119,119,Valley View Villa,Nursing Home,0,-62.6672730046,45.5395911381,6125 TRAFALGAR ROAD,STELLARTON,NS,,Province of Nova Scotia,NS_long_term_care_facilities.csv
+120,120,Maplewood Manor,Residential Care Facility,6,-63.2941363465,45.7103993471,150 BLAIR AVENUE,TATAMAGOUCHE,NS,B0K 1V0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+121,121,Elk Court,Nursing Home,0,-63.2738470335,45.2592638495,91 CARTER ROAD,BROOKFIELD,NS,B0N 1C0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+122,122,Willows Manor Limited,Residential Care Facility,8,-63.4076029436,45.0883759976,2844 HIGHWAY 2,SHUBENACADIE,NS,B0N 2H0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+123,123,Foyer Celeste Inc,Residential Care Facility,19,-66.1695472033,44.1838220838,8064 HIGHWAY 31,METEGHAN,NS,B0W 2J0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+124,124,Wolfville Elms,Residential Care Facility,23,-64.378696731,45.087092718,701 MAIN STREET,WOLFVILLE,NS,B4P 2N4,Province of Nova Scotia,NS_long_term_care_facilities.csv
+125,125,Sunshine Personal Home Care Inc.,Residential Care Facility,3,-63.6235123451,44.6330128943,38 A WITHROD DR,HALIFAX,NS,B3N 1B1,Province of Nova Scotia,NS_long_term_care_facilities.csv
+126,126,Maritime Odd Fellows Home,Nursing Home,0,-62.7227449792,45.6732961424,143 HALIBURTON RD,PICTOU,NS,B0K 1H0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+127,127,Taigh Na Mara Facility,Nursing Home,0,-59.9776869002,46.1994504507,974 MAIN STREET,GLACE BAY,NS,B1A 4Z8,Province of Nova Scotia,NS_long_term_care_facilities.csv
+128,128,Roseway Manor Inc.,Nursing Home,0,-65.3089609479,43.7487650684,1604 LAKE ROAD,SANDY POINT,NS,B0T 1W0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+129,129,Waterford Heights,Nursing Home,0,-60.0857932887,46.2398633455,716 KING ST,NEW WATERFORD,NS,B1H 3Z5,Province of Nova Scotia,NS_long_term_care_facilities.csv
+130,130,Serenity Lodge,Residential Care Facility,6,-63.5350595543,44.9508737452,39 RUSSELL MCKEEN DRIVE,ENFIELD,NS,B2T 1A7,Province of Nova Scotia,NS_long_term_care_facilities.csv
+131,131,Miner's Memorial Manor,Nursing Home and Residential Care Facility,13,-60.2182966209,46.2395975234,15 LORNE ST,SYDNEY MINES,NS,B1V 3B9,Province of Nova Scotia,NS_long_term_care_facilities.csv
+132,132,Peter's Place (PJD Rehab Housing Inc.),Residential Care Facility,6,-64.4161552587,44.2579218948,326 HUEY LAKE ROAD,PLEASNANTVILLE,NS,B0R 1G0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+133,133,Surf Lodge Community Continuing Care Centre,Nursing Home,0,-65.1174778773,43.7015725885,73 HOWE STREET,LOCKEPORT,NS,B0T 1L0,Province of Nova Scotia,NS_long_term_care_facilities.csv
+134,134,Dominion Community Guest Home,Residential Care Facility,4,-60.0223541907,46.2107155768,79 COMMERCIAL ST,DOMINION,NS,B1G 1B3,Province of Nova Scotia,NS_long_term_care_facilities.csv

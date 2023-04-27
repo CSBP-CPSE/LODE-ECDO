@@ -1,0 +1,22 @@
+{
+    "localfile": "1-health---20-03-CIHI_PSR_747.csv",
+    "database_type": "hospital",
+    "provider": "Canadian Institute for Health Information",
+    "format": {
+	"type": "csv",
+	"delimiter": ",",
+	"quote": "\""
+    },
+    "schema": {
+	"hospital_name": "ORGANIZATION NAME",
+	"hospital_type": "CLASSIFICATION",
+	"address": {
+	    "city": "MUNICIPALITY",
+	    "postal_code": "POSTAL CODE",
+	    "province": "PROVINCE CODE",
+	    "country": "COUNTRY CODE"
+	},
+	"longitude": "LONG",
+	"latitude": "LAT"
+    }
+}

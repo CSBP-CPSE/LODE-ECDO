@@ -1,0 +1,20 @@
+{
+    "localfile": "1-health-nl--20-01-hospitals.csv",
+    "database_type": "hospital",
+    "source": "https://www.health.gov.nl.ca/health/findhealthservices/in_your_community.html",
+    "licence": "https://www.gov.nl.ca/disclaimer/",
+    "provider": "Province of Newfoundland and Labrador",
+    "format": {
+	"type": "csv",
+	"delimiter": ",",
+	"quote": "\""
+    },
+    "schema": {
+	"hospital_name": "Name",
+	"health_authority": "Health Authority",
+	"address_str": ["Address", "City", "Province", "Postal Code"],
+	"address_str_parse": ["Address", "City", "Province", "Postal Code"],
+	"longitude": "geo_lon",
+	"latitude": "geo_lat"
+    }
+}
