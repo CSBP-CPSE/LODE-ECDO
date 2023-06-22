@@ -1,6 +1,6 @@
 @startuml LODE Data Sources Ontology
 
-title LODE Data Sources Ontology v0.0.4
+title LODE Data Sources Ontology v0.0.5
 
 class DataSource #Wheat {
 
@@ -23,12 +23,14 @@ class Region
 class Province
 class CensusDivision
 class CensusMetropolitanArea
+class CensusAgglomeration
 class CensusSubDivision
 
 Region --|> StandardGeographicalClassification
 Province --|> StandardGeographicalClassification
 CensusDivision --|> StandardGeographicalClassification
 CensusMetropolitanArea --|> StandardGeographicalClassification
+CensusAgglomeration --|> StandardGeographicalClassification
 CensusSubDivision --|> StandardGeographicalClassification
 
 DataSource "1" o-- "N" StandardGeographicalClassification
